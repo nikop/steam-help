@@ -33,7 +33,18 @@
     "558E-7FF0-1C5C-D1EE",
     "7FA6-7318-AC7F-AF99",
     "5BB2-E986-A733-CF0E",
-    "1D8E-2D78-B084-C72D"
+    "1D8E-2D78-B084-C72D",
+    "0E71-0971-324A-1161",
+    "2FF7-8298-9409-BC1D",
+    "0688-7692-4D5A-1935",
+    "4B8B-9697-2338-40EC",
+    "19CE-F573-6077-CAF8",
+    "669A-2F68-D1D1-A5EC",
+    "46D2-B5B1-F0B9-B867",
+    "66C8-4FF1-8470-B666",
+    "1F39-DCB4-FF28-5748",
+    "70D4-67C8-784D-692A",
+    "2EA8-4D75-DA21-31EB"
   ],
   "KnownFags": {
     "9067089756590837321": {
@@ -134,6 +145,39 @@
     },
     "2129689670173640493": {
       "FileName": "How to Send Wallet Codes For Steam Support"
+    },
+    "1040623370678964577": {
+      "FileName": "Retail CD Keys"
+    },
+    "3456374830860450845": {
+      "FileName": "Steam-Issued Activation Keys"
+    },
+    "470756531795269941": {
+      "FileName": "Dota 2 Workshop - Character Art Guide"
+    },
+    "5443610150482493676": {
+      "FileName": "Add Non-Steam Games to a Library"
+    },
+    "1859693572039101176": {
+      "FileName": "Failed to Contact Key Server"
+    },
+    "7393273865525372396": {
+      "FileName": "Troubleshooting Network Connectivity"
+    },
+    "5103341103616735335": {
+      "FileName": "Using a Router with Steam"
+    },
+    "7406257485938472550": {
+      "FileName": "Using a Firewall with Steam"
+    },
+    "2250072158781331272": {
+      "FileName": "Programs Which May Interfere with Steam"
+    },
+    "8130237338020047146": {
+      "FileName": "Spyware, Malware, Adware, or Virus Interfering with Steam"
+    },
+    "3362022290398196203": {
+      "FileName": "Required Ports for Steam"
     }
   }
 }
