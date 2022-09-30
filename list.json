@@ -2,7 +2,38 @@
   "UrlSlugs": [
     "7DD4-C618-182E-0E49",
     "671A-4453-E8D2-323C",
-    "1B71-EDF2-EB6D-2BB3"
+    "1B71-EDF2-EB6D-2BB3",
+    "0C48-FCBD-DA71-93EB",
+    "F4DE7-17AA-0E8B-C1AD",
+    "4DE7-17AA-0E8B-C1AD",
+    "6862-8119-C23E-EA7B",
+    "4F8E-AE41-B6B1-F836",
+    "2F3F-25EE-2AC6-30E7",
+    "6639-EB3C-EC79-FF60",
+    "571A-97DA-70E9-FF74",
+    "6891-E071-C9D9-0134",
+    "1F1B-BE53-E7CA-A76F",
+    "6F69-0324-B2DB-6E7E",
+    "0A94-F308-34A5-1988",
+    "647C-5CC1-7EA9-3C29",
+    "7EFD-3CAE-64D3-1C31",
+    "40A0-8B4B-B54B-C51A",
+    "3B6E-B322-2400-8D24",
+    "34A1-EA3F-83ED-54AB",
+    "451E-96B3-D194-50FC",
+    "61F0-72B7-9A18-C70B",
+    "18A5-167F-C27B-64A0",
+    "70E6-991B-233B-A37B",
+    "2C02-3563-B72F-F117",
+    "1115-91C5-050C-1D60",
+    "46A2-2B3C-95CC-8878",
+    "71D3-35C2-AD96-AA3A",
+    "78E3-7431-1E88-AD59",
+    "4D07-D139-587C-2080",
+    "558E-7FF0-1C5C-D1EE",
+    "7FA6-7318-AC7F-AF99",
+    "5BB2-E986-A733-CF0E",
+    "1D8E-2D78-B084-C72D"
   ],
   "KnownFags": {
     "9067089756590837321": {
@@ -13,6 +44,96 @@
     },
     "1977623338980027315": {
       "FileName": "Steam Deck Recovery Instructions"
+    },
+    "885235219122197483": {
+      "FileName": "Verify Integrity of Game Files"
+    },
+    "5613481479696531885": {
+      "FileName": "Reporting content within the Steam Community"
+    },
+    "7521716275295218299": {
+      "FileName": "Rules and Guidelines For Steam_ Discussions, Reviews, and User Generated Content"
+    },
+    "5732710972950444086": {
+      "FileName": "Addressing abuse, harassment and other misconduct on Steam"
+    },
+    "3404481548165460199": {
+      "FileName": "Reporting suspected cheaters"
+    },
+    "7366177312439140192": {
+      "FileName": "Account Security Recommendations"
+    },
+    "6276495995147255668": {
+      "FileName": "Valve Anti-Cheat (VAC) System"
+    },
+    "7535050430889918772": {
+      "FileName": "Steam Guard_ How to set up a Steam Guard Mobile Authenticator"
+    },
+    "2241594507127334767": {
+      "FileName": "E-Mail Verification"
+    },
+    "8027951266919050878": {
+      "FileName": "How do I contact Steam Support_"
+    },
+    "762501453500979592": {
+      "FileName": "Recovering a Stolen or Hijacked Steam Account"
+    },
+    "7240764287028378665": {
+      "FileName": "I\u0027ve been VAC banned"
+    },
+    "9150536737600248881": {
+      "FileName": "Steam Guard Mobile Authenticator"
+    },
+    "4656875171981542682": {
+      "FileName": "Providing Proof of Ownership"
+    },
+    "4282557254890196260": {
+      "FileName": "Steam Item Restoration Policy"
+    },
+    "3792569919739876523": {
+      "FileName": "Steam Trade and Market Holds"
+    },
+    "4980583936977817852": {
+      "FileName": "Trading and Market Restrictions"
+    },
+    "7057266748979463947": {
+      "FileName": "Community Market FAQ"
+    },
+    "1775850366047052960": {
+      "FileName": "Recommended Trading Practices"
+    },
+    "8135358118725657467": {
+      "FileName": "Scam FAQ (Confidence Scams and Trade Scams)"
+    },
+    "3171155790013657367": {
+      "FileName": "Steam Gifts"
+    },
+    "1231050348534963552": {
+      "FileName": "Steam Trade Offers"
+    },
+    "5089678068093323384": {
+      "FileName": "Steam Trading"
+    },
+    "8201958456624065082": {
+      "FileName": "Limited User Accounts"
+    },
+    "8710933858579164505": {
+      "FileName": "Steam Wallet"
+    },
+    "5550635109985296512": {
+      "FileName": "How to Report a Scammer, Hijacker or Phisher"
+    },
+    "6165005609161511406": {
+      "FileName": "Revoked Gifts"
+    },
+    "9198165838761275289": {
+      "FileName": "Extra Copies"
+    },
+    "6607600367846018830": {
+      "FileName": "Where to buy Steam Wallet Codes"
+    },
+    "2129689670173640493": {
+      "FileName": "How to Send Wallet Codes For Steam Support"
     }
   }
 }

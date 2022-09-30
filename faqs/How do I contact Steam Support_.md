@@ -1,0 +1,7 @@
+# How do I contact Steam Support?
+
+Visit [https://help.steampowered.com](https://help.steampowered.com) for help with your issue.  
+  
+Select the most relevant option on the page and the Help site will guide you to self-solve the issue or send a help request to the Steam Support team.  
+  
+  
