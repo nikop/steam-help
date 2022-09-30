@@ -11,7 +11,7 @@ Updated 2021-08-12 21.02.53
 
   
   
-## [url id=types][/url]
+## [](id=types)
 ## WEARABLE ITEM TYPES AND ITEM SETS
 
 * Hero wearable items can be:
@@ -25,7 +25,7 @@ Updated 2021-08-12 21.02.53
 * The images above show various item sets available for Luna that use Head, Weapon, Offhand Weapon (shield), Shoulder, and Mount item slots.
 
   ##   
-## [url id=requirements][/url]
+## [](id=requirements)
 ## ​WEARABLE ITEM TECHNICAL REQUIREMENTS
 
 * Hero wearable items - including mounts - use the hero's default skeleton, joint position, cloth, material settings, and animations.
@@ -39,7 +39,7 @@ Updated 2021-08-12 21.02.53
 * ​Refer to the Asset Creation guidelines on the [Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/) for general information about authoring models and textures.
 
   ##   
-## [url id=submission][/url]
+## [](id=submission)
 ## WEARABLE ITEM TESTING AND SUBMISSION
 
 * Refer to the [Submitting Items](https://help.steampowered.com/en/faqs/view/3E00-D38F-B793-7384) page for important general information about testing and submitting items.
@@ -51,7 +51,7 @@ Updated 2021-08-12 21.02.53
 * If you have technical problems testing or submitting your hero items, please see our [Item Troubleshooting](https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205) page
 
   ##   
-## [url id=considerations][/url]
+## [](id=considerations)
 ## SPECIAL WEARABLE ITEM CONSIDERATIONS
 
 * Certain heroes have opportunities for item textures to display different colors or motion effects. For more information, see [Authoring Arcana, Ability and Ambient Textures](https://support.steampowered.com/kb/9942-EIPV-2211/dota-2-workshop-authoring-items-to-work-with-arcanas-and-gems).

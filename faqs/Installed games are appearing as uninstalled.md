@@ -3,8 +3,8 @@ Updated 2021-08-17 18.10.25
 
 Games that were previously installed and playable are appearing as not installed in my Steam library. What can be done to cause Steam to recognize the installed game files again?  
   
-[section style=important] ### Note:
-The information in this article also applies to cases where a game's download is being reset.[/section]  
+  ### Note:
+The information in this article also applies to cases where a game's download is being reset.  
   
 ## Begin the installation process to cause Steam to recognize existing files
 Games may appear uninstalled when Steam no longer recognizes the installation files. As long as the affected game's folder is still in the proper location, attempting to launch the game will prompt a download. This will allow Steam to recognize the installation files during the download process.  
@@ -29,8 +29,8 @@ If Steam does not recognize your games after completing the instructions that ar
   
   
 ## Preventing this issue
-[section style=important] ## External Hard Drives
-External hard drives are not recommended for use with Steam or Steam's games. Aside from many potential performance issues, external hard drives may connect or disconnect from the computer at inopportune times as part of their normal operations. If you encounter this issue with an external drive, install Steam and your games to an internal drive instead.[/section]  
+  ## External Hard Drives
+External hard drives are not recommended for use with Steam or Steam's games. Aside from many potential performance issues, external hard drives may connect or disconnect from the computer at inopportune times as part of their normal operations. If you encounter this issue with an external drive, install Steam and your games to an internal drive instead.  
 To ensure that you do not encounter this issue, always allow Steam to close properly when shutting down your computer. Allowing Windows to force Steam to close when it is writing to a hard drive may cause Steam library and installation information to become corrupted.  
   
 Additionally, third party applications can prevent Steam from writing essential information. Ensure that none of your installed applications are interfering with Steam:  

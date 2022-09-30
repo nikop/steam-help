@@ -25,7 +25,7 @@ Updated 2021-08-23 17.14.26
 
   
   
-# [url id=modeltypes][/url]
+# [](id=modeltypes)
 # DOTA 2 WORKSHOP MODEL TYPES
 This page is applies to all Dota workshop model types. You can find additional item-specific model requirements on these pages:  
   
@@ -37,7 +37,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=budgets][/url]  
+[](id=budgets)  
   
 ## BUDGETS
 
@@ -49,7 +49,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=formats][/url]  
+[](id=formats)  
   
 ## MODEL FILE FORMATS
 
@@ -58,7 +58,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=lod][/url]  
+[](id=lod)  
   
 ## LOD (LEVEL OF DETAIL) GEOMETRY
 
@@ -72,7 +72,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=dimensions][/url]  
+[](id=dimensions)  
   
 ## DIMENSIONS
 
@@ -82,7 +82,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=polygons][/url]  
+[](id=polygons)  
   
 ## POLYGONS
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/models/13_art_uv_alchemist.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/models/13_art_uv_alchemist.jpg)  
@@ -97,7 +97,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=basemodel][/url]  
+[](id=basemodel)  
   
 ## BASE MODEL INTERACTION
 
@@ -106,7 +106,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=iteminteraction][/url]  
+[](id=iteminteraction)  
   
 ## INTERACTION WITH OTHER HERO WEARABLE ITEMS
 
@@ -116,7 +116,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=geoanimations][/url]  
+[](id=geoanimations)  
   
 ## MESH WEIGHTING 
 
@@ -132,7 +132,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=decompiled][/url]  
+[](id=decompiled)  
   
 ## DECOMPILED MODELS
 
@@ -141,7 +141,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=blendshapes][/url]  
+[](id=blendshapes)  
   
 ## BLEND SHAPES
 
@@ -150,7 +150,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=edgesvertices][/url]  
+[](id=edgesvertices)  
   
 ## EDGES AND VERTICES
 
@@ -159,7 +159,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[url id=skeleton][/url]  
+[](id=skeleton)  
   
 ## SKELETON
 
@@ -177,7 +177,7 @@ This page is applies to all Dota workshop model types. You can find additional i
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/models/custom_model_checkbox.jpg?](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/models/custom_model_checkbox.jpg?)​  
   
-[url id=backfaces][/url]  
+[](id=backfaces)  
   
 ## BACKFACES
 
@@ -185,7 +185,7 @@ This page is applies to all Dota workshop model types. You can find additional i
 * Bear in mind that missing backfaces of geometry that are not noticeable in top down game view may be obviously missing in portrait, loadout, or showcase views, so you may want to provide these faces for your LOD 0 models.
 * Missing backfaces for undersides of capes, scarves, and wings are particularly noticeable in the loadout.
 
-  # [url id=hitboxattach][/url]
+  # [](id=hitboxattach)
 # ​HITBOXES AND ATTACHMENTS
 
 * External artists do not need to create hitboxes for couriers, wards or ability models. These will be created by Valve.

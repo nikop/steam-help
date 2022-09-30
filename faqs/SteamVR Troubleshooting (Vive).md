@@ -28,16 +28,16 @@ Updated 2021-08-13 18.55.49
  [/tr]  
 [/table]  
   
-[section id=steamvr-ts]  
+  
 ## SteamVR + HTC Vive Troubleshooting
   
 Welcome to the troubleshooting guide for the HTC Vive + SteamVR. Troubleshooting for the first generation development kit can be found [here](https://developer.valvesoftware.com/wiki/SteamVR/TroubleshootingFirstGen).  
   
 If you have a Vive Pre Developer kit, the troubleshooting instructions below will also apply to you. The only difference is the Vive Pre uses white LEDs instead of green LEDs to signify that a device is ready to be used.  
   
-For a guided troubleshooting experience, please visit the [SteamVR help site](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=250820).[/section]   
+For a guided troubleshooting experience, please visit the [SteamVR help site](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=250820).    
   
-[section id=gen-pc]  
+  
 ## General PC Troubleshooting
   
 Please ensure that you have optimized your PC Settings for SteamVR by completing the following steps:  
@@ -62,9 +62,9 @@ Some things to try if this happens regularly:
 * Anti-static lotion can help customers with dry skin who experience this issue
 * Clothing made of natural fibers are less likely to hold a static charge than clothing made of synthetic materials.
 
-[/expand]  [/section]   
+[/expand]     
   
-[section id=headset]  
+  
 ## Headset
   
 If you are experiencing issues with the Headset, please see the topics below for troubleshooting suggestions:  
@@ -160,9 +160,9 @@ We’ve found that most users who are not able to use their cameras are running 
 We’re not able to guarantee SteamVR related features will function correctly on early release builds. If you are running on a Windows Insider preview version, please roll back to the current available consumer version.  
   
 [/expand]  
-[/section]   
+    
   
-[section id=controllers]  
+  
 ## Controllers
   
 If you are experiencing issues with the Controller, please see the topics below for troubleshooting suggestions:  
@@ -204,9 +204,9 @@ If your controller's trackpad is twitchy and/or oversensitive, it needs to be ca
   
   
 [/expand]  
-[/section]  
   
-[section id=base-stations]  
+  
+  
 ## Base Stations
   
 If you are experiencing issues with the Base Stations, please see the topics below for troubleshooting suggestions:  
@@ -250,9 +250,9 @@ If your room makes it impossible for the bases to see each other (and the LED is
   
   
 [/expand]   
-[/section]   
+    
   
-[section id=tracking-issues]  
+  
 ## Tracking Issues
   
 Tracking issues commonly manifest as a drifting or floating movement. Open your Frame Timing graph (from the SteamVR menu, choose Developer > Advanced Frame Timing) and look for frame timing spikes. If you see spikes, the issue is most likely with CPU performance, and not with tracking.  
@@ -266,9 +266,9 @@ If a device's icon in SteamVR Status is pulsing green, it means it is not tracki
 * While most issues caused by reflective surfaces have been solved, in some situations they can still cause tracking issues. If you are losing tracking or motion controllers occasionally float away in VR, try covering reflective surfaces in your VR area.
 * If your headset has a front-facing camera, enabling it can sometimes cause tracking issues. If you lose tracking every time you bring up your dashboard, your camera may be at fault. Try disabling the camera or adjusting camera settings to see whether tracking improves.
 
- [/section]   
+      
   
-[section id=steamvr-issues]  
+  
 ## SteamVR Issues (Error 301)
   
 If you are experiencing problems with missing or corrupt files in SteamVR or you are encountering an Error 301, make sure the SteamVR tool is correctly installed by verifying the integrity of tool files.  
@@ -304,9 +304,9 @@ Some software has been found to conflict with SteamVR or SteamVR driver installa
   
   
 [/expand]   
-[/section]   
+    
   
-[section id=audio-issues]  
+  
 ## Audio Issues
   
 [expand type=title title="I can’t hear what my friend is hearing in VR"]  
@@ -384,9 +384,9 @@ Try turning off exclusive mode within Vive audio device properties:
   
   
 [/expand]   
-[/section]   
+    
   
-[section id=wireless-receivers]  
+  
 ## Wireless Receivers
   
 There are two wireless receivers built into the Vive headset, used to communicate with the controllers. If you are experiencing issues with the wireless receivers, or if you are encountering "Wireless Receiver Not Detected" or "USB Device Not Recognized" errors, please see the topics below for troubleshooting suggestions:  
@@ -408,9 +408,9 @@ As a last resort for headset detection issues, you can reset your SteamVR USB de
 If Windows is displaying a "USB Device Not Recognized" error after the Vive USB cable is plugged in, and one or both wireless receivers are missing from the USB page in SteamVR settings, the receiver may have been damaged. Contact [Steam Support](https://help.steampowered.com/wizard/HelpWithGameIssue/?appid=250820&issueid=374&nodeid=44&return_nodeid=109) and attach a copy of your System Report.  
   
 [/expand]   
-[/section]   
+    
   
-[section id=last-resort]  
+  
 ## Still Need Help?
   
-If you can’t find a solution here, please visit the [SteamVR help site](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=250820) for in-depth support.[/section]
+If you can’t find a solution here, please visit the [SteamVR help site](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=250820) for in-depth support.

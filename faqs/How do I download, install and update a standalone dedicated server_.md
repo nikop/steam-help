@@ -19,5 +19,5 @@ You can also post questions and search for help in [Steam Discussions](http://st
 
   
   
-[section style=note] ### Note:
-Steam Support does not provide support for mods or game servers. Please use the above resources for assistance with game servers on Steam.[/section]
+  ### Note:
+Steam Support does not provide support for mods or game servers. Please use the above resources for assistance with game servers on Steam.

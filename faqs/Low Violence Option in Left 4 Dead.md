@@ -3,8 +3,8 @@ Updated 2021-08-05 19.51.00
 
 How can I lower the violence and content for Left 4 Dead?  
   
-[section style=important] ### Important:
-Some countries require low violence to be permanently enabled. If you live in a country where low violence settings are required, you will be unable to remove the low violence version.[/section] #### Launch in Low Violence Mode
+  ### Important:
+Some countries require low violence to be permanently enabled. If you live in a country where low violence settings are required, you will be unable to remove the low violence version.  #### Launch in Low Violence Mode
 
 * Locate Left 4 Dead in your Library and right-click the game.
 * Select "Properties..."

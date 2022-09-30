@@ -17,7 +17,7 @@ Updated 2021-10-28 01.24.11
 
   
   
-[url id=overview][/url]  
+[](id=overview)  
   
 ## Detail Mask Overview
 
@@ -41,7 +41,7 @@ Updated 2021-10-28 01.24.11
 
 ---
   ##   
-## [url id=terrorblade][/url]
+## [](id=terrorblade)
 ## Terrorblade - "Fractal Horns of Inner Abysm" Arcana and Ambient Textures
 
 * Terrorblade's Arcana has an option to display alternate colors by using different Prismatic Gems.
@@ -73,7 +73,7 @@ The demon's very dark and desaturated color texture is designed to totally take 
 
 ---
   ##   
-## [url id=legion][/url]
+## [](id=legion)
 ## Legion Commander - "Blades of Voth Domosh" Arcana
 
 * This Arcana uses Legion Commander's weapon slot, changing from single weapon to dual wield swords.
@@ -91,7 +91,7 @@ Legion Commander's Arcana detail map, banner color, detail mask, and game displa
 ---
   
   
-[url id=phantom][/url]  
+[](id=phantom)  
   
 ## Phantom Assassin - "Manifold Paradox" Arcana Textures
 
@@ -109,7 +109,7 @@ Phantom Assassin's Arcana detail map, default helmet color, detail mask, and gam
 ---
   
   
-[url id=druid][/url]  
+[](id=druid)  
   
 ## Lone Druid - "Rabid" Ability Texture
 
@@ -131,7 +131,7 @@ Spirit Bear color, detail mask, and Rabid game display
   
 
 ---
-  ## [url id=earthshaker][/url]
+  ## [](id=earthshaker)
 ## Earthshaker - "Enchant Totem" Ability and Ambient Textures
 
 * Earthshaker's totem has a subtle scrolling ambient texture that constantly displays in the item's surface decorations.
@@ -147,7 +147,7 @@ Spirit Bear color, detail mask, and Rabid game display
 ---
   
   
-[url id=sven][/url]  
+[](id=sven)  
   
 ## Sven - "God's Strength" Ability Texture
 
@@ -169,7 +169,7 @@ Sven's God's Strength detail map, sword color, detail mask, and game display
 ---
   
   
-[url id=rubick][/url]  
+[](id=rubick)  
   
 ## Rubick - Ambient Detail Map
 
@@ -185,7 +185,7 @@ Rubick detail map, robe color, detail mask, and game display
 ---
   
   
-[url id=lycan][/url]  
+[](id=lycan)  
   
 ## Lycan - Ultimate Ambient Detail Map
 
@@ -202,7 +202,7 @@ Lycan's Ultimate detail map, color, detail mask, and in-game display.
 ---
   
   
-[url id=razor][/url]  
+[](id=razor)  
   
 ## Razor - Ambient Detail Map
 

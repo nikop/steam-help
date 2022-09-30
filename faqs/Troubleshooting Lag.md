@@ -3,7 +3,7 @@ Updated 2021-12-16 21.51.10
 
 I am encountering lag problems when I play - what can I do?  
   
-[section style=important]For the purposes of this article, **lag** is defined as high network latency interfering with gameplay - it is recommended that you review the [Troubleshooting Game Performance Issues - Software](https://help.steampowered.com/en/faqs/view/5B03-A517-D747-9421) topic **first** to ensure that your machine is optimized for gaming before reviewing the steps below to reduce lag while playing online:[/section] 
+For the purposes of this article, **lag** is defined as high network latency interfering with gameplay - it is recommended that you review the [Troubleshooting Game Performance Issues - Software](https://help.steampowered.com/en/faqs/view/5B03-A517-D747-9421) topic **first** to ensure that your machine is optimized for gaming before reviewing the steps below to reduce lag while playing online:  
 * #### Check Server Latency
 If you are attempting to connect to a server that is geographically distant or if you are not using a high-speed connection it is important to check the server's Latency (this will appear to the left of the window in the server browser).  
   

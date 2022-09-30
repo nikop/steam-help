@@ -15,7 +15,7 @@ Most of these features are designed to be intuitive and easy to use, so don't be
 
   
   
-[section id=online] # Profile & Online Presence
+  # Profile & Online Presence
   
 In the top left corner of your Friends & Chat interface, you'll see your familiar Steam avatar. You can access your Steam profile directly from this link.  
   
@@ -28,17 +28,17 @@ Next to your avatar there is a dropdown menu. From here, you can set your online
 * **Offline** - This status will actually sign you out of the Steam community. In addition to the affects of invisible status, you wont be able to communicate with friends and Steam features that depend on being online will not work.
 * **Do Not Disturb** - This setting simply controls whether or not you will receive notifications from chat, invites and other requests.
 
-[/section]  
   
   
-[section id=settings] # Settings & Notifications
   
-The gear next to your profile name will take you to your Friends & Chat settings. From here, you can access a variety of settings relative to all aspects of your Friends & Chat interface.[/section]  
+  # Settings & Notifications
+  
+The gear next to your profile name will take you to your Friends & Chat settings. From here, you can access a variety of settings relative to all aspects of your Friends & Chat interface.  
   
   
-[section id=friends] # Friends List
+  # Friends List
   
-Your friends list allows you to quickly access and manage your friends on Steam. You can access your friends list directly from your favorite [web browser](https://steamcommunity.com/my/friends/) or from the Friends & Chat interface in the lower right corner of your Steam client.[/section]  
+Your friends list allows you to quickly access and manage your friends on Steam. You can access your friends list directly from your favorite [web browser](https://steamcommunity.com/my/friends/) or from the Friends & Chat interface in the lower right corner of your Steam client.  
   
 ### Adding friends
 The friend plus icon at the top of your friends list will take you to your [friend management page](https://steamcommunity.com/friends/add). From here you can add friends through a variety of methods below:  
@@ -59,9 +59,9 @@ If you have any outstanding friend invites, you will see another friend icon at 
 You can drag & drop any of your friends to the top of your Friends & Chat interface to add them to your favorites list.  
   
   
-[section id=group] # Group Chat
+  # Group Chat
   
-Group chats allow you to open chat rooms with more than one friend. Once you've created a group chat, you can save it for future use, along with access to special settings relative to that group.[/section]  
+Group chats allow you to open chat rooms with more than one friend. Once you've created a group chat, you can save it for future use, along with access to special settings relative to that group.  
   
 ### How to create a group chat
 
@@ -84,9 +84,9 @@ Once you've saved and setup your group, you can access specific group settings t
 ### Adding favorites
 You can drag & drop any of your groups to the top of your Friends & Chat interface to add them to your favorites list.  
   
-[section id=voice] # Voice Chat
+  # Voice Chat
   
-If you're able to access your Steam Friends and Chat UI, starting a voice chat is one click away.[/section]  
+If you're able to access your Steam Friends and Chat UI, starting a voice chat is one click away.  
   
 ### How to start a voice chat
 

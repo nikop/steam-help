@@ -19,7 +19,7 @@ Updated 2021-08-18 19.57.26
 
   
   
-[url id=overview][/url]  
+[](id=overview)  
   
 ##  HERO ABILITY MODEL OVERVIEW
 
@@ -44,7 +44,7 @@ Updated 2021-08-18 19.57.26
 ---
   
   
-[url id=types][/url]  
+[](id=types)  
   
 ## ABILITY MODEL TYPES
 
@@ -77,7 +77,7 @@ Wards for Venomancer, Witch Doctor, Juggernaut, and Pugna
 
 ---
   ##   
-[url id=budgets][/url]  
+[](id=budgets)  
   
 ## BUDGETS AND MODEL REQUIREMENTS
 
@@ -102,7 +102,7 @@ Wards for Venomancer, Witch Doctor, Juggernaut, and Pugna
 ---
   
   
-[url id=supported][/url]  
+[](id=supported)  
   
 ## SUPPORTED ABILITY MODELS
 These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:  
@@ -135,7 +135,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[url id=other][/url]  
+[](id=other)  
   
 ## OTHER ABILITY MODELS
 
@@ -147,7 +147,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[url id=defaultcustomanim][/url]  
+[](id=defaultcustomanim)  
   
 ## DEFAULT OR CUSTOM ANIMATIONS?
 
@@ -178,7 +178,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[url id=animguidelines][/url]  
+[](id=animguidelines)  
   
 ## ABILITY MODEL ANIMATION GUIDELINES
 
@@ -197,7 +197,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[url id=hitboxes][/url]  
+[](id=hitboxes)  
   
 ## HITBOXES
 
@@ -209,7 +209,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 
 ---
   ##   
-## [url id=attachments][/url]
+## [](id=attachments)
 ## ATTACHMENT POINTS
 
 * An attachment is a static point bound to a bone in the skeleton. The names and number of attachments used varies with each type of NPC.
@@ -231,7 +231,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[url id=testing][/url]  
+[](id=testing)  
   
 ## ABILITY MODEL TESTING
 When Valve artists review custom NPCs they are mainly evaluated on how they look from above in game view. To test your custom ability models in game, you may need to attain a certain hero level or trigger certain events to spawn the units.   
@@ -254,7 +254,7 @@ When Valve artists review custom NPCs they are mainly evaluated on how they look
 ---
   
   
-[url id=submitting][/url]  
+[](id=submitting)  
   
 ## SUBMITTING ABILITY MODELS 
 
@@ -276,7 +276,7 @@ When Valve artists review custom NPCs they are mainly evaluated on how they look
 ---
   
   
-## [url id=troubleshooting][/url]
+## [](id=troubleshooting)
 ## ITEM TROUBLESHOOTING
 
 * If you have problems testing or submitting your item, see our [Item Troubleshooting](https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205) page.

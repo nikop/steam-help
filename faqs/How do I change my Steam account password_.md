@@ -1,7 +1,7 @@
 # How do I change my Steam account password?
 Updated 2021-07-10 19.49.55
 
-[section style=important]### Forgot your password? Try self-recovery or contact Steam Support:
+### Forgot your password? Try self-recovery or contact Steam Support:
 You can use [the Help site to try to self-recover your account](https://help.steampowered.com/wizard/HelpWithLogin). If you work through the recovery process and can't recover the account automatically, at the end of the process you'll be presented with an intake form to contact the Steam Support team for help.  
   
 When contacting Steam Support try to provide as much of the following as possible:  
@@ -10,7 +10,7 @@ When contacting Steam Support try to provide as much of the following as possibl
 * Any possible Steam Account login names
 * Any possible email addresses used on the account
 
-[/section]  
+  
   
   
 # Changing your Steam Account password

@@ -1,8 +1,8 @@
 # Items Not Properly Awarded
 Updated 2021-07-10 19.49.55
 
-[section style=important] ### Important:
-Steam Support does not modify these bans and restrictions, regardless of the circumstances under which an account became restricted.[/section]  
+### Important:
+Steam Support does not modify these bans and restrictions, regardless of the circumstances under which an account became restricted.  
   
 # VAC Bans
 

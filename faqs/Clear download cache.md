@@ -3,8 +3,8 @@ Updated 2021-07-10 19.49.55
 
 Clearing your download cache can solve problems with games that won't download or start.  
   
-[section style=note] ### Note:
-This process will not affect your currently installed games, but you will need to log into Steam afterwards.[/section]  
+  ### Note:
+This process will not affect your currently installed games, but you will need to log into Steam afterwards.  
 
 * From your Steam Client, open the Settings panel by selecting "Steam > Settings" from the top left client menu.
 * In the Settings panel, select the Downloads tab and you'll find the "Clear Download Cache" button at the bottom.  

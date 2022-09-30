@@ -3,8 +3,8 @@ Updated 2021-07-10 19.49.55
 
 What should I do if Steam is crashing, not opening correctly or closing immediately after launching?  
   
-[section style=important] ### Important:
-Currently, Steam for Linux is only supported on the most recent version of Ubuntu LTS with the Unity, Gnome, or KDE desktops.[/section]  
+  ### Important:
+Currently, Steam for Linux is only supported on the most recent version of Ubuntu LTS with the Unity, Gnome, or KDE desktops.  
 #### Troubleshooting
   
   

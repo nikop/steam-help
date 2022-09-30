@@ -1,8 +1,8 @@
 # Region Restrictions on Steam
 Updated 2021-07-10 19.49.55
 
-[section style=important] ## Steam Support is unable to modify or remove any region restrictions.
-[/section]  
+## Steam Support is unable to modify or remove any region restrictions.
+  
 # **Steam Store Purchases**
 
 ---
@@ -38,7 +38,7 @@ Region restrictions on CD Keys should be noted by the publisher on the retail pa
   
 You will see this error message if you have purchased a regionally restricted copy of a game and you try to register its CD Key in a different region. If you do not live in the designated region for that game you must contact the seller for a refund. Steam Support cannot offer refunds on CD Keys purchased from 3rd party retailers.  
   
-[url id=gifts][/url]  
+[](id=gifts)  
 # **Steam Gifts**
 
 ---

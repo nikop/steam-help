@@ -14,8 +14,8 @@ Updated 2021-08-10 16.39.18
 ### How do I install SteamOS?
   
   
-[section style=warning] ### Warning:
-Both of the following methods will erase everything on the target machine. Please ensure you are prepared to remove all content before proceeding.[/section]  
+  ### Warning:
+Both of the following methods will erase everything on the target machine. Please ensure you are prepared to remove all content before proceeding.  
 Currently, there are two different install methods for SteamOS.   
   
 ### Method 1:

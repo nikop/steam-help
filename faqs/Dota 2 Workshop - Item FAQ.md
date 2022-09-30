@@ -24,14 +24,14 @@ Updated 2021-08-24 22.38.40
 
   
   
-## [url id=homepage][/url]
+## [](id=homepage)
 ## Is there a main resource web page for the Dota 2 Item Workshop?
 
 * Yes. The [Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/) is the starting place for item workshop resources.
 
   
   
-[url id=account][/url]  
+[](id=account)  
   
 ## Do I need a special Steam account to submit items to the Dota Workshop?
 
@@ -39,7 +39,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=steps][/url]  
+[](id=steps)  
   
 ## What are the steps to making and submitting a Dota 2 Workshop item?
 
@@ -58,7 +58,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=publishingprocess][/url]  
+[](id=publishingprocess)  
   
 ## How does the item publishing process work?
 
@@ -90,7 +90,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=copyright][/url]  
+[](id=copyright)  
   
 ## What should always be avoided when creating items for Dota 2?
 
@@ -99,7 +99,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=tutorials][/url]  
+[](id=tutorials)  
   
 ## Where can I find good tutorials to learn 3D modeling?
 
@@ -143,7 +143,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=courier][/url]  
+[](id=courier)  
   
 ## I would like to create a custom courier. Do I have to animate it or will Valve take care of that?
 
@@ -152,7 +152,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=tools][/url]  
+[](id=tools)  
   
 ## Do I need to use special tools to submit Workshop items?
 
@@ -160,7 +160,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=heroitems][/url]  
+[](id=heroitems)  
   
 ## Do all heroes in Dota 2 have the same types of items?
 
@@ -168,7 +168,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=originalcontent][/url]  
+[](id=originalcontent)  
   
 ## Where can I get the original content for the existing characters so I can build my item in context?
 
@@ -177,7 +177,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=heroes][/url]  
+[](id=heroes)  
   
 ## Will you be adding more heroes to the Dota 2 Item Workshop?
 
@@ -193,7 +193,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=response][/url]  
+[](id=response)  
   
 ## I submitted an item to the Workshop. When will I hear whether it has been accepted or not?
 
@@ -201,7 +201,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=technicalproblems][/url]  
+[](id=technicalproblems)  
   
 ## I am having technical problems preparing my items or using the Dota Workshop Item Tools. Can someone help me?
 
@@ -210,7 +210,7 @@ Updated 2021-08-24 22.38.40
 
   
   
-[url id=revenue][/url]  
+[](id=revenue)  
   
 ## Can I change the revenue shares on my workshop item?
 

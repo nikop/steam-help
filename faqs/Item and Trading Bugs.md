@@ -8,4 +8,4 @@ We encourage users to work with other members of the community in order to resol
 * [CS:GO](http://steamcommunity.com/app/730/discussions/)
 
   
-[section style=important]If you wish to submit a bug, please provide a detailed explanation of its behavior, including relevant screenshots and detailed steps that we can take to reproduce the bug.[/section]
+If you wish to submit a bug, please provide a detailed explanation of its behavior, including relevant screenshots and detailed steps that we can take to reproduce the bug.

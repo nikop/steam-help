@@ -16,7 +16,7 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
 
   
   
-[url id=feedback][/url]  
+[](id=feedback)  
   
 ## BRANDED ITEM FEEDBACK
 
@@ -24,7 +24,7 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
 
   
   
-[url id=rights][/url]  
+[](id=rights)  
   
 ## BRANDING USE RIGHTS
 
@@ -32,7 +32,7 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
 
   
   
-[url id=account][/url]  
+[](id=account)  
   
 ## WORKSHOP SUBMISSION ACCOUNT AND FINANCE PREPARATION
 
@@ -41,7 +41,7 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
 
   
   
-[url id=team][/url]  
+[](id=team)  
   
 ## TEAM ACCOUNT INFORMATION
 
@@ -60,7 +60,7 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
 
   
   
-[url id=player][/url]  
+[](id=player)  
   
 ## PLAYER AND CASTER ACCOUNT INFORMATION
 
@@ -71,7 +71,7 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
 
   
   
-[url id=logo][/url]  
+[](id=logo)  
   
 ## BRAND LOGO SUBMISSIONS TO THE DOTA WORKSHOP
 
@@ -94,7 +94,7 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/team_logo_template_cropped.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/team_logo_template_cropped.jpg?v=1459382400)  
   
-[url id=tags][/url]  
+[](id=tags)  
   
 ## BRANDING TAGS AND TITLES
 

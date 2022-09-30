@@ -7,8 +7,8 @@ When creating an account, I get the message:
 You can use your existing account or recover it if you've forgotten your login.[/h5]  
   
 This means the email address you've entered when trying to create your Steam account is already in use by another Steam account.   
-[section style=important]### Important:
-If you already have a Steam account that contains your Steam games, you'd need to log into that account to access your games. Select [Use existing account](https://store.steampowered.com/login) if you remember the account's login information, or [Recover my account](https://help.steampowered.com/en/wizard/HelpWithLoginInfo?issueid=406) if you've forgotten. [/section]  
+### Important:
+If you already have a Steam account that contains your Steam games, you'd need to log into that account to access your games. Select [Use existing account](https://store.steampowered.com/login) if you remember the account's login information, or [Recover my account](https://help.steampowered.com/en/wizard/HelpWithLoginInfo?issueid=406) if you've forgotten.   
   
 ## Why should I recover my existing account instead of creating a new one?
   

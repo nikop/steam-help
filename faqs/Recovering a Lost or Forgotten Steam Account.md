@@ -1,10 +1,10 @@
 # Recovering a Lost or Forgotten Steam Account
 Updated 2021-07-10 19.49.55
 
-[section style=important]### Try to self-recover your account or contact Steam Support:
+### Try to self-recover your account or contact Steam Support:
 You can use [the Help site to try to self recover your account](https://help.steampowered.com/wizard/HelpWithLogin). If you work through the recovery process on the help site and can't recover the account automatically, at the end of the process you'll be presented with an intake form to contact the Steam Support team for help.  
   
-When contacting Steam Support try to provide as much [Proof of ownership](https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A) as you can.[/section]  
+When contacting Steam Support try to provide as much [Proof of ownership](https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A) as you can.  
   
   
 ## I'm concerned I may not be able to recover my account

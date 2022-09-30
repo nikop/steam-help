@@ -5,7 +5,7 @@ Troubleshooting issues may require providing a screen shot to Steam Support
   
 Select your Operating System below to learn how to save a screenshot:  
   
-[section id=windows]  [expand type=title title="Windows"]#### Screenshots of Steam Issues
+ [expand type=title title="Windows"]#### Screenshots of Steam Issues
   
 
 * Press the **Windows Key + PrtScn** key to save a copy of what is being displayed to file.
@@ -29,7 +29,7 @@ Select your Operating System below to learn how to save a screenshot:
   
 Multiple attachments may be added.  
   
-Make sure to submit your message once you have finished attaching the file(s).[/expand] [/section][section id=mac][expand type=title title="macOS"] #### Screenshots of Steam Issues
+Make sure to submit your message once you have finished attaching the file(s).[/expand] [expand type=title title="macOS"] #### Screenshots of Steam Issues
   
 
 * Hold down the APPLE ⌘ and SHIFT keys.
@@ -56,7 +56,7 @@ Make sure to submit your message once you have finished attaching the file(s).[/
   
 Multiple attachments may be added.  
   
-Make sure to submit your message once you have finished attaching the file(s).[/expand][/section]    [section id=linux] [expand type=title title="Linux"] #### Screenshots of Steam Issues
+Make sure to submit your message once you have finished attaching the file(s).[/expand]   [expand type=title title="Linux"] #### Screenshots of Steam Issues
 
 * Press the ALT+PRINT SCREEN keys to take a screenshot of the error message as long as it is in main focus
 * Press SHIFT+PRINT SCREEN to get crosshairs which allow you to drag and select the area which you would like to have a screenshot for
@@ -78,14 +78,14 @@ Make sure to submit your message once you have finished attaching the file(s).[/
   
 Multiple attachments may be added.  
   
-Make sure to submit your message once you have finished attaching the file(s).[/expand][/section]    [section id=ios] [expand type=title title="iOS"] #### Screenshots of Steam Mobile Issues
+Make sure to submit your message once you have finished attaching the file(s).[/expand]   [expand type=title title="iOS"] #### Screenshots of Steam Mobile Issues
   
 
 * Follow the official Apple instructions for your phone model using their [Take a screenshot on your iPhone](https://support.apple.com/en-us/HT200289) article.
 * Find the image on your phone and export it to the computer you are using to correspond with support.
 
   #### Attaching your screenshot to a Steam Support ticket on mobile
-Adding attachments is not currently supported within the Steam Mobile App.[/expand][/section]    [section id=android] [expand type=title title="Android"] #### Screenshots of Steam Mobile Issues
+Adding attachments is not currently supported within the Steam Mobile App.[/expand]   [expand type=title title="Android"] #### Screenshots of Steam Mobile Issues
   
 
 * Android devices support a number of different methods of screen capturing. The one below is supported by most Android devices, but you have to check for other alternatives if it does not work.
@@ -93,4 +93,4 @@ Adding attachments is not currently supported within the Steam Mobile App.[/expa
 * Select the image and export it to the computer you are using to correspond with support.
 
   #### Attaching your screenshot to a Steam Support ticket on mobile
-Adding attachments is not currently supported within the Steam Mobile App.[/expand][/section]
+Adding attachments is not currently supported within the Steam Mobile App.[/expand]

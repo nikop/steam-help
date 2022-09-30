@@ -12,8 +12,8 @@ If you haven't already, we also recommend checking out the [Troubleshooting Netw
 **For specific information on how to accomplish these tasks, please see your modem/router’s documentation.**  
   
   
-[section style=note]# Troubleshooting First Steps
-[/section]#### Connect your computer to a wired network
+# Troubleshooting First Steps
+ #### Connect your computer to a wired network
 One of the main causes of performance issues is interference. If your PC is on the wireless network and trying to send data to your router while your router is sending that data to your device or your device is talking back, they'll interfere and you'll have a choppy experience. We highly recommend making sure your computer is directly connected to the router with Ethernet.  
   
 #### Enable the Performance Overlay
@@ -27,8 +27,8 @@ A detailed guide of the Performance Overlay and what the displayed information m
 Other applications using the wireless network can interfere with game streaming. Make sure no one else is streaming movies or audio (using BitTorrent, Chromecast, etc.).  
   
   
-[section style=note]# Can't Locate Your Computer?
-[/section]  
+# Can't Locate Your Computer?
+  
 #### Network Ports
 Remote Play uses the following ports:  
 
@@ -49,8 +49,8 @@ Please note: Steam Remote Play is not supported on public networks, workplace or
 The Steam Link is enabled to work with WPS security; however, if you encounter any issues connecting to a WPS access point, please disable WPS and use an alternative method of connecting to troubleshoot the issue.  
   
   
-[section style=note]# Experiencing Poor Streaming Quality?
-[/section]#### Connecting via a Wireless Router
+# Experiencing Poor Streaming Quality?
+#### Connecting via a Wireless Router
 Steam Remote Play is compatible with most home networks. A wired network will provide the best result, and we highly recommend using an Ethernet connection if your Remote Play streaming client supports it. Wireless and power line connections can cause intermittent failures due to interference. You can test your devices using a direct wired connection to determine if this is a problem.  
   
 For best performance we recommend using a router that supports the 802.11ac protocol.  A router that supports the 802.11n via a 5GHz signal will be the next best choice.  

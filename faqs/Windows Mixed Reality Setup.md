@@ -11,9 +11,9 @@ Windows Mixed Reality is Microsoft's hardware and software platform for augmente
   
 [h5]Make sure your system meets the requirements:[/h5]The [requirements for Windows Mixed Reality headsets](https://support.microsoft.com/en-us/help/4039260/windows-10-mixed-reality-pc-hardware-guidelines) may differ from those of SteamVR.  
   
-[section style=warning]PC requirements vary for available apps & content on Steam. Please see the minimum requirements per title. Additionally we've found that running SteamVR on a PC with a GTX 1070 video card (or equivalent) and an Intel Core i7 processor on the latest version of Windows works well with a broad range of SteamVR applications.  
+PC requirements vary for available apps & content on Steam. Please see the minimum requirements per title. Additionally we've found that running SteamVR on a PC with a GTX 1070 video card (or equivalent) and an Intel Core i7 processor on the latest version of Windows works well with a broad range of SteamVR applications.  
   
-If your PC does not meet these specs you won't be blocked from running Windows Mixed Reality for SteamVR however this may impact the performance and quality of the overall experience.[/section]  
+If your PC does not meet these specs you won't be blocked from running Windows Mixed Reality for SteamVR however this may impact the performance and quality of the overall experience.  
   
 You can also use the [SteamVR performance test](http://store.steampowered.com/app/323910/SteamVR_Performance_Test/) to see if your system is SteamVR ready.  
   
@@ -27,8 +27,8 @@ For some quick button mapping information, see our diagram below. Otherwise head
   
 ![https://support.steampowered.com/images/faq/steam_vr/winmr_controller.png?v=yyyyddmm](https://support.steampowered.com/images/faq/steam_vr/winmr_controller.png?v=yyyyddmm)  
   
-[section style=note]# Still have Questions?
-[/section]	    [h5]What headset should I choose?[/h5]There are several Microsoft Windows Mixed Reality headsets to choose from, and all will work with SteamVR. You can learn more about available hardware [here.](https://www.microsoft.com/en-us/windows/windows-mixed-reality)  
+# Still have Questions?
+[h5]What headset should I choose?[/h5]There are several Microsoft Windows Mixed Reality headsets to choose from, and all will work with SteamVR. You can learn more about available hardware [here.](https://www.microsoft.com/en-us/windows/windows-mixed-reality)  
   
 [h5]What games on Steam work with Windows Mixed Reality?[/h5]Compatible titles will have "Windows Mixed Reality" under "VR Support." Check the right-side of any game page to find out more details about compatibility (controllers, room-scale, etc)  
   

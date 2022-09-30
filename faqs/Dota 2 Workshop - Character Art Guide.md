@@ -18,7 +18,7 @@ Updated 2021-12-02 22.35.27
 
   
   
-## [url id=intro][/url]
+## [](id=intro)
 ## INTRODUCTION
 Designing first-class items for Dota 2 requires more than just ability and a great idea. The aesthetics of Dota 2 are built from a set of principles that help keep each hero immediately and uniquely identifiable from above during gameplay. We’re going to go over exactly what these principles are, how we used them to design the heroes and how you can apply them to custom items.  
   
@@ -29,7 +29,7 @@ Be aware that the principles on this page are important general design concepts 
   
   
 ##   
-## [url id=silhouette][/url]
+## [](id=silhouette)
 ## SILHOUETTE
 ## ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/1_art_silhouette.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/1_art_silhouette.jpg)
 
@@ -50,7 +50,7 @@ Be aware that the principles on this page are important general design concepts 
   
   
 ##   
-## [url id=gradient][/url]
+## [](id=gradient)
 ## VALUE GRADIENT - BEGINNING THE HIERARCHY
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/2_art_value_gradient.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/2_art_value_gradient.jpg?v=1459382400)  
   
@@ -67,7 +67,7 @@ Be aware that the principles on this page are important general design concepts 
 
 ---
   ##   
-## [url id=valuepatterning][/url]
+## [](id=valuepatterning)
 ## ​VALUE PATTERNING - CREATING VISUAL INTEREST
 ## ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/3_art_value_patterning.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/3_art_value_patterning.jpg?v=1459382400)
 
@@ -100,7 +100,7 @@ Note how dark and light areas on the heroes below are handled to preserve detail
   
   
 ##   
-## [url id=saturation][/url]
+## [](id=saturation)
 ## COLOR AND SATURATION - LESS IS MORE
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/4_art_color.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/4_art_color.jpg?v=1459382400)  
   
@@ -123,7 +123,7 @@ Note how dark and light areas on the heroes below are handled to preserve detail
 
 ---
   ##   
-## [url id=colorschemes][/url]
+## [](id=colorschemes)
 ## COLOR SCHEMES 
 Color schemes can be inventive but still harmonious if they are created using structured combinations of hues from the color wheel.  
   
@@ -151,7 +151,7 @@ Triad hues are equidistant on the color wheel
 
 ---
   ##   
-## [url id=colormixing][/url]
+## [](id=colormixing)
 ## COLOR MIXING 
 Once you've picked your source colors, mix, tint, and shade them in order to derive your full palette.  
   
@@ -166,7 +166,7 @@ This example shows using black shade and white tint to adjust color values
 
 ---
   ##   
-## [url id=palettes][/url]
+## [](id=palettes)
 ## CHARACTER COLOR KEY PALETTES​
 
 * In the examples below, the palettes on the top are the starting palettes.
@@ -189,7 +189,7 @@ Beastmaster is an example of a Complementary palette.
 
 ---
   ##   
-## [url id=restdetail][/url]
+## [](id=restdetail)
 ## AREAS OF REST AND DETAIL
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/8_art_characters_rest.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/8_art_characters_rest.jpg?v=1459382400)  
   
@@ -230,7 +230,7 @@ Beastmaster is an example of a Complementary palette.
 
 ---
   ##   
-## [url id=directionality][/url]
+## [](id=directionality)
 ## DIRECTIONALITY
 
 * It is crucially important for players to instantly identify not only who a character is but which way they are facing so that movements during gameplay can be anticipated.
@@ -316,7 +316,7 @@ COLOR ADJUSTMENTS
 
 ---
   ##   
-## [url id=readability][/url]
+## [](id=readability)
 ## GAME AND LOADOUT READABILITY
 
 * Item design must support gameplay by reading well from above and at a distance in game view.

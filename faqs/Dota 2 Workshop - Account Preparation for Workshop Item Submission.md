@@ -22,7 +22,7 @@ The instructions below will take you through these steps:
 
   
   
-[url id=account][/url]  
+[](id=account)  
   
 ## SETTING UP A STEAM ACCOUNT
 1. Set up a Steam Account for the person or business entity who owns the item to be submitted, if you do not have one already.  
@@ -43,14 +43,14 @@ IMPORTANT: This Steam account must have purchased at least one product on Steam 
   
 [http://steamcommunity.com/](http://steamcommunity.com/)  
   
-[url id=steam][/url]  
+[](id=steam)  
   
 ## INSTALLING STEAM
 3. Download and install Steam.  
   
 [http://store.steampowered.com/about/](http://store.steampowered.com/about/)  
   
-[url id=installdota][/url]  
+[](id=installdota)  
   
 ## INSTALLING AND LAUNCHING DOTA AND THE DOTA WORKSHOP TOOLS
 4. Install Dota 2  
@@ -73,7 +73,7 @@ IMPORTANT: This Steam account must have purchased at least one product on Steam 
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/launch_item_tools.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/launch_item_tools.jpg?v=1459382400)    
   
-[url id=prepare][/url]  
+[](id=prepare)  
   
 ## PREPARING A SUBMISSION FOR THE DOTA 2 WORKSHOP
   
@@ -104,7 +104,7 @@ IMPORTANT: This Steam account must have purchased at least one product on Steam 
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/click_submit.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/click_submit.jpg?v=1459382400)  
   
-[url id=agreements][/url]  
+[](id=agreements)  
   
 ## ACCEPTING THE STEAM WORKSHOP AND LEGAL AGREEMENTS
 14. You should land on the Dota 2 Workshop page where you can review and click to accept the agreement.  
@@ -117,7 +117,7 @@ IMPORTANT: This Steam account must have purchased at least one product on Steam 
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/accept_both.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/accept_both.jpg?v=1459382400)  
   
-[url id=info][/url]  
+[](id=info)  
   
 ## ENTER CONTACT, BANK AND TAX INFORMATION
 16. Click "Enter Payment Info" to go through the steps to add your Company or Contact Information, Bank Information, and Tax Information.   
@@ -173,7 +173,7 @@ NOTE: The tax form can take a few days to process. You will only have to enter b
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/add_links_images.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/add_links_images.jpg?v=1459382400)  
   
-[url id=anotherentity][/url]  
+[](id=anotherentity)  
   
 ## ADDING ANOTHER ENTITY TO SHARE ITEM REVENUE
 24. IMPORTANT:  Adding Another User (Optional)  
@@ -210,7 +210,7 @@ Here is how to add a friend on Steam:
   
 32. After this step the other contributor will need to accept the revenue share and you are done. Once this person has accepted the link request you can proceed.  
   
-[url id=finalize][/url]  
+[](id=finalize)  
   
 ## FINALIZING YOUR SUBMISSION TO THE DOTA 2 WORKSHOP
 33. Click Save to finalize your submission.  
@@ -229,7 +229,7 @@ NOTE: Revenue shares cannot be changed on an item once it has been submitted. If
   
 35. If you are submitting branded items or logos for a team, player or caster, please refer to our [Dota 2 - Team, Player or Caster Branded Items](https://help.steampowered.com/en/faqs/view/766B-CE62-F5A7-8314) submission guidelines  
   
-[url id=serviceprovider][/url]  
+[](id=serviceprovider)  
   
 ## ADD AN OPTIONAL REVENUE SHARE FOR A PRE-APPROVED SERVICE PROVIDER
 36. Optional: If a pre-approved [Service Provider](http://steamcommunity.com/workshop/about/?appid=570#service_providers) has assisted you with your items, you have the option to give them a percentage of Valve's revenue:  

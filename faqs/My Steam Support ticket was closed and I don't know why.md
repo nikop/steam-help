@@ -5,8 +5,8 @@ Updated 2021-07-10 19.49.55
 
   
   
-[section id=whyclosed]# How does a Steam Support ticket become closed?
-[/section]  
+# How does a Steam Support ticket become closed?
+  
 ## Closed by User Choice
 When you access an open Steam Support ticket, you have the option to mark it as solved by closing it. It's suggested that you do not close a ticket yourself unless you're sure that the related problem is solved.  
   
@@ -25,8 +25,8 @@ If your support tickets are being closed without response from the Steam Support
 Closed tickets can't be reopened - if you closed your ticket mistakenly, please create a new ticket and include your closed ticket's Ticket Number (HT-####-####-####) in your message.  
   
   
-[section id=malclosed]# What should I do if I think my tickets are being closed maliciously?
-[/section]  
+# What should I do if I think my tickets are being closed maliciously?
+  
 ## If the ticket was submitted directly from your Steam account:
 The only way to close a ticket that was submitted from a Steam account is with access to that same Steam account. This may be someone else who has you login credentials, or it could be through remote or physical access to a computer that you've saved your login credentials with.  
   

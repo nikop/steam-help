@@ -17,7 +17,7 @@ Updated 2021-10-28 00.27.57
 
   
   
-[url id=stepsitem][/url]  
+[](id=stepsitem)  
   
 #### What are the steps to making an item?
 Here are broad steps involved in making a 3D item:  
@@ -35,7 +35,7 @@ Here are broad steps involved in making a 3D item:
 
   
   
-[url id=publishitem][/url]  
+[](id=publishitem)  
   
 #### How does the item publishing process work?
 
@@ -49,7 +49,7 @@ Here are broad steps involved in making a 3D item:
 
   
   
-[url id=itemtools][/url]  
+[](id=itemtools)  
   
 #### What software tool should I use to make my item?
 It varies depending upon the project, but this is generally what we use:  
@@ -66,7 +66,7 @@ It varies depending upon the project, but this is generally what we use:
 
   
   
-[url id=l2model][/url]  
+[](id=l2model)  
   
 #### Where can I find good tutorials to learn 3D modeling?
 Search for "speed modeling" on [YouTube](http://www.youtube.com/results?search_query=speed+modelling&aq=f) and visit the [source developer wiki](http://developer.valvesoftware.com/wiki/Model_Creation_Overview). There are a lot of digital art communities online with great information. Here are a couple that we like to visit:  
@@ -77,37 +77,37 @@ Search for "speed modeling" on [YouTube](http://www.youtube.com/results?search_q
 
   
   
-[url id=watchmego][/url]  
+[](id=watchmego)  
   
 #### I am a 3D artist, how do I get started?
 First, you’ll need to install the [Source Developer Kit (SDK)](http://developer.valvesoftware.com/wiki/SDK_Installation).  
   
-[url id=polycount][/url]  
+[](id=polycount)  
   
 #### What are the polycount limits on my items?
 Keep the polycount similar to what's already in the game. Try to keep hats under 800 polygons, and weapons under 8,000.  
   
-[url id=textureres][/url]  
+[](id=textureres)  
   
 #### What resolution should my textures be?
 Texture sizes should not be larger than 512x512. For hats, 256x256 is usually large enough.  
   
-[url id=objtga][/url]  
+[](id=objtga)  
   
 #### I've made an .obj file and .tga, how do I test them in game?
 Use the itemtest wizard.  
   
-[url id=existingassets][/url]  
+[](id=existingassets)  
   
 #### Where can I get the models of the existing characters so I can build my item in context?
 [Download this zip file](http://media.steampowered.com/apps/tf2/workshop/TF_heads.zip) which contains the .obj files and textures for all the TF classes.  
   
-[url id=texturetip][/url]  
+[](id=texturetip)  
   
 #### Any tips on creating textures?
 Maintain the same texture density of other models in the world (Nothing higher res or lower res than what's next to it. For hats, maintain team colors, if not - neutral colors (see color swatch below.) Character textures are less noisy/detailed than everything else in the game. Character items/hats should match that style.  
   
-[url id=artstyle][/url]  
+[](id=artstyle)  
   
 #### What are some guidelines for matching TF2's art style and improving the chances of my item getting in?
 This is a tricky question we grapple with daily. When we started, the game followed an idealized 1950’s-60’s Americana look. Nothing too modern, hyper-realistic or overly "cartoony". Clearly the art style has evolved over the years, but here are some guidelines that you should keep in mind as you create your items.  
@@ -121,12 +121,12 @@ This is a tricky question we grapple with daily. When we started, the game follo
 
   
   
-[url id=reportitem][/url]  
+[](id=reportitem)  
   
 #### What types of items should be reported?
 Any inappropriate items, including but not limited to, racism, sexuality, or prejudice. Also any copyright or stolen material should be reported as well. For more information please review the Steam Subscriber Agreement [here](http://store.steampowered.com/subscriber_agreement/).  
   
-[url id=beenreported][/url]  
+[](id=beenreported)  
   
 #### What if someone keeps reporting items that are not violating any terms?
 Users who repeatedly report items that do not violate terms will receive a lower reputation themselves and thus will not benefit from doing this.

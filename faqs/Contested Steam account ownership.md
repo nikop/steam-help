@@ -4,9 +4,9 @@ Updated 2021-07-21 21.25.02
 ## Contested Steam accounts
 Steam Support has informed me that ownership of my Steam account is contested. What does that mean and what can I do?  
   
-[section style=important] ### Important:
+  ### Important:
 Steam account ownership cannot be transferred.  
-Buying, selling, trading, or gifting a Steam account is a violation of the [Steam Subscriber Agreement (SSA)](http://store.steampowered.com/subscriber_agreement/).[/section]  
+Buying, selling, trading, or gifting a Steam account is a violation of the [Steam Subscriber Agreement (SSA)](http://store.steampowered.com/subscriber_agreement/).  
   
 ## What does it mean?
 An account is considered contested only if **both** of the following two requirements are met:  

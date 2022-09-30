@@ -6,7 +6,7 @@ System reports detail the hardware and software configuration of your machine - 
 [h5]Select your Operating System:[/h5]  
   
 [expand type=title title="Windows"]  
-[section style=important][h5]Important[/h5]Before creating and submitting an MSINFO32 report, ensure that your copy of Windows is fully updated. See [Microsoft's update FAQ](https://support.microsoft.com/en-us/windows/windows-update-faq-8a903416-6f45-0718-f5c7-375e92dddeb2) for more information on how to update Windows.[/section]  
+[h5]Important[/h5]Before creating and submitting an MSINFO32 report, ensure that your copy of Windows is fully updated. See [Microsoft's update FAQ](https://support.microsoft.com/en-us/windows/windows-update-faq-8a903416-6f45-0718-f5c7-375e92dddeb2) for more information on how to update Windows.  
   
 ### Generating a MSINFO32 Report
 Please observe the following instructions to run and save an MSINFO32 report if requested by Steam Support:  
@@ -39,9 +39,9 @@ Directly underneath the 'Computer Management' icon, you should see the category 
 * Attach the file to your Steam Support help request.
 
   
-[section style=note][h5]Note:[/h5]If possible, please submit your file directly, rather than using a hosting website.[/section][/expand]  
+[h5]Note:[/h5]If possible, please submit your file directly, rather than using a hosting website.[/expand]  
 [expand type=title title="macOS"]   
-[section style=important][h5]Important[/h5]Before creating and submitting an System Profiler, please ensure that your macOS installation is fully updated. See [Apple's Mac update page](https://support.apple.com/en-us/HT201541) for more information.[/section]  
+[h5]Important[/h5]Before creating and submitting an System Profiler, please ensure that your macOS installation is fully updated. See [Apple's Mac update page](https://support.apple.com/en-us/HT201541) for more information.  
 ### Generating a System Report
 Please observe the following instructions to run and save an System report if requested by Steam Support  
 
@@ -64,7 +64,7 @@ Please observe the following instructions to run and save an System report if re
 
  [/expand]   
 [expand type=title title="Linux"]  
-[section id=button3-section]There are several ways to generate this report on Linux but the easiest one is to install System Profiler and Benchmark through the Ubuntu Software Center.[/section]  
+There are several ways to generate this report on Linux but the easiest one is to install System Profiler and Benchmark through the Ubuntu Software Center.  
 In order to do this please do the following:  
 
 * Click on the Ubuntu Software Center
@@ -78,4 +78,4 @@ In order to do this please do the following:
 * Select the location you'd like to save the HTML file and save it
 * Attach this HTML file to your Steam Support help request and we will be able to further assist you
 
- [section style=note]This process can be done using the Terminal command lshw however when exporting the report in an HTML file the formatting is not as clean as using the above instructions. For the quickest and best support please use the above process.[/section][/expand]
+  This process can be done using the Terminal command lshw however when exporting the report in an HTML file the formatting is not as clean as using the above instructions. For the quickest and best support please use the above process.[/expand]

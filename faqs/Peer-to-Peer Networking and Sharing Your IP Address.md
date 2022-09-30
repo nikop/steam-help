@@ -3,7 +3,7 @@ Updated 2021-08-12 21.02.02
 
 When is my IP Address shared with other players?  What are the downsides?  How can I control when this happens?  
   
-[section id=intro][/section] #### What is Peer-to-Peer Networking?
+  #### What is Peer-to-Peer Networking?
 Peer-to-peer networking is when messages are sent directly from one player to another.  Contrast this with dedicated server networking, where players do not talk to each other directly, but instead all players talk to a game server.  
   
 #### Peer-to-Peer Connections Using Your Public IP Address

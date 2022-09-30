@@ -3,8 +3,8 @@ Updated 2022-03-02 17.20.55
 
 What can I do to make sure that my hardware is running optimally?  
   
-[section style=note] ### Note:
-This article is part of a series of articles regarding system and game performance. When troubleshooting performance, please also complete all possible steps in our [Troubleshooting Game Performance Issues - Software](https://help.steampowered.com/en/faqs/view/5B03-A517-D747-9421) article.[/section]  
+  ### Note:
+This article is part of a series of articles regarding system and game performance. When troubleshooting performance, please also complete all possible steps in our [Troubleshooting Game Performance Issues - Software](https://help.steampowered.com/en/faqs/view/5B03-A517-D747-9421) article.  
   
 ### Diagnosing Game Performance Problems
 Game performance problems, such as slow frame rates or occasional slow frames, can be caused by bugs or inefficient coding in the games, or by hardware problems. Before contacting Steam Support to report game performance problems it is worth doing some testing to see if your computer is the source of the issue. Hardware problems don’t evenly affect all games, so even if just one game is showing problems it is worth checking your hardware.  

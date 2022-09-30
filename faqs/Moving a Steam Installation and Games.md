@@ -6,8 +6,8 @@ Updated 2021-10-27 22.55.30
 * [How do I move my existing Steam Installation?](#exist)
 
   
-[section id=default]#### How do I change the default installation path for my games?
-[/section]Games are installed to the following folder by default:  
+#### How do I change the default installation path for my games?
+Games are installed to the following folder by default:  
   
 `C:\Program Files (x86)\Steam\steamapps\common`  
   
@@ -22,8 +22,8 @@ You can create an alternate location on any drive, which you can choose in the f
 * If you wish to move existing games without having to uninstall them, please see the instructions below.
 
   
-[section id=move]#### How do I move a game's installation folder?
-[/section]To move a game's installation folder on your computer to a different location on that same computer you can use Steam's "Move install folder..." feature. To use this option do the following:  
+#### How do I move a game's installation folder?
+To move a game's installation folder on your computer to a different location on that same computer you can use Steam's "Move install folder..." feature. To use this option do the following:  
 
 * Make sure you have a different Steam Library folder created to move to (see the instructions in [how to add a Steam Library folder](#default) above)
 * Go to your Steam Library
@@ -34,12 +34,12 @@ You can create an alternate location on any drive, which you can choose in the f
 * From the drop down menu you can then select the Steam Library folder location you want to move the game's installation to.
 
   
-[section id=exist]#### How do I move my existing Steam Installation?
-[/section][section style=important] ### Important:
+#### How do I move my existing Steam Installation?
+  ### Important:
 Please ensure that you have your Steam login name and password before following this procedure. Also ensure that your account is linked to your current email address, so that you can reset your password if necessary.  
   
-It is **not** recommended that you install Steam to an external hard drive, due to potential performance issues.[/section]    [section style=warning] ### Warning:
-It is **highly** recommended that you create a backup of your steamapps folder before attempting this process. If there is a problem in this process and you do not have a backup of your games or the steamapps folder, it will be necessary to reinstall the games individually. Please see the [Using the Steam Backup Feature](https://help.steampowered.com/en/faqs/view/4593-5CB7-DC3C-64F0) topic.[/section]  
+It is **not** recommended that you install Steam to an external hard drive, due to potential performance issues.    ### Warning:
+It is **highly** recommended that you create a backup of your steamapps folder before attempting this process. If there is a problem in this process and you do not have a backup of your games or the steamapps folder, it will be necessary to reinstall the games individually. Please see the [Using the Steam Backup Feature](https://help.steampowered.com/en/faqs/view/4593-5CB7-DC3C-64F0) topic.  
   
 The following instructions are a simple way to move your Steam installation along with your games:  
   
@@ -62,7 +62,7 @@ If you encounter any errors during the move process or when Steam is launched fr
 * Move the *steamapps* folder from the Steam installation folder to your desktop.
 * Review the [Uninstalling Steam](https://help.steampowered.com/en/faqs/view/3C73-90F9-F600-0266) topic for instructions to uninstall Steam (this must be done to remove your old Steam installation settings from the Windows Registry).
 * Review the [Installing Steam](https://help.steampowered.com/en/faqs/view/099E-F5D1-8780-4778) topic for instructions to re-install Steam to the desired location.
-* Move the *steamapps* folder into the new Steam installation folder to copy downloaded game content, settings, and any saved games that might be stored there to the new location.[section style=important] ### Important Note about Save Games
-If you are moving your Steam installation to a new hard drive and want to keep game saves/profiles for third party games that are not saved on Steam Cloud most of these can be found in your Documents folder: C:\Users\*[Windows user name]*\Documents\My Games\. Moving this folder to the same location on your new hard drive will maintain your saves/profiles. If you do not find them in that location for the game you may have to reach out to developer/publisher of the game to determine where the save file location is. Each game developer is able to decide how and where to store save files.[/section]
+* Move the *steamapps* folder into the new Steam installation folder to copy downloaded game content, settings, and any saved games that might be stored there to the new location.  ### Important Note about Save Games
+If you are moving your Steam installation to a new hard drive and want to keep game saves/profiles for third party games that are not saved on Steam Cloud most of these can be found in your Documents folder: C:\Users\*[Windows user name]*\Documents\My Games\. Moving this folder to the same location on your new hard drive will maintain your saves/profiles. If you do not find them in that location for the game you may have to reach out to developer/publisher of the game to determine where the save file location is. Each game developer is able to decide how and where to store save files.
 * Start Steam and log in to your existing Steam account to confirm that the move was successful.
 * For installed games, [verify integrity of game files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) and you will be ready to play.

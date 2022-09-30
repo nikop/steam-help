@@ -13,7 +13,7 @@ Emoticons play brief animations within in-game chat.
 
   
   
-## [url id=requirements][/url]
+## [](id=requirements)
 ## EMOTICON TECHNICAL REQUIREMENTS
 
 * Frame Format: Each animation frame of the emoticon must be 32 pixels by 32 pixels, 24-bit RGB color with 8-bit alpha channel.
@@ -24,7 +24,7 @@ Emoticons play brief animations within in-game chat.
 
   
   
-[url id=design][/url]  
+[](id=design)  
   
 ## DESIGN CONSIDERATIONS
 
@@ -37,7 +37,7 @@ Emoticons play brief animations within in-game chat.
 
   
   
-[url id=submission][/url]  
+[](id=submission)  
   
 ## INSTRUCTIONS FOR SUBMISSION
 
@@ -49,7 +49,7 @@ Emoticons play brief animations within in-game chat.
 
   
   
-[url id=examples][/url]  
+[](id=examples)  
   
 ## EXAMPLE CHAT EMOTICONS
 

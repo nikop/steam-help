@@ -3,8 +3,8 @@ Updated 2021-08-12 17.33.15
 
 The amount of available disk space on my machine decreases every time I run a game - what should I do?  
   
-[section style=important] ### Important:
-Disabling System Restore for any drive which you do not back up regularly is **not** recommended.[/section]  
+  ### Important:
+Disabling System Restore for any drive which you do not back up regularly is **not** recommended.  
 There are several causes for this condition which this article will not cover:  
 
 * Game patches and updates are being downloaded automatically through Steam

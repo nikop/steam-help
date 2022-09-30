@@ -19,9 +19,9 @@ This topic covers setting game launch options from Steam's **Library**. Launch o
   
   
 #### Common Launch Options
-[section style=note]These launch options apply to GoldSrc and Source engine games only. They do not apply to most third party games.  
+These launch options apply to GoldSrc and Source engine games only. They do not apply to most third party games.  
   
-Please refer to [this list of Valve titles](https://store.steampowered.com/search/?category1=998&developer=Valve) for titles that support these launch options[/section]  
+Please refer to [this list of Valve titles](https://store.steampowered.com/search/?category1=998&developer=Valve) for titles that support these launch options  
   
 Many [Console Commands](http://developer.valvesoftware.com/wiki/Console_Command_List) can function as a launch option by adding a "+" in front of the console command, but some cannot be used in this fashion. The most common launch options are listed below.  
   
@@ -38,8 +38,8 @@ Many [Console Commands](http://developer.valvesoftware.com/wiki/Console_Command_
 * -dxlevel 81
 * -dxlevel 90
 * -dxlevel 95
-* -dxlevel 98          [section style=warning] ### Warning:
-Our games no longer support DirectX 7 as a launch option. Using this can cause crashes. If you are using -dxlevel 70 make sure to remove it from your launch options.[/section]
+* -dxlevel 98   ### Warning:
+Our games no longer support DirectX 7 as a launch option. Using this can cause crashes. If you are using -dxlevel 70 make sure to remove it from your launch options.
 * -fullscreen - Forces the engine to start in fullscreen mode.
 * -windowed or -sw - Forces the engine to start in windowed mode.
 * -16bpp or -32bpp - Forces the selected color mode (bit depth). **GoldSource only**

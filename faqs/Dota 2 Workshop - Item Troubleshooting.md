@@ -45,7 +45,7 @@ Below are some technical problems artists have encountered while authoring or su
   
 We appreciate your help!  
   
-[url id=compileerror][/url]  
+[](id=compileerror)  
   
 ## I'm getting a compile error that says my model is 516 triangles and is not weighted to bones, but this does not apply to my model.
 
@@ -61,7 +61,7 @@ We appreciate your help!
 
   
   
-[url id=fbx][/url]  
+[](id=fbx)  
   
 ## I imported a Valve FBX reference file into my modeling software but some joints have the incorrect orientation. 
 
@@ -69,7 +69,7 @@ We appreciate your help!
 
   
   
-[url id=refmodel][/url]  
+[](id=refmodel)  
   
 ## My model mesh has broken skinning, is the wrong scale, or is completely detached from the skeleton when I preview it in the workshop tool.
 
@@ -105,7 +105,7 @@ We appreciate your help!
 
   
   
-[url id=invalidzip][/url]  
+[](id=invalidzip)  
   
 ## My item submission shows an "Invalid Zip File" error.
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/invalid_zip.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/invalid_zip.jpg)  
@@ -115,7 +115,7 @@ We appreciate your help!
 
   
   
-[url id=doesnotexist][/url]  
+[](id=doesnotexist)  
   
 ## I looked for my item on the workshop but the link goes to a page that says "That item does not exist. It may have been removed by the author".
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/item_does_not_exist.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/item_does_not_exist.jpg)  

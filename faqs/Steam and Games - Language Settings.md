@@ -31,4 +31,4 @@ The language of many games can be changed independently from the Steam client la
   
 If you are experiencing problems enabling a language, make sure your desired language is selected in both locations.  
   
-[section style=note]Some languages may not be available for the game you wish to play. Check the Steam store page for the game to see which languages are offered.[/section]
+Some languages may not be available for the game you wish to play. Check the Steam store page for the game to see which languages are offered.

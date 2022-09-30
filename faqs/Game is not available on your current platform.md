@@ -12,8 +12,8 @@ This error message means that the game is not supported on the operating system 
   
 You can check each game's system requirements and compatible operating systems on that game's Steam Store page by scrolling down to its "System Requirements" section.  
   
-[section style=important] ### Note:
-When checking system compatibility with a specific game, ensure that you check the game's hardware requirements in addition to compatible operating systems.[/section]  
+  ### Note:
+When checking system compatibility with a specific game, ensure that you check the game's hardware requirements in addition to compatible operating systems.  
 **Purchased on Steam store**  
 If the game does not support your operating system and you purchased it on the Steam store you can request a refund through our help site by following the instructions on the [How To Request A Refund](https://help.steampowered.com/en/faqs/view/784C-923B-A4A1-C825) page.  
   
@@ -53,5 +53,5 @@ You can also perform a search within the Steam Store and then select "SteamOS + 
   
 **Note:** Steam users on Linux may be able to make use of the Steam feature Steam Play to potentially play some Windows only games on Linux. For more information see the [Introducing a new version of Steam Play](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561) page.  
   
-[section style=important] ### Important:
-Some users will deliberately purchase a game that is not available on their operating system with the aim of running the game with emulators or other utilities that simulate the game's system requirements. Be aware that purchases made with this goal in mind are not supported by Steam Support.[/section]
+  ### Important:
+Some users will deliberately purchase a game that is not available on their operating system with the aim of running the game with emulators or other utilities that simulate the game's system requirements. Be aware that purchases made with this goal in mind are not supported by Steam Support.

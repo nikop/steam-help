@@ -3,8 +3,8 @@ Updated 2021-08-04 17.44.31
 
 How do I set Steam launch options?  
   
-[section style=warning] # Warning:
-To ensure the security of your account, do not use the -login launch option on shared computers or any machines which may be accessed by other users.[/section]  
+  # Warning:
+To ensure the security of your account, do not use the -login launch option on shared computers or any machines which may be accessed by other users.  
 Steam launch options can be used to change game settings, enable features, and even create a shortcut to bypass the Steam login window.  
   
 Please see the [Setting Game Launch Options](https://help.steampowered.com/en/faqs/view/7D01-D2DD-D75E-2955) topic if you would like information on using launch options for specific games.  

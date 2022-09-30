@@ -16,8 +16,8 @@ Valve will, upon request via [help.steampowered.com](https://help.steampowered.c
 ## Where is my refund? My refund was approved, but it’s been more than 7 days.
   
 Approved refunds can take up to 7 days to appear in your account – however, refunds to international payment methods may take longer. If your refund hasn’t appeared after 7 days, please contact your bank directly and ask about pending refunds on your account.  
-[section style=note]When a refund request is approved within 24 hours of the purchase, the original transaction is cancelled and the charge drops off your bank statement. In this case, you will not see a credit on your account. This process can take up to 10 days – wait time for international payment methods may vary.  
-[/section]  
+When a refund request is approved within 24 hours of the purchase, the original transaction is cancelled and the charge drops off your bank statement. In this case, you will not see a credit on your account. This process can take up to 10 days – wait time for international payment methods may vary.  
+  
 Still can’t find your refund? Please review your recent purchase history; you may have used the funds to make another purchase!  
   
   

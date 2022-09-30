@@ -12,7 +12,7 @@ Updated 2021-07-10 19.49.55
 
   
   
-[url id=requirements][/url]  
+[](id=requirements)  
   
 ## TECHNICAL REQUIREMENTS
 
@@ -22,7 +22,7 @@ Updated 2021-07-10 19.49.55
 
   
   
-[url id=instructions][/url]  
+[](id=instructions)  
   
 ## SUBMISSION INSTRUCTIONS
 
@@ -31,7 +31,7 @@ Updated 2021-07-10 19.49.55
 
   
   
-[url id=aspect][/url]  
+[](id=aspect)  
   
 ## ASPECT RATIOS
 
@@ -45,7 +45,7 @@ Updated 2021-07-10 19.49.55
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_4-3.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_4-3.jpg)  
   
-[url id=notes][/url]  
+[](id=notes)  
   
 ## OTHER NOTES
 

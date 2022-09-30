@@ -7,12 +7,12 @@ Updated 2021-10-28 02.12.21
 
 ---
   
-[section style=important] ### Motion Sickness Statement
+  ### Motion Sickness Statement
 The Source engine simulates a variety of simulated environments and intense experiences during normal gameplay.  
   
 While playing or watching a Source game, the user may begin to experience nausea, dizziness, motion sickness or eyestrain.  
   
-If you or any of your family experience these symptoms, please discontinue use and test the issue at a later time.  You may find that playing in smaller increments is beneficial.[/section]  
+If you or any of your family experience these symptoms, please discontinue use and test the issue at a later time.  You may find that playing in smaller increments is beneficial.  
 ### Enable VSync
 Enable VSync and raise the monitor's refresh rate in the graphics card / monitor settings to see if this affects your gameplay. 60Hz  is a common refresh rate but higher rates may correct the issue with some users.  
   

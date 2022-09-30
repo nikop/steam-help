@@ -3,11 +3,11 @@ Updated 2021-08-12 21.14.25
 
 What is the Developer Console and how can I use it to change game settings?  
   
-[section style=important] # Important:
+  # Important:
   
 The **~** key will bring up the console for English/US keyboard configurations - for more information on changing the key used to open the developer's console please see the article linked below:  
   
-[Console disappears](https://help.steampowered.com/en/faqs/view/57A7-0501-FCB4-E242)[/section]   
+[Console disappears](https://help.steampowered.com/en/faqs/view/57A7-0501-FCB4-E242)    
 # What is the developer console?
 The console is a text-based input/output interface to execute commands or change global settings in a game.  
   

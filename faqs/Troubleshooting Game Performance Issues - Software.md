@@ -1,10 +1,10 @@
 # Troubleshooting Game Performance Issues - Software
 Updated 2022-02-24 18.33.09
 
-[section style=important]### How can I improve my game's FPS and reduce choppiness and lag while playing?
+### How can I improve my game's FPS and reduce choppiness and lag while playing?
  Poor or reduced FPS can be caused by any number of factors, all of which are hard to diagnose without physically looking at your machine. Due to the number of unique hardware and software configurations, it's nearly impossible to provide detailed analysis and recommendations for each user.  
   
-The information in this article is written as a general guide for improving a game's performance. If the information does not help, we recommend reaching out to a local PC technician or online discussions for help with improving your individual machine's performance.[/section]  
+The information in this article is written as a general guide for improving a game's performance. If the information does not help, we recommend reaching out to a local PC technician or online discussions for help with improving your individual machine's performance.  
 # Check the game's system requirements
   
 The system requirements for all games are listed on the game's Store page. Simply meeting the system requirements does not mean you'll have high FPS or strong in-game performance. If your system does not meet the game's requirements, you may need to upgrade to the appropriate hardware. Upgrading your video card and memory can have an immediate effect on gameplay performance.  
@@ -42,9 +42,8 @@ If you have changed or modified your video settings (and do not remember the ori
 Valve games have support for auto-detecting your hardware and setting reasonable graphics settings. Please try using *-autoconfig* as a launch option as an initial troubleshooting step when trying to improve FPS. If the game launches and you have improved FPS, we recommend slowly modifying your video settings to find acceptable FPS. If you continue to make changes and notice a drop in FPS, you'll know you've set your video settings too high for your hardware.
 * [h5]For games not developed by Valve (third-party games)[/h5]  
 As the settings and configuration options for these games can be very different depending on the game developer, you will want to contact that game's support team if you are encountering resolution issues that you are unable to solve.  
-[section style=note][h5]Contacting third-party support[/h5]  
-You can find the third-party game's support contact information by selecting the game in your Steam Library and then on the right hand side select "Support" from the tabs available above the "Activity" section.  
-[/section]
+[h5]Contacting third-party support[/h5]  
+You can find the third-party game's support contact information by selecting the game in your Steam Library and then on the right hand side select "Support" from the tabs available above the "Activity" section.
 
   
   

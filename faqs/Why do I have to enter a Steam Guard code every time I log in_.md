@@ -44,4 +44,4 @@ Make sure that you do not have the setting "Delete cookies and site data when Fi
 
   
   
-[section style=note]Running programs, including security software, that clear internet history, delete unused files, or that clean up orphaned registry entries may have a setting to clear cookies as well. Disabling this feature will prevent this issue from occurring when logging into Steam via your web browser.[/section]
+Running programs, including security software, that clear internet history, delete unused files, or that clean up orphaned registry entries may have a setting to clear cookies as well. Disabling this feature will prevent this issue from occurring when logging into Steam via your web browser.

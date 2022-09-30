@@ -13,14 +13,14 @@ How do I setup a Half-Life Dedicated Server?
 * [Steam Half-life Dedicated Server Console](#console)
 
   
-[section id=account]#### Setting up a Steam Half-Life Dedicated Server Account
-[/section]To run the Steam Half-Life Dedicated Server you must first install Steam. To install Steam click the link below: [Download Steam](http://steampowered.com/v/index.php?area=getsteamnow)  
+#### Setting up a Steam Half-Life Dedicated Server Account
+To run the Steam Half-Life Dedicated Server you must first install Steam. To install Steam click the link below: [Download Steam](http://steampowered.com/v/index.php?area=getsteamnow)  
   
 After installing Steam, you must create a Steam account to run your dedicated server. This is separate from the Steam account you normally use to play games. If you attempt to run a dedicated server from your normal Steam account, you will not be able to join your server using the same account.  
   
-[section style=note] ### Note:
-You do not need to register any games to your server account in order to host games.[/section]  [section id=start]#### Starting the Steam Half-Life Dedicated Server
-[/section](Counter-Strike 1.6, Day of Defeat, Team Fortress Classic, Deathmatch Classic, Ricochet, Half-Life, Condition Zero)  
+  ### Note:
+You do not need to register any games to your server account in order to host games.  #### Starting the Steam Half-Life Dedicated Server
+(Counter-Strike 1.6, Day of Defeat, Team Fortress Classic, Deathmatch Classic, Ricochet, Half-Life, Condition Zero)  
   
 ![{STEAM_CLAN_IMAGE}/1976/3ee25cf941ca1d269836531636e97734dceb657f.png]({STEAM_CLAN_IMAGE}/1976/3ee25cf941ca1d269836531636e97734dceb657f.png)  
   
@@ -47,8 +47,8 @@ You do not need to register any games to your server account in order to host ga
 * **Unchecked** : VAC disabled on the server
 
 After adjusting the server to your liking, press the **Start Server** button.  
-[section id=options]#### Steam Half-Life Dedicated Server Main Options
-[/section]![{STEAM_CLAN_IMAGE}/1976/813420f5ef306b2420abcfed4636af0dc5a4a5f2.png]({STEAM_CLAN_IMAGE}/1976/813420f5ef306b2420abcfed4636af0dc5a4a5f2.png)  
+#### Steam Half-Life Dedicated Server Main Options
+![{STEAM_CLAN_IMAGE}/1976/813420f5ef306b2420abcfed4636af0dc5a4a5f2.png]({STEAM_CLAN_IMAGE}/1976/813420f5ef306b2420abcfed4636af0dc5a4a5f2.png)  
   
 You can change all of the following values without restarting the server (to edit a value, double-click on its name):  
 
@@ -60,8 +60,8 @@ You can change all of the following values without restarting the server (to edi
 * Map Cycle: Specifies the maps you wish to play and the order in which they appear. The maps will cycle according to either your *Map time limit* or *Max win* settings available from the **Configure** tab.
 
   
-[section id=config]#### Steam Half-Life Dedicated Server Configuration
-[/section]![{STEAM_CLAN_IMAGE}/1976/10c32c7a51118f30cbcb8b003c2cfc08f816bfb8.png]({STEAM_CLAN_IMAGE}/1976/10c32c7a51118f30cbcb8b003c2cfc08f816bfb8.png)  
+#### Steam Half-Life Dedicated Server Configuration
+![{STEAM_CLAN_IMAGE}/1976/10c32c7a51118f30cbcb8b003c2cfc08f816bfb8.png]({STEAM_CLAN_IMAGE}/1976/10c32c7a51118f30cbcb8b003c2cfc08f816bfb8.png)  
   
 From the **Configure** tab, you may specify how your server runs and implement various server rules.  
   
@@ -91,8 +91,8 @@ Values:
 * Allow Flashlight Flashlight can be used by players. **Default** disabled
 
   
-[section id=stats]#### Viewing Steam Half-Life Dedicated Server Statistics
-[/section]![{STEAM_CLAN_IMAGE}/1976/08f036593680b2487ff07a190d50e6d131c1d475.png]({STEAM_CLAN_IMAGE}/1976/08f036593680b2487ff07a190d50e6d131c1d475.png)  
+#### Viewing Steam Half-Life Dedicated Server Statistics
+![{STEAM_CLAN_IMAGE}/1976/08f036593680b2487ff07a190d50e6d131c1d475.png]({STEAM_CLAN_IMAGE}/1976/08f036593680b2487ff07a190d50e6d131c1d475.png)  
   
 The Steam Half-Life Dedicated Server offers a variety of viewable statistics. You can view statistics from the most recent minute, hour, or day. To add a stat to the view, check its box on the right-hand side of the dialog box.  
   

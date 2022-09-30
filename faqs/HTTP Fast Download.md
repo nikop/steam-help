@@ -17,8 +17,8 @@ When a player connects to a server utilizing custom content, one of two things w
 * If the server is not configured for HTTP download, the game server will use the normal **trickle** download mechanism.
 * If the server is configured for HTTP downloading, the player will see an enhanced download dialog and much faster downloads. While this content is downloading, they are not connected to the game server. Once the download finishes, they are automatically reconnected to the game server and ready to play.
 
- [section style=note] ### Note:
-If any of the custom content is not present on the HTTP content server or the case of the file name does not match then the player will disconnect from the HTTP and fall back and download any remaining content via trickle download from the server.[/section] #### Configuring your server to use fast HTTP Downloading
+    ### Note:
+If any of the custom content is not present on the HTTP content server or the case of the file name does not match then the player will disconnect from the HTTP and fall back and download any remaining content via trickle download from the server.  #### Configuring your server to use fast HTTP Downloading
 
 * Make a list of all the custom files (bsp, wav, mdl, etc) used on your server.
 * Put those files on a HTTP server (ie: webserver), keeping the folder layout intact.
@@ -73,7 +73,7 @@ Then you create folders for gfx/env, maps, overviews, sound, sprites and models 
   
 If the client has ANY of the files already (including the WAD) it will not be overwritten, there is no way to do that, the client must delete the out of date or offending resource themself.  
   
-[section style=note] ### Note:
+  ### Note:
 **You must make .res files for all the maps** and make sure all resource names listed (and placed at the http) are spelled exactly the same.  
   
-If the bsp has all lower-case letters for the entity then the .res file must be all lower-case and the file name itself must be all lower-case.[/section]
+If the bsp has all lower-case letters for the entity then the .res file must be all lower-case and the file name itself must be all lower-case.

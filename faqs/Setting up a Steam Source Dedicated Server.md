@@ -15,15 +15,15 @@ How do I set up a Source Dedicated Server?
 
   
   
-[section id=account]#### Setting up a Steam Dedicated Server Account
-[/section]To run the Steam Source Dedicated Server you will first need to install Steam. You may download and install Steam from: [Download Steam](http://steampowered.com/v/index.php?area=getsteamnow)  
+#### Setting up a Steam Dedicated Server Account
+To run the Steam Source Dedicated Server you will first need to install Steam. You may download and install Steam from: [Download Steam](http://steampowered.com/v/index.php?area=getsteamnow)  
   
 After installing Steam, you must create a Steam account to run your dedicated server. This is separate from the Steam account you normally use to play games. If you attempt to run a dedicated server from your normal Steam account, you will not be able to join your server using the same account.  
   
-[section style=note] ### Note:
-You do not need to register any games to your server account in order to host games.[/section]  
-[section id=start]#### Starting the Steam Source Dedicated Server
-[/section](Counter-Strike: Source, Day of Defeat: Source, Half-Life 2:Deathmatch)  
+  ### Note:
+You do not need to register any games to your server account in order to host games.  
+#### Starting the Steam Source Dedicated Server
+(Counter-Strike: Source, Day of Defeat: Source, Half-Life 2:Deathmatch)  
   
 ![{STEAM_CLAN_IMAGE}/1976/f06626a6fac861ed7eeffc6b630549fdfc3328a1.jpg]({STEAM_CLAN_IMAGE}/1976/f06626a6fac861ed7eeffc6b630549fdfc3328a1.jpg)  
   
@@ -39,8 +39,8 @@ You do not need to register any games to your server account in order to host ga
 
 After adjusting the server to your liking, press the **Start Server** button.  
   
-[section id=options]#### Steam Source Dedicated Server Options
-[/section]  
+#### Steam Source Dedicated Server Options
+  
 ![{STEAM_CLAN_IMAGE}/1976/17dd8eaf66978360cfc8143ecb22bccb6ae06a59.jpg]({STEAM_CLAN_IMAGE}/1976/17dd8eaf66978360cfc8143ecb22bccb6ae06a59.jpg)  
   
 You can change all of the following values without restarting the server (To edit a value, double-click on its name):  
@@ -54,8 +54,8 @@ You can change all of the following values without restarting the server (To edi
 
   
   
-[section id=config]#### Steam Source Dedicated Server Configuration
-[/section]  
+#### Steam Source Dedicated Server Configuration
+  
 ![{STEAM_CLAN_IMAGE}/1976/db4e42c42351102a0ae3115061327d09df611f06.jpg]({STEAM_CLAN_IMAGE}/1976/db4e42c42351102a0ae3115061327d09df611f06.jpg)  
   
 From the **Configure** tab, you may specify how your server runs and implement various server rules.  
@@ -86,8 +86,8 @@ Values:
 * Allow Flashlight: Flashlight can be used by players. **Default** disabled
 
   
-[section id=stats]#### Viewing Steam Dedicated Server Statistics
-[/section]  
+#### Viewing Steam Dedicated Server Statistics
+  
 ![{STEAM_CLAN_IMAGE}/1976/280dee9ded38e7328f24750e0acc2c1a1e8c2769.jpg]({STEAM_CLAN_IMAGE}/1976/280dee9ded38e7328f24750e0acc2c1a1e8c2769.jpg)  
   
 The Steam Dedicated Server offers a variety of viewable statistics. You can view statistics from the most recent minute, hour, or day. To add a stat to the view, check its box on the right-hand side of the dialog box.  
@@ -105,22 +105,22 @@ You can change the **Vertical Units** to display the range of any one of these s
 
   
   
-[section id=kick]#### Kicking or Banning Players from the Server
-[/section]  
+#### Kicking or Banning Players from the Server
+  
 ![{STEAM_CLAN_IMAGE}/1976/4e3ff76218bc9bcf4758b654d653234940a7ec06.jpg]({STEAM_CLAN_IMAGE}/1976/4e3ff76218bc9bcf4758b654d653234940a7ec06.jpg)  
   
 The Players tab displays all players currently on your server. In addition to viewing players, you can also kick them from your server or ban them from your server.  
   
 Kick Kicking a player will drop the player from your server. Ban You have the option to temporarily, or permanently ban players from your server. You can manually enter an IP address or use the players’ Steam ID to ban them from your server.   
   
-[section id=manageban]#### Managing Steam Source Dedicated Server Bans
-[/section]  
+#### Managing Steam Source Dedicated Server Bans
+  
 ![{STEAM_CLAN_IMAGE}/1976/b9a9e232207edec721f7bca14778c3d93d0659c9.jpg]({STEAM_CLAN_IMAGE}/1976/b9a9e232207edec721f7bca14778c3d93d0659c9.jpg)  
   
 The **Bans** tab allows you to manage those bans that are in place on your server. You can remove a ban or edit the ban’s time limit. To remove a ban, set the time value to `0.00 `by double clicking the ID you would like to unban. The ban will no longer be visible after the server is restarted.  
   
-[section id=console]#### Steam Source Dedicated Server Console
-[/section]  
+#### Steam Source Dedicated Server Console
+  
 ![{STEAM_CLAN_IMAGE}/1976/29f54de38a88ba8c779a34d84090aa75848a0241.jpg]({STEAM_CLAN_IMAGE}/1976/29f54de38a88ba8c779a34d84090aa75848a0241.jpg)  
   
 The console will print activity on the server, such as players joining or leaving the server, players being kicked, banned, etc…  

@@ -22,7 +22,7 @@ For more information on trading, refer to the [Steam Item Restoration Policy](ht
   
 [h3=whatisoffer]What is a trade offer?[/h3]A trade offer is a prepackaged trade that you can send to a friend. You select the items to trade from your inventory and the items you’d like to receive from your friend's inventory, and send the trade offer. Your friend can then choose to accept, decline, or make a counter offer. Unlike regular Steam Trading, you don't need to both be online at the same time. Plus, trade offers can be sent and received using a web browser.  
   
-### [url id=howtosendoffer][/url]How do I send a trade offer?
+### [](id=howtosendoffer)How do I send a trade offer?
 You can create and send a trade offer from two places: the Trade Offers page within your Inventory or from a friend’s profile.  
   
 To send an offer from your Trade Offers page:  
@@ -55,30 +55,30 @@ You'll then need to confirm the trade offer. If you're using a Mobile Authentica
   
 Once you confirm the trade, the offer will be sent.  
   
-### [url id=optout][/url]How can I opt-out of confirmations?
+### [](id=optout)How can I opt-out of confirmations?
 To ensure that you are in control of items moving out of your account, trade offers must be confirmed. There is no longer a way to opt out.  
   
-### [url id=sendwhooffer][/url]To whom can I send a trade offer?
+### [](id=sendwhooffer)To whom can I send a trade offer?
 You can send trade offers to any of your friends with an Inventory that you can view or anyone who has given you their Unique Trade URL. You can find your own Unique Trade URL on the bottom of your [Who can send me Trade Offers?](http://steamcommunity.com/my/tradeoffers/privacy) settings page.  
   
-### [url id=whatoffer][/url]What can I put in a trade offer?
+### [](id=whatoffer)What can I put in a trade offer?
 Any tradable items in your inventory.  
   
 Note that you cannot include Steam Wallet funds in a trade or trade offer. If someone sends you a trade offer claiming to include Steam Wallet funds it may be a scam. You can report scammers using the "Report Player" link on their profile.  
   
-### [url id=howreceiveoffer][/url]How do I view my trade offer?
+### [](id=howreceiveoffer)How do I view my trade offer?
 When you receive a trade offer, your mailbox in the top right corner of the Steam interface will turn green. To see the offer, click on the mailbox and select "pending trade offer". You can also view pending offers and your offer history from the Trade Offers page in your Inventory.  
   
-### [url id=itemsremovedoffer][/url]Are items in a trade offer temporarily removed from my inventory like the market?
+### [](id=itemsremovedoffer)Are items in a trade offer temporarily removed from my inventory like the market?
 No. Items in a trade offer remain in your inventory until an offer is accepted.  
   
-### [url id=multipleoffers][/url]Can I send more than one offer with the same items?
+### [](id=multipleoffers)Can I send more than one offer with the same items?
 Yes. You can send more than one offer containing the same items. When an offer is accepted any other pending offers with the same items will change from pending to inactive and be moved into your Offer History.  
   
-### [url id=unavailableoffer][/url]What happens to an offer when an item is no longer available?
+### [](id=unavailableoffer)What happens to an offer when an item is no longer available?
 If a trade offer contains an item that is traded away or sold on the market, the trade becomes inactive and can no longer be accepted. It will automatically be moved into your Offer History.  
   
-### [url id=changeoffer][/url]How do I change or counter an offer?
+### [](id=changeoffer)How do I change or counter an offer?
 
 * From your Inventory, select Trade Offers
 * Select Incoming Offers
@@ -90,7 +90,7 @@ If a trade offer contains an item that is traded away or sold on the market, the
 
 The counter offer will be sent back as a new trade offer.  
   
-### [url id=canceloffer][/url]How do I cancel an offer I've sent?
+### [](id=canceloffer)How do I cancel an offer I've sent?
 
 * From your Inventory, select Trade Offers
 * Select either Incoming Offers or Sent Offers and identify the trade you want to cancel
@@ -98,11 +98,11 @@ The counter offer will be sent back as a new trade offer.
 
 You can cancel a pending offer you've sent from the Sent Offers area of the Trade Offers page.  
   
-### [url id=unhappyoffer][/url]What if I’m unhappy about a trade I made?
+### [](id=unhappyoffer)What if I’m unhappy about a trade I made?
 All trades are final; use the confirmation step to review and make sure you're satisfied with the offer.  
   
-### [url id=expirationoffer][/url]How long is an offer good for?
+### [](id=expirationoffer)How long is an offer good for?
 Trade offers automatically expire after two weeks. You can find the offer expiration date at the bottom of a pending offer.  
   
-### [url id=historyoffer][/url]Where can I see my trade history?
+### [](id=historyoffer)Where can I see my trade history?
 You can view your trade history from the Trade Offers page or from the "**...**" buttondrop down in your Inventory.

@@ -9,8 +9,8 @@ Updated 2021-07-22 19.06.33
 
   
   
-[section style=warning]  Extra copies of games are not given in most cases.  
-Only titles purchased in special promotions as outlined below are eligible for giftable extra copies[/section]  
+ Extra copies of games are not given in most cases.  
+Only titles purchased in special promotions as outlined below are eligible for giftable extra copies  
   
 # How do I receive extra copies to share with friends?
   

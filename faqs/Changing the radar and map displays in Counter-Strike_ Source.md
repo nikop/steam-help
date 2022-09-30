@@ -3,10 +3,10 @@ Updated 2021-07-10 19.49.55
 
 How can I change the radar display in Counter-Strike: Source?  
   
-[section style=note] ### Note:
+  ### Note:
 The options below will require you to use the Developer's Console in the game - if you are not familiar with the Developer's Console you should read the article linked below to get started:  
   
-[Console](https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD)[/section] #### Turn off radar in Counter-Strike: Source
+[Console](https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD)  #### Turn off radar in Counter-Strike: Source
 If you would like to disable the radar, please enter the following command into the developer's console: *cl_radar_alpha 0*  
   
 #### Radar display settings

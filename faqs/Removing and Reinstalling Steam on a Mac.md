@@ -15,8 +15,8 @@ The Steam application is required to play all games purchased through Steam, as 
 ### Removing Steam and Steam games
   
   
-Just dragging the Steam program to the Trash will not fully uninstall Steam. The additional steps below are required.    [section style=warning] ### Warning:
-The following instructions will describe how to remove Steam and, optionally, all your games from this computer. If you complete all the steps and decide to reinstall Steam later, you will need your account name and password to reinstall your games.[/section]  
+Just dragging the Steam program to the Trash will not fully uninstall Steam. The additional steps below are required.   ### Warning:
+The following instructions will describe how to remove Steam and, optionally, all your games from this computer. If you complete all the steps and decide to reinstall Steam later, you will need your account name and password to reinstall your games.  
   
 With the Steam application active, click the **Steam** menu and **Quit Steam** to exit Steam.  
   

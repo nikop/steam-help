@@ -12,7 +12,7 @@ Read more about this feature from the [official update](https://steamcommunity.c
 
   
   
-[url id=watch][/url] #### Watching a Broadcast
+[](id=watch) #### Watching a Broadcast
 There are a number of ways to watch broadcasts throughout the Steam Community:  
 
 * Find public broadcasts on the community [Broadcast](https://steamcommunity.com/?subsection=broadcasts) home page. Broadcasts are also available within each product's Community Hub.
@@ -42,10 +42,10 @@ Audio:
   
 By default, Steam will only record audio from the game you are currently playing. You can enable recording a microphone or all audio played through your computer's default output device through the Steam Client Settings.  
   
-[url id=faq][/url] #### Frequently Asked Questions
+[](id=faq) #### Frequently Asked Questions
 [*][What are the browser requirements for watching?](#18)[/*]  	[*][What are the account requirements for broadcasting?](#3)[/*]  	[*][What kind of content is allowed?](#7)[/*]  	[*][How do I report a broadcast?](#8)[/*]  	[*][How can I get my broadcast to show up in a game hub?](#12)[/*]  	[*][How can I see who is watching my game?](#13)[/*]  	[*][Can I save my broadcast?](#14)[/*]  	[*][How do I change the bit rate, video dimensions, microphone, and desktop settings?](#17)[/*]  	[*][What operating systems can I broadcast from?](#19)[/*]  
   
-[url id=18][/url]  
+[](id=18)  
   
 [h5]What are the browser requirements for watching?[/h5]Steam Broadcasting is currently supported by the following browsers:  
 
@@ -57,7 +57,7 @@ By default, Steam will only record audio from the game you are currently playing
 
   
 The above do not apply for mobile devices. Steam broadcasts are not currently supported on iOS devices.  
-[url id=3][/url]  
+[](id=3)  
   
 [h5]What are the account requirements for broadcasting?[/h5]Accounts that meet the following requirements are able to broadcast games:  
 
@@ -65,27 +65,27 @@ The above do not apply for mobile devices. Steam broadcasts are not currently su
 * Are not currently Community Banned
 
   
-[url id=7][/url]  
+[](id=7)  
   
 [h5]What kind of content is allowed?[/h5]As a Steam subscriber, you agree to abide by the [Steam Subscriber Agreement](http://store.steampowered.com/subscriber_agreement/), the [Steam Online Conduct rules](http://store.steampowered.com/online_conduct/), and the [Steam Community Rules and Guidelines](https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B). You are responsible for the use of your Account and for all of the communication and activity on Steam that results from use of your Account. Your online conduct and interaction with other subscribers should be guided by common sense and basic etiquette.  
   
-[url id=8][/url]  
+[](id=8)  
   
 [h5]How do I report a broadcast?[/h5]From the broadcast window/page, select the "Report" button under the broadcast. When a broadcast is reported, Steam may save some or all of the broadcast for review.  
   
-[url id=12][/url]  
+[](id=12)  
   
 [h5]How can I get my broadcast to show up in a Game Hub?[/h5]If you select "Anyone can watch my game" as your broadcast privacy setting then your broadcast will be visible in that Game Hub.  
   
-[url id=13][/url]  
+[](id=13)  
   
 [h5]How can I see who is watching my game?[/h5]You'll receive a notification when a friend either requests to watch or starts watching your game. At any time you can see a list of viewers from the Steam overlay broadcast box, or if you're watching your own broadcast, from the top of the chat.  
   
-[url id=14][/url]  
+[](id=14)  
   
 [h5]Can I save my broadcast?[/h5]No, broadcasts are currently live only. However, if a video is reported for review, Steam may save some or all of the broadcast for review.  
   
-[url id=17][/url]  
+[](id=17)  
   
 [h5]How do I change the bit rate, video dimensions, microphone, and desktop settings?[/h5]For advanced Broadcast settings:  
 
@@ -94,10 +94,10 @@ The above do not apply for mobile devices. Steam broadcasts are not currently su
 ![{STEAM_CLAN_IMAGE}/1976/1670e5f1d3da769927d4b03ed757d612e27e934d.png]({STEAM_CLAN_IMAGE}/1976/1670e5f1d3da769927d4b03ed757d612e27e934d.png)
 
   
-[url id=19][/url]  
+[](id=19)  
 [h5]What operating systems can I broadcast from?[/h5]Steam Broadcasting is currently supported through the Steam Client on Windows 7, 8, and 10. Linux and macOS will be supported in the future.  
   
-[url id=issues][/url] #### Troubleshooting Broadcasting
+[](id=issues)  #### Troubleshooting Broadcasting
 If you are constantly encountering issues with Broadcasting, it's possible that something is interfering and preventing the Broadcast from working as expected.  
   
 It's a good idea to investigate the topics below and make sure that the machine having Broadcasting issues is optimized for using the feature successfully.  
@@ -115,7 +115,7 @@ You can access these settings at any time from the Broadcast tab of your *Steam 
 [h5]Reinstall Steam[/h5]The Steam installer can be downloaded [here](https://store.steampowered.com/about/) and reinstalled to the same location where it is already installed.  
   
 This will ensure that all files required by the Steam overlay are in a good state. This process will have no effect on your installed games.  
-[section style=warning][h5]WARNING![/h5] Uninstalling Steam will delete all game content.[/section]  
+[h5]WARNING![/h5] Uninstalling Steam will delete all game content.  
   
 [h5]Refresh Local Network Hardware[/h5]This includes restarting all modems & routers. Network hardware can get into slow or broken state after running for a long time. This can cause broadcast requests to take longer than normal, or to timeout completely.  
   
@@ -133,4 +133,4 @@ You'll want to work with a tech support specialist to ensure that your AV softwa
   
 You'll want to work with a tech support specialist to ensure that these services & programs are not interfering with Steam. You may even need to temporarily disable them for testing purposes.  
   
-[section style=important]  [h5]Have more questions or need help?[/h5]Check out the [Steam Broadcasting Group Discussions](http://steamcommunity.com/groups/steambroadcasting/discussions) to read more and find out answers to other frequently asked questions.[/section]
+ [h5]Have more questions or need help?[/h5]Check out the [Steam Broadcasting Group Discussions](http://steamcommunity.com/groups/steambroadcasting/discussions) to read more and find out answers to other frequently asked questions.

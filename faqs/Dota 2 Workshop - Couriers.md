@@ -21,7 +21,7 @@ Updated 2021-08-28 01.26.51
 
   
   
-## [url id=concept][/url]
+## [](id=concept)
 ## COURIER CONCEPT CONSIDERATIONS
 
 * Make sure the courier's face or prominent features can be clearly seen from above in game view.
@@ -43,7 +43,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=eyefocus][/url]  
+[](id=eyefocus)  
   
 ## EYE FOCUS
 
@@ -59,7 +59,7 @@ Updated 2021-08-28 01.26.51
 
 ---
   ##   
-## [url id=models][/url]
+## [](id=models)
 ## COURIER MODELS
 
 * Couriers require both a walking AND a flying model.
@@ -86,7 +86,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=scale][/url]  
+[](id=scale)  
   
 ## COURIER SCALE
 
@@ -102,7 +102,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=textures][/url]  
+[](id=textures)  
   
 ## COURIER TEXTURES
 
@@ -119,7 +119,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=animation][/url]  
+[](id=animation)  
   
 ## COURIER ANIMATION OVERVIEW
 
@@ -138,7 +138,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=spawn][/url]  
+[](id=spawn)  
   
 ## COURIER SPAWN ANIMATION
 
@@ -153,7 +153,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=movement][/url]  
+[](id=movement)  
   
 ## COURIER MOVEMENT ANIMATION
 
@@ -173,7 +173,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=death][/url]  
+[](id=death)  
   
 ## FLYING COURIER HEIGHT AND DEATH ANIMATION
 
@@ -196,7 +196,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=hitboxes][/url]  
+[](id=hitboxes)  
   
 ## HITBOXES
 
@@ -211,7 +211,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=attachments][/url]  
+[](id=attachments)  
   
 ## ATTACHMENT POINTS
 
@@ -235,7 +235,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=submitting][/url]  
+[](id=submitting)  
   
 ## SUBMITTING COURIERS 
 
@@ -261,7 +261,7 @@ Updated 2021-08-28 01.26.51
 ---
   
   
-[url id=download][/url]  
+[](id=download)  
   
 ## REFERENCE DOWNLOAD
 

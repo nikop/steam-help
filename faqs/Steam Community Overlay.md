@@ -54,10 +54,10 @@ Additionally, you can turn on/off the Steam Overlay per game.
 * Under the **General** tab, you'll find a checkbox for **Enable the Steam Overlay while in-game**
 
   
-[section style=note]### Steam Overlay Shortcut Keys
+### Steam Overlay Shortcut Keys
 The Steam shortcut allows the overlay to be opened in-game. You'll want to double check that you have it set correctly.  
   
-The default shortcut is **Shift + Tab**. To change the shortcut select **Steam > Settings > In-game**[/section]  
+The default shortcut is **Shift + Tab**. To change the shortcut select **Steam > Settings > In-game**  
   
   
 # Basic Steam Troubleshooting

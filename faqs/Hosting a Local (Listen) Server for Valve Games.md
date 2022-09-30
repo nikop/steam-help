@@ -5,8 +5,8 @@ I want to host a server on my computer to play with my friends over the Internet
   
 In order for users outside your local network to connect to a server hosted on your computer, you must properly configure your network, security software, and the game so that connection requests can reach your computer.  
   
-[section style=important] ### Important
-You must have administrative access to your network hardware (e.g. router) and on the computer in order to make some of the required changes. If you are not the owner of the network or computer, you will need to contact your network or computer administrator to request these changes.[/section] #### Setting Up Your Connection
+  ### Important
+You must have administrative access to your network hardware (e.g. router) and on the computer in order to make some of the required changes. If you are not the owner of the network or computer, you will need to contact your network or computer administrator to request these changes.  #### Setting Up Your Connection
 Some of the following steps may not apply to you, for example if you do not have a router and your computer is connected directly to your modem—if the step does not apply, skip the step and continue with the next one.  
   
 You will need your public Internet IP address. This can be viewed quickly by visiting a site like [whatismyip.com](http://www.whatismyip.com/). This address identifies your connection to the Internet, similar to how a street address identifies your house.  

@@ -17,8 +17,8 @@ These tools capture all network operations respective to the browser session tha
   
 None of this information is automatically sent to Valve. If you are working with Steam Support on a customer support issue, you can choose to send the report. Valve will use the information you recorded to assist with your customer support issue, and will protect the information in accordance with [Valve's privacy policy](http://store.steampowered.com/privacy_agreement/).  
   
-[section style=warning] ### Unencrypted Data Warning
-All information being sent and received will be recorded by the tool in its unencrypted state. This can include billing information, sensitive payment details, and other form data that you enter during the recording process. We ask that you remove any of this information prior to submitting. Instructions on doing so can be found at the bottom of this article.[/section]   
+  ### Unencrypted Data Warning
+All information being sent and received will be recorded by the tool in its unencrypted state. This can include billing information, sensitive payment details, and other form data that you enter during the recording process. We ask that you remove any of this information prior to submitting. Instructions on doing so can be found at the bottom of this article.    
 # How to create and submit a report
   
 Depending on which browser you are using, you can follow the steps below to reproduce the issue and capture the associated activity log. Make sure that if you are reproducing a purchasing issue, you read the note at the bottom of this article and remove any sensitive information you have entered on the web page, such as credit card related information.  
@@ -47,7 +47,7 @@ Depending on which browser you are using, you can follow the steps below to repr
     
   
   
-[section style=important]   
+    
 # Removing sensitive information from your report
   
 If there is any sensitive data in your log, you can edit the .txt, .xml, or .har file and remove that data.  
@@ -55,5 +55,3 @@ If there is any sensitive data in your log, you can edit the .txt, .xml, or .har
 * Open the .txt, .xml, or .har file that you generated using the developer tool.
 * Use your operating system's 'find' function to search the document for any instances of sensitive data.
 * Delete this information and save the document as a .txt file so it can be attached to your Steam Support ticket.
-
- [/section]

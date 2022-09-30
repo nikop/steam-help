@@ -3,8 +3,8 @@ Updated 2021-07-10 19.49.55
 
 I bought a game through Steam and I was able to play for a little while, but now Steam is asking me to purchase the game again. What's the problem?  
   
-[section style=important] ### Important:
-If you have not recently purchased a game please see the [Games are Missing from the Library](https://help.steampowered.com/en/faqs/view/78F3-4DEB-80B4-E346) article for instructions.[/section]  
+  ### Important:
+If you have not recently purchased a game please see the [Games are Missing from the Library](https://help.steampowered.com/en/faqs/view/78F3-4DEB-80B4-E346) article for instructions.  
   
 ### Recent Purchases
 Steam may allow you to play the game while it is in the process of authorizing your credit card.  

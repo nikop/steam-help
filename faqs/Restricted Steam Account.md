@@ -5,13 +5,13 @@ Updated 2021-07-20 23.37.56
 * [What types of restrictions can be applied to a Steam account?](#restrictiontypes)
 
     
-[section style=warning]Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
+Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
   
 If someone claims they reported you accidentally or falsely, you do not need to do anything to protect your account. These claims are always fake and only meant scam you. If someone did report your account falsely, you can rest assured that Steam disregards false reports.   
   
-Anyone claiming to be a Valve employee or Steam Support representative, asking to verify your items for an investigation or security reasons should be immediately [ reported for trade scams.](https://help.steampowered.com/en/faqs/view/70E6-991B-233B-A37B#reportscammer)[/section]   
+Anyone claiming to be a Valve employee or Steam Support representative, asking to verify your items for an investigation or security reasons should be immediately [ reported for trade scams.](https://help.steampowered.com/en/faqs/view/70E6-991B-233B-A37B#reportscammer)    
   
-[url id=whyrestrict][/url]  
+[](id=whyrestrict)  
 # Why would a Steam account be restricted?
 Steam Support does not contact the owners of restricted accounts by email in most circumstances. Most restrictions present their details in a lock or ban notification message shown on the account as long as that restriction remains active.   
   
@@ -37,7 +37,7 @@ An account used to abuse or harass others will be blocked from using Steam Commu
 
   
   
-[url id=restrictiontypes][/url]  
+[](id=restrictiontypes)  
 # What types of restrictions can be applied to a Steam account?
   
   

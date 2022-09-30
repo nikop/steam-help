@@ -61,4 +61,4 @@ Your Steam Mobile app can be used to authenticate multiple Steam accounts. To ad
   
 Questions about Steam Guard Mobile Authenticators? [Learn more here](https://help.steampowered.com/en/faqs/view/7EFD-3CAE-64D3-1C31?l)  
   
-[section style=important]If you're having trouble logging in with the Steam mobile authenticator, please use our help site ([help.steampowered.com](https://help.steampowered.com)) to recover your account.[/section]
+If you're having trouble logging in with the Steam mobile authenticator, please use our help site ([help.steampowered.com](https://help.steampowered.com)) to recover your account.

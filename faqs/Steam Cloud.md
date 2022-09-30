@@ -19,11 +19,11 @@ Because of the automated nature of cloud synchronization, Steam Support has a li
 * [Steam Cloud Troubleshooting](#basic)
 
   
-[section id=howto][/section] # How do I tell if my game uses Steam Cloud?
+  # How do I tell if my game uses Steam Cloud?
 Developers are able to completely customize how The Steam Cloud is used for their games, including which user files are uploaded.  
   
 The Steam Storepage will show a Steam Cloud logo in the upper right if a game uses the Steam Cloud. But, you may need to work with the developer or the community to determine exactly which files or settings are integrated.  
-[section id=enabling][/section]  
+  
   
 # How can I enable or disable The Steam Cloud?
   
@@ -43,7 +43,7 @@ The Steam Cloud can be toggled for individual games, or as a global Steam settin
 * Cloud can be enabled or disabled using the toggle next to *Enable Steam Cloud Sync for applications that support it*.
 
     
-[section id=where][/section]   
+    
 # Where are cloud files stored locally?
   
 Cloud files are stored locally in the following locations by default:  
@@ -73,7 +73,7 @@ Changes made to your Steam client settings are stored in the cloud, as well as l
 * Steam\userdata\[steamID]\7\
 
     
-[section id=log][/section]   
+    
 # Is there a log of Steam Cloud activity?
   
 Steam creates an log entry any time that files are written to the cloud or retrieved from it.  
@@ -86,7 +86,7 @@ These are logged in the *cloud_log.txt* file, which is stored in the following l
 * **Linux:** ~/.local/share/Steam/logs
 
     
-[section id=conflicts][/section]   
+    
   
 # How do I resolve a Steam Cloud conflict?
   
@@ -102,7 +102,7 @@ You will most likely want to pick the version of the files that was modified mos
 Note that playing games in Offline Mode will keep games from syncing until you've gone back online, and this is very likely to cause a conflict.  
   
   
-[section id=sync][/section]   
+    
 # What if Steam is unable to sync files to the cloud?
   
   
@@ -115,7 +115,7 @@ Users are encouraged to address the underlying cause of the error prior to launc
 Ignoring the message and selecting "play game" could potentially cause a conflict between the cloud and your local files, resulting in lost data or progress.  
   
   
-[section id=lostdata][/section]   
+    
 # What if I lost a file or progress after moving to a different machine?
   
 If you are not seeing your most recent progress and you have double-checked that the game uses Steam Cloud on its store page, either Steam was not able to sync successfully with Steam Cloud before closing, or the sync resulted in a previous version of your data being uploaded to the cloud.  
@@ -127,7 +127,7 @@ Also, many games do not use Steam cloud to store save games. The game developer 
 Steam Support can provide further clarification on how the Cloud system works, but they cannot recover lost saves or assist in resolving cloud conflicts.  
   
   
-[section id=crossplat][/section]   
+    
 # What if I have an issue with cross-platform cloud data?
   
 Steam supports cross-platform integration of cloud data between different operating systems.  
@@ -135,7 +135,7 @@ Steam supports cross-platform integration of cloud data between different operat
 However, not all games make use of this feature. You would want to check with the community or the developer to confirm the details of cross-platform cloud integration.  
   
   
-[section id=basic][/section]   
+    
 # Steam Cloud Troubleshooting
   
 If you are continually experiencing issues with Steam cloud functionality, it's possible that something is interfering with the cloud or preventing it from working as expected.  

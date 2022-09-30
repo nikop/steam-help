@@ -10,4 +10,4 @@ Please see our [Item Restoration Policy](https://help.steampowered.com/en/faqs/v
 # Items Affected by Bans
 Please see the [Items Not Properly Awarded](https://help.steampowered.com/en/faqs/view/52E6-2DF8-205B-6561) article for information on how bans affect inventories and items.  
   
-[section style=important] Please note that Steam Support does not restore deleted items.[/section]
+ Please note that Steam Support does not restore deleted items.

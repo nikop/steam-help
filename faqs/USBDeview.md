@@ -8,7 +8,7 @@ Updated 2021-08-10 19.10.20
  # USBDeview
 [USBDeview](http://www.nirsoft.net/utils/usb_devices_view.html) is a tool that removes old USB device records from Windows. Removing these records can help with corrupt or incorrectly installed USB drivers.  
   
-[section style=note]Please note: USBDeview is a third-party application. This app was not developed by Valve and we cannot provide support for it. Please do not attempt these steps unless you have exhausted our other troubleshooting options.[/section]  
+Please note: USBDeview is a third-party application. This app was not developed by Valve and we cannot provide support for it. Please do not attempt these steps unless you have exhausted our other troubleshooting options.  
   
 Get started:  
   

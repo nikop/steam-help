@@ -13,7 +13,7 @@ Updated 2021-08-05 19.49.16
 
   
   
-[url id=use][/url]  
+[](id=use)  
   
 ### When can I use my coupons?
 Steam coupons are valid through the specified dates that are on each coupon. To access your coupon to see the dates please follow these steps:  
@@ -25,42 +25,42 @@ Steam coupons are valid through the specified dates that are on each coupon. To 
 
   
   
-[url id=howmany][/url]  
+[](id=howmany)  
   
 ### How many coupons can I use on an item?
 You can use one coupon per item.  
   
-[url id=discounted][/url]  
+[](id=discounted)  
   
 ### Can I use coupons on already discounted items?
 Unless clearly stated otherwise, promotions such as coupons or loyalty discounts do not stack with Steam Sale pricing.  
   
-[url id=happens][/url]  
+[](id=happens)  
   
 ### What happens to my coupons when they expire?
 Expired coupons will be automatically removed from your inventory.  
   
-[url id=which][/url]  
+[](id=which)  
   
 ### How do I know which products the coupon can apply to?
 Coupons in your inventory will have a button marked "View Applicable Games" in the detail panel for each one. Following this button will show you a page with available products that the coupon can apply to.  
   
-[url id=checkout][/url]  
+[](id=checkout)  
   
 ### How do I apply a coupon during checkout?
 When you add a valid item to your cart, Steam will apply any of your applicable coupons automatically. Prior to clicking "purchase," you can choose to save your coupon for later by clicking the "Change/Remove coupon" link for that coupon in your cart.  
   
-[url id=expire][/url]  
+[](id=expire)  
   
 ### How do I know when my coupons will expire?
 The expiration date is displayed in the detailed information for each coupon in your Steam Inventory.  
   
-[url id=trade][/url]  
+[](id=trade)  
   
 ### Can I trade Steam Coupons?
 Yes! You can trade your Steam Coupons using our Steam Trading system. For more information on how Steam Trading works please visit the following [FAQ](https://help.steampowered.com/en/faqs/view/46A2-2B3C-95CC-8878).  
   
-[url id=give][/url]  
+[](id=give)  
   
 ### Can I give my coupon to another Steam user?
 Absolutely. You can send your Steam Coupons to another user through Steam Trading. The user receiving the coupon does not have to send anything in return to complete a Steam Trade. For more information on how Steam Trading works please visit the following [FAQ](https://help.steampowered.com/en/faqs/view/46A2-2B3C-95CC-8878).

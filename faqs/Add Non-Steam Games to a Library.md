@@ -3,8 +3,8 @@ Updated 2021-07-10 19.49.55
 
 How can I add non-Steam games to my **Library** in Steam?  
   
-[section style=important] ### Important:
-This will only add a shortcut to your game in the Steam client. This will not allow you to download updates for your game through Steam, nor allow you to use this game as proof of ownership for your Steam account.[/section] #### Adding a shortcut to a non-Steam game
+  ### Important:
+This will only add a shortcut to your game in the Steam client. This will not allow you to download updates for your game through Steam, nor allow you to use this game as proof of ownership for your Steam account.  #### Adding a shortcut to a non-Steam game
 
 * Launch Steam.
 * Click the **Games** menu, choose **Add a Non-Steam Game to My Library.**

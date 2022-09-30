@@ -22,7 +22,7 @@ Updated 2021-10-28 01.43.57
 
   
   
-[url id=overview][/url]  
+[](id=overview)  
   
 ## OVERVIEW
 
@@ -47,7 +47,7 @@ Model, Color, Normal, Metalness, Self Illumination, Specular, Rimlight, Base Tin
 ---
   
   
-[url id=source1][/url]  
+[](id=source1)  
   
 ## SOURCE 1 TEXTURE AND SHADER MASK CONVERSION
 
@@ -63,10 +63,10 @@ Model, Color, Normal, Metalness, Self Illumination, Specular, Rimlight, Base Tin
 ---
   
   
-[url id=source2][/url]  
+[](id=source2)  
   
 ## SOURCE 2 TEXTURES AND SHADER MASKS 
-[url id=color][/url]  
+[](id=color)  
   
 ##  Color Map
   
@@ -97,7 +97,7 @@ Color Maps for Ogre Magi, Disruptor, and Razor
 ---
   
   
-[url id=transparency][/url]  
+[](id=transparency)  
   
 ##  Transparency
   
@@ -122,7 +122,7 @@ The mesh, Color Map, Transparency, and game model for Abaddon's default cape
   
   
   
-[url id=normal][/url]  
+[](id=normal)  
   
 ##  Normal Map
   
@@ -154,7 +154,7 @@ The model mesh without Normal Map, with Normal Map, and with all final textures 
 ---
   
   
-[url id=detail][/url]  
+[](id=detail)  
   
 ##  Detail Mask
   
@@ -188,7 +188,7 @@ Razor's arm with the Detail Mask
 ---
   
   
-[url id=metalness][/url]  
+[](id=metalness)  
   
 ##  Metalness Mask
   
@@ -212,7 +212,7 @@ Razor's arm with the Detail Mask
 ---
   
   
-[url id=selfillum][/url]  
+[](id=selfillum)  
   
 ##  Self Illumination Mask
   
@@ -245,7 +245,7 @@ A more subtle mask is used for the glow within Earth Spirit's arms.
 ---
   
   
-[url id=specular][/url]  
+[](id=specular)  
   
 ##  Specular Mask
   
@@ -276,7 +276,7 @@ Authored Specular
 ---
   
   
-[url id=rimlight][/url]  
+[](id=rimlight)  
   
 ##  Rimlight
 
@@ -311,7 +311,7 @@ Ogre Magi's weapon rimlight mask is light for leather and dark for metal
 ---
   
   
-[url id=basetint][/url]  
+[](id=basetint)  
   
 ##  Base Tint Mask
   
@@ -336,7 +336,7 @@ Ogre Magi's bracer and Disruptor's base model without and with a Base Tint Mask
 ---
   
   
-[url id=exponent][/url]  
+[](id=exponent)  
   
 ##  Specular Exponent
   
@@ -381,7 +381,7 @@ Authored Specular Exponent
 ---
   
   
-[url id=diffuse][/url]  
+[](id=diffuse)  
   
 ## Diffuse Mask (rarely used)
 
@@ -399,7 +399,7 @@ Puck without (left) and with (right) a Custom Fresnel Color Warp applied to diff
 ---
   
   
-[url id=budgets][/url]  
+[](id=budgets)  
   
 ## TEXTURE BUDGETS AND RESOLUTION
   

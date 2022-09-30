@@ -86,10 +86,10 @@ Next, you must edit your server.cfg file to properly reflect your server's IP ad
   
 `IP < your IP address >  
   
-port 27015` [section style=note] ### Note:
+port 27015`    ### Note:
 If you have a Dynamic IP, from time to time your external IP address will change, especially if you reboot or cycle the power on your modem.  
   
-Each time this happens you must change the IP in your server.cfg to match your new external IP in order for your server to continue working properly.[/section]  
+Each time this happens you must change the IP in your server.cfg to match your new external IP in order for your server to continue working properly.  
   
 Note: When you start your server it will report your internal IP address, not your external IP address.  
   
@@ -99,7 +99,7 @@ Enter your internal IP address and port setting in this format: `192.168.1.100:2
   
 Then you can connect to your server from your **Favorites** menu.
 
- [section style=important] ### Important:
+    ### Important:
 If you have a server and a client behind the same router, the client cannot connect to the server through the server browser. In fact the server may not be visible in the server browser of the client.  
   
-The client must connect to the server using the server's internal IP address.[/section]
+The client must connect to the server using the server's internal IP address.

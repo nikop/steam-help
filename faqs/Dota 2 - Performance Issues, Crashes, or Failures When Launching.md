@@ -29,16 +29,16 @@ If you are encountering any issues with your Steam games, [ensure that your driv
   
 If you encounter a Blue Screen error with Dota 2 or your computer is restarting when launching or playing Dota 2, make sure that your BIOS and Chipset Drivers are fully up to date (see your motherboard manufacturer's instruction manual or website for specific instructions and updates).  
   
-[section id=#verify]### Verifying your game files
+### Verifying your game files
   
-If you think some files of your game installation may be corrupt or have been deleted as a false positive by antivirus or security software, try [Verify Integrity of Game Files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB).[/section]  
+If you think some files of your game installation may be corrupt or have been deleted as a false positive by antivirus or security software, try [Verify Integrity of Game Files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB).  
   
 ### Launching with -autoconfig or -safe mode 
   
 If Dota 2 is failing to start after preparing to launch, we recommend that you attempt to launch with either the -autoconfig or -safe launch option in that order.  
   
-[section style=note] ### Note:
-Only one of these launch options can be used at a time. Once you are able to launch this game, you will need to remove these launch options if you wish to change any video settings.[/section]  
+  ### Note:
+Only one of these launch options can be used at a time. Once you are able to launch this game, you will need to remove these launch options if you wish to change any video settings.  
   
 Using the -autoconfig launch option  
 
@@ -84,8 +84,8 @@ This should be done if you think some of the game's files may be corrupt, or if 
   
 **For Linux computers:**  
   
-[section style=note] ### Note:
-Steam for Linux is currently only supported on Ubuntu 12.04/12.10 with Unity, Gnome, or KDE desktops.[/section]  
+  ### Note:
+Steam for Linux is currently only supported on Ubuntu 12.04/12.10 with Unity, Gnome, or KDE desktops.  
 
 * Exit Steam and go to your Home folder.
 * Press CTRL+H to reveal any hidden folders.

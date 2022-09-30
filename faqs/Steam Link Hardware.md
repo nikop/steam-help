@@ -6,7 +6,7 @@ The Steam Link allows you to stream games from the Steam Library on your PC to a
   
 Video and audio data is sent from your computer, while your controller input is sent back in real time. Virtually every game that your computer runs can be streamed with the Steam Link.  
   
-[section style=note]Steam Link technology is also available for [Android Devices](https://help.steampowered.com/en/faqs/view/7112-CD02-7B57-59F8), [Samsung TVs](https://help.steampowered.com/en/faqs/view/175C-DDCE-F0CF-B3BD), and [Raspberry Pi](https://help.steampowered.com/en/faqs/view/6424-467A-31D9-C6CB)[/section]  
+Steam Link technology is also available for [Android Devices](https://help.steampowered.com/en/faqs/view/7112-CD02-7B57-59F8), [Samsung TVs](https://help.steampowered.com/en/faqs/view/175C-DDCE-F0CF-B3BD), and [Raspberry Pi](https://help.steampowered.com/en/faqs/view/6424-467A-31D9-C6CB)   
   
 #### Required/Recommended Equipment
 [*]A computer running Steam, Windows 7 or newer, Mac OS X 10.10 (Yosemite) or newer, SteamOS, or Linux Ubuntu 12.04 or newer.[/*]  			[*]A TV or display capable of running at 720p or 1080p resolution[/*]  			[*]Home network connectivity to both Steam Link and host computer. Wired network strongly recommended.[/*]  			[*]Any of the input devices listed below[/*]  

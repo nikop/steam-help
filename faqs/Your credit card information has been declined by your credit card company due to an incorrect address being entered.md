@@ -6,15 +6,15 @@ When attempting to complete a purchase through Steam, I receive the following sp
 ### Your purchase has not been completed. Your credit card information has been declined by your credit card company due to an incorrect address being entered.
 How can I resolve this issue?  
   
-[section style=important]If the specific error message that you receive is one of the following, click the link to the correct support page for that issue.  
+If the specific error message that you receive is one of the following, click the link to the correct support page for that issue.  
   
 ["Your purchase has not been completed. Your credit card information has been declined by your credit card company."](https://help.steampowered.com/en/faqs/view/4CEF-A17B-388F-2A24)  
   
-["An unexpected error has occurred. Your purchase has not been completed. Please contact Steam Support."](https://help.steampowered.com/en/faqs/view/1C94-8CCC-CDC5-E1E7)[/section]  
+["An unexpected error has occurred. Your purchase has not been completed. Please contact Steam Support."](https://help.steampowered.com/en/faqs/view/1C94-8CCC-CDC5-E1E7)  
   
 ## Your purchase has not been completed. Your credit card information has been declined by your credit card company due to an incorrect address being entered.
-[section style=note] ### Important:
-Due to the nature of this error, the funds for the transaction may be set aside as a pending transaction by your bank. Steam will not collect these funds, and they will be returned to you per your bank's policy. More information can be found below.[/section]  
+  ### Important:
+Due to the nature of this error, the funds for the transaction may be set aside as a pending transaction by your bank. Steam will not collect these funds, and they will be returned to you per your bank's policy. More information can be found below.  
   
 ### Failing an Address Verification System (AVS) check
 This specific error message indicates the billing information that you have entered has failed a check against the information that your bank or card issuer has on file for this account.  
@@ -33,5 +33,5 @@ First, ensure that you double-check this information against what your bank has 
   
 In some very rare cases, there may be an issue with the information that your bank checks this information against, or the verification system may be temporarily malfunctioning. If you suspect that this is the case, you may wish to purchase a [Steam Wallet card](https://store.steampowered.com/account/redeemwalletcode) from a physical retailer or use an alternate payment method.  
   
-[section style=important] ### Note:
-If your purchase fails, Steam will email you a link that will let you try your purchase again (at the sale price) for up to 72 hours.[/section]
+  ### Note:
+If your purchase fails, Steam will email you a link that will let you try your purchase again (at the sale price) for up to 72 hours.

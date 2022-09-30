@@ -5,7 +5,7 @@ Community groups are user-created hubs where members can share interests, coordi
   
 Tools are also available to group owners and admins, making it possible to control membership, curate content, and manage the privileges available to other members.  
   
-[section style=important]  [h5]Limited accounts[/h5]Some group features are not available on limited accounts. More details can be found in the [Limited Account FAQ](https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A).[/section]  
+ [h5]Limited accounts[/h5]Some group features are not available on limited accounts. More details can be found in the [Limited Account FAQ](https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A).  
   
 # Group Creation & Management
 Once you've decided to create a group, you can begin the process [here](http://steamcommunity.com/actions/GroupCreate).  

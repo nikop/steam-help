@@ -3,14 +3,14 @@ Updated 2021-08-03 23.30.47
 
 I'm having video and display problems in a Valve/Source game, how do I change my video and display settings during launch?  
   
-[section style=important][h5]Check Drivers are recently Updated[/h5]  
+[h5]Check Drivers are recently Updated[/h5]  
 If you have not recently changed your video settings and you are experiencing video and display problems, please ensure your video drivers and DirectX are updated before proceeding:  
   
 [Updating Drivers](https://help.steampowered.com/en/faqs/view/5799-495F-1F25-D15B)  
   
 If that does not resolve the issue you can try using the launch options below to try and troubleshoot the issue.  
   
-**Note:** The following processes are suggested only for Valve games. These options will have no effect when launching other Steam games.[/section]  
+**Note:** The following processes are suggested only for Valve games. These options will have no effect when launching other Steam games.  
   
 
 * [How do I set the autoconfig launch option?](#autoconfig)
@@ -19,8 +19,8 @@ If that does not resolve the issue you can try using the launch options below to
 
   
   
-[section id=#autoconfig]# How do I set the autoconfig launch option?
-[/section]The *-autoconfig* launch option will allow Steam to configure a Valve/Source game with the best settings for use on your machine.  
+# How do I set the autoconfig launch option?
+The *-autoconfig* launch option will allow Steam to configure a Valve/Source game with the best settings for use on your machine.  
 
 * Open Steam
 * Go to the "Library"
@@ -31,8 +31,8 @@ If that does not resolve the issue you can try using the launch options below to
 * Type *-autoconfig* in the box
 
     
- [section id=#safe]# How do I set the safe mode launch option?
-[/section]The *-safe* launch option will cause the game to launch with minimal video settings, in windowed mode and with a 640 x 480 resolution. This can be helpful for solving video configuration problems.  
+  # How do I set the safe mode launch option?
+The *-safe* launch option will cause the game to launch with minimal video settings, in windowed mode and with a 640 x 480 resolution. This can be helpful for solving video configuration problems.  
 
 * Open Steam
 * Go to the "Library"
@@ -44,8 +44,8 @@ If that does not resolve the issue you can try using the launch options below to
 
     
   
- [section id=#force]# How do I force a working DirectX level and video mode?
-[/section]If the Valve/Source game fails to load with the default settings, you will need to test for a working DirectX level and video mode.  
+  # How do I force a working DirectX level and video mode?
+If the Valve/Source game fails to load with the default settings, you will need to test for a working DirectX level and video mode.  
   
 #### Force a DirectX level
 This process may help with some older video cards - some users report the game will run faster, as well:  
@@ -68,8 +68,8 @@ This process may help with some older video cards - some users report the game w
 #### Force a Video Mode
 Follow these instructions to configure your video mode and resolution before launching a game:  
   
-[section style=important] ### Important:
-If you are forcing a refresh rate on your system (this is not recommended), you will need to ensure that you specify the forced refresh rate in the launch options.[/section] 
+  ### Important:
+If you are forcing a refresh rate on your system (this is not recommended), you will need to ensure that you specify the forced refresh rate in the launch options.  
 * Open Steam
 * Go to the "Library"
 * Right-click the game which needs to be reconfigured
@@ -91,7 +91,7 @@ If you are forcing a refresh rate on your system (this is not recommended), you 
 
   
   
-[section id=#videores]**Supported Video Resolutions**[/section]Use the *-w #* switch (where " *#* " is a number from the list below) to specify the display resolution:  
+**Supported Video Resolutions**Use the *-w #* switch (where " *#* " is a number from the list below) to specify the display resolution:  
 
 * *640* (640x480) **GoldSource Only**
 * *720* (720x576)
@@ -105,8 +105,6 @@ If you are forcing a refresh rate on your system (this is not recommended), you 
 * *2560* (2560 x 1440)
 
   
-[section style=note]**Notes on Display Resolution Settings**
+**Notes on Display Resolution Settings**
 * Higher resolutions will affect the Frames Per Second which your machine can display.
 * 640x480 resolution may run slower than 800x600 resolution on newer video cards.
-
-[/section]

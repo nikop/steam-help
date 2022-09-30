@@ -22,38 +22,38 @@ Chargebacks typically occur when someone identifies unknown charges on their ban
   
 In order to protect our users from additional unknown charges, accounts associated with chargebacks are restricted while disputes are reviewed.  
   
-[url id=5][/url]  
+[](id=5)  
   
 #### How can I remove the restrictions from my account?
 The quickest way to remove the restrictions is for the purchaser to contact the financial institution associated with the disputed payments in order to close them; doing so will restore access to the disputed content, as well as remove the restrictions from the account.  
   
 Depending on the institution associated with the payments, it may take several weeks after closing a dispute for the content and account features to be restored.  
   
-[url id=6][/url]  
+[](id=6)  
   
 #### What if charges were unauthorized or made without my consent?
 If the charges were made without your consent, please contact Steam Support in order to resolve the issue and safeguard the account from future unauthorized activity.  
   
-[url id=2][/url]  
+[](id=2)  
   
 #### Why were games/items removed?
 With any chargeback, funds are held from Steam or returned to the cardholder. Since the funds are removed, the product is temporarily locked.  
   
 If a dispute is closed and the funds are returned to Steam, the content associated with the dispute will be restored.  
   
-[url id=4][/url]  
+[](id=4)  
   
 #### What if I disputed the purchase because of issues with the product?
 We encourage users to work Steam Support for technical issues with products. Users may also need to contact the developer/publisher of the product for specific technical support.  
   
 If issues are unable to be resolved through support, users are encouraged to submit a [refund request](https://support.steampowered.com/kb/6695-QIKM-7966) through Steam.  
   
-[url id=8][/url]  
+[](id=8)  
   
 #### What if I am unable to reverse the chargeback?
 If a chargeback cannot be reversed by working with the financial institution associated with it, please contact Steam support for further assistance.  
   
-[url id=9][/url]  
+[](id=9)  
   
 #### What if hardware is included in the disputed transaction?
 Hardware chargebacks are similar to regular chargebacks in that your account will automatically be locked and restricted from future purchases.  

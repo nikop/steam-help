@@ -3,12 +3,12 @@ Updated 2021-08-16 19.57.14
 
 How should I uninstall Steam?  
   
-[section style=important] ### Important:
-This process will remove Steam and any installed game content from your machine. If reinstalling Steam and Steam games in the near future, please move the steamapps folder (C:\Program Files (x86)\Steam\steamapps) outside of the Steam directory to prevent your games from being deleted.  Additionally, [backups](https://help.steampowered.com/en/faqs/view/4593-5CB7-DC3C-64F0) of all game content can be created for reinstallation.[/section]   
-[section style=warning] ### Warning:
+  ### Important:
+This process will remove Steam and any installed game content from your machine. If reinstalling Steam and Steam games in the near future, please move the steamapps folder (C:\Program Files (x86)\Steam\steamapps) outside of the Steam directory to prevent your games from being deleted.  Additionally, [backups](https://help.steampowered.com/en/faqs/view/4593-5CB7-DC3C-64F0) of all game content can be created for reinstallation.    
+  ### Warning:
 The uninstallation process deletes the folder Steam was installed to to ensure it is fully uninstalled. If you accidentally installed Steam to a folder containing other data, for example **C:\Program Files (x86)\** instead of **C:\Program Files (x86)\Steam\**    
   
-**STOP!** Do not run the uninstaller and instead carefully follow the instructions below for Manually Removing Steam, except only delete Steam-related files in step 3.[/section]  
+**STOP!** Do not run the uninstaller and instead carefully follow the instructions below for Manually Removing Steam, except only delete Steam-related files in step 3.  
 Please observe the following procedure to uninstall Steam and any game content from your machine:  
   
 **Note:** The following instructions are for Windows 10. For older versions of Windows please see Microsoft's support site for instructions on how to remove an application for your specific version.  
@@ -29,11 +29,11 @@ The latest Steam installer can be found on the [Get Steam Now](https://store.ste
   
 If all of the above options fail to assist you in uninstalling Steam, you can still remove your Steam files and registry entries manually.  
   
-[section style=important]For Mac OS uninstall instructions, please see the [Removing and Reinstalling Steam on a Mac](https://help.steampowered.com/en/faqs/view/30EB-87BF-531F-512D) page.[/section]  
+For Mac OS uninstall instructions, please see the [Removing and Reinstalling Steam on a Mac](https://help.steampowered.com/en/faqs/view/30EB-87BF-531F-512D) page.  
   
 #### Manually Removing Steam
-[section style=warning] ### Warning:
-Dealing with your registry requires extreme care. Do not delete anything in your Windows registry that you are unsure about. For this reason, we suggest you only use this option as a last resort.[/section] 
+  ### Warning:
+Dealing with your registry requires extreme care. Do not delete anything in your Windows registry that you are unsure about. For this reason, we suggest you only use this option as a last resort.  
 * Exit Steam.
 * Navigate to your Steam directory. (Typically **C:\Program Files (x86)\Steam**) 
 * If you wish to save your game files for a future installation of Steam, copy your **steamapps** folder outside of your Steam directory.
