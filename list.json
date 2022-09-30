@@ -47,7 +47,57 @@
     "2EA8-4D75-DA21-31EB",
     "784C-923B-A4A1-C825",
     "5FDE-BA65-ACCE-A411",
-    "588C-C67D-0251-C276"
+    "588C-C67D-0251-C276",
+    "22C0-03D0-AE4B-04E8",
+    "2A12-9D79-C3D7-F870",
+    "4C10-B32A-137D-0945",
+    "3E00-D38F-B793-7384",
+    "7D79-694F-CD36-CC9A",
+    "21A6-7C93-6CFE-100B",
+    "2B3F-DAEF-846B-A0E8",
+    "7D01-D2DD-D75E-2955",
+    "166F-D277-FAFA-8A4B",
+    "4BD4-4528-6B2E-8327",
+    "3978-072C-18DF-FBF9",
+    "041C-3EFA-3DF8-681C",
+    "0265-BEF0-5EFF-60DF",
+    "79DC-B3D4-D352-A3CC",
+    "3D15-B320-C20E-BACD",
+    "4F5A-900F-F1CC-A064",
+    "3944-4D89-1B3E-27DE",
+    "2FED-F8AA-46FD-5094",
+    "6CF4-96FA-BF4A-329D",
+    "7BE7-BB7D-D904-03AE",
+    "3708-5CDB-FFEE-C6DF",
+    "0CAD-3B4D-B874-A065",
+    "5D5F-A5BD-C25B-7205",
+    "5799-495F-1F25-D15B",
+    "699A-ECD2-F839-760C",
+    "0188-6BB7-D467-08E1",
+    "0CCF-571A-4430-0130",
+    "766B-CE62-F5A7-8314",
+    "072E-47E8-B513-6E4E",
+    "1013-C562-D0EB-1864",
+    "4B5E-5B79-AE70-9FA7",
+    "29A0-B5FB-95DC-DD6F",
+    "2ABE-09A8-DB83-3327",
+    "7880-740F-641A-6D50",
+    "4593-5CB7-DC3C-64F0",
+    "3C73-90F9-F600-0266",
+    "099E-F5D1-8780-4778",
+    "7112-CD02-7B57-59F8",
+    "175C-DDCE-F0CF-B3BD",
+    "6424-467A-31D9-C6CB",
+    "3E3D-BE6B-787D-A5D2",
+    "5FB8-4078-8B2A-C52B",
+    "299C-D7F9-09A5-98B6",
+    "30EB-87BF-531F-512D",
+    "0689-74B8-92AC-10F2",
+    "3E5A-CFB6-2269-D6C1",
+    "15B3-1CD0-72CF-A2CF",
+    "7E9D-27C8-EB08-21D9",
+    "266F-8F7F-55FA-63FA",
+    "4C03-C8BA-3EA1-B26A"
   ],
   "KnownFags": {
     "9067089756590837321": {
@@ -190,6 +240,156 @@
     },
     "6380693012289274486": {
       "FileName": "Steam Profile Privacy"
+    },
+    "2504005587630228712": {
+      "FileName": "Disconnected by VAC_ You cannot play on secure servers"
+    },
+    "3031658645476079728": {
+      "FileName": "Activating a Product on Steam"
+    },
+    "5481077739806853445": {
+      "FileName": "Steam Sales - Purchasing and billing FAQ"
+    },
+    "4467803444565209988": {
+      "FileName": "Dota 2 Workshop - Submitting Items"
+    },
+    "9041373518389234842": {
+      "FileName": "Index Headset FAQ"
+    },
+    "2424762422016217099": {
+      "FileName": "Account Deletion - Common Questions"
+    },
+    "3116450189417357544": {
+      "FileName": "Steam Store Country"
+    },
+    "9007712579960580437": {
+      "FileName": "Setting Game Launch Options"
+    },
+    "1616742204002961995": {
+      "FileName": "Dota 2 Workshop - Item FAQ"
+    },
+    "5464068287806472999": {
+      "FileName": "Moving a Steam Installation and Games"
+    },
+    "4141067743344458745": {
+      "FileName": "Steam Community Overlay"
+    },
+    "296180920002045980": {
+      "FileName": "Team Fortress 2 - Free to Play"
+    },
+    "172754100318855391": {
+      "FileName": "Touch Controls"
+    },
+    "8781091100125471692": {
+      "FileName": "SteamOS _ Steam Machines FAQ"
+    },
+    "4401621164100598477": {
+      "FileName": "Valve Hardware Compliance"
+    },
+    "5718041075055894628": {
+      "FileName": "Portal 2 Perpetual Testing Initiative"
+    },
+    "4126508409841133534": {
+      "FileName": "Recovering a Lost or Forgotten Steam Account"
+    },
+    "3453689899482173588": {
+      "FileName": "Dota Plus FAQ"
+    },
+    "7851066054108918429": {
+      "FileName": "Enabling the Half-Life Hi-Def Model Pack"
+    },
+    "8928310935471522734": {
+      "FileName": "Steam Link Hardware"
+    },
+    "3965521571861153503": {
+      "FileName": "Dota 2 Workshop - Cursor Packs"
+    },
+    "913451504419250277": {
+      "FileName": "Steam Wishlist"
+    },
+    "6728278602742985221": {
+      "FileName": "Dota 2 Workshop - Item Troubleshooting"
+    },
+    "6312157025629753691": {
+      "FileName": "Updating Drivers"
+    },
+    "7609654911247676940": {
+      "FileName": "Valve Index Fit Guide"
+    },
+    "110456628157286625": {
+      "FileName": "Setting Steam Launch Options"
+    },
+    "923052218959003952": {
+      "FileName": "Dota 2 Workshop - Account Preparation for Workshop Item Submission"
+    },
+    "8533140843407049492": {
+      "FileName": "Dota 2 Workshop - Team, Player, or Caster Branded Items"
+    },
+    "517430071990120014": {
+      "FileName": "Dota 2 - League Tickets"
+    },
+    "1158486557366884452": {
+      "FileName": "Dota 2 Workshop - Contract Only Submissions"
+    },
+    "5430878778831183783": {
+      "FileName": "Dota 2 Workshop - Couriers"
+    },
+    "2999597443984448879": {
+      "FileName": "Dota 2 Workshop - Wards"
+    },
+    "3079909816009962279": {
+      "FileName": "Dota 2 Workshop - Hero Ability Models"
+    },
+    "8683067691023101264": {
+      "FileName": "Dota 2 Workshop - NPC Animations"
+    },
+    "5013452754937210096": {
+      "FileName": "Using the Steam Backup Feature"
+    },
+    "4355984667845853798": {
+      "FileName": "Uninstall Steam"
+    },
+    "693261672931936120": {
+      "FileName": "Installing Steam"
+    },
+    "8147800086409599480": {
+      "FileName": "Android Steam Link App"
+    },
+    "1683464241602868157": {
+      "FileName": "Samsung TV Steam Link App"
+    },
+    "7215969993590687435": {
+      "FileName": "Raspberry Pi Steam Link App"
+    },
+    "4484950172723160530": {
+      "FileName": "Steam Link - Suggested Network Settings"
+    },
+    "6897333715793003819": {
+      "FileName": "Dota 2 Workshop - Item Model Requirements"
+    },
+    "2998508916530583734": {
+      "FileName": "Dota 2 Workshop - Item Shader Masks"
+    },
+    "3525060389150609709": {
+      "FileName": "Removing and Reinstalling Steam on a Mac"
+    },
+    "471035972120482034": {
+      "FileName": "Steam Remote Play"
+    },
+    "4493131959423850177": {
+      "FileName": "How do I diagnose and report network problems_"
+    },
+    "1563625177232679631": {
+      "FileName": "Dota 2 Workshop - Hero Wearable Items"
+    },
+    "9123492164012614105": {
+      "FileName": "Steam Link Support"
+    },
+    "2769590072922235898": {
+      "FileName": "Dota 2 Workshop - Low Violence Items"
+    },
+    "5477442274052911722": {
+      "FileName": "Apple Steam Link App"
     }
   }
 }
