@@ -1,4 +1,5 @@
 Slow Downloads and Connection to Content Servers
+------------------------------------------------
 Updated 2021-08-18 20.46.25
 
 How can I troubleshoot slow downloads or connections within Steam?
@@ -29,4 +30,3 @@ The speed displayed in your System Tray or network connection properties is typi
 [h2]Network Connectivity[/h2]Please follow these directions to make sure the correct ports are open and double check the list of ISP's that are known to have issues with Steam: [url=https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC]Troubleshooting Network Connectivity[/url].
 
 [h2]Connection Rate[/h2]Ensure that your Steam connection rate is set appropriately. For more information, please see [url=https://help.steampowered.com/en/faqs/view/163C-7C89-406E-2F63]Setting Client Rates[/url].
-

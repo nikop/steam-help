@@ -55,4 +55,3 @@ As an alternative, it is possible to control the access of cookies through your 
 * In the settings menu/Safari menu, select the 'Preferences' option;
 * Open the privacy tab;
 * Select the option you want related to cookie management on the page.
-

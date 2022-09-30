@@ -1,7 +1,6 @@
 # My Steam Support ticket was closed and I don't know why
 Updated 2021-07-10 19.49.55
 
-
 * [[*]How does a Steam Support ticket become closed?[/*]](#whyclosed)[[*]What should I do if I think my tickets are being closed maliciously?[/*]](#malclosed)
 
   
@@ -44,5 +43,4 @@ In addition to our normal [Account Security Recommendations](https://help.steamp
   
 While it's probably not a good idea to abandon one of your email accounts to a hijacker, you may choose to create a new email account or use an alternate account to contact Steam Support while you take measures to secure your original account.  
   
-Once you're sure that your computer and email account are secure, submit a new ticket to the Steam Support team.  
-  
+Once you're sure that your computer and email account are secure, submit a new ticket to the Steam Support team.

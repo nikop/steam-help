@@ -22,5 +22,4 @@ Updated 2021-07-10 19.49.55
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

@@ -34,5 +34,4 @@ For guided instructions on forwarding a port for a large selection of home route
 
   
   
-Once you have completed these steps, users should be able to join your currently running game. You will need to repeat the in-game steps if you exit the game.  
-  
+Once you have completed these steps, users should be able to join your currently running game. You will need to repeat the in-game steps if you exit the game.

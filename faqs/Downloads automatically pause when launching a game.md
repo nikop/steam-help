@@ -7,5 +7,4 @@ Steam automatically pauses your downloads when a game is launched in order to pr
   
 You can turn this feature off by navigating to your download settings: *Steam > Settings > Downloads*. From here, check the *Allow Downloads During Gameplay* box.  
   
-If the download is affecting the network performance of the game, you can also consider setting a bandwidth limit from the download settings.  
-  
+If the download is affecting the network performance of the game, you can also consider setting a bandwidth limit from the download settings.

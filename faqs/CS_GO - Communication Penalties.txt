@@ -1,4 +1,5 @@
 CS:GO - Communication Penalties
+-------------------------------
 Updated 2021-07-10 19.49.55
 
 [list]  	[*][url=#whywarning]I received an abusive communication warning. What does this mean?[/url][/*]  	[*][url=#whypenalty]I received a communication penalty in-game. How does this affect my account?[/url][/*]  	[*][url=#removepenalty]How do I remove a communication penalty from my account?[/url][/*]  	[*][url=#morepenalties]What happens if I receive another communication penalty?[/url][/*]  	[*][url=#falsepenalty]Can I appeal my communication warning or penalty?[/url][/*]  	[*][url=#falsereports]Is it possible to receive false reports which result in a communication warning or penalty?[/url][/*]  	[*][url=#actonreports]I have reported a user for abusive communication in-game. When will action be taken on their account?[/url][/*]  [/list]

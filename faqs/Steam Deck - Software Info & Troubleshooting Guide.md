@@ -78,5 +78,4 @@ Before trying to install apps from sources other than Steam, you'll want to be s
   
 # Contact Steam Support
   
-Unable to resolve your issue? [Open a ticket with Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamDeck).  
-  
+Unable to resolve your issue? [Open a ticket with Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamDeck).

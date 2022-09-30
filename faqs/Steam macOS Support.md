@@ -5,5 +5,4 @@ On January 1 2019, Steam officially stopped supporting macOS versions 10.7 ("Lio
   
 The newest features in Steam rely on an embedded version of Google Chrome, which no longer functions on older versions of macOS. In addition, future versions of Steam will require macOS feature and security updates only present in macOS 10.11 ("El Capitan") and above.  
   
-Users of macOS versions 10.7 ("Lion") through 10.10 ("Yosemite") can find more information on upgrading macOS [here](https://www.apple.com/macos/how-to-upgrade/).  
-  
+Users of macOS versions 10.7 ("Lion") through 10.10 ("Yosemite") can find more information on upgrading macOS [here](https://www.apple.com/macos/how-to-upgrade/).

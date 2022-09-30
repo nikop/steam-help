@@ -1,7 +1,6 @@
 # Valve Hardware RMA Guide
 Updated 2022-02-24 22.44.18
 
-
 ---
   
 If you are not satisfied with your Valve Hardware ("Hardware") purchase, you can pursue a refund or request product service. To make this as easy as possible for you, please use the "Return Merchandise Authorization" (RMA) process. You can start this process by contacting Steam Support [here](https://help.steampowered.com/en/wizard/HelpWithSteamHardware).  
@@ -68,7 +67,4 @@ While you should contact Steam Support for troubleshooting assistance with your 
   
 [EU Right of Withdrawal](https://help.steampowered.com/en/faqs/view/369C-3E9F-76FD-DEDA)  
   
-[Valve Hardware Shipping FAQ](https://help.steampowered.com/en/faqs/view/339C-BC5C-3D89-53D9)  
-  
-  
-  
+[Valve Hardware Shipping FAQ](https://help.steampowered.com/en/faqs/view/339C-BC5C-3D89-53D9)

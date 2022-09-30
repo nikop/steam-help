@@ -1,4 +1,5 @@
 Failed to Start Game (Missing Executable)
+-----------------------------------------
 Updated 2021-07-10 19.49.55
 
 When launching a game, Steam displays an error message:
@@ -31,4 +32,3 @@ We'll ask you for the following, so go ahead and include them with your ticket:
 
 Our goal is to get you playing your games, so we'll review your information and suggest additional troubleshooting steps.
 [/olist]
-

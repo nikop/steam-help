@@ -14,5 +14,3 @@ If you notice connection problems during Steam downloads, or want to limit how m
 * Here you can find different download settings for Steam including the **Limit bandwidth to:** setting. If you enable it you can set the limit you would want.  
   
 **Note:** The rates listed here are in kilo**bytes** and mega**bytes** a second, while most Internet connections are rated in **bits** per second.
-
-  

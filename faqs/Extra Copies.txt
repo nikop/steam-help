@@ -1,4 +1,5 @@
 Extra Copies
+------------
 Updated 2021-07-22 19.06.33
 
 [h3]How does the Extra Copy Special Offer work?[/h3][list]  	[*][url=#how]How do I receive extra copies to share with friends? [/url][/*]  	[*][url=#giving]Giving away extra copies [/url][/*]  	[*][url=#receiving]Receiving extra copies [/url][/*]  [/list]
@@ -41,4 +42,3 @@ If you are positive that they do not have this game, you can send it to their em
 [h3][b]I sent an extra copy to a friend, but that person never received it. What now?[/b][/h3]Please visit the following [url=https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117#gifts-troubleshooting]page[/url] for instructions on how to re-send an extra copy/gift.
 
 [h3][b]I sent an extra copy to a friend using their email address, but it turns out that person already owns this game. Can I give this game to someone else?[/b][/h3]Please visit the following [url=https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117#emailown]page[/url] for instructions on what to do in this situation.
-

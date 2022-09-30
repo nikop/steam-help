@@ -184,5 +184,4 @@ Drum your fingers along the handle to help improve dynamic calibration.
 [/td]  		[td]  			[video poster="https://support.steampowered.com/steamvr/FitGuide/Thumbnails/Controller_drum_fingers.jpg?v=20192006" mp4="https://support.steampowered.com/steamvr/FitGuide/KnucklesFit/Clips/Controller_drum_fingers_360x202_MP4.mp4" autoplay=0][/video]  
 [/td]  
 [/tr]  
-[/table]  
-  
+[/table]

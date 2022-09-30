@@ -1,4 +1,5 @@
 Retrying a failed purchase - saved shopping cart
+------------------------------------------------
 Updated 2021-07-10 19.49.55
 
 [list]  	[*][url=#summary]My purchase failed, can I try again? [/url][/*]  	[*][url=#findcart]How do I find my saved cart? [/url][/*]  	[*][url=#howtotryagain]How do I try my purchase again? [/url][/*]  	[*][url=#whynotsaved]Why was my cart not saved? [/url][/*]  	[*][url=#extend]I need more time, can Steam Support extend the 3 days (72 hours) period? [/url][/*]  [/list]
@@ -30,4 +31,3 @@ If your purchase fails before you attempt to pay for it on the checkout page, we
 [url id=extend][/url]
 
 [h1][b]I need more time, can Steam Support extend the 3-day (72 hours) period? [/b][/h1]No, the saved cart will expire after exactly 72 hours. Steam Support cannot change the amount of time remaining. [url=https://store.steampowered.com/account/history/]Your Purchase History page[/url] will show exactly how much time is remaining before the saved cart expires.
-

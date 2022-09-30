@@ -1,4 +1,5 @@
 Server Verification Failed
+--------------------------
 Updated 2021-08-04 18.25.01
 
 I get this error: 'Error: Server Verification Failed.' when I connect to some servers

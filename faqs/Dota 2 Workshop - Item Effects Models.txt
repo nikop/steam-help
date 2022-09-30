@@ -1,6 +1,6 @@
 Dota 2 Workshop - Item Effects Models
+-------------------------------------
 Updated 2021-10-28 02.13.44
-
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/01_effects_weapon_in_game3.jpg[/img]
 
@@ -63,4 +63,3 @@ Updated 2021-10-28 02.13.44
 [list]  	[*]If you don't see the effects model particles in the preview or loadout, they may only appear at a certain hero level or in a certain context which will require testing in game using demo mode.[/*]  	[*]Look at the [url=#particlecounts]Particle Count and Context[/url] section above to see the conditions required to display effects model ambient particles for specific heroes. [/*]  [/list]
 
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]
-

@@ -12,5 +12,4 @@ To link your YouTube account to your Steam account, do the following:
 
  From here, you can select videos to add to your Steam profile.  
   
-**Note:** if you have multiple channels with your YouTube account, only the default/main channel's videos will be linked.  
-  
+**Note:** if you have multiple channels with your YouTube account, only the default/main channel's videos will be linked.

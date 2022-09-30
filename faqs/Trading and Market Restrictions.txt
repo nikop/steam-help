@@ -1,4 +1,5 @@
 Trading and Market Restrictions
+-------------------------------
 Updated 2022-05-06 09.16.04
 
 There are a few different reasons why you may be unable to trade or use the Community Market. The reason is typically shown when you try to initiate a trade or perform an action on the Community Market.
@@ -101,4 +102,3 @@ See the [url=https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74]VAC 
 [*]Dota 2 - Timed drops are not tradable or marketable.
 [*]Rarely, accepting a Steam digital gift card may incur a market restriction. You will be notified prior to accepting the digital gift card if such a restriction will be applied, and when it will expire. More information regarding digital gift cards can be found in the [url=https://store.steampowered.com/digitalgiftcards/selectgiftcard]Digital Gift Card FAQ[/url].
 [/list]
-

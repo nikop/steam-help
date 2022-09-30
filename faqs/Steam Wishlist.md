@@ -29,5 +29,4 @@ Here you can either click and drag the items to change the order or assign a num
   
 [h5]**Who can see my Wishlist?**[/h5]Visibility of the Wishlist is tied to your Community Profile account settings.  The information can be displayed to all users, your Steam friends, or only your account. Please see the [Profile Privacy](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276) help section for more information.  
   
-This is an easy way for friends to see what games you are interested in.  Please see the [Steam Gifts](https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117) guide for more information on gifting games.  
-  
+This is an easy way for friends to see what games you are interested in.  Please see the [Steam Gifts](https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117) guide for more information on gifting games.

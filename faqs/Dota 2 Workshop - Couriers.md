@@ -269,5 +269,4 @@ Updated 2021-08-28 01.26.51
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

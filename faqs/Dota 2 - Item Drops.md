@@ -20,5 +20,4 @@ Steam and Dota accounts that are currently in any of the following states do not
 Note: Items received as a drop cannot be sold on the Market, but can be gifted to an eligible friend.   
   
 ### Missing Rewards
-In some rare cases, a game may be discarded prior to rewards being granted. Unfortunately, in cases such as this, there is no way to restore these rewards. The game and quests will need to be completed again.  
-  
+In some rare cases, a game may be discarded prior to rewards being granted. Unfortunately, in cases such as this, there is no way to restore these rewards. The game and quests will need to be completed again.

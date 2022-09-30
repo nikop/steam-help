@@ -21,5 +21,4 @@ The first step is to email us at [**video@valvesoftware.com**](mailto:video@valv
 
     
 ## Where do I learn more about the Steam Video Platform?
-For more information about the Steam video platform please read the [Steam Video partner documentation](https://partner.steamgames.com/doc/features/streaming_video)  
-  
+For more information about the Steam video platform please read the [Steam Video partner documentation](https://partner.steamgames.com/doc/features/streaming_video)

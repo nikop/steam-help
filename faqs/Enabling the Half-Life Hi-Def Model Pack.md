@@ -7,4 +7,4 @@ The Hi-Def model pack is an add-on for the Original Half-Life, Half-Life: Blue S
   
 To option to enable/disable the Hi-Def model pack can be found in the *Options* > *Video* menu in-game. Once checked, select *Apply* to apply the new option to the game.  
   
-![{STEAM_CLAN_IMAGE}/1976/594d89a36e294e1352e2e6b94c69b85b3f0d96b7.png]({STEAM_CLAN_IMAGE}/1976/594d89a36e294e1352e2e6b94c69b85b3f0d96b7.png)  
+![{STEAM_CLAN_IMAGE}/1976/594d89a36e294e1352e2e6b94c69b85b3f0d96b7.png]({STEAM_CLAN_IMAGE}/1976/594d89a36e294e1352e2e6b94c69b85b3f0d96b7.png)

@@ -1,4 +1,5 @@
 HTTP Fast Download
+------------------
 Updated 2021-10-27 20.57.27
 
 How do I Get HTTP Fast Download working for my Server?
@@ -32,4 +33,3 @@ If the client has ANY of the files already (including the WAD) it will not be ov
 [section style=note]  [h3]Note:[/h3][b]You must make .res files for all the maps[/b] and make sure all resource names listed (and placed at the http) are spelled exactly the same.
 
 If the bsp has all lower-case letters for the entity then the .res file must be all lower-case and the file name itself must be all lower-case.[/section]
-

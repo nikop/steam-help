@@ -28,6 +28,3 @@ Be sure you check what the palette looks like after you save your file, and adju
 Note: Changing the color of your decal during a game will not take effect for that game. Only after you restart your game will the new color appear.  
   
 If you would like to view pre-made decals, several are shipped with Half-Life and can be found in the Half-Life\logos directory. These will give you a good idea about the file format and appearance of a decal before it appears in the game.
-
-  
-  

@@ -1,7 +1,8 @@
 Index Base Station & Lighthouse Tracking
+----------------------------------------
 Updated 2021-07-26 22.06.18
 
-      	            	[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	        	[h1]General troubleshooting[/h1]Before reading further, be sure to:
+[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	        	[h1]General troubleshooting[/h1]Before reading further, be sure to:
 
 [list]  		[*]Check power connections for all Base Stations[/*]  		[*]Make sure your Base Stations are pointed at your play area and are visible to you.[/*]  		[*]Restart SteamVR[/*]  	[/list]  [hr][/hr]	        	[h1]Trouble with tracking?[/h1]
 
@@ -50,6 +51,3 @@ If you are using VR in a shared tracking space with multiple instances of SteamV
 [hr][/hr]	    	[h1]Other questions[/h1][h4]Base Station compatibility?[/h4][list]  			[*]1.0 (HTC-branded) and 2.0 (Valve-branded) Base Stations will not work with each other in the same VR setup.[/*]  			[*]Index will work with both 1.0 and 2.0 Base Stations.[/*]  			[*]2.0 Base Stations will not work with the original Vive headset or Wand controllers, but will work with the Vive Pro product family.[/*]  		[/list]  		  		[h4]How many Base Stations do I need?[/h4]We recommend two Base Stations for most room-scale play areas. If you're covering an area larger than 5 x 5 meters (~16 x 16 feet), you can add additional Base Stations for additional tracking and increased accuracy.
 
 For seated or standing-only play areas, one Base Station can be sufficient, but two are still recommended to ensure your Base Stations don't lose sight of your devices.
-
-          		            
-

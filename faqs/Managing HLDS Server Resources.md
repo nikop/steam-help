@@ -34,6 +34,3 @@ Enables/Disables the server from compressing & sending compressed content to the
 Setting this CVAR will allow Clients to download Custom Content via HTTP instead of sourcing the content from the game server, much faster.
 * *hpk_maxsize 0/(variable number, set to 0.1 to minimize)*  
 No limit/100k limit to the size of the custom.hpk file on the server that stores all the sprays from the client.
-
-  
-  

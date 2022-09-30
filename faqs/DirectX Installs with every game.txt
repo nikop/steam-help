@@ -1,4 +1,5 @@
 DirectX Installs with every game
+--------------------------------
 Updated 2021-08-12 19.42.19
 
 Why does DirectX install with every game?
@@ -13,4 +14,3 @@ Microsoft's licensing terms prevent anyone from distributing the files directly,
 
 [h1]Why don't Valve's Source Engine games run the DirectX Installer?[/h1]
 Games which don't use the D3DX helpers (such as Source engine games) don't require running the installer on first launch as they only depend on major d3d9/10/11 versions being installed. However, games that do use D3DX must run it as it's the only way Microsoft has allowed for distributing and checking the version info on the files.
-

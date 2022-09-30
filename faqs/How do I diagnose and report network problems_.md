@@ -109,4 +109,3 @@ When communicating with Steam support or a [exclude_realm=china]**Valve**[/exclu
   
 Please note that while the inability to access these web sites is strong evidence that there's a local problem, the lack of such problems is NOT usually conclusive evidence that everything is working properly. Likewise, internet speed test results, bandwidth metrics, or the fact that you are on a fiber connection are typically just not relevant. Game traffic is significantly different from web traffic and is handled differently by your router and your ISP.
 * If you are posting on a forum where a [exclude_realm=china]**Valve**[/exclude_realm][exclude_realm=global]**Perfect World**[/exclude_realm] employee might read it, make sure and share a link to your Steam community profile. This helps us locate your account, access recent matches, server connections, etc.
-

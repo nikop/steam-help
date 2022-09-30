@@ -24,5 +24,4 @@ Copy over the following folders:
   
 If there are any custom WAD files (*.wad) in the cstrike folder, copy those over to the server cstrike folder as well.  
   
-You can install downloaded maps to both your client and to the dedicated server.  
-  
+You can install downloaded maps to both your client and to the dedicated server.

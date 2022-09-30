@@ -24,5 +24,4 @@ If your artwork has been banned that means a member of Steam Support found it to
 ## How do I report a piece of artwork?
 From the hub, click on the artwork to open the pop up window and select "Report" from the options drop down (the gear icon on the right.)  
   
-From the artwork’s detail page, click "Flag" icon in the bar directly beneath the image.  
-  
+From the artwork’s detail page, click "Flag" icon in the bar directly beneath the image.

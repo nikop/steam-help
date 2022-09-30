@@ -111,5 +111,4 @@ You will need to wait for the cooldown to expire before authorizing another mach
 [url id=bugs][/url] #### Reporting an issue with Family Sharing
 If you have an issue with Family Sharing and wish to discuss it with the community, or have a new bug to report, use the [Family Sharing Community Discussion](http://steamcommunity.com/groups/familysharing/discussions) forum.  
   
-Should you continue to have issues, please contact [Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamIssue/?issueid=803).  
-  
+Should you continue to have issues, please contact [Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamIssue/?issueid=803).

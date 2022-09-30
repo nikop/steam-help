@@ -24,6 +24,3 @@ Join the dedicated server discussion list for your operating system and review t
 * [Source Dedicated Server (Linux)](https://steamcommunity.com/discussions/forum/14/)
 * [Half-Life Dedicated Server (Windows)](https://steamcommunity.com/discussions/forum/15/)
 * [Half-Life Dedicated Server (Linux)](https://steamcommunity.com/discussions/forum/16/)
-
-  
-  

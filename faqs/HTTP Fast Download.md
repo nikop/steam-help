@@ -76,5 +76,4 @@ If the client has ANY of the files already (including the WAD) it will not be ov
 [section style=note] ### Note:
 **You must make .res files for all the maps** and make sure all resource names listed (and placed at the http) are spelled exactly the same.  
   
-If the bsp has all lower-case letters for the entity then the .res file must be all lower-case and the file name itself must be all lower-case.[/section]  
-  
+If the bsp has all lower-case letters for the entity then the .res file must be all lower-case and the file name itself must be all lower-case.[/section]

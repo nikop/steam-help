@@ -49,6 +49,3 @@ In the left-hand column of your registry editor, navigate to: `HKEY_LOCAL_MACHIN
 * Right-click on **Steam** and select **Delete**.
 * Right-click on **SteamService** and select **Delete**.
 * Close your Registry Editor.
-
-  
-  

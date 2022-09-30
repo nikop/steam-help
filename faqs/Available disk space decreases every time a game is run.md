@@ -14,5 +14,4 @@ There are several causes for this condition which this article will not cover:
   
 If you notice that **50 - 100 MB** of available hard disk space is being used every time you start a game, you may need to disable System Restore for the drive which is storing your game files.  
   
-For more information, please see the [Microsoft Knowledge Base article for the System Restore feature](https://support.microsoft.com/en-us/windows/use-system-restore-a5ae3ed9-07c4-fd56-45ee-096777ecd14e).  
-  
+For more information, please see the [Microsoft Knowledge Base article for the System Restore feature](https://support.microsoft.com/en-us/windows/use-system-restore-a5ae3ed9-07c4-fd56-45ee-096777ecd14e).

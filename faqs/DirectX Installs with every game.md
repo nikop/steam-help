@@ -14,5 +14,4 @@ Microsoft's licensing terms prevent anyone from distributing the files directly,
   
 # Why don't Valve's Source Engine games run the DirectX Installer?
   
-Games which don't use the D3DX helpers (such as Source engine games) don't require running the installer on first launch as they only depend on major d3d9/10/11 versions being installed. However, games that do use D3DX must run it as it's the only way Microsoft has allowed for distributing and checking the version info on the files.  
-  
+Games which don't use the D3DX helpers (such as Source engine games) don't require running the installer on first launch as they only depend on major d3d9/10/11 versions being installed. However, games that do use D3DX must run it as it's the only way Microsoft has allowed for distributing and checking the version info on the files.

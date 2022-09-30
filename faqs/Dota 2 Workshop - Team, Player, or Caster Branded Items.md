@@ -1,7 +1,6 @@
 # Dota 2 Workshop - Team, Player, or Caster Branded Items
 Updated 2021-08-26 21.40.11
 
-  
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)  
   
 Guidelines for submitting branded items and logos to the Dota 2 Workshop  
@@ -110,5 +109,4 @@ Guidelines for submitting branded items and logos to the Dota 2 Workshop
 
   
   
-[Dota 2 Workshop Items Submission Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Workshop Items Submission Guidelines Homepage](http://www.dota2.com/workshop/)

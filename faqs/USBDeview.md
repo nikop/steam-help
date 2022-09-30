@@ -23,6 +23,3 @@ Get started:
 * Reboot your PC and reconnect the Vive hardware. Wait for Windows to install the devices—this may take a few minutes
 * Run SteamVR and make sure HMD is recognized in VR Monitor
 * Turn on your controllers. Wait for Windows to install the devices, then make sure the VR Monitor shows them
-
-  
-  

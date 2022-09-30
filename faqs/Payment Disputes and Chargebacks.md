@@ -60,5 +60,4 @@ Hardware chargebacks are similar to regular chargebacks in that your account wil
   
 Like regular chargebacks, you can remove the lock on your account by removing the dispute with your financial institution. Unlike other chargebacks, however, accounts locked for Hardware chargebacks will not be unlocked until the associated hardware is returned.  
   
-If you have disputed a hardware purchase please contact [Steam Support](https://help.steampowered.com/en/) to resolve your issue.  
-  
+If you have disputed a hardware purchase please contact [Steam Support](https://help.steampowered.com/en/) to resolve your issue.

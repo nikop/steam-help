@@ -47,6 +47,3 @@ The benefit of this method is that the clientport will remain set whether you ar
 * Type into the document `clientport 270XX` where **XX** are the last two digits of the clientport number. Acceptable values include 05 - 19 and 21 - 32
 * Save your **userconfig.cfg**
 * Launch your game
-
-  
-  

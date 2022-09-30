@@ -1,4 +1,5 @@
 Steam Deck Recovery Instructions
+--------------------------------
 Updated 2022-06-27 21.11.58
 
 These are instructions to recover, repair, or re-image your Steam Deck. You might need to do this if you are unable to boot, have installed another OS and would like to get back to standard Deck SteamOS, or are experiencing other breaking issues.

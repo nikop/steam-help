@@ -44,5 +44,4 @@ You can submit any number of refund requests for eligible purchases.  If it appe
   
 ## If I refund a game, will my playtime and achievements be removed from my Steam Community Profile?
   
-No, playtime and achievements will not be removed from your Steam Community Profile. To learn more about Steam Profile privacy click [here](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276).  
-  
+No, playtime and achievements will not be removed from your Steam Community Profile. To learn more about Steam Profile privacy click [here](https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276).

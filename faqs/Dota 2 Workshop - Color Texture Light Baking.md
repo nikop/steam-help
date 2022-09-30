@@ -190,5 +190,4 @@ This color texture is now perfectly synched to all of the details in the normal 
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_01-DefiningColor_notext_01.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_01-DefiningColor_notext_01.jpg)![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_08-FinalAdjustments_notext_02.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_08-FinalAdjustments_notext_02.jpg)  
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

@@ -1,4 +1,5 @@
 Uninstall Steam
+---------------
 Updated 2021-08-16 19.57.14
 
 How should I uninstall Steam?
@@ -28,4 +29,3 @@ If all of the above options fail to assist you in uninstalling Steam, you can st
 [b]For 64-bit operating systems:[/b]
 In the left-hand column of your registry editor, navigate to: [code]HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Valve\[/code] Right-click on [b]Steam[/b] and select [b]Delete[/b].[/*]
 [*]In the left-hand column of your registry editor, navigate to: [code]HKEY_CURRENT_USER\Software\Valve\[/code][/*]      [*]Right-click on [b]Steam[/b] and select [b]Delete[/b].[/*]   [*]Right-click on [b]SteamService[/b] and select [b]Delete[/b].[/*]   [*]Close your Registry Editor.[/*]  [/olist]
-

@@ -50,5 +50,4 @@ If you have other issues or questions, contact [Steam Support](https://help.stea
   
 The default location for these files is ***C:\Program Files (x86)\Steam\logs***  
   
-[/expand]  
-  
+[/expand]

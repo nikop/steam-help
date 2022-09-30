@@ -1,4 +1,5 @@
 Dota Underlords Mobile FAQ
+--------------------------
 Updated 2021-07-13 01.16.53
 
 [img]https://steamcdn-a.akamaihd.net/steam/support/faq/underlordskbbanner.png[/img]     [h1]Dota Underlords Mobile FAQ[/h1]Hire a crew, destroy your rivals, and rule White Spire in this new strategy battler set in the world of Dota.
@@ -20,4 +21,3 @@ You can play Dota Underlords on many modern mobile devices. If you're looking fo
 [h4]Compatible iOS Devices[/h4]The following devices are compatible with Dota Underlords
 
 [list]  			[*]iPad Air 2 (2014)[/*]  			[*]9.7-inch iPad Pro[/*]  			[*]iPhone 7[/*]  			[*]iPhone 7 Plus[/*]  			[*]iPad (2017)[/*]  			[*]10.5 inch iPad Pro[/*]  			[*]12.9-inch iPad Pro[/*]  			[*]iPhone 8[/*]  			[*]iPhone 8 Plus[/*]  			[*]iPhone X[/*]  			[*]iPad (2018)[/*]  			[*]iPhone XS[/*]  			[*]iPhone XS Max[/*]  			[*]iPhone XR[/*]  			[*]11-inch iPad Pro[/*]  			  			[*]iPad Mini (2019)[/*]  			[*]iPad Air (2019)[/*]  		[/list]    [/expand]
-

@@ -5,4 +5,3 @@ A list of console variables and console commands for different Half-Life and Sou
 
 * [Console Variables](https://developer.valvesoftware.com/wiki/Category:Console_Variables)
 * [Console Commands](https://developer.valvesoftware.com/wiki/Console_Command_List)
-

@@ -1,7 +1,7 @@
 # VALVE Index System Requirements
 Updated 2021-07-26 20.57.48
 
- ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) #### Minimum
+![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) #### Minimum
 
 * OS: Windows 10, SteamOS, Linux
 * Processor: Dual Core with Hyper-Threading
@@ -32,7 +32,4 @@ The Index Headset requires that your system has the following ports available:
  #### Laptop Users
 Laptops that use integrated graphics rather than a dedicated GPU that meets or exceeds our system requirements may not work with Index.  
   
-Please note: Index does not support HDMI, and will not work with DisplayPort to HDMI adapters.  
-  
-    
-  
+Please note: Index does not support HDMI, and will not work with DisplayPort to HDMI adapters.

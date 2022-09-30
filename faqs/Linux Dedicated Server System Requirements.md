@@ -11,4 +11,3 @@ You must have at least GLIBC 2.3.2 installed to run a Source dedicated server. A
 
 * [Source Dedicated Server (Linux)](https://steamcommunity.com/discussions/forum/14/)
 * [Half-Life Dedicated Server (Linux)](https://steamcommunity.com/discussions/forum/16/)
-

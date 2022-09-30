@@ -15,5 +15,4 @@ If you are still seeing the issue or have a different issue with the key, please
   
   
 # Game purchased through a retail store
-If your game did not come with a CD key where there should be one printed, you will need to contact the retail store you purchased from to discuss a refund or exchange.  
-  
+If your game did not come with a CD key where there should be one printed, you will need to contact the retail store you purchased from to discuss a refund or exchange.

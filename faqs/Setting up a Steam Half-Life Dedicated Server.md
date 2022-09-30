@@ -144,5 +144,4 @@ You can also enter server console commands:
   
 *listip* Lists all IP addresses in your server ban list.   
   
-*maps (partial name)* Lists all maps containing a partial name, for example: *maps de_* would list all maps with **de_** in their name.  
-  
+*maps (partial name)* Lists all maps containing a partial name, for example: *maps de_* would list all maps with **de_** in their name.

@@ -15,5 +15,4 @@ This message indicates that you have been blocked from using the Steam Community
 
   
   
-For more information, please contact Steam Support using the button on the right.  
-  
+For more information, please contact Steam Support using the button on the right.

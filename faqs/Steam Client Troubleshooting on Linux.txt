@@ -1,4 +1,5 @@
 Steam Client Troubleshooting on Linux
+-------------------------------------
 Updated 2021-07-10 19.49.55
 
 What should I do if Steam is crashing, not opening correctly or closing immediately after launching?
@@ -13,4 +14,3 @@ On Ubuntu, the easiest way to verify this is by installing mesa-utils:i386 and r
 [h5]Check the Wiki[/h5]The Valve Wiki hosted by Ubuntu has some common solutions and recommendations for installing and troubleshooting the Steam client. [url=https://wiki.ubuntu.com/Valve]Valve Ubuntu Wiki[/url]
 
 [h5]Still Not Working?[/h5]Crashes or bugs can be reported to our GitHub. Those reports are then used by our developers to help determine what needs to be fixed.  [url=https://github.com/ValveSoftware/steam-for-linux/]Valve GitHub[/url]
-

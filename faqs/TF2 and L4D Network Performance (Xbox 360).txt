@@ -1,4 +1,5 @@
 TF2 and L4D Network Performance (Xbox 360)
+------------------------------------------
 Updated 2021-07-10 19.49.55
 
 I have network performance issues on my Xbox 360 when playing either Team Fortress 2 or Left 4 Dead. What could cause this?
@@ -8,4 +9,3 @@ I have network performance issues on my Xbox 360 when playing either Team Fortre
 The most common reason for losing connection to the host is that the host closed the server or disconnected. There is no way around this in TF2.  In L4D, you can try connecting to an available Dedicated Server which will allow all players to continue through the match even if the Lobby host were to leave.
 
 If performance issues persist, you may need to contact [url=http://support.xbox.com]XBox Live Support[/url] to troubleshoot further.
-

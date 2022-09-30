@@ -1,4 +1,5 @@
 CS:GO - Trusted Mode
+--------------------
 Updated 2021-07-10 19.49.55
 
 [list]          [*][url=#trust]What is Trusted mode?[/url][/*]  		[*][url=#how]How does Trusted mode help fight against cheaters?[/url][/*]  	    [*][url=#prevent]Does Trusted mode prevent cheats from working?[/url][/*]  		[*][url=#banned]Would I get banned for injecting into CS:GO if I run in normal (not Trusted) mode?[/url][/*]  		[*][url=#whitelist]Is there a whitelist of software that can be safely injected into CS:GO?[/url][/*]  		[*][url=#penalty]Does normal (not Trusted) mode guarantee a penalty to the Trust score or segregation from Trust mode players?[/url][/*]  		[*][url=#perf]Why are some players noticing performance issues in Trusted mode?[/url][/*]  		[*][url=#crash]Why are some players crashing when launching CS:GO in Trusted mode?[/url][/*]  		[*][url=#loaded]What happens if I start incompatible software after the game has launched in Trusted mode?[/url][/*]  [/list]

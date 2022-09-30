@@ -61,5 +61,4 @@ While dragging controls around, they will snap into default positions relative t
   
 You can also copy or reset layouts by clicking the […] in the upper left corner of the dialog window.  
   
-[/expand]  
-  
+[/expand]

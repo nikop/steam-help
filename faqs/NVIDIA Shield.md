@@ -19,5 +19,4 @@ NVIDIA Shield account and technical support is provided by NVIDIA, including sup
 ### Google Play Support
 For Google Play purchase and account issues, please contact Google Support:  
   
-[Google Play Support](https://support.google.com/googleplay/)  
-  
+[Google Play Support](https://support.google.com/googleplay/)

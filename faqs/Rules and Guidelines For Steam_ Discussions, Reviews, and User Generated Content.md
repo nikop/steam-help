@@ -50,4 +50,4 @@ Let the moderators do the moderating. Backseat moderating is when people who are
 Should you observe a fellow Community member breaking these rules please report the post or item by clicking the Report (![{STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png]({STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png)) button located on every item, post, and review.  
   
 ### Repeated Offenders
-Repeated offenders of the above rules and guidelines will be banned from the Steam Community. Any moderator has the ability to ban a user for violating the rules at their discretion.  
+Repeated offenders of the above rules and guidelines will be banned from the Steam Community. Any moderator has the ability to ban a user for violating the rules at their discretion.

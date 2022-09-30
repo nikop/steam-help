@@ -1,7 +1,6 @@
 # Self Locking Tool
 Updated 2021-07-10 19.49.55
 
-
 * [What is the self locking tool?](#what)
 * [How do I lock my account if it is stolen?](#how)
 * [Can I lock my account on demand without an email notification?](#demand)
@@ -52,4 +51,3 @@ The lock that is applied to your account restricts all major actions that can im
 * Trading
 * CD-Key activation
 * Steam Community access
-

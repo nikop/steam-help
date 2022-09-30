@@ -33,5 +33,4 @@ Please be sure to take adequate precautions to ensure that no one else has acces
   
 ## Example
 Log in automatically:  
-`"C:\Program Files (x86)\Steam\steam.exe" -login username password`  
-  
+`"C:\Program Files (x86)\Steam\steam.exe" -login username password`

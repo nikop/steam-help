@@ -1,4 +1,5 @@
 Steam Controller FAQ
+--------------------
 Updated 2021-08-12 20.24.54
 
 [img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
@@ -85,5 +86,4 @@ The Steam Controller accepts disposable and rechargeable batteries. The USB cabl
 
 [i]To use rechargeable batteries, they will need to be charged with the appropriate device.[/i]
 
-[/expand]  	  
-
+[/expand]

@@ -99,5 +99,4 @@ The gear next to your profile name at the top of your friends list will take you
 ### Troubleshooting
 Steam voice chat is designed to require minimal setup provided your default system devices are already working properly. If you are experiencing an issue, check out the support article below for detailed info:  
   
-[Voice Chat Connection and Quality Issues ](https://help.steampowered.com/en/faqs/view/1E45-57ED-9153-7EF4)  
-  
+[Voice Chat Connection and Quality Issues ](https://help.steampowered.com/en/faqs/view/1E45-57ED-9153-7EF4)

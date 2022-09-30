@@ -24,4 +24,3 @@ Additional information and troubleshooting instructions for existing refund requ
 Please click the drop-down menu to select the Steam Wallet or the original payment method.  
 ![https://support.steampowered.com/images/faq/refunds/5Refund_requestForm.png](https://support.steampowered.com/images/faq/refunds/5Refund_requestForm.png)
 * You should receive a confirmation email that your request was successfully submitted.
-

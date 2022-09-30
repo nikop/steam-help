@@ -67,5 +67,4 @@ To thank you for your years of support we will be giving players who have purcha
   
 **Q. How does the Coaching feature work?**  
   
-If a new player on a free account upgrades to a premium account and indicates that you were their most helpful friend, you will receive a special pair of glasses. Helping new users via the Coaching feature is a great way to meet new players and help them out!  
-  
+If a new player on a free account upgrades to a premium account and indicates that you were their most helpful friend, you will receive a special pair of glasses. Helping new users via the Coaching feature is a great way to meet new players and help them out!

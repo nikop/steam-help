@@ -24,5 +24,4 @@ You qualified for an item that was not delivered to your account. You are not re
   
 [# Items Were Deleted
 ](https://help.steampowered.com/en/faqs/view/6E56-1261-A719-8D4F)  
-If items were deleted or removed from your account, it may be due to something unrelated, such as a VAC ban or trade ban.  
-  
+If items were deleted or removed from your account, it may be due to something unrelated, such as a VAC ban or trade ban.

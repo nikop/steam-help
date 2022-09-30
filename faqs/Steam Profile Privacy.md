@@ -13,4 +13,3 @@ Alternatively, you can navigate to the Profile Privacy Settings page manually:
 * From your Steam Profile, click the *Edit Profile* link under your displayed badge.
 * Click the *My Privacy Settings* tab
 * Select your privacy state (any settings changed are saved automatically)
-

@@ -68,5 +68,4 @@ If you have successfully connected to your PC and are still having issues, conta
   
 The default location for these files on your PC is ***C:\Program Files (x86)\Steam\logs***  
   
-[/expand]  
-  
+[/expand]

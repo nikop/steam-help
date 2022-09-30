@@ -16,5 +16,4 @@ Having trouble with your HTC VIVE or SteamVR? Find your issue here and learn how
 ](https://help.steampowered.com/en/faqs/view/153F-1B04-6CAB-43A1) [ ## SteamVR Developers
 Learn more about our SDK, shipping your experience on Steam, and setting up your VIVE Pre Development Kit.  
   
-](https://help.steampowered.com/en/faqs/view/46C3-050A-2E52-12D6)    
-  
+](https://help.steampowered.com/en/faqs/view/46C3-050A-2E52-12D6)

@@ -14,5 +14,4 @@ How do I install Steam?
 If you encounter any difficulty with your installation, please see the [Contacting Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E) topic for instructions to contact Steam Support.  
   
   
-If you are looking for information on how to uninstall Steam please see the page [Uninstalling Steam](https://help.steampowered.com/en/faqs/view/3C73-90F9-F600-0266).  [exclude_realm=china]For macOS instructions please see [Removing and Reinstalling Steam on a Mac](https://help.steampowered.com/en/faqs/view/30EB-87BF-531F-512D) page.[/exclude_realm]  
-  
+If you are looking for information on how to uninstall Steam please see the page [Uninstalling Steam](https://help.steampowered.com/en/faqs/view/3C73-90F9-F600-0266).  [exclude_realm=china]For macOS instructions please see [Removing and Reinstalling Steam on a Mac](https://help.steampowered.com/en/faqs/view/30EB-87BF-531F-512D) page.[/exclude_realm]

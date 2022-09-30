@@ -1,4 +1,5 @@
 Steam Community Overlay
+-----------------------
 Updated 2021-08-10 19.05.05
 
 The Steam community overlay is an in-game interface that allows access to many Steam Community features while playing games. The default keybind of Shift+Tab will open the overlay in any game where it is supported and enabled.
@@ -87,4 +88,3 @@ You'll want to work with a specialist to ensure that no outside software is inte
 [h3]Upgrade Your System[/h3]If your system is at or below the required or recommended specifications for the game, the overlay may have difficulty functioning correctly.
 
 You'll want to work with a specialist in your area to consider upgrading your operating system, or even the hardware that your system uses.
-

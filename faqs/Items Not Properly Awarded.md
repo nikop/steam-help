@@ -39,5 +39,4 @@ Games associated with these items must be launched before the items can be recei
   
 ### Non-Steam Purchases
   
-Purchase made outside of Steam, do not qualify for items included with Steam promotions.  
-  
+Purchase made outside of Steam, do not qualify for items included with Steam promotions.

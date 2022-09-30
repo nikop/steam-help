@@ -1,4 +1,5 @@
 Disable Steam from running at startup
+-------------------------------------
 Updated 2021-07-10 19.49.55
 
 How do I stop Steam from running automatically when I start my computer?
@@ -8,4 +9,3 @@ With Steam open, click the [b]Steam [/b]menu, and choose [b]Settings[/b].
 Click on the Interface tab, and uncheck the box that says:
 
 "[b]Run Steam when my computer starts[/b]."
-

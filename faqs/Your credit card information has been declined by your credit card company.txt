@@ -1,4 +1,5 @@
 Your credit card information has been declined by your credit card company
+--------------------------------------------------------------------------
 Updated 2021-08-28 00.49.47
 
 When attempting to complete a purchase through Steam, I receive the following specific error message:
@@ -30,4 +31,3 @@ Steam will never accept payment from a transaction that fails this check. If you
 In some very rare cases, there may be an issue with the information that your bank checks this information against, or the verification system may be temporarily malfunctioning. If you suspect that this is the case, you may wish to purchase a [url=https://store.steampowered.com/account/redeemwalletcode]Steam Wallet card[/url] from a physical retailer or use an alternate payment method.
 
 [section style=important]  [h3]Note:[/h3]In most cases if your purchase fails you may be able to attempt to repurchase the items that were in your cart at that time. For more information see the FAQ [url=https://help.steampowered.com/faqs/view/26CE-6A3B-C548-5AB4]Retrying a failed purchase - saved shopping cart[/url].[/section]
-

@@ -32,5 +32,4 @@ If Compatibility features were not enabled, or if disabling them fails to resolv
 #### Interfering Applications and Malware
 To test if there are interfering applications, please review the information provided in [Programs Which May Interfere with Steam](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748).  
   
-In some cases, malware may be to blame for this issue. Please ensure your computer is free from any possibly malicious software.  
-  
+In some cases, malware may be to blame for this issue. Please ensure your computer is free from any possibly malicious software.

@@ -1,4 +1,5 @@
 Family View
+-----------
 Updated 2022-02-20 09.00.38
 
 Family View is a feature for parents and families to establish their own rules for what components of Steam are accessible.
@@ -32,4 +33,3 @@ Then, you can authorize the game with one of two methods:
 If you haven't set a recovery email address yet, you can do so by visiting the following link: [url=http://store.steampowered.com/parental/setrecovery]http://store.steampowered.com/parental/setrecovery[/url]
 
 If you have lost your PIN and haven't set a recovery email, please contact [url=https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E]Steam Support[/url]
-

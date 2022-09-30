@@ -1,4 +1,5 @@
 Steam Trading
+-------------
 Updated 2021-08-24 22.41.51
 
 [list]      [h4]Trading Basics[/h4][*][url=#howtotrade]How do I trade?[/url][/*]      [*][url=#whattrade]What can I trade?[/url][/*]      [*][url=#viewinventory]How do I see my inventory on the Steam Community?[/url][/*]      [*][url=#seeitems]Who can see my items?[/url][/*]      
@@ -77,4 +78,3 @@ We sympathize with people who fall victim to scams, but we provide enough inform
 [h3][section id=icanttrade]I can't trade! Why not?[/section][/h3]There are different reasons why you may be unable to trade or use the Market. Please see the following [url=https://help.steampowered.com/en/faqs/view/451E-96B3-D194-50FC]Trading and Market Restrictions[/url] article for more information.
 
 [h3][section id=feedback]I have ideas for other things in Steam that can be traded. How do I give that feedback?[/section][/h3]You can post feedback or suggestions in our [url=http://steamcommunity.com/discussions/forum/10/]Suggestions/Ideas forum[/url] as it is regularly read by our developers.
-

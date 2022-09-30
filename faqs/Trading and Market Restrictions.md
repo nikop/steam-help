@@ -116,6 +116,3 @@ See the [VAC FAQ](https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74
 * Items purchased in-game or on the Community Market will not be tradable or marketable until after the date indicated on the item [in your Inventory](http://steamcommunity.com/my/inventory).
 * Dota 2 - Timed drops are not tradable or marketable.
 * Rarely, accepting a Steam digital gift card may incur a market restriction. You will be notified prior to accepting the digital gift card if such a restriction will be applied, and when it will expire. More information regarding digital gift cards can be found in the [Digital Gift Card FAQ](https://store.steampowered.com/digitalgiftcards/selectgiftcard).
-
-  
-  

@@ -1,8 +1,6 @@
 # Dota 2 Workshop - Chat Emoticons
 Updated 2021-08-28 00.50.56
 
-  
-  
 ![http://cdn.dota2.com/apps/dota2/images/international2015/compendium/stretch_goals/emoticons.jpg](http://cdn.dota2.com/apps/dota2/images/international2015/compendium/stretch_goals/emoticons.jpg)  
   
 Emoticons play brief animations within in-game chat.  
@@ -73,5 +71,4 @@ Emoticons play brief animations within in-game chat.
   
   ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/yolo.png](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/yolo.png)  
   
-[Dota 2 Workshop Items Submission Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Workshop Items Submission Guidelines Homepage](http://www.dota2.com/workshop/)

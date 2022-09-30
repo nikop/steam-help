@@ -1,7 +1,6 @@
 # HLTV
 Updated 2021-12-16 21.32.41
 
-
 * [Overview](#overview)
 * [Spectating Games](#spectate)
 * [HLTV Basics](#basics)

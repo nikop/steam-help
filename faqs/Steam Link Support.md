@@ -10,6 +10,3 @@ Updated 2021-10-28 01.59.27
 * ## [Steam Link App for Android](https://help.steampowered.com/en/faqs/view/7112-CD02-7B57-59F8)
 * ## [Steam Link App for Raspberry Pi](https://help.steampowered.com/en/faqs/view/6424-467A-31D9-C6CB)
 * ## [Steam Link for Samsung Smart TVs](https://help.steampowered.com/en/faqs/view/175C-DDCE-F0CF-B3BD)
-
-  
-  

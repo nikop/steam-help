@@ -1,4 +1,5 @@
 Missing or scrambled text in-game
+---------------------------------
 Updated 2021-07-10 19.49.55
 
 I cannot see the text or my text is scrambled in the game.
@@ -10,4 +11,3 @@ I cannot see the text or my text is scrambled in the game.
 [h3]Incorrect resolution[/h3]Use game launch options to launch with the command [b]-autoconfig[/b].   Please see the following article for instructions: [url=https://help.steampowered.com/en/faqs/view/7D01-D2DD-D75E-2955]Setting Game Launch Options[/url].
 
 [h3]Missing Text in Counter-Strike[/h3][list]      [*]Launch the game.[/*]      [*]Select [b]Options.[/b][/*]      [*]Select the [b]Video[/b] tab.[/*]      [*]Set the [b]Renderer[/b] to [b]OpenGL[/b].[/*]  [/list]
-

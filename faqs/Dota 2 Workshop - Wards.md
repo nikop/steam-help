@@ -1,8 +1,6 @@
 # Dota 2 Workshop - Wards
 Updated 2021-12-03 19.12.21
 
-  
-  
 # ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/header_wards.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/header_wards.jpg)
 
 * [WARD CONCEPT CONSIDERATIONS](#concept)
@@ -136,5 +134,4 @@ Download the [Ward Model](http://media.steampowered.com/apps/dota2/workshop/ward
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

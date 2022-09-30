@@ -1,4 +1,5 @@
 Team Fortress 2 Replay Server Overview
+--------------------------------------
 Updated 2022-04-21 20.57.51
 
 [h1]Intro[/h1]
@@ -117,4 +118,3 @@ No.
 
 [b]Will shutting down my server mess up Replays?[/b]
 If you shut down your server using the "exit" command, it should publish any data it needs to and shut down gracefully. The "quit" command should work fine, too.
-

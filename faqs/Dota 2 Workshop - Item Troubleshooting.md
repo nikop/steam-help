@@ -1,7 +1,6 @@
 # Dota 2 Workshop - Item Troubleshooting
 Updated 2021-10-28 01.50.11
 
-  
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)  
   
 Below are some technical problems artists have encountered while authoring or submitting items.   
@@ -129,5 +128,4 @@ We appreciate your help!
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

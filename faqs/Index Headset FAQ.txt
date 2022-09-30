@@ -1,7 +1,8 @@
 Index Headset FAQ
+-----------------
 Updated 2021-12-30 19.16.37
 
-      	              	[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	            	[h3]General troubleshooting[/h3][b]Before following instructions below, be sure you've tried the following:[/b]
+[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	            	[h3]General troubleshooting[/h3][b]Before following instructions below, be sure you've tried the following:[/b]
 
 [list]  		[*]Check your headset connections (power outlet, USB, DisplayPort, PC, breakaway connector).[/*]  		[*]Make sure the tether is fully plugged into the HMD. It can look like it’s connected even when it is not.[/*]  		[*]Check your video driver versions (including the high-definition audio component) and update if necessary - see [url=https://help.steampowered.com/en/faqs/view/5799-495F-1F25-D15B]Updating Drivers.[/url][/*]  		[*]Reboot your headset from the SteamVR status window ([i] Menu[/i] > [i]Devices[/i] > [i]Restart headset[/i]) or restart SteamVR.[/*]  	[/list]  	[hr][/hr]        	
 
@@ -54,6 +55,3 @@ You can also try adjusting the gain inside of the application you're having trou
 [b]To clean the headstrap and face gasket padding[/b], use a damp cloth to scrub the padding. The padding material is antimicrobial and won't normally require  				antibacterial or other chemical cleaners, but isopropyl alcohol can be applied to the cloth in small quantities if necessary.
 
 [b]To clean the lenses[/b], use the microfiber cloth that was included with your headset. Gently wipe in a circular motion, starting at the lens center and moving outward. Do not use cleaning agents on lenses.
-
-        	            
-

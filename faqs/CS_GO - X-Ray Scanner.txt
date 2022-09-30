@@ -1,4 +1,5 @@
 CS:GO - X-Ray Scanner
+---------------------
 Updated 2021-07-10 19.49.55
 
 [list]  	[*][url=#wherecontainer]I scanned a container and it is no longer in my Inventory. Where did it go?[/url][/*]  	[*][url=#seecontents]Can I scan a container, see the contents, then trade or sell the container on the Community Market?[/url][/*]  	[*][url=#scananother]I have scanned a container and the item has been revealed. How do I scan another container?[/url][/*]  	[*][url=#resetcontainer]Can I reset a container’s contents or scan the same container more than once?[/url][/*]  	[*][url=#diffcontainers]Can I scan multiple containers if they are different types?[/url][/*]  	[*][url=#scansouv]Can I scan Souvenir Packages?[/url][/*]  [/list]

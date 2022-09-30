@@ -1,8 +1,6 @@
 # Dota 2 Workshop - Hero Ability Models
 Updated 2021-08-18 19.57.26
 
-  
-  
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/final_ game_cog_crop.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/final_ game_cog_crop.jpg?v=1459382400)  
   
 
@@ -285,5 +283,4 @@ When Valve artists review custom NPCs they are mainly evaluated on how they look
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

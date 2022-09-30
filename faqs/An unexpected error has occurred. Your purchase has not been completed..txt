@@ -1,4 +1,5 @@
 An unexpected error has occurred. Your purchase has not been completed.
+-----------------------------------------------------------------------
 Updated 2021-07-10 19.49.55
 
 What to do if you receive this error?
@@ -13,4 +14,3 @@ If you continue to encounter this error, please use [url=https://help.steampower
 
 [url=https://help.steampowered.com/en/faqs/view/4CEF-A17B-388F-2A24]"Your credit card information has been declined by your credit card company."[/url][/section]
 [section style=warning]  [h3]VPN/Proxies[/h3]Disable or completely remove any IP proxy or VPN software that you may be using, restart your computer, and test your purchase again. All transactions that are initiated through anonymous proxies will be declined by Steam.[/section]
-

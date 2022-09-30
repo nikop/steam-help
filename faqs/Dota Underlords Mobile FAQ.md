@@ -65,5 +65,4 @@ The following devices are compatible with Dota Underlords
 * iPad Mini (2019)
 * iPad Air (2019)
 
- [/expand]  
-  
+ [/expand]

@@ -66,9 +66,4 @@ Below are alternate low-violence textures and models Valve created for some Dota
   
 ![{STEAM_CLAN_IMAGE}/1976/eaaa23c0514ddb3ff7ad0ff88b88f97b1e2a9834.png]({STEAM_CLAN_IMAGE}/1976/eaaa23c0514ddb3ff7ad0ff88b88f97b1e2a9834.png)  
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
-  
-  
-  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

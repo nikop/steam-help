@@ -1,4 +1,5 @@
 Using a Router with Steam
+-------------------------
 Updated 2021-07-10 19.49.55
 
 How do I determine if my router is causing a Steam connection issue?  How do I configure my router to work with Steam?
@@ -13,4 +14,3 @@ If you are able to connect to Steam after bypassing your router, it indicates a 
 [list]  	[*]Stateful inspection[/*]  	[*]Dynamic packet filtering[/*]  	[*]QoS (Quality of Service)[/*]  	[*]UPnP (Universal Plug 'n Play)[/*]  [/list]
 
 [h4][url=https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB]Required Ports for Steam[/url][/h4]All required ports to run the Steam application are listed [url=https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB]here[/url]. It is possible that other games available on Steam will require further ports to be available.
-

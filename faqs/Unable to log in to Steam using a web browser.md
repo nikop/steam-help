@@ -16,5 +16,4 @@ For information on how to remove extensions or add-ons with common browsers plea
 # Attempt to log in with a different, unmodified web browser
 If you are unable to log into your Steam account with your current web browser, please try using a different browser. You may want to perform a clean install of that web browser, in case any older extensions or addons may still be interfering.  
   
-If you are unable to login, please contact [Steam Support](https://help.steampowered.com/).  
-  
+If you are unable to login, please contact [Steam Support](https://help.steampowered.com/).

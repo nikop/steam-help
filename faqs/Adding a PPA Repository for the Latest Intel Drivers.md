@@ -18,5 +18,4 @@ To add the x-updates PPA to the Ubuntu 12.04 repository list, do the following:
 
   
   
-For more information related to video drivers, see [https://wiki.ubuntu.com/Valve](https://wiki.ubuntu.com/Valve).  
-  
+For more information related to video drivers, see [https://wiki.ubuntu.com/Valve](https://wiki.ubuntu.com/Valve).

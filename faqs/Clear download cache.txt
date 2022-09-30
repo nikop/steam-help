@@ -1,4 +1,5 @@
 Clear download cache
+--------------------
 Updated 2021-07-10 19.49.55
 
 Clearing your download cache can solve problems with games that won't download or start.
@@ -19,4 +20,3 @@ Clearing your download cache can solve problems with games that won't download o
 [exclude_realm=global][img]http://steamcdn-a.akamaihd.net/steam/support/faq/chts/confirm_clear_cache.jpg[/img][/exclude_realm]
 [/olist]
 If you're still having trouble with your downloads and any games that won't start, please contact [url=https://help.steampowered.com/]Steam Support[/url].
-

@@ -1,4 +1,5 @@
 Steam and Games - Language Settings
+-----------------------------------
 Updated 2021-08-10 16.32.49
 
 How can I change the language for Steam and my games?
@@ -13,4 +14,3 @@ How can I change the language for Steam and my games?
 If you are experiencing problems enabling a language, make sure your desired language is selected in both locations.
 
 [section style=note]Some languages may not be available for the game you wish to play. Check the Steam store page for the game to see which languages are offered.[/section]
-

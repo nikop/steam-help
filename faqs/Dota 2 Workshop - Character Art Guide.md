@@ -1,8 +1,6 @@
 # Dota 2 Workshop - Character Art Guide
 Updated 2021-12-02 22.35.27
 
-  
-
 * [INTRODUCTION](#intro)
 * [SILHOUETTE](#silhouette)
 * [VALUE GRADIENT](#gradient)
@@ -351,5 +349,4 @@ The items seen below were designed by Valve. Notice these points:
 
   
   
-For technical information about authoring models, shaders, uvs and more, please follow the links on the [Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+For technical information about authoring models, shaders, uvs and more, please follow the links on the [Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

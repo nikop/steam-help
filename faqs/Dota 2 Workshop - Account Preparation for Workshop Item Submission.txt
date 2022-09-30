@@ -1,4 +1,5 @@
 Dota 2 Workshop - Account Preparation for Workshop Item Submission
+------------------------------------------------------------------
 Updated 2021-12-03 19.10.32
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img]
@@ -183,4 +184,3 @@ NOTE: Revenue shares cannot be changed on an item once it has been submitted. If
 Thank you for taking the time to review these detailed instructions. We are excited to see what items you'll be creating for our game!
 
 [url=http://www.dota2.com/workshop/]Dota 2 Workshop Items Submission Guidelines Homepage[/url]
-

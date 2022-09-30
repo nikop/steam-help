@@ -1,4 +1,5 @@
 Pure server: file [GAME]\pak01_001.vpk does not match the server's file
+-----------------------------------------------------------------------
 Updated 2021-08-04 17.26.44
 
 [section style=warning]Counter-Strike: Global Offensive cooldowns caused by [i]pak01_001.vpk[/i] errors are non-negotiable and cannot be removed or reduced by Steam Support.

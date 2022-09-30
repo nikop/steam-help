@@ -1,4 +1,5 @@
 Removing and Reinstalling Steam on a Mac
+----------------------------------------
 Updated 2021-08-12 19.30.55
 
 [list]
@@ -31,4 +32,3 @@ With the Steam application active, click the [b]Steam[/b] menu and [b]Quit Steam
 [/olist]
 
 With these files deleted, you can [url=https://help.steampowered.com/en/faqs/view/099E-F5D1-8780-4778]reinstall Steam[/url] if you are troubleshooting a problem.
-

@@ -13,4 +13,3 @@ Please observe the following process to determine whether the error is a result 
 * Ensure that you are not set to **Offline** in the Steam Friends list
 * In the friends list, ensure that you do not see a message indicating that you have lost your connection to the Steam Friends network.
 * If Steam reports that you have lost your connection to the Steam Friends network, please exit and restart Steam. If you are still unable to connect upon logging back in and you have confirmed that there is not an outage, please see the [Troubleshooting Network Connectivity](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC) topic to troubleshoot your connection problems.
-

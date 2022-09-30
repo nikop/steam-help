@@ -1,4 +1,5 @@
 Steam Controller BLE
+--------------------
 Updated 2021-07-26 21.59.50
 
 [img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
@@ -40,4 +41,3 @@ Powering up with the Steam button only will connect you to the most recently use
 A more detailed version of this process is as follows:
 
 [olist]  			[*]Plug in your Steam Controller.[/*]  			[*]Navigate to the Controller Settings page. The [b]Bluetooth FW[/b] button now appears as a [b]Rollback FW[/b] button. Click it.[/*]  				[img]https://support.steampowered.com/images/faq/steam_link/_0004_5---rollback-landing.png[/img]  			[*]Click [b]Start[/b] to initiate the process.[/*]  				[img]https://support.steampowered.com/images/faq/steam_link/_0005_6---rollback-dialog.png[/img]  			[*]Again, be patient.[/*]  				[img]https://support.steampowered.com/images/faq/steam_link/_0006_7---rollback-in-progress.png[/img]  			[*]Click [b]Done[/b][/*]  				[img]https://support.steampowered.com/images/faq/steam_link/_0007_8---rollback-success.png[/img]  			[*]Reconnect your Wireless Receiver by following steps 8-10 in the section above. You have successfully restored the firmware.[/*]  		[/olist]    [/section]
-

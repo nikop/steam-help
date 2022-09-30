@@ -27,4 +27,3 @@ You'll also want to make sure that you don't have any [interfering programs](htt
 * [h5]Network settings[/h5]Firewall settings may prevent the Steam client and games from updating. Please see the [Troubleshooting Network Connectivity](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC) FAQ for further instructions.
 * [h5]Initial game start-up[/h5]Most games require an initial start-up while connected to the Steam Network before they will work in offline mode.  If your game's status is "100% - Ready", but you receive the message "This game cannot be started in Offline Mode" when attempting to play offline, the Steam client and/or game files need to be updated.
 * [h5]Game requirements[/h5]Games that require an active connection or use an external launcher will not work in offline mode.
-

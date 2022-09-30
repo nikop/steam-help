@@ -258,4 +258,4 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
 * [Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)
 
   
-##   
+##

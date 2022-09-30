@@ -1,4 +1,5 @@
 Team Fortress 2 - Free to Play
+------------------------------
 Updated 2021-08-18 19.04.12
 
 What do I need to know about Team Fortress 2 Free to Play?
@@ -66,4 +67,3 @@ To thank you for your years of support we will be giving players who have purcha
 [b]Q. How does the Coaching feature work?[/b]
 
 If a new player on a free account upgrades to a premium account and indicates that you were their most helpful friend, you will receive a special pair of glasses. Helping new users via the Coaching feature is a great way to meet new players and help them out!
-

@@ -19,5 +19,4 @@ This process will not affect your currently installed games, but you will need t
 [exclude_realm=global]![http://steamcdn-a.akamaihd.net/steam/support/faq/chts/confirm_clear_cache.jpg](http://steamcdn-a.akamaihd.net/steam/support/faq/chts/confirm_clear_cache.jpg)[/exclude_realm]
 
   
-If you're still having trouble with your downloads and any games that won't start, please contact [Steam Support](https://help.steampowered.com/).  
-  
+If you're still having trouble with your downloads and any games that won't start, please contact [Steam Support](https://help.steampowered.com/).

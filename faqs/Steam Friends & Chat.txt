@@ -1,4 +1,5 @@
 Steam Friends & Chat
+--------------------
 Updated 2022-07-06 20.36.00
 
 You can access your Friends & Chat interface in the lower right corner of your Steam Client or through your favorite [url=https://steamcommunity.com/chat/]web browser[/url].
@@ -61,4 +62,3 @@ If you're able to access your Steam Friends and Chat UI, starting a voice chat i
 [h3]Troubleshooting[/h3]Steam voice chat is designed to require minimal setup provided your default system devices are already working properly. If you are experiencing an issue, check out the support article below for detailed info:
 
 [url=https://help.steampowered.com/en/faqs/view/1E45-57ED-9153-7EF4]Voice Chat Connection and Quality Issues  [/url]
-

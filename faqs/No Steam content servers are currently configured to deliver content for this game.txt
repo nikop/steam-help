@@ -1,4 +1,5 @@
 No Steam content servers are currently configured to deliver content for this game
+----------------------------------------------------------------------------------
 Updated 2021-07-10 19.49.55
 
 When installing a game, Steam displays the error message:
@@ -12,4 +13,3 @@ There may be a temporary issue with the Steam content servers in your region. Pl
 [*] Go to the "Downloads".
 [*]Under "Download region", select the region closest to you. If the closest region is already selected, select the *next* closest region and retest the issue.
 [/olist]
-

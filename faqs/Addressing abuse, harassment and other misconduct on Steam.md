@@ -84,4 +84,3 @@ Don't participate in groups or befriend users that are involved in harassment, s
 * ### Don’t Engage The Other Party
   
 Whether it's scamming, harassment, spamming or any other malicious activity, do not engage the party that is responsible. A reaction typically results in even more dedication to the activity by the other party. We recommend ignoring the behavior and utilizing the appropriate resources outlined in this FAQ.
-

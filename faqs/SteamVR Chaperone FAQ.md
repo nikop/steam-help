@@ -1,7 +1,7 @@
 # SteamVR Chaperone FAQ
 Updated 2021-07-10 19.49.55
 
- ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png)  #### What is Chaperone?
+![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png)  #### What is Chaperone?
 Chaperone is technology that indicates the boundaries of your play area. You establish these Chaperone boundaries during the setup process by designating the play area with your Controllers.  By default Chaperone displays a grid pattern when you approach the boundary.  
   
 ![https://support.steampowered.com/steamvr/chaperone_white.png](https://support.steampowered.com/steamvr/chaperone_white.png)  #### Does Chaperone show objects in the play area?
@@ -15,7 +15,4 @@ No. The boundaries only become visible when you approach the boundary setting—
 See our [Safety Guide](https://steamcdn-a.akamaihd.net/store/valve_index/ValveIndexSafetyAndMaintenanceInfo.pdf) for more info.  
   
 #### Can I change the Chaperone settings?
-Yes. While the default Chaperone setting provides the most visible boundaries, you can customize the Chaperone settings. When you are wearing the Headset and running VR, press the System button on your Controller to access the settings and accommodate different VR experiences. When you change VR experiences or have another player use your play area, be sure that the settings are appropriate for the use. Show new players how Chaperone works and how to change its settings.  
-  
-    
-  
+Yes. While the default Chaperone setting provides the most visible boundaries, you can customize the Chaperone settings. When you are wearing the Headset and running VR, press the System button on your Controller to access the settings and accommodate different VR experiences. When you change VR experiences or have another player use your play area, be sure that the settings are appropriate for the use. Show new players how Chaperone works and how to change its settings.

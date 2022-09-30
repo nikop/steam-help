@@ -19,4 +19,3 @@ To enable this, follow the instructions below.
 * ![https://support.steampowered.com/images/faq/steam_vr/vive_install/oculus_2.png](https://support.steampowered.com/images/faq/steam_vr/vive_install/oculus_2.png)
 * Once enabled, you will be able to run SteamVR with the Oculus Rift.
 * When using the Rift with SteamVR, use the Back button on an Xbox controller to bring up and dismiss the SteamVR Dashboard.
-

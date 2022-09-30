@@ -1,7 +1,6 @@
 # Error: Maximum Number of Groups Reached
 Updated 2021-08-02 18.37.34
 
-
 * [Why am I getting a max group limit error when trying to join a group?](#why)
 * [How can I join more groups?](#how)
 * [Is this limit dependent on my Steam Level?](#level)
@@ -23,5 +22,4 @@ Remember, [Official Game Groups](http://steamcommunity.com/my/followedgames) tha
 [url id=level][/url]  
   
 #### Is this limit dependent on my Steam Level?
-No, your Steam level only affects your friends limit.  
-  
+No, your Steam level only affects your friends limit.

@@ -1,4 +1,5 @@
 Dota 2 - League Tickets
+-----------------------
 Updated 2021-08-12 20.19.54
 
 [list]  [*][url=#signup]How do I sign-up for a Dota TV league ticket?[/url][/*]  		 	[*][url=#advance]How far in advance do I need to submit my league ticket?[/url][/*]  	[*][url=#admin]How do I add/remove administrators for my league?[/url][/*]  	[*][url=#edit]I made a mistake with my sign-up! How can I change information about my league?[/url][/*]  		[*][url=#release]When will I know my league has been accepted or not?[/url][/*]  [/list]
@@ -24,4 +25,3 @@ REMOVING: Under the League Administrators portion of the page click REMOVE next 
 
 [url id=release][/url]
 [h2]When will I know my league has been accepted or not?[/h2]Leagues will receive an automatic rejection or acceptance e-mail the week prior to their event starting. Please do not contact Steam Support regarding the status of your league ticket.
-

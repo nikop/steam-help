@@ -1,4 +1,5 @@
 Steam is no longer supported on this computer's operating system
+----------------------------------------------------------------
 Updated 2021-07-10 19.49.55
 
 When launching Steam, I receive this error. What does this mean?
@@ -10,4 +11,3 @@ Steam includes features that the current version of your operating system can no
 In order to continue using Steam, you must upgrade your operating system to a more recent version.
 
 If you are unsure or would like more information or help, please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamIssue/?issueid=707]Steam Support[/url]. Please include information about what your current Operating System version you are using is in the support ticket.
-

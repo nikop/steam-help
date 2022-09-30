@@ -19,5 +19,4 @@ If you're not sure how to use console commands, please see [this guide](https://
 If that command allows the game to run without crashing, then please add it to your game config files. Your config file is located in the steamapps folder, under the folder for the game you would like to play. For example:  
 `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg`  
   
-Please contact [Intel Support](https://www.intel.com/content/www/us/en/support.html) for more information.  
-  
+Please contact [Intel Support](https://www.intel.com/content/www/us/en/support.html) for more information.

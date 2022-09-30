@@ -1,6 +1,6 @@
 Dota 2 Workshop - Character Art Guide
+-------------------------------------
 Updated 2021-12-02 22.35.27
-
 
 [list]
 [*][url=#intro]INTRODUCTION[/url]
@@ -158,4 +158,3 @@ COLOR ADJUSTMENTS
 [list][*]Remember, maintaining a hero's identification doesn't mean that custom items must exactly follow the default item silhouettes or colors. To create inventive but still functional items, the artist needs to thoughtfully decide where to push the boundaries and where to balance those extremes by staying closer to familiar elements. Additional factors such as Valve's animations, character poses and speed of travel can contribute to hero identification and should be considered in conjunction with customized items. Frequently evaluating the items in game view, getting feedback from others, and being open to making adjustments can help artists achieve a good balance of novelty and readability. What is most important is that custom items visually support gameplay using all of the principles described on this page. Each of these aspects is an important part of Dota 2’s unique design aesthetic.  [/list]
 
 For technical information about authoring models, shaders, uvs and more, please follow the links on the [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]
-

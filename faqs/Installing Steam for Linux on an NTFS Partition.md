@@ -13,5 +13,4 @@ Add a line to your **/etc/fstab** file that mounts that drive with **ntfs-3g:**
   
 Save your changes and reboot your machine.  
   
-For more information on mounting NTFS partitions using **/etc/fstab**, see this [article](https://help.ubuntu.com/community/MountingWindowsPartitions#NTFS).  
-  
+For more information on mounting NTFS partitions using **/etc/fstab**, see this [article](https://help.ubuntu.com/community/MountingWindowsPartitions#NTFS).

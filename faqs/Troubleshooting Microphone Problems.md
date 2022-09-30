@@ -63,5 +63,4 @@ To effectively troubleshoot any technical issue, it's good to have a plan to con
 * Check to make sure that all settings are inherited correctly. Is your operating system using the correct device? If applicable (if the game uses Steam Voice systems) is Steam using the correct device? Do the game's settings reflect the correct device?
 
   
-As a basic starting place, answering these questions should help direct your troubleshooting efforts.  
-  
+As a basic starting place, answering these questions should help direct your troubleshooting efforts.

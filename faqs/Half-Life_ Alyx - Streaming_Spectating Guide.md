@@ -1,7 +1,7 @@
 # Half-Life: Alyx - Streaming/Spectating Guide
 Updated 2021-08-17 18.01.44
 
-  ![https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png](https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png)    
+![https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png](https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png)    
   
 # Streaming and Spectating Guide
 The best way to experience Half-Life: Alyx is to play it yourself. But we know that watching someone play a game in VR is an entertaining experience on its own, and many of you will want to share the game with others — whether in the same room or over a livestream. Half-Life: Alyx has a number of settings dedicated to improving the experience of watching the game being played on a TV or monitor. They can be found in the game's menu under **Options > Spectator.**  
@@ -43,5 +43,4 @@ To disable in-camera smoothing, set both **vr_camera_decay_roll_halflife 0** and
   
 If you would prefer a different spectator HUD size than the default options, you can fine-tune the size in the developer console. Press the tilde key **(~)** to open the console and type **hlvr_spectator_hud_size 100** to set the HUD to its default size of Medium. Instead of 100, you can use any value between 50 and 150. Use a value of 0 to hide the spectator HUD entirely.  
   
-If you are having issues with tracking stability or other VR issues, check out the [SteamVR base station and tracking articles.](https://help.steampowered.com/en/faqs/view/1AF1-670B-FF5C-3323)  
-  
+If you are having issues with tracking stability or other VR issues, check out the [SteamVR base station and tracking articles.](https://help.steampowered.com/en/faqs/view/1AF1-670B-FF5C-3323)

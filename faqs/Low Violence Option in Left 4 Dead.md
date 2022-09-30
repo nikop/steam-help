@@ -16,5 +16,4 @@ In the Launch Options field, type "-lv" as shown in the example below:
   
 ![{STEAM_CLAN_IMAGE}/1976/4bc0a402f254c490f39759406ff68d57d0b26363.png]({STEAM_CLAN_IMAGE}/1976/4bc0a402f254c490f39759406ff68d57d0b26363.png)  
   
-Close the Properties window, and then launch Left 4 Dead. The game should run with less bodies, limbs, and other content.  
-  
+Close the Properties window, and then launch Left 4 Dead. The game should run with less bodies, limbs, and other content.

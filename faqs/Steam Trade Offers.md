@@ -1,7 +1,6 @@
 # Steam Trade Offers
 Updated 2021-08-12 20.56.28
 
-
 * [What is a trade offer?](#whatisoffer)
 * [How do I send a trade offer?](#howtosendoffer)
 * [How can I opt-out of confirmations?](#optout)
@@ -106,5 +105,4 @@ All trades are final; use the confirmation step to review and make sure you're s
 Trade offers automatically expire after two weeks. You can find the offer expiration date at the bottom of a pending offer.  
   
 ### [url id=historyoffer][/url]Where can I see my trade history?
-You can view your trade history from the Trade Offers page or from the "**...**" buttondrop down in your Inventory.  
-  
+You can view your trade history from the Trade Offers page or from the "**...**" buttondrop down in your Inventory.

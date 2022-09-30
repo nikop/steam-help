@@ -1,4 +1,5 @@
 Troubleshooting Microphone Problems
+-----------------------------------
 Updated 2021-10-27 21.56.19
 
 [h1]Check the Connection[/h1]
@@ -53,4 +54,3 @@ To effectively troubleshoot any technical issue, it's good to have a plan to con
 [*]Check to make sure that all settings are inherited correctly. Is your operating system using the correct device? If applicable (if the game uses Steam Voice systems) is Steam using the correct device? Do the game's settings reflect the correct device? 	
 [/olist]
 As a basic starting place, answering these questions should help direct your troubleshooting efforts.
-

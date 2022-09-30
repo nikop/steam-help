@@ -1,4 +1,5 @@
 Steam Levels and XP
+-------------------
 Updated 2021-10-28 01.02.21
 
 [list]  [*][url=#who]Who can level up their Steam Community profile?[/url][/*]  [*][url=#increase]How do I increase XP on my profile to level up?[/url][/*] [*][url=#reward]What does having Steam Levels give you?[/url] [*][url=#limited]I have badges, but my XP is stuck at 100 on level 0. What is wrong?[/url][/*]  [*][url=#more]I bought a game, but my XP only increased by x amount. Shouldn't it be more?[/url][/*]  [/list]

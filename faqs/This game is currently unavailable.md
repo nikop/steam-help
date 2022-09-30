@@ -55,5 +55,4 @@ Steam is designed to run these installers when the game is first launched. If an
   
 These installers are found in the game's installation folder, or a subfolder, found in the following location by default: **C:\Program Files (x86)\Steam\steamapps\common\<Game Title>\**.  
   
-[section style=note]Note: Your installation path may differ from the above location.[/section]  
-  
+[section style=note]Note: Your installation path may differ from the above location.[/section]

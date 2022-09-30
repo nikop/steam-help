@@ -1,4 +1,5 @@
 Dota 2 Workshop - Item Shader Masks
+-----------------------------------
 Updated 2021-10-28 01.43.57
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_base_items.jpg?v=1459382400[/img]
@@ -254,4 +255,3 @@ Puck without (left) and with (right) a Custom Fresnel Color Warp applied to diff
 
 
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]
-

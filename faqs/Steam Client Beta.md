@@ -21,4 +21,3 @@ If you are using Big Picture Mode:
 * Select 'Settings' then 'System'
 * Check the ‘Participate in client beta’ option
 * Follow the prompt to restart Steam
-

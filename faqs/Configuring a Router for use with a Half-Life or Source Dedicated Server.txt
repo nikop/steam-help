@@ -1,4 +1,5 @@
 Configuring a Router for use with a Half-Life or Source Dedicated Server
+------------------------------------------------------------------------
 Updated 2021-12-02 23.30.26
 
 How do I configure my Router for use with my Half-Life or Source dedicated Server?
@@ -72,4 +73,3 @@ Then you can connect to your server from your [b]Favorites[/b] menu.
   [/olist]  [section style=important]  [h3]Important:[/h3]If you have a server and a client behind the same router, the client cannot connect to the server through the server browser. In fact the server may not be visible in the server browser of the client.
 
 The client must connect to the server using the server's internal IP address.[/section]
-

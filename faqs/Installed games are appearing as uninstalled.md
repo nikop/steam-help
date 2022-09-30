@@ -35,5 +35,4 @@ To ensure that you do not encounter this issue, always allow Steam to close prop
   
 Additionally, third party applications can prevent Steam from writing essential information. Ensure that none of your installed applications are interfering with Steam:  
   
-[Programs which may interfere with Steam](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748)  
-  
+[Programs which may interfere with Steam](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748)

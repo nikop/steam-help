@@ -35,5 +35,4 @@ Issues related to any of these types of programs may be resolved by exiting and/
   
 [h5]Hidden Processes[/h5]Many applications are configured to launch when a computer starts. These might not even appear in the Windows task bar, but may still be among some of your active processes using your system's resources.  
   
-Because of the complexity of these systems and the expertise required to make changes to them, we recommend working with an expert to ensure that nothing damaging is done to your computer, while also ensuring that hardware, applications, security and network are all setup to work together without conflict.  
-  
+Because of the complexity of these systems and the expertise required to make changes to them, we recommend working with an expert to ensure that nothing damaging is done to your computer, while also ensuring that hardware, applications, security and network are all setup to work together without conflict.

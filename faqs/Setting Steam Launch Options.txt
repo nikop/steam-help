@@ -1,4 +1,5 @@
 Setting Steam Launch Options
+----------------------------
 Updated 2021-08-04 17.44.31
 
 How do I set Steam launch options?
@@ -16,4 +17,3 @@ Please be sure to take adequate precautions to ensure that no one else has acces
 
 [h2]Example[/h2]Log in automatically:
 [code]"C:\Program Files (x86)\Steam\steam.exe" -login username password[/code]
-

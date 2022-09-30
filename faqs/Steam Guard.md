@@ -1,7 +1,6 @@
 # Steam Guard
 Updated 2021-08-09 18.18.49
 
-
 * [What is Steam Guard and how does it help me?](#what)
 * [How do I enable Steam Guard via email?](#enableemail)
 *  [exclude_realm=china]
@@ -106,4 +105,4 @@ This can happen after Steam Support has restored your account. If the button to 
   
 The Steam client's settings dialog will appear like this:  
   
-![https://support.steampowered.com/images/faq/steamguard/sgnotenabled.png](https://support.steampowered.com/images/faq/steamguard/sgnotenabled.png)  
+![https://support.steampowered.com/images/faq/steamguard/sgnotenabled.png](https://support.steampowered.com/images/faq/steamguard/sgnotenabled.png)

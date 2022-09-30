@@ -1,4 +1,5 @@
 My Items Are Missing or Were Stolen
+-----------------------------------
 Updated 2021-08-16 17.40.55
 
 View related issues below for more information on how to resolve them
@@ -20,4 +21,3 @@ You qualified for an item that was not delivered to your account. You are not re
 
 [url=https://help.steampowered.com/en/faqs/view/6E56-1261-A719-8D4F][h1]Items Were Deleted[/h1][/url]
 If items were deleted or removed from your account, it may be due to something unrelated, such as a VAC ban or trade ban.
-

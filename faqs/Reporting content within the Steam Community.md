@@ -54,6 +54,4 @@ Click the "flag" button below the content. Which option you see will depend on h
 
   
 ### How to report cheating
- Follow the instructions on our [Reporting Suspected Cheaters](https://help.steampowered.com/en/faqs/view/2F3F-25EE-2AC6-30E7#:~:text=Click%20on%20the%20%22...,select%20the%20%22Submit%20Report%22%20button) FAQ.   
-  
-  
+ Follow the instructions on our [Reporting Suspected Cheaters](https://help.steampowered.com/en/faqs/view/2F3F-25EE-2AC6-30E7#:~:text=Click%20on%20the%20%22...,select%20the%20%22Submit%20Report%22%20button) FAQ.

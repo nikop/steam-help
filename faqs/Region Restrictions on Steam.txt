@@ -1,4 +1,5 @@
 Region Restrictions on Steam
+----------------------------
 Updated 2021-07-10 19.49.55
 
 [section style=important]  [h2]Steam Support is unable to modify or remove any region restrictions.[/h2][/section]
@@ -55,4 +56,3 @@ No, using a proxy or VPN to disguise your location is strictly against the Steam
 
 [h2]What happens if I have redeemed a region restricted gift and cannot play it?[/h2]
 You will need to purchase this product from your current location without using a VPN/proxy or obtain a copy that is sold within your country of residence. If you are unable to complete a purchase on the Steam store, please contact [url=https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E]Steam Support[/url].
-

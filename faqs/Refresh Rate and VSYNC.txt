@@ -1,4 +1,5 @@
 Refresh Rate and VSYNC
+----------------------
 Updated 2021-10-27 21.50.34
 
 What are [b]refresh rate[/b] and [b]VSYNC[/b] and how do they affect gameplay?
@@ -39,4 +40,3 @@ See AMD's support page for [url=https://www.amd.com/en/support/kb/faq/dh3-005]Ho
 This setting determines whether or not Windows will allow your games and other applications to display different images at frame rates (FPS) which exceeds your refresh rate. If you have disabled VSYNC you may experience visual "tearing" and video artifacts while playing, as you will not see all of the frames which are being rendered.
 
 Please see the [url=https://help.steampowered.com/en/faqs/view/5B03-A517-D747-9421]Troubleshooting Gameplay and Performance - Software[/url] topic if you would like to optimize game performance on your machine.
-

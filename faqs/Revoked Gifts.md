@@ -11,5 +11,4 @@ Your account will not be restricted; however, the gift you received will be remo
 If you performed a trade to receive this game, Steam Support will not restore any items that were exchanged for the removed gift.  
   
 #### I bought this game from a third party. Will I get a refund?
-If you or someone you know purchased this gift subscription through a third party website, we suggest contacting the seller to request a refund. We do not support the sale of Steam gifts outside of Steam.  
-  
+If you or someone you know purchased this gift subscription through a third party website, we suggest contacting the seller to request a refund. We do not support the sale of Steam gifts outside of Steam.

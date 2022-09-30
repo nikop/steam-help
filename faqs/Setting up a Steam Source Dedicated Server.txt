@@ -1,4 +1,5 @@
 Setting up a Steam Source Dedicated Server
+------------------------------------------
 Updated 2021-12-02 22.55.41
 
 How do I set up a Source Dedicated Server?
@@ -115,5 +116,4 @@ You can also enter server console commands:
 
 [i]listip [/i]Lists all IP addresses in your server ban list. 
 
-[i]maps (partial name) [/i]Lists all maps containing a partial name, for example: [i]maps de_ [/i]would list all maps with [b]de_ [/b]in their name. 
-
+[i]maps (partial name) [/i]Lists all maps containing a partial name, for example: [i]maps de_ [/i]would list all maps with [b]de_ [/b]in their name.

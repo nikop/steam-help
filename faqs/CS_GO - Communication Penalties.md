@@ -1,7 +1,6 @@
 # CS:GO - Communication Penalties
 Updated 2021-07-10 19.49.55
 
-
 * [I received an abusive communication warning. What does this mean?](#whywarning)
 * [I received a communication penalty in-game. How does this affect my account?](#whypenalty)
 * [How do I remove a communication penalty from my account?](#removepenalty)

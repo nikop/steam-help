@@ -21,5 +21,4 @@ To make a game run using the discrete GPU, use these simple steps:
   
 The second method is not as efficient (in terms of power consumption) but quicker by running the Steam client and all games using Primus. From the command line, enter **primusrun steam** instead of **steam**. This is inefficient because all games do not require the power of an NVidia card and power consumption is greatly increased during a Steam client/game session.  
   
-For more information about instaling and configuring Primus (and installing Steam on Ubuntu, 64-bit), see this [article](http://cjenkins.wordpress.com/2013/01/01/steam-for-linux-on-optimus-enabled-computer-running-ubuntu-12-04-64bits).  
-  
+For more information about instaling and configuring Primus (and installing Steam on Ubuntu, 64-bit), see this [article](http://cjenkins.wordpress.com/2013/01/01/steam-for-linux-on-optimus-enabled-computer-running-ubuntu-12-04-64bits).

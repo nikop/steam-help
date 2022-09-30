@@ -1,4 +1,5 @@
 Scam FAQ (Confidence Scams and Trade Scams)
+-------------------------------------------
 Updated 2021-08-11 21.49.59
 
 [section style=warning]Valve employees will [i]never[/i] communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [url=help.steampowered.com]Steam Support Help Site[/url]. There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.
@@ -65,4 +66,3 @@ We sympathize with people who fall victim to scams, but we provide enough inform
 [h3]Why won't Steam Support provide information on why an account was trade banned or locked?[/h3]By limiting the provided data, Steam Support prevents malicious users from learning how to avoid getting caught in the future. Steam Support relies on several data points to arrive at a decision to ban or lock an account. Users intent on committing malicious activity, most often done to other users, are constantly trying to gain this data to use in future scams, fraud and hijackings.
 
 While most trade bans are permanent, in some circumstances a user may receive a temporary trade ban. In these cases, when the ban is automatically lifted the offending account also gets placed into trade probation. Probationary status allows other users to know that a user has recently committed a trading related offense so they can make better decisions about whether or not they want to trade with that user. Please note, probationary status does [i]not[/i] prevent users from trading.
-

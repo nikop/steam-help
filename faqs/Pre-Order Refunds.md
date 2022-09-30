@@ -18,5 +18,4 @@ The same guidelines apply: a refund may be issued for any pre-ordered gift prior
   
 If your preorder came with an extra giftable copy of the game, you will need to have the account that redeemed the extra copy approve the refund as well. Please refer to the section "Can I refund my gift?" in our [Steam Gifts](https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117#giftrefund) article for further information.  
   
-If the gift or the extra copy has not been redeemed, you may request a refund for your preordered title at any time.  
-  
+If the gift or the extra copy has not been redeemed, you may request a refund for your preordered title at any time.

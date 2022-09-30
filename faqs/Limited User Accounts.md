@@ -86,5 +86,4 @@ You can, however there are several limitations that will impact your ability to 
 A purchase amount only counts towards this limit if it was processed successfully. If a purchase is pending/processing or our system is waiting to confirm payment with your bank it will not count towards this limit.  
   
 [h5]What exchange rates are used when calculating the USD value of my purchases?[/h5]  
-We use the daily exchange rate at the time of purchase to calculate your account's USD spend on Steam. If you made a purchase in the past, we used that day's exchange rate, not today's rate.  
-  
+We use the daily exchange rate at the time of purchase to calculate your account's USD spend on Steam. If you made a purchase in the past, we used that day's exchange rate, not today's rate.

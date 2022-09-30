@@ -80,5 +80,4 @@ For macOS X: Disk Utility -> Click on Drive -> Click First Aid (For older OS X v
   
 [h5]Check RAM for Errors[/h5]Memory errors can cause issues with the Steam installation process, as well as gameplay. You'll want to work with a tech support specialist to investigate possible issues with your system memory.  
   
-Windows: Start -> Find "mdsched" and run Windows memory Diagnostic  
-  
+Windows: Start -> Find "mdsched" and run Windows memory Diagnostic

@@ -23,5 +23,4 @@ You may need to edit your config.cfg or userconfig.cfg files to add the bind (us
 [h5]For example:[/h5]`bind "F12" "toggleconsole"`  
   
 The usual default is:  
-`bind "~" "toggleconsole"`  
-  
+`bind "~" "toggleconsole"`

@@ -216,5 +216,4 @@ Razor detail map, body color, detail mask, and model display
   
 After reading through these notes, look again at how Arcana, Ability, and Ambient textures are displayed on these and other Dota heroes - you'll have much more insight about how these texture enhancements were accomplished.  
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

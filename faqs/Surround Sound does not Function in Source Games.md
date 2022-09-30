@@ -13,5 +13,4 @@ If the issue persists, close any proprietary audio control applications and repe
 You can also use one of the following launch options to test the issue:  
   
 `+snd_legacy_surround 1`  
-`+snd_digital_surround 1`  
-  
+`+snd_digital_surround 1`

@@ -1,4 +1,5 @@
 Steam Wishlist
+--------------
 Updated 2021-10-27 22.58.59
 
 How do I use the Steam Wishlist feature?
@@ -24,4 +25,3 @@ Here you can either click and drag the items to change the order or assign a num
 [h5][b]Who can see my Wishlist?[/b][/h5]Visibility of the Wishlist is tied to your Community Profile account settings.  The information can be displayed to all users, your Steam friends, or only your account. Please see the [url=https://help.steampowered.com/en/faqs/view/588C-C67D-0251-C276]Profile Privacy[/url] help section for more information.
 
 This is an easy way for friends to see what games you are interested in.  Please see the [url=https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117]Steam Gifts[/url] guide for more information on gifting games.
-

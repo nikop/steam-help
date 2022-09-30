@@ -1,4 +1,5 @@
 Steam Link Hardware
+-------------------
 Updated 2021-08-04 17.23.36
 
 [img]https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png[/img]     [h1]Steam Link Hardware[/h1]The Steam Link allows you to stream games from the Steam Library on your PC to any TV in your home. The technology takes advantage of the horsepower you already have in your home, streaming from your current gaming computer by mirroring its experience to your TV.
@@ -44,4 +45,3 @@ To toggle between pairing modes (the wireless receiver or Steam Link), press the
 The default location for these files on your PC is [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
 
 [/expand]
-

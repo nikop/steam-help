@@ -1,4 +1,5 @@
 Case Sensitive Filesystems not supported on Mac
+-----------------------------------------------
 Updated 2021-12-03 19.44.18
 
 Steam gives me the error, "Steam requires that ~/Library/Application Support/Steam be created on a case insensitive filesystem." or "Steam requires that ~/Documents/Steam Content be created on a case insensitive filesystem."

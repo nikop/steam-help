@@ -57,5 +57,4 @@ Steam's Wishlist feature can be used to receive a notification when a game that 
   
 [url id=other][/url]#### What other resources are there for billing issues?
   
-Refer to our [General Billing](https://support.steampowered.com/kb_cat.php?id=92) or [Refunds and Returns](https://support.steampowered.com/kb_cat.php?id=60) support articles for more information. If you can't solve your issue with the help of these articles, please go to the [Steam Support Help Site](https://help.steampowered.com) and submit a support ticket detailing your purchasing problem.  
-  
+Refer to our [General Billing](https://support.steampowered.com/kb_cat.php?id=92) or [Refunds and Returns](https://support.steampowered.com/kb_cat.php?id=60) support articles for more information. If you can't solve your issue with the help of these articles, please go to the [Steam Support Help Site](https://help.steampowered.com) and submit a support ticket detailing your purchasing problem.

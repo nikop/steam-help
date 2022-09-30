@@ -1,7 +1,7 @@
 # Half-Life: Alyx - Performance Tips
 Updated 2021-08-10 16.48.06
 
- ![https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png](https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png) # Performance Tips
+![https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png](https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png) # Performance Tips
 #### Intro
 Half-Life: Alyx is built to push your system to its limits. The first time you launch Half-Life: Alyx (or when your hardware changes), the game will automatically benchmark your CPU and GPU, look at the available system memory, and try to pick the most appropriate graphics settings. That said, there's always room to fine-tune and push the envelope further. Half-Life: Alyx can keep an 8-core CPU with a 12GB GPU completely busy running complex VR gameplay at up to 144Hz—but even if your PC doesn't look anything like that, we encourage looking through the game's advanced performance options and seeing how high your system can go. From the main menu, navigate to (visit... **Settings > Performance** and click the gear icon in the bottom left corner).  
   
@@ -34,4 +34,3 @@ If game performance is worse than you think it should be and none of the above h
 
   
 ---
- 

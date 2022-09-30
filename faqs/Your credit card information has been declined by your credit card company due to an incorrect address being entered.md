@@ -34,5 +34,4 @@ First, ensure that you double-check this information against what your bank has 
 In some very rare cases, there may be an issue with the information that your bank checks this information against, or the verification system may be temporarily malfunctioning. If you suspect that this is the case, you may wish to purchase a [Steam Wallet card](https://store.steampowered.com/account/redeemwalletcode) from a physical retailer or use an alternate payment method.  
   
 [section style=important] ### Note:
-If your purchase fails, Steam will email you a link that will let you try your purchase again (at the sale price) for up to 72 hours.[/section]  
-  
+If your purchase fails, Steam will email you a link that will let you try your purchase again (at the sale price) for up to 72 hours.[/section]

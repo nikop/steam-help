@@ -15,5 +15,4 @@ Have questions about your Steam Controller? See our FAQ page for answers.
 ](https://help.steampowered.com/en/faqs/view/0539-D456-5B06-E269) [/section]    [section id=setup][ ## **Visit Community Discussions**
 Talk with other users about your experience with the Steam Controller  
   
-](http://steamcommunity.com/app/353370/discussions/) [/section]   
-  
+](http://steamcommunity.com/app/353370/discussions/) [/section]

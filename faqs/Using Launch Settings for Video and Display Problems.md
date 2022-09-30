@@ -109,7 +109,4 @@ If you are forcing a refresh rate on your system (this is not recommended), you 
 * Higher resolutions will affect the Frames Per Second which your machine can display.
 * 640x480 resolution may run slower than 800x600 resolution on newer video cards.
 
-[/section]  
-  
-  
-  
+[/section]

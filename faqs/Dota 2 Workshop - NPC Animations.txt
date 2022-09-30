@@ -1,6 +1,6 @@
 Dota 2 Workshop - NPC Animations
+--------------------------------
 Updated 2022-07-06 20.40.12
-
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/smeevil_crop.jpg?v=1459382400[/img]
 
@@ -21,4 +21,3 @@ Updated 2022-07-06 20.40.12
 [h2][url id=activities][/url][/h2][h2]ANIMATION ACTIVITIES[/h2][list]  	[*]Dota 2 Workshop animation activities are now determined by how the animation files are input through the workshop tool UI. The initial iteration of the Dota 2 Workshop required artists to edit qc text files to assign activities to animation sequences but qc text file editing is no longer required. Bear this in mind if you see references to the qc process in developer websites or in the workshops of other Valve games. [/*]  [/list]
 
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]
-

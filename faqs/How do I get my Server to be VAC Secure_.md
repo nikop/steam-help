@@ -14,5 +14,4 @@ The process for enabling VAC security is the same for **Steam Half-Life Dedicate
   
   
 #### Standalone Dedicated Servers
-VAC Security is enabled by default for Standalone Dedicated Servers. To turn VAC security **OFF** for your Standalone Dedicated server add *-insecure* to your launch switches.  
-  
+VAC Security is enabled by default for Standalone Dedicated Servers. To turn VAC security **OFF** for your Standalone Dedicated server add *-insecure* to your launch switches.

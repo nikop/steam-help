@@ -1,4 +1,5 @@
 NVIDIA Shield
+-------------
 Updated 2021-08-19 19.40.07
 
 [h3]Games[/h3]Portal and Half-Life 2 are now available on the NVIDIA Shield via the Google Play store.
@@ -17,4 +18,3 @@ Your Steam account is separate from your Google Play/NVIDIA Shield account.  Pur
 [h3]Google Play Support[/h3]For Google Play purchase and account issues, please contact Google Support:
 
 [url=https://support.google.com/googleplay/]Google Play Support[/url]
-

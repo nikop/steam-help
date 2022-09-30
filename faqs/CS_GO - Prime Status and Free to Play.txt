@@ -1,4 +1,5 @@
 CS:GO - Prime Status and Free to Play
+-------------------------------------
 Updated 2021-08-11 00.14.06
 
 [list]  	[*][url=#freecsgo]What is included with the free version of CS:GO?[/url][/*]  	[*][url=#primebenefits]What are the benefits of Prime Status?[/url][/*]  	[*][url=#getprime]How do I add Prime Status to my account?[/url][/*]  	[*][url=#removeprime]Can I remove Prime Status from my account?[/url][/*]  	[*][url=#playwithnonprime]Can Prime and non-Prime users matchmake together?[/url][/*]  [*][url=#freexp]Will I receive XP if I do not have Prime Status?[/url][/*]	[*][url=#freesg]Will I receive a Competitive Skill Group if I do not have Prime Status?[/url][/*]	[*][url=#freedrops]Will I receive weekly weapon case and graffiti drops if I do not have Prime Status?[/url][/*]	[/list]

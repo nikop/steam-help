@@ -12,5 +12,4 @@ I have network performance issues on my Xbox 360 when playing either Team Fortre
   
 The most common reason for losing connection to the host is that the host closed the server or disconnected. There is no way around this in TF2.  In L4D, you can try connecting to an available Dedicated Server which will allow all players to continue through the match even if the Lobby host were to leave.  
   
-If performance issues persist, you may need to contact [XBox Live Support](http://support.xbox.com) to troubleshoot further.  
-  
+If performance issues persist, you may need to contact [XBox Live Support](http://support.xbox.com) to troubleshoot further.

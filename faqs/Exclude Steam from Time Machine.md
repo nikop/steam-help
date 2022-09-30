@@ -12,5 +12,4 @@ When setting up Time Machine on your computer make sure that you exclude the /Us
 * Add your **/Users/[username]/Library/Application Support/Steam/SteamApps/** folder to the exclusion list
 
   
-Time Machine will no longer backup your SteamApps folder each time a game is updated. This will avoid large amounts of data being backed up with only minor updates.  
-  
+Time Machine will no longer backup your SteamApps folder each time a game is updated. This will avoid large amounts of data being backed up with only minor updates.

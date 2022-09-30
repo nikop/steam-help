@@ -125,5 +125,4 @@ Yes. Since Replay data is served on a Web server (and not on the game server its
 No.  
   
 **Will shutting down my server mess up Replays?**  
-If you shut down your server using the "exit" command, it should publish any data it needs to and shut down gracefully. The "quit" command should work fine, too.  
-  
+If you shut down your server using the "exit" command, it should publish any data it needs to and shut down gracefully. The "quit" command should work fine, too.

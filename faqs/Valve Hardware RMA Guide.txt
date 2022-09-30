@@ -1,4 +1,5 @@
 Valve Hardware RMA Guide
+------------------------
 Updated 2022-02-24 22.44.18
 
 [hr][/hr]
@@ -48,6 +49,3 @@ While you should contact Steam Support for troubleshooting assistance with your 
 [url=https://help.steampowered.com/en/faqs/view/369C-3E9F-76FD-DEDA]EU Right of Withdrawal[/url]
 
 [url=https://help.steampowered.com/en/faqs/view/339C-BC5C-3D89-53D9]Valve Hardware Shipping FAQ[/url]
-
-
-

@@ -1,7 +1,6 @@
 # Dota 2 - Fantasy Leagues
 Updated 2021-07-10 19.49.55
 
-
 * [General](#general)
 * [Players](#players)
 * [Player Rosters](#rosters)
@@ -123,5 +122,4 @@ No, players on your Bench do not earn points towards weekly or daily point total
 No, scoring is entirely based on the player’s performance in certain categories (kills, gold per minute, healing, etc). Whether they win or lose their match is not scored, though players that win matches will tend to have better individual performances.  
   
 ### When are scores updated?
-Scores are updated after every match completes.  
-  
+Scores are updated after every match completes.

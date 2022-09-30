@@ -238,5 +238,4 @@ NOTE: Revenue shares cannot be changed on an item once it has been submitted. If
   
 Thank you for taking the time to review these detailed instructions. We are excited to see what items you'll be creating for our game!  
   
-[Dota 2 Workshop Items Submission Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Workshop Items Submission Guidelines Homepage](http://www.dota2.com/workshop/)

@@ -1,8 +1,6 @@
 # Dota 2 Workshop - Item Model Requirements
 Updated 2021-08-23 17.14.26
 
-  
-  
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/models/disruptor_mount_model.JPG](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/models/disruptor_mount_model.JPG)  
   
 
@@ -221,5 +219,4 @@ This page is applies to all Dota workshop model types. You can find additional i
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

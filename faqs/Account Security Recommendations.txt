@@ -1,4 +1,5 @@
 Account Security Recommendations
+--------------------------------
 Updated 2021-08-28 00.48.12
 
 [list]  	[*][url=#steamguard]Enable Steam Guard two-factor authentication[/url][/*]  	[*][url=#verify]Verify your contact email address with Steam[/url][/*]  	[*][url=#friends]Steam Friends[/url][/*]  	[*][url=#beware]Things to watch out for[/url][/*]  	[*][url=#general]General security recommendations[/url][/*]  [/list]
@@ -54,4 +55,3 @@ Watch out for these activities:
 [h2]Always log out of your account on shared machines[/h2]If the machine you use to access Steam has multiple users, be sure to fully Exit (log out of) Steam when you are done using the machine (if the "Remember Password" option is checked or if Steam is minimized to the Windows system tray but not fully Exited another user may be able to access your account).[/section]         [section style=important]  [h3]Important:[/h3][h2]Report Hijackings and Suspicious Activities[/h2]If your account has been compromised, please see the [url=https://help.steampowered.com/en/faqs/view/0A94-F308-34A5-1988]Retrieving a Lost or Stolen Steam Account[/url] topic for instructions to retrieve your account.
 
 If another user requests your account information or attempts to steal your account, please see the [url=https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD]Reporting content within the Steam Community[/url] topic for instructions to submit a report.[/section]
-

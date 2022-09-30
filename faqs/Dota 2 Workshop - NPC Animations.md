@@ -1,7 +1,6 @@
 # Dota 2 Workshop - NPC Animations
 Updated 2022-07-06 20.40.12
 
-  
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/smeevil_crop.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/smeevil_crop.jpg?v=1459382400)  
   
 
@@ -153,5 +152,4 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

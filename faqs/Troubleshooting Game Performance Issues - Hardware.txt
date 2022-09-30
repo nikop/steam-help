@@ -1,4 +1,5 @@
 Troubleshooting Game Performance Issues - Hardware
+--------------------------------------------------
 Updated 2022-03-02 17.20.55
 
 What can I do to make sure that my hardware is running optimally?
@@ -33,4 +34,3 @@ There truly is no such thing as too much memory. If you have 16+ GB of memory th
 Surprisingly enough, these long pauses seem to happen most frequently with SSDs (Solid State Drives). Some SSDs, particularly those that are almost full, will occasionally do a significant amount of house-keeping at inopportune times. It may be possible to use Resource Monitor to detect this situation. You can run Resource Monitor by typing its name into the Start Menu’s search box. Then go to the Disk tab and open up the Disk Activity section. The Response Time column shows how long the disk is taking to respond to requests. If you click this column header it will sort the results by response time and then you can watch, while you are gaming, for excessively long responses that are correlated with frame rate problems. A response time of more than 10-20 ms may start causing performance problems in games.
 
 Some hard drives go to sleep (spin down the platters) after just ten or fifteen seconds of no disk activity. These drives will then take a second or longer to respond to any read requests because they have to get the platters spinning again before they can read any data. These drives can easily cause read delays that are too long for games to hide, and therefore these drives can lead to significant frame rate hitches.
-

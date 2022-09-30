@@ -1,4 +1,5 @@
 Troubleshooting Lag
+-------------------
 Updated 2021-12-16 21.51.10
 
 I am encountering lag problems when I play - what can I do?
@@ -10,6 +11,3 @@ Latency represents the amount of time it takes information to reach the server f
 Please see the [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere with Steam[/url] topic for instructions to disable any unnecessary background applications before loading Steam.[/*]      [*]      [h4]Optimize Router Settings and Environment[/h4]It is important to maintain an appropriate environment for your router and other electronics. Ideally, your router should be in a well-ventilated area where it will not overheat. Overheating routers have been reported to cause network connectivity issues and symptoms of lag.
 
 In addition to ensuring your router is operating at optimum levels, it may be useful to forward gaming-related ports to your machine if you are the only user on your home network who will be playing Steam games. Please see the [url=https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC#ports]Required Ports for Steam[/url] list to see which Steam and game ports to forward.[/*][/olist]
-
-
-

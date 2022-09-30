@@ -1,4 +1,5 @@
 Steam Controller
+----------------
 Updated 2021-08-12 20.23.31
 
 [img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
@@ -11,5 +12,4 @@ Updated 2021-08-12 20.23.31
 
 [/url]  [/section]    [section id=setup]    	[url=http://steamcommunity.com/app/353370/discussions/]  		  			[h2][b]Visit Community Discussions[/b][/h2]Talk with other users about your experience with the Steam Controller
 
-[/url]  [/section]      
-
+[/url]  [/section]

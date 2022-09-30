@@ -1,4 +1,5 @@
 Setting up a Steam Half-Life Dedicated Server
+---------------------------------------------
 Updated 2021-12-16 21.50.15
 
 How do I setup a Half-Life Dedicated Server?
@@ -120,4 +121,3 @@ You can also enter server console commands:
 [i]listip [/i]Lists all IP addresses in your server ban list. 
 
 [i]maps (partial name) [/i]Lists all maps containing a partial name, for example: [i]maps de_ [/i]would list all maps with [b]de_ [/b]in their name.
-

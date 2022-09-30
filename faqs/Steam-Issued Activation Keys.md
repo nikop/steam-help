@@ -23,8 +23,4 @@ Steam does not have access to third-party registration systems and cannot resolv
 You can find the third-party game's support contact information by selecting the game in your Steam Library and then on the right hand side select "Support" from the tabs available above the "Activity" section.  
   
 Make sure to provide them with your Steam-issued CD Key so that they can better assist you.  
-[/section]  
-  
-  
-  
-  
+[/section]

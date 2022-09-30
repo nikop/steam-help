@@ -94,5 +94,4 @@ A more detailed version of this process is as follows:
 * ![https://support.steampowered.com/images/faq/steam_link/_0007_8---rollback-success.png](https://support.steampowered.com/images/faq/steam_link/_0007_8---rollback-success.png)
 * Reconnect your Wireless Receiver by following steps 8-10 in the section above. You have successfully restored the firmware.
 
- [/section]  
-  
+ [/section]

@@ -32,6 +32,3 @@ For example, you can find the config.cfg file for Counter-Strike at [Steam insta
 * Open the file with Notepad and enter `cl_righthand 1` (to use the right-handed model) or `cl_righthand 0` (to use the left-handed model)
 * Save the file
 * Launch the game to test the userconfig.cfg settings
-
-  
-  

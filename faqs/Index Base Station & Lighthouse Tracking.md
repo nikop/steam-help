@@ -1,7 +1,7 @@
 # Index Base Station & Lighthouse Tracking
 Updated 2021-07-26 22.06.18
 
- ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) # General troubleshooting
+![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) # General troubleshooting
 Before reading further, be sure to:  
   
 
@@ -94,7 +94,4 @@ If you are using VR in a shared tracking space with multiple instances of SteamV
  #### How many Base Stations do I need?
 We recommend two Base Stations for most room-scale play areas. If you're covering an area larger than 5 x 5 meters (~16 x 16 feet), you can add additional Base Stations for additional tracking and increased accuracy.  
   
-For seated or standing-only play areas, one Base Station can be sufficient, but two are still recommended to ensure your Base Stations don't lose sight of your devices.  
-  
-    
-  
+For seated or standing-only play areas, one Base Station can be sufficient, but two are still recommended to ensure your Base Stations don't lose sight of your devices.

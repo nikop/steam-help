@@ -50,5 +50,4 @@ We recommend testing the backup discs after their creation to ensure the integri
 If the path to your Steam installation contains **special characters**, such as **C:\Steam安装路径\Steam**, the restore process may not complete successfully. If this issue occurs, you may need to re-install Steam to a location without special characters, such as **C:\Steam**.[/section]  
   
 ### Testing
-To avoid problems in the future, make sure to test any backups that you create. If other applications interfere with the backup process or the backup process is interrupted, the backup may not be created successfully. Testing your backup will ensure that will not need to re-download the game at a later time.  
-  
+To avoid problems in the future, make sure to test any backups that you create. If other applications interfere with the backup process or the backup process is interrupted, the backup may not be created successfully. Testing your backup will ensure that will not need to re-download the game at a later time.

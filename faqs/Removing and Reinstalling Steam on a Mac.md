@@ -1,7 +1,6 @@
 # Removing and Reinstalling Steam on a Mac
 Updated 2021-08-12 19.30.55
 
-
 * Can I play my games without Steam?
 * Can I remove and reinstall Steam to troubleshoot an issue without losing my games?
 * How can I completely remove Steam from my Mac?
@@ -34,5 +33,4 @@ With the Steam application active, click the **Steam** menu and **Quit Steam** t
 
   
   
-With these files deleted, you can [reinstall Steam](https://help.steampowered.com/en/faqs/view/099E-F5D1-8780-4778) if you are troubleshooting a problem.  
-  
+With these files deleted, you can [reinstall Steam](https://help.steampowered.com/en/faqs/view/099E-F5D1-8780-4778) if you are troubleshooting a problem.

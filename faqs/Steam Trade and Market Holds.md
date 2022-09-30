@@ -1,7 +1,6 @@
 # Steam Trade and Market Holds
 Updated 2021-07-10 19.49.55
 
-
 * [What is a trade hold?](#1)
 * [What is a market hold?](#2)
 * [Why are trade holds necessary?](#3)
@@ -39,5 +38,4 @@ When you cancel a trade that is being held by Steam, we'll presume that you inte
 [url id=5][/url]  
   
 ### How can I remove the need for a trade or market hold?
-Trade and market holds are no longer necessary when you protect your account with a Steam Guard Mobile Authenticator. Using a physical device (your smartphone) to confirm item transactions ensures that you and only you can quickly and securely trade or sell your items. You can get the [Steam Guard Mobile Authenticator](http://store.steampowered.com/mobile/) for iOS, Android, and Windows Phone devices. Items will no longer be held after you have had the authenticator enabled for 7 days.  
-  
+Trade and market holds are no longer necessary when you protect your account with a Steam Guard Mobile Authenticator. Using a physical device (your smartphone) to confirm item transactions ensures that you and only you can quickly and securely trade or sell your items. You can get the [Steam Guard Mobile Authenticator](http://store.steampowered.com/mobile/) for iOS, Android, and Windows Phone devices. Items will no longer be held after you have had the authenticator enabled for 7 days.

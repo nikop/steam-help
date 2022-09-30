@@ -1,4 +1,5 @@
 Payment Disputes and Chargebacks
+--------------------------------
 Updated 2021-10-28 00.07.02
 
 [exclude_realm=china][img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img][/exclude_realm]
@@ -44,4 +45,3 @@ If issues are unable to be resolved through support, users are encouraged to sub
 Like regular chargebacks, you can remove the lock on your account by removing the dispute with your financial institution. Unlike other chargebacks, however, accounts locked for Hardware chargebacks will not be unlocked until the associated hardware is returned.
 
 If you have disputed a hardware purchase please contact [url=https://help.steampowered.com/en/]Steam Support[/url] to resolve your issue.
-

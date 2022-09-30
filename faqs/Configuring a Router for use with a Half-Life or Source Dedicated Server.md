@@ -102,5 +102,4 @@ Then you can connect to your server from your **Favorites** menu.
  [section style=important] ### Important:
 If you have a server and a client behind the same router, the client cannot connect to the server through the server browser. In fact the server may not be visible in the server browser of the client.  
   
-The client must connect to the server using the server's internal IP address.[/section]  
-  
+The client must connect to the server using the server's internal IP address.[/section]

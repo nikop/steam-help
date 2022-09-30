@@ -25,5 +25,4 @@ Please note, the folder containing the bonus material may have a different title
   
 # Where can I find Soundtracks within Steam?
   
-Some soundtracks are automatically integrated into the Steam Music Player after the associated product has been completely installed. Please visit our [Steam Music Library and Player](https://help.steampowered.com/en/faqs/view/4DBA-E6A9-1115-7852) FAQ for more info. Soundtracks that are not automatically added can be found using the instructions above.  
-  
+Some soundtracks are automatically integrated into the Steam Music Player after the associated product has been completely installed. Please visit our [Steam Music Library and Player](https://help.steampowered.com/en/faqs/view/4DBA-E6A9-1115-7852) FAQ for more info. Soundtracks that are not automatically added can be found using the instructions above.

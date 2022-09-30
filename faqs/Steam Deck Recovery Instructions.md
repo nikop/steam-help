@@ -31,5 +31,3 @@ In the recovery environment, there are four different options to choose from.
 * **Clear local user data** - This reformats the home partitions on your Steam Deck, which will remove downloaded games and all personal content stored on this Deck, including system configuration.
 * **Reinstall Steam OS** - This will reinstall SteamOS on the Steam Deck, while attempting to preserve your games and personal content.
 * **Recovery tools** - This opens a prompt with the ability to make changes to the Steam Deck boot partition.
-
-  

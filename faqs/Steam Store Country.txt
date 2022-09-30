@@ -1,4 +1,5 @@
 Steam Store Country
+-------------------
 Updated 2022-07-27 17.31.51
 
 [list]  	[*][url=#currency]What if I moved and want to change my store country to the new location?[/url][/*]  	[*][url=#othercountry]What if I want to purchase in a currency or region other than what is shown?[/url][/*]  	[*][url=#newuser]What do I do if I’m a new user that is currently traveling?[/url][/*]  	[*][url=#multiple]What if I spend time in more than one country?[/url][/*]  	[*][url=#apo]What if I use an APO address?[/url][/*]  [/list]
@@ -28,4 +29,3 @@ We suggest setting up your account and your store region before traveling. Doing
 If you frequently move between countries, we suggest choosing the country that is your primary residence.
 
 [h4]What if I use an APO address?[/h4]If you are serving abroad you can update your store country to the United States by using any payment method from the United States during the checkout process. Note: Currently, physical hardware purchases on Steam cannot be shipped to APO/FPO addresses.
-

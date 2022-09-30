@@ -13,5 +13,4 @@ If the game is a recent release, or was purchased during a sale; while we do our
 [/section]  
   
 # Network Issues
-In rare cases, communication errors with Steam may cause this error. Please check the [Troubleshooting Network Issues](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC) guide for more help.  
-  
+In rare cases, communication errors with Steam may cause this error. Please check the [Troubleshooting Network Issues](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC) guide for more help.

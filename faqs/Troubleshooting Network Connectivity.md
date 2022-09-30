@@ -1,7 +1,6 @@
 # Troubleshooting Network Connectivity
 Updated 2021-08-12 01.54.58
 
-
 * [Troubleshooting Network Connectivity Issues](#trouble)
 * [Required Ports for Steam](#ports)
 * [Known Issues with Internet Service Providers (ISPs)](#isp)
@@ -47,6 +46,3 @@ Some ISPs have been found to block ports required for the proper operation of St
 * **Dutch Telecom** (Steam traffic blocked)
 * **ISPFree** (Steam traffic blocked)
 * **Micronet Broadband** (Steam traffic blocked)
-
-  
-  

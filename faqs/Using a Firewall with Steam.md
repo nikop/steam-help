@@ -36,5 +36,4 @@ If you are still having connectivity problems, you may try the following test:
   
 If Steam operates normally only when your firewall is disabled, please recheck your firewall configuration. You may wish to contact the provider of your firewall for configuration help. **We do not recommend leaving your firewall disabled.**  
   
-If you still experience problems with the firewall disabled, please see the [Troubleshooting Network Connectivity](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC) topic for further troubleshooting recommendations.  
-  
+If you still experience problems with the firewall disabled, please see the [Troubleshooting Network Connectivity](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC) topic for further troubleshooting recommendations.

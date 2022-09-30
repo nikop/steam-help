@@ -1,7 +1,6 @@
 # Team Fortress 2 Workshop
 Updated 2021-10-28 00.27.57
 
-
 * [What are the steps to making an item?](#stepsitem)
 * [How does the item publishing process work?](#publishitem)
 * [What software tool should I use to make my item?](#itemtools)
@@ -130,5 +129,4 @@ Any inappropriate items, including but not limited to, racism, sexuality, or pre
 [url id=beenreported][/url]  
   
 #### What if someone keeps reporting items that are not violating any terms?
-Users who repeatedly report items that do not violate terms will receive a lower reputation themselves and thus will not benefit from doing this.  
-  
+Users who repeatedly report items that do not violate terms will receive a lower reputation themselves and thus will not benefit from doing this.

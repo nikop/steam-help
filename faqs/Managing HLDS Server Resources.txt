@@ -1,4 +1,5 @@
 Managing HLDS Server Resources
+------------------------------
 Updated 2021-07-10 19.49.55
 
 How can I control how my HLDS server resources are managed?
@@ -20,4 +21,3 @@ Enable/Disable all secure resources from being sent to the client.[/*]     [*][i
 Enables/Disables the server from compressing & sending compressed content to the client.[/*]     [*][i]sv_downloadurl <url>[/i]
 Setting this CVAR will allow Clients to download Custom Content via HTTP instead of sourcing the content from the game server, much faster.[/*]     [*][i]hpk_maxsize 0/(variable number, set to 0.1 to minimize)[/i]
 No limit/100k limit to the size of the custom.hpk file on the server that stores all the sprays from the client.[/*] [/list]
-

@@ -1,4 +1,5 @@
 Banned by Game Developer (Game Ban)
+-----------------------------------
 Updated 2022-01-18 21.41.56
 
 Playing games should be fun. In order to ensure the best possible online multiplayer experience, Valve allows developers to implement their own systems that detect and permanently ban any disruptive players, such as those using cheats.

@@ -1,4 +1,5 @@
 Programs Which May Interfere with Steam
+---------------------------------------
 Updated 2021-07-10 19.49.55
 
 There is always the potential that applications running on a machine might negatively affect the performance of Steam games or the Steam client. Certain applications can even lead to more serious issues such as connectivity losses and application crashes. If you are encountering poor performance, it may be necessary to investigate other applications on your machine and possibly disable them for testing purposes.
@@ -34,4 +35,3 @@ Certain Steam web features might also not function if your web traffic is being 
 [h5]Hidden Processes[/h5]Many applications are configured to launch when a computer starts. These might not even appear in the Windows task bar, but may still be among some of your active processes using your system's resources.
 
 Because of the complexity of these systems and the expertise required to make changes to them, we recommend working with an expert to ensure that nothing damaging is done to your computer, while also ensuring that hardware, applications, security and network are all setup to work together without conflict.
-

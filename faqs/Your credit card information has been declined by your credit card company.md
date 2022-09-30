@@ -44,5 +44,4 @@ Ensure that you first double-check this information against what your bank has o
 In some very rare cases, there may be an issue with the information that your bank checks this information against, or the verification system may be temporarily malfunctioning. If you suspect that this is the case, you may wish to purchase a [Steam Wallet card](https://store.steampowered.com/account/redeemwalletcode) from a physical retailer or use an alternate payment method.  
   
 [section style=important] ### Note:
-In most cases if your purchase fails you may be able to attempt to repurchase the items that were in your cart at that time. For more information see the FAQ [Retrying a failed purchase - saved shopping cart](https://help.steampowered.com/faqs/view/26CE-6A3B-C548-5AB4).[/section]  
-  
+In most cases if your purchase fails you may be able to attempt to repurchase the items that were in your cart at that time. For more information see the FAQ [Retrying a failed purchase - saved shopping cart](https://help.steampowered.com/faqs/view/26CE-6A3B-C548-5AB4).[/section]

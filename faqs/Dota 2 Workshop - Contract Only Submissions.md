@@ -1,8 +1,6 @@
 # Dota 2 Workshop - Contract Only Submissions
 Updated 2021-07-10 19.49.55
 
-  
-  
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)  
   
 Contract Only submissions are only intended for partners working with Valve who need to establish a Steam Workshop item ID number and accept the Steam Workshop Agreements. This category cannot be used for the submission of item files.  
@@ -82,4 +80,3 @@ Contract Only submissions are only intended for partners working with Valve who 
 
 * Please be aware that revenue shares cannot be changed once an item is submitted. If you have to change revenue shares on an unshipped item, you will need to do a new item submission and inform Valve of the new workshop URL so the correct workshop ID and revenue shares will be used for the item.
 * Revenue shares and the related accounts cannot be changed on an item after it ships. For more information about workshop payments, see the [Workshop Payment FAQ](http://steamcommunity.com/workshop/workshoppaymentinfofaq).
-

@@ -1,4 +1,5 @@
 Available disk space decreases every time a game is run
+-------------------------------------------------------
 Updated 2021-08-12 17.33.15
 
 The amount of available disk space on my machine decreases every time I run a game - what should I do?
@@ -9,4 +10,3 @@ There are several causes for this condition which this article will not cover:
 If you notice that [b]50 - 100 MB[/b] of available hard disk space is being used every time you start a game, you may need to disable System Restore for the drive which is storing your game files.
 
 For more information, please see the [url=https://support.microsoft.com/en-us/windows/use-system-restore-a5ae3ed9-07c4-fd56-45ee-096777ecd14e]Microsoft Knowledge Base article for the System Restore feature[/url].
-

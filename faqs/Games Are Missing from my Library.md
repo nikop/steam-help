@@ -41,5 +41,4 @@ The status of **Pre-load Complete** means that the game is installed on your com
   
 # Games that were previously installed are appearing as uninstalled
   
-If games that were previously installed on your account are now appearing as uninstalled, check out[ this FAQ](https://help.steampowered.com/en/faqs/view/4578-18A7-C819-8620) for a more information.  
-  
+If games that were previously installed on your account are now appearing as uninstalled, check out[ this FAQ](https://help.steampowered.com/en/faqs/view/4578-18A7-C819-8620) for a more information.

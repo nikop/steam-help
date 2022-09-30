@@ -11,5 +11,4 @@ If you are getting disconnected from Dota 2 across multiple games or with any re
   
 We suggest that you [Troubleshoot your Network's connectivity with Steam](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC), and remove any [Programs that may interfere with Steam from your computer](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748).  
   
-If other players in your region are experiencing this issue, ensure that you report it to the [Dota 2 Development Forums](http://dev.dota2.com).  
-  
+If other players in your region are experiencing this issue, ensure that you report it to the [Dota 2 Development Forums](http://dev.dota2.com).

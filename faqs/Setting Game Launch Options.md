@@ -66,6 +66,3 @@ Our games no longer support DirectX 7 as a launch option. Using this can cause c
 * +mat_trilinear 1 - Use Trilinear Mode (more system-intensive)
 * +mat_forceaniso # - Use Trilinear Mode (where # is 2, 4, 8, or 16 - higher levels of filtering require more system resources)
 * +mat_hdr_level # - Adjusts High Dynamic Range lighting effects where # is 0 for "off" (requires least resources) and 2 for "full"
-
-  
-  

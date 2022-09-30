@@ -102,5 +102,4 @@ Use the [GLS ParcelShop finder](https://gls-group.eu/EU/en/depot-parcelshop-sear
 NOTE: Depending on your region, the carrier may have tried to deliver your order to a neighbor and may have left a notification card.  
   
 #### Is your hardware shipment issue not listed here?
-If your issue isn't covered here, please contact [Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamHardware).  
-  
+If your issue isn't covered here, please contact [Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamHardware).

@@ -1,4 +1,5 @@
 Recurring Subscriptions
+-----------------------
 Updated 2021-08-04 19.17.50
 
 [list]      [*][url=#purchase]How do I purchase a Subscription Plan?[/url][/*]      [*][url=#manage]How do I manage or cancel my Subscription?[/url][/*]      [*][url=#freeze]Can I freeze my Subscription?[/url][/*]      [*][url=#cancel]How do I renew a cancelled or lapsed Subscription?[/url][/*]      [*][url=#history]Will reactivating my subscription give me access to my old game history?[/url][/*]      [*][url=#update]How do I update my payment method on record?[/url][/*]      [*][url=#partial]Does Steam offer partial refunds for unused Subscription time?[/url][/*]      [*][url=#date]How will I know when and what I will be charged for an auto-renewed Subscription Plan?[/url][/*]      [*][url=#gift]Can I give a Subscription Plan as a gift to a friend?[/url][/*]      [*][url=#multiple]Can I register multiple game accounts to my Steam account?[/url][/*]  [/list]
@@ -30,4 +31,3 @@ Or by clicking the "..." button which may show instead depending on the size/res
 [h4]Can I give a Subscription Plan as a gift to a friend?[/h4]No, not at this time.
 
 [h4]Can I register multiple game accounts to a my Steam account?[/h4]Not for a single title, no.
-

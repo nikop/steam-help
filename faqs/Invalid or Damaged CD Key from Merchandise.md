@@ -12,6 +12,3 @@ Please also include the following information with your question, if applicable:
 * A receipt from the third party vendor where the item was purchased
 * The email address you used when you placed the order
 * **Please send us a photo of the CD Key that is providing the error.**
-
-  
-  

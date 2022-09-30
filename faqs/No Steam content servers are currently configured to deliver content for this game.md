@@ -12,6 +12,3 @@ There may be a temporary issue with the Steam content servers in your region. Pl
 *  Click the "Steam" menu and choose "Settings".
 *  Go to the "Downloads".
 * Under "Download region", select the region closest to you. If the closest region is already selected, select the *next* closest region and retest the issue.
-
-  
-  

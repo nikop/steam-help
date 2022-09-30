@@ -414,5 +414,4 @@ Puck without (left) and with (right) a Custom Fresnel Color Warp applied to diff
   
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

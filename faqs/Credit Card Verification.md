@@ -1,7 +1,6 @@
 # Credit Card Verification
 Updated 2021-07-10 19.49.55
 
-
 * [What is credit card verification?](#whatisit)
 * [How do I verify my new credit card?](#howtoverify)
 * [What happens if I use all 3 attempts to verify my credit card?](#failattempts)

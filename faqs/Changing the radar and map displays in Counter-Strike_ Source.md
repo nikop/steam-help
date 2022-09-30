@@ -21,6 +21,3 @@ If you would like to disable the radar, please enter the following command into 
 * *overview_names #* (where *#* is *0* or *1*) - shows player’s name in map overview (off or on)
 * *overview_preferred_mode #* (where *#* is *0*, *1*, or *2*) - determines preferred overview mode while in spectator mode (off, mini-map, full map)
 * *overview_tracks #* (where *#* is *0* or *1*) - shows player’s tracks in map overview (off or on)
-
-  
-  

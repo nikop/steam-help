@@ -1,7 +1,6 @@
 # Steam Remote Play Audio Setup
 Updated 2021-10-27 23.50.40
 
-
 * [Steam Remote Play Audio Support](#supportedformats)
 * [Speaker Configuration](#channelconfig)
 * [What 5.1 audio can Steam record?](#what51audio)
@@ -36,5 +35,4 @@ The Steam Client and Steam Link output 6 channel PCM audio when configured for 5
   
 [url id=additionalsupport][/url]  
 ### Need additional support?
-The [Steam Remote Play discussion forum](http://steamcommunity.com/groups/homestream/discussions) contains many posts by community members that can be useful when debugging specific streaming issues and the forum can be used to ask specific questions about your streaming setup. You can also contact [Steam Support](https://help.steampowered.com).  
-  
+The [Steam Remote Play discussion forum](http://steamcommunity.com/groups/homestream/discussions) contains many posts by community members that can be useful when debugging specific streaming issues and the forum can be used to ask specific questions about your streaming setup. You can also contact [Steam Support](https://help.steampowered.com).

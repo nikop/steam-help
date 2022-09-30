@@ -46,6 +46,3 @@ Certain games on Steam have additional DLC that can be purchased and installed. 
 * Right-click on the game that has DLC.
 * Select *Properties*
 * Then select the *DLC* tab
-
-  
-  

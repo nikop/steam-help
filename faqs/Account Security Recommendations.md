@@ -1,7 +1,6 @@
 # Account Security Recommendations
 Updated 2021-08-28 00.48.12
 
-
 * [Enable Steam Guard two-factor authentication](#steamguard)
 * [Verify your contact email address with Steam](#verify)
 * [Steam Friends](#friends)
@@ -91,5 +90,4 @@ If the machine you use to access Steam has multiple users, be sure to fully Exit
 ## Report Hijackings and Suspicious Activities
 If your account has been compromised, please see the [Retrieving a Lost or Stolen Steam Account](https://help.steampowered.com/en/faqs/view/0A94-F308-34A5-1988) topic for instructions to retrieve your account.  
   
-If another user requests your account information or attempts to steal your account, please see the [Reporting content within the Steam Community](https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD) topic for instructions to submit a report.[/section]  
-  
+If another user requests your account information or attempts to steal your account, please see the [Reporting content within the Steam Community](https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD) topic for instructions to submit a report.[/section]

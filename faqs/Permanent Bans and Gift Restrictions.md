@@ -22,5 +22,4 @@ You can learn more about Game Bans [here](https://help.steampowered.com/en/faqs/
   
 When a user is VAC or Game Banned, their Steam account is banned from playing multiplayer on secured servers. This creates an incentive for people who cheat to stockpile copies of games on one account and to gift them to low value accounts where they can continue cheating. In response to this problem, Steam no longer allows users to purchase copies of VAC or Game Ban enabled games to their inventory. Additionally, if an account has directly gifted a game to other players who have been VAC or permanently Game Banned, the gifter's account will lose the ability to gift that game moving forward.  
   
-We've taken these steps to ensure the integrity of the multiplayer experience for those participating in online gaming communities. We understand that the restrictions on buying to your Inventory may be inconvenient, but we believe these steps will reduce the number of cheaters you'll play against.  
-  
+We've taken these steps to ensure the integrity of the multiplayer experience for those participating in online gaming communities. We understand that the restrictions on buying to your Inventory may be inconvenient, but we believe these steps will reduce the number of cheaters you'll play against.

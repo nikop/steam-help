@@ -10,6 +10,3 @@ This will only add a shortcut to your game in the Steam client. This will not al
 * Click the **Games** menu, choose **Add a Non-Steam Game to My Library.**
 * Browse for games on your computer or put a check next to the game(s) you wish to add to the **Library.**
 * Click on **Add Selected Programs**.
-
-  
-  

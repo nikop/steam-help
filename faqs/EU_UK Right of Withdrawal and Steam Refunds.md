@@ -55,5 +55,4 @@ I hereby give notice that I withdraw from my contract of sale for the provision 
   
 [Insert date]"  
   
-Again, for the fastest and easiest way to exercise your right of withdrawal, we recommend using the online help form provided at [http://help.steampowered.com](http://help.steampowered.com).  
-  
+Again, for the fastest and easiest way to exercise your right of withdrawal, we recommend using the online help form provided at [http://help.steampowered.com](http://help.steampowered.com).

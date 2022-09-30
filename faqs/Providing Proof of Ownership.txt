@@ -1,4 +1,5 @@
 Providing Proof of Ownership
+----------------------------
 Updated 2021-12-17 18.35.19
 
 If the issue you're experiencing can't be resolved using [url=https://help.steampowered.com/]help.steampowered.com[/url], we will be happy to assist you after verifying Proof of Ownership for the account.
@@ -90,4 +91,4 @@ If a purchase was made through Steam using Culture Voucher, please provide the f
 [h4]Mobile[/h4]
 [expand type=title title="Degica Mobile"]
 If a purchase was made through Steam using mobile payment, please provide the following with your Support Ticket:
-[olist][*]Attach a screenshot of the text message you received for your purchase made on the Steam Account in question.[/*][*]If you are unable to retrieve the text message, please attach a screenshot of your phone company purchase history that shows the purchase made on the Steam account in question.[/*][/olist][/expand]   	
+[olist][*]Attach a screenshot of the text message you received for your purchase made on the Steam Account in question.[/*][*]If you are unable to retrieve the text message, please attach a screenshot of your phone company purchase history that shows the purchase made on the Steam account in question.[/*][/olist][/expand]

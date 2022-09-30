@@ -85,5 +85,4 @@ Note: If you are behind a proxy make sure you set up your proxy in the console b
   
 17. If you wish to export the movie in a QuickTime Movie file you can click on Export, name your movie, and it will save it to the directory of your choice.  
   
-![{STEAM_CLAN_IMAGE}/39983882/b7b4c82ee9bb65bbc77c2a464cb95eab8aa2807e.jpg]({STEAM_CLAN_IMAGE}/39983882/b7b4c82ee9bb65bbc77c2a464cb95eab8aa2807e.jpg)  
-  
+![{STEAM_CLAN_IMAGE}/39983882/b7b4c82ee9bb65bbc77c2a464cb95eab8aa2807e.jpg]({STEAM_CLAN_IMAGE}/39983882/b7b4c82ee9bb65bbc77c2a464cb95eab8aa2807e.jpg)

@@ -13,5 +13,4 @@ OpenGL allows for different methods of handling sending rendering commands.  Dir
 * On some systems your user must be part of the 'video' group.  If there is a video group and you are not a member try joining the group, logging out and logging back in and see if that helps.
 
   
-Uninstalling and reinstalling your video driver is one way to try and get a fresh configuration and may correct problems such as version mismatches between kernel and user components.  
-  
+Uninstalling and reinstalling your video driver is one way to try and get a fresh configuration and may correct problems such as version mismatches between kernel and user components.

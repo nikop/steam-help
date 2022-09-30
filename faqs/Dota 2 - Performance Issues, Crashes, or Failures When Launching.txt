@@ -1,4 +1,5 @@
 Dota 2 - Performance Issues, Crashes, or Failures When Launching
+----------------------------------------------------------------
 Updated 2021-08-12 17.21.26
 
 If you are encountering performance issues, game crashes, or Dota 2 is failing to launch with or without an error message, proceed through this article from top to bottom and complete all applicable steps to troubleshoot the issue.
@@ -104,4 +105,3 @@ You should see the Library folder available through the Go menu on the menu bar 
 If you are still encountering this issue within Dota 2, please create or join an existing thread regarding that issue on the [url=http://dev.dota2.com/]Dota 2 Development Forums[/url].
 
 Widespread crashes or other issues will often be fixed by the Dota 2 development team within days of the issue appearing.
-

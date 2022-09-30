@@ -259,5 +259,4 @@ While the game is running, you can hit F6 or the Guide button combined with the 
   
 While the statistics are visible, you can hit F8 or the Guide button combined with the X button on your game controller to save a screenshot and 10 seconds worth of stats to a zip file in the streaming directory in the Steam folder on the remote computer.  
   
-There is a good article on how to interpret the log information here: [http://steamcommunity.com/groups/homestream/discussions/0/540733523404402134/](http://steamcommunity.com/groups/homestream/discussions/0/540733523404402134/)  
-  
+There is a good article on how to interpret the log information here: [http://steamcommunity.com/groups/homestream/discussions/0/540733523404402134/](http://steamcommunity.com/groups/homestream/discussions/0/540733523404402134/)

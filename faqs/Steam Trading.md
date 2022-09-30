@@ -1,7 +1,6 @@
 # Steam Trading
 Updated 2021-08-24 22.41.51
 
-
 * #### Trading Basics
 * [How do I trade?](#howtotrade)
 * [What can I trade?](#whattrade)
@@ -159,5 +158,4 @@ By limiting the provided data, Steam Support prevents malicious users from learn
 There are different reasons why you may be unable to trade or use the Market. Please see the following [Trading and Market Restrictions](https://help.steampowered.com/en/faqs/view/451E-96B3-D194-50FC) article for more information.  
   
 ### [section id=feedback]I have ideas for other things in Steam that can be traded. How do I give that feedback?[/section]
-You can post feedback or suggestions in our [Suggestions/Ideas forum](http://steamcommunity.com/discussions/forum/10/) as it is regularly read by our developers.  
-  
+You can post feedback or suggestions in our [Suggestions/Ideas forum](http://steamcommunity.com/discussions/forum/10/) as it is regularly read by our developers.

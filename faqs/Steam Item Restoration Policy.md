@@ -22,4 +22,3 @@ For more information on Steam Trades and the Community Market, please use the fo
 * [Steam Trade Offers](https://help.steampowered.com/en/faqs/view/1115-91C5-050C-1D60)
 * [Steam Trading](https://help.steampowered.com/en/faqs/view/46A2-2B3C-95CC-8878)
 * [Trading and Market Restrictions](https://help.steampowered.com/en/faqs/view/451E-96B3-D194-50FC)
-

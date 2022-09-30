@@ -99,5 +99,4 @@ To avoid unintentional inputs while switching between the right trackpad and the
   
 If another piece of your hardware has been lost or damaged, please contact Steam Support for replacement options.  
   
-[Contact Support](https://help.steampowered.com/wizard/HelpWithGame/?appid=353370)    
-  
+[Contact Support](https://help.steampowered.com/wizard/HelpWithGame/?appid=353370)

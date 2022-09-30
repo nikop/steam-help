@@ -8,5 +8,4 @@ Please note: These are SteamOS accounts and are not associated with any Steam Lo
   
   
 # **How to gain root access**
-The desktop account can gain root access, however has no password when shipped. Before you can use this account to gain root access, you need to assign a password. From the desktop session, start a terminal window and type "passwd". Enter your new password twice. Now you can use the "sudo" command to perform privileged operations.  
-  
+The desktop account can gain root access, however has no password when shipped. Before you can use this account to gain root access, you need to assign a password. From the desktop session, start a terminal window and type "passwd". Enter your new password twice. Now you can use the "sudo" command to perform privileged operations.

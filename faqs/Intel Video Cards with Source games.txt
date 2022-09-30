@@ -1,4 +1,5 @@
 Intel Video Cards with Source games
+-----------------------------------
 Updated 2021-08-05 18.15.46
 
 Whenever I try to play any recent Source games from Valve, I experience a crash or a hard freeze. I am using an Intel based video card. What can I do?
@@ -19,4 +20,3 @@ If that command allows the game to run without crashing, then please add it to y
 [code]C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg[/code]
 
 Please contact [url=https://www.intel.com/content/www/us/en/support.html]Intel Support[/url] for more information.
-

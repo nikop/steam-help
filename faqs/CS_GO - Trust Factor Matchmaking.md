@@ -1,7 +1,6 @@
 # CS:GO - Trust Factor Matchmaking
 Updated 2021-10-27 21.42.40
 
-
 * [What factors are considered in Trust Factor matchmaking?](#tfmm)
 * [Can I check my Trust Factor?](#tfcheck)
 * [I am being shown a warning before queueing with a player. What does this mean?](#tfwarning)

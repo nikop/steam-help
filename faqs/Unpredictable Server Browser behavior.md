@@ -8,5 +8,4 @@ It is very important that you make sure your Steam rate is set properly. If, whe
 Some routers may have firmware that experiences packet loss with high traffic, such as when a large number of servers are responding during a server browser refresh.  A symptom of this is starting a server refresh and always getting the same (or a similar) number of servers before the refresh stops completely, rather than simply pausing.  These routers will also typically go offline for a minute or so when this problem occurs.  The only solutions for this are to update your router's firmware or replace the router. Please see [Troubleshooting Network Connectivity](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC), step 2: "Test Your Router" to determine if this is your issue.  
   
 #### CyberCafe
-If you are in a CyberCafe and there are a lot of players refreshing their browsers, this may cause problems in the CyberCafe network.  Reducing the Steam rate for all the workstations will help this problem.  
-  
+If you are in a CyberCafe and there are a lot of players refreshing their browsers, this may cause problems in the CyberCafe network.  Reducing the Steam rate for all the workstations will help this problem.

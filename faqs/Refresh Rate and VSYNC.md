@@ -45,5 +45,4 @@ See AMD's support page for [How to Adjust Display Brightness, Resolution, and Re
   
 This setting determines whether or not Windows will allow your games and other applications to display different images at frame rates (FPS) which exceeds your refresh rate. If you have disabled VSYNC you may experience visual "tearing" and video artifacts while playing, as you will not see all of the frames which are being rendered.  
   
-Please see the [Troubleshooting Gameplay and Performance - Software](https://help.steampowered.com/en/faqs/view/5B03-A517-D747-9421) topic if you would like to optimize game performance on your machine.  
-  
+Please see the [Troubleshooting Gameplay and Performance - Software](https://help.steampowered.com/en/faqs/view/5B03-A517-D747-9421) topic if you would like to optimize game performance on your machine.

@@ -1,4 +1,5 @@
 Games do not run after 'Preparing to Launch'
+--------------------------------------------
 Updated 2021-08-05 20.06.53
 
 My game isn't launching. How can I resolve this?

@@ -1,4 +1,5 @@
 Restricted Steam Account
+------------------------
 Updated 2021-07-20 23.37.56
 
 [list] [*][url=#whyrestrict]Why would a Steam account be restricted?[/url][/*] [*][url=#restrictiontypes]What types of restrictions can be applied to a Steam account?[/url][/*][/list]    

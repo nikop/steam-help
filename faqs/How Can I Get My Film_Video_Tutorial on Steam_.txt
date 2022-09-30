@@ -1,4 +1,5 @@
 How Can I Get My Film/Video/Tutorial on Steam?
+----------------------------------------------
 Updated 2021-07-10 19.49.55
 
 As of January 8th 2019, the requirements for distributing video content on Steam have changed.
@@ -10,4 +11,3 @@ Video content should be:  										   [list]  										   [*]Directly related 
 
 [olist]  	[*]A short description of your video content and/or a link to a trailer or preview video.[/*]  	[*]Please supply a Steam Account name that belongs to someone at your company with the authority to sign contracts and enter banking and tax information.[/*]  [/olist]    
 [h2]Where do I learn more about the Steam Video Platform?[/h2]For more information about the Steam video platform please read the [url=https://partner.steamgames.com/doc/features/streaming_video]Steam Video partner documentation[/url]
-

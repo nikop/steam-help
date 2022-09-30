@@ -50,5 +50,4 @@ Hardware support for Steam Machines is provided by the manufacturer. If you own 
   
 Generally speaking, you can install any OS that you like onto a Steam Machine. Each brand of Steam Machine offers something different. Check with the manufacturer of your Steam Machine for instructions on how best to achieve your desired setup.  
   
-[/expand]   
-  
+[/expand]

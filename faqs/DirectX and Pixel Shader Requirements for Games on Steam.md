@@ -36,5 +36,4 @@ If that improves stability then please add it to your config file. Your config f
   
 Intel is working on improving driver support for their video cards. Please always make sure you are running the latest drivers for the best experience.  
   
-For more information, check the [Intel Video Cards with Source games](https://help.steampowered.com/en/faqs/view/693A-35F5-00A7-D7F5) topic.  
-  
+For more information, check the [Intel Video Cards with Source games](https://help.steampowered.com/en/faqs/view/693A-35F5-00A7-D7F5) topic.

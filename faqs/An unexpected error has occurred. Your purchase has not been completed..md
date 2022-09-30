@@ -13,5 +13,4 @@ If you continue to encounter this error, please use [the Help site to select you
   
 ["Your credit card information has been declined by your credit card company."](https://help.steampowered.com/en/faqs/view/4CEF-A17B-388F-2A24)[/section]  
 [section style=warning] ### VPN/Proxies
-Disable or completely remove any IP proxy or VPN software that you may be using, restart your computer, and test your purchase again. All transactions that are initiated through anonymous proxies will be declined by Steam.[/section]  
-  
+Disable or completely remove any IP proxy or VPN software that you may be using, restart your computer, and test your purchase again. All transactions that are initiated through anonymous proxies will be declined by Steam.[/section]

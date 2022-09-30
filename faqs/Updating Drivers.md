@@ -23,4 +23,3 @@ It is recommended that you check the versions of the drivers currently installed
 * Check the upper right-hand corner of this tab for a section named **Drivers**.
 * The second line is the video driver **Version** number, and the third is the **Date** of release.
 * Click **Exit** in the lower right hand corner of the window to close the DirectX Diagnostic Tool.
-

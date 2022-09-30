@@ -1,4 +1,5 @@
 Steam Client Troubleshooting
+----------------------------
 Updated 2022-03-16 23.36.31
 
 What should I do if Steam is crashing, not opening correctly or closing immediately after launching?
@@ -66,4 +67,3 @@ For MacOS: Disk Utility → Click on Drive → Click First Aid (For older OS ver
 [h2]Check RAM for Errors[/h2]Memory errors can cause issues with the Steam installation process, as well as gameplay. You'll want to work with a specialist to investigate possible issues with your system memory.
 
 Windows : Start -> Find "mdsched" and run Windows memory Diagnostic
-

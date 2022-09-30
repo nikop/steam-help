@@ -20,5 +20,4 @@ Team Fortress 2 should now have minimal blood and gore.
 #### Pyrovision Method:
 You can also equip the Pyrovision Goggles ingame on every class for a similar low violence experience. If you wish you can combine both methods.  
   
-For more information on the Pyrovision Goggles and how to attain them, please see the TF2 wiki page [here](http://wiki.teamfortress.com/wiki/Pyrovision_Goggles).  
-  
+For more information on the Pyrovision Goggles and how to attain them, please see the TF2 wiki page [here](http://wiki.teamfortress.com/wiki/Pyrovision_Goggles).

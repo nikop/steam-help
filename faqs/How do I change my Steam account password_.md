@@ -31,5 +31,4 @@ Enter the 5 character code from the email and enter a new password. **NOTE:** It
   
 ![https://support.steampowered.com/images/faq/PasswordReset/code.png](https://support.steampowered.com/images/faq/PasswordReset/code.png)  
   
-When you've completed changing your password, you'll receive confirmation by email. ![https://support.steampowered.com/images/faq/PasswordReset/success.PNG](https://support.steampowered.com/images/faq/PasswordReset/success.PNG)  
-  
+When you've completed changing your password, you'll receive confirmation by email. ![https://support.steampowered.com/images/faq/PasswordReset/success.PNG](https://support.steampowered.com/images/faq/PasswordReset/success.PNG)

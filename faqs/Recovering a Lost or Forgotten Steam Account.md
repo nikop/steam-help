@@ -19,5 +19,4 @@ For information on how to safeguard an account, please read the [Account Securit
   
   
 ## What about my items?
-Please see our [Steam Item Restoration Policy](https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24) article for more information.  
-  
+Please see our [Steam Item Restoration Policy](https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24) article for more information.

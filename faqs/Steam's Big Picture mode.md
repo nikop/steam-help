@@ -1,7 +1,6 @@
 # Steam's Big Picture mode
 Updated 2021-12-17 18.43.24
 
-
 * [What is Big Picture mode?](#what)
 * [What platforms does Big Picture mode support?](#platforms)
 * [How to Connect Your Computer to your TV](#connect)
@@ -75,5 +74,4 @@ To determine whether a game is controller-enabled, please refer to the following
 Titles marked with "Full Controller Support" indicate that they can be downloaded, launched and played using only a controller.  These titles do not require a mouse or keyboard on hand for any configuration or in-game setup.  
   
 #### Partial Support ![https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_partial_controller.png](https://store.cloudflare.steamstatic.com/public/images/v6/ico/ico_partial_controller.png)
-Titles marked with "Partial Controller Support" indicate that mouse and keyboard may be required from time to time.  A controller may be used while in game, however installation,  configuration and overall user interface may only be optimized for mouse and keyboard.  
-  
+Titles marked with "Partial Controller Support" indicate that mouse and keyboard may be required from time to time.  A controller may be used while in game, however installation,  configuration and overall user interface may only be optimized for mouse and keyboard.

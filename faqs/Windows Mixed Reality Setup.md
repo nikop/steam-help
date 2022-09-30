@@ -34,5 +34,4 @@ For some quick button mapping information, see our diagram below. Otherwise head
   
 To find out if any title works with your headset on Steam, look for the "Windows Mixed Reality" label under VR Support. Other titles may also work with Windows Mixed Reality even if they haven't been specifically labeled by the developer.  
   
-[h5]How do I report issues with Windows Mixed Reality?[/h5]For issues related to Windows Mixed Reality on Steam, please [contact support](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=250820) ﻿ or visit the [SteamVR Community Hub﻿.](https://steamcommunity.com/app/250820)  
-  
+[h5]How do I report issues with Windows Mixed Reality?[/h5]For issues related to Windows Mixed Reality on Steam, please [contact support](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=250820) ﻿ or visit the [SteamVR Community Hub﻿.](https://steamcommunity.com/app/250820)

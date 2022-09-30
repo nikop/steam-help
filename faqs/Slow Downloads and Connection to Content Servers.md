@@ -41,5 +41,4 @@ Some third-party applications can cause Steam to use incorrect content servers. 
 Please follow these directions to make sure the correct ports are open and double check the list of ISP's that are known to have issues with Steam: [Troubleshooting Network Connectivity](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC).  
   
 ## Connection Rate
-Ensure that your Steam connection rate is set appropriately. For more information, please see [Setting Client Rates](https://help.steampowered.com/en/faqs/view/163C-7C89-406E-2F63).  
-  
+Ensure that your Steam connection rate is set appropriately. For more information, please see [Setting Client Rates](https://help.steampowered.com/en/faqs/view/163C-7C89-406E-2F63).

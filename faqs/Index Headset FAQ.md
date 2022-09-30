@@ -1,7 +1,7 @@
 # Index Headset FAQ
 Updated 2021-12-30 19.16.37
 
- ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) ### General troubleshooting
+![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) ### General troubleshooting
 **Before following instructions below, be sure you've tried the following:**  
   
 
@@ -101,7 +101,4 @@ Even while indoors, exposure to sunlight can cause permanent damage to the displ
   
 **To clean the headstrap and face gasket padding**, use a damp cloth to scrub the padding. The padding material is antimicrobial and won't normally require  				antibacterial or other chemical cleaners, but isopropyl alcohol can be applied to the cloth in small quantities if necessary.  
   
-**To clean the lenses**, use the microfiber cloth that was included with your headset. Gently wipe in a circular motion, starting at the lens center and moving outward. Do not use cleaning agents on lenses.  
-  
-    
-  
+**To clean the lenses**, use the microfiber cloth that was included with your headset. Gently wipe in a circular motion, starting at the lens center and moving outward. Do not use cleaning agents on lenses.

@@ -25,5 +25,4 @@ There are a number of different types of DirectX related errors, some common one
   
   
 # How do I update DirectX?
-The easiest way to update DirectX is to use [Windows Update](https://support.microsoft.com/en-us/windows/windows-update-faq-8a903416-6f45-0718-f5c7-375e92dddeb2).  
-  
+The easiest way to update DirectX is to use [Windows Update](https://support.microsoft.com/en-us/windows/windows-update-faq-8a903416-6f45-0718-f5c7-375e92dddeb2).

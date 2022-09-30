@@ -18,8 +18,3 @@ Please see the [Programs Which May Interfere with Steam](https://help.steampower
 It is important to maintain an appropriate environment for your router and other electronics. Ideally, your router should be in a well-ventilated area where it will not overheat. Overheating routers have been reported to cause network connectivity issues and symptoms of lag.  
   
 In addition to ensuring your router is operating at optimum levels, it may be useful to forward gaming-related ports to your machine if you are the only user on your home network who will be playing Steam games. Please see the [Required Ports for Steam](https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC#ports) list to see which Steam and game ports to forward.
-
-  
-  
-  
-  

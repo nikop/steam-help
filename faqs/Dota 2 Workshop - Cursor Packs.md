@@ -1,8 +1,6 @@
 # Dota 2 Workshop - Cursor Packs
 Updated 2021-10-28 02.08.01
 
-  
-  
 ![http://cdn.dota2.com/apps/dota2/images/international2015/compendium/stretch_goals/cursor_pack.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/international2015/compendium/stretch_goals/cursor_pack.jpg?v=1459382400)  
   
 
@@ -49,5 +47,4 @@ Updated 2021-10-28 02.08.01
 ## EXAMPLE CURSOR PACK
 Download the [Valve Example Cursor Pack](http://media.steampowered.com/apps/dota2/images/workshop/guidelines/cursors/example_valve_cursor_pack.zip)  
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

@@ -1,4 +1,5 @@
 Dota 2 - Fantasy Leagues
+------------------------
 Updated 2021-07-10 19.49.55
 
 [list]      [*][url=#general]General[/url][/*]      [*][url=#players]Players[/url][/*]      [*][url=#rosters]Player Rosters[/url][/*]      [*][url=#trading]Trading and Free Agents[/url][/*]      [*][url=#scoring]Scoring[/url][/*]  [/list]
@@ -72,4 +73,3 @@ Bench:
 [h3]Does it matter if players win or lose their matches?[/h3]No, scoring is entirely based on the player’s performance in certain categories (kills, gold per minute, healing, etc). Whether they win or lose their match is not scored, though players that win matches will tend to have better individual performances.
 
 [h3]When are scores updated?[/h3]Scores are updated after every match completes.
-

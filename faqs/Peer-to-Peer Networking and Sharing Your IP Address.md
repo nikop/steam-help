@@ -37,5 +37,4 @@ We recommend that most players leave the setting on default.  If you experience 
 Please note that the game may choose to force the use of a relay for certain connections, such as in a high-stakes competitive mode where DoS attacks are more likely.  
   
 #### Steam's Peer-to-Peer Networking Goals
-Steam is working towards a world where no one needs to share their IP address to have a good connection.  Unfortunately, we're not there yet.  Until then, we will try to hide IP addresses for as many players as possible while still delivering a good networking experience and giving players who care about their privacy a way to protect it.  
-  
+Steam is working towards a world where no one needs to share their IP address to have a good connection.  Unfortunately, we're not there yet.  Until then, we will try to hide IP addresses for as many players as possible while still delivering a good networking experience and giving players who care about their privacy a way to protect it.

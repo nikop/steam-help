@@ -40,5 +40,4 @@ Change the target to include "/register" as in the following example:
   
 After clicking OK, double click on the shortcut to run it.  
   
-Restart your computer re-test the issue.  
-  
+Restart your computer re-test the issue.

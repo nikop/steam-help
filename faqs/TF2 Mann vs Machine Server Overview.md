@@ -29,4 +29,3 @@ To include your MvM server in the TF2 matchmaking system which will send players
 * A value of 0 will disable this feature and allow your server to accept both quickplay beta, matchmaking and server browser traffic (Default)
 * A value of 1 will hide your server from the server browser and only allow players to connect from the matchmaking system. Note: If a player has favorited your server, it will still appear in their favorites however they will not be able to connect.
 * A value of 2 will hide your server from the server browser and only accept direct connections to the server from a user's favorites, friends game or connect command.
-

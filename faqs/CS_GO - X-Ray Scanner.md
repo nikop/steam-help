@@ -1,7 +1,6 @@
 # CS:GO - X-Ray Scanner
 Updated 2021-07-10 19.49.55
 
-
 * [I scanned a container and it is no longer in my Inventory. Where did it go?](#wherecontainer)
 * [Can I scan a container, see the contents, then trade or sell the container on the Community Market?](#seecontents)
 * [I have scanned a container and the item has been revealed. How do I scan another container?](#scananother)

@@ -77,4 +77,4 @@ The following games require you to add third-party bots manually if you wish to 
 * Half-Life Deathmatch: Source
 
   
-You will need to search the internet for these third-party bots, or ask others in the game's respective community for any recommendations.[/section]  
+You will need to search the internet for these third-party bots, or ask others in the game's respective community for any recommendations.[/section]

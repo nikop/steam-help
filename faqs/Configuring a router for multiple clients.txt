@@ -1,4 +1,5 @@
 Configuring a router for multiple clients
+-----------------------------------------
 Updated 2021-08-10 23.04.24
 
 To configure multiple clients to play from behind the same router, you may need to change one of the clients to use a different clientport number.
@@ -44,4 +45,3 @@ The benefit of this method is that the clientport will remain set whether you ar
 [*]Save your [b]userconfig.cfg[/b]      
 [*]Launch your game  
 [/list]
-

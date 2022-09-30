@@ -1,7 +1,6 @@
 # Steam Account Use
 Updated 2021-08-04 20.40.28
 
-
 * [Can I use multiple Steam accounts on one computer?](#onemachine)
 * [Can I use my Steam account on other computers?](#multiple)
 * [Can multiple users play simultaneously on one Steam account?](#simultaneous)
@@ -30,5 +29,4 @@ Note: please make sure that you log out of your Steam account before leaving the
 #### Do I need a separate account to run a dedicated server?
 If you are using a single Steam account for your Stand-Alone Dedicated Server and your game client, you will run into the "Invalid Steam UserID Ticket" error which is presented to multiple users attempting to play simultaneously - if you intend to use a computer as a dedicated server, you must create a separate Steam account to run the dedicated server software.  
   
-Note: Client Listen Servers use the Steam UserID ticket for the client on which they are run - the "Invalid Steam UserID Ticket" error will not be presented when you are running a Client Listen Server unless another user logs into your account and starts a game.  
-  
+Note: Client Listen Servers use the Steam UserID ticket for the client on which they are run - the "Invalid Steam UserID Ticket" error will not be presented when you are running a Client Listen Server unless another user logs into your account and starts a game.

@@ -120,5 +120,4 @@ You should see the Library folder available through the Go menu on the menu bar 
   
 If you are still encountering this issue within Dota 2, please create or join an existing thread regarding that issue on the [Dota 2 Development Forums](http://dev.dota2.com/).  
   
-Widespread crashes or other issues will often be fixed by the Dota 2 development team within days of the issue appearing.  
-  
+Widespread crashes or other issues will often be fixed by the Dota 2 development team within days of the issue appearing.

@@ -1,4 +1,5 @@
 Dota 2 - Network/Connectivity Issues
+------------------------------------
 Updated 2021-07-10 19.49.55
 
 I am unable to connect to the Dota 2 network, experiencing network lag in-game, or losing my connection to the Dota 2 servers while playing. What can I do?
@@ -10,4 +11,3 @@ I am unable to connect to the Dota 2 network, experiencing network lag in-game, 
 We suggest that you [url=https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC]Troubleshoot your Network's connectivity with Steam[/url], and remove any [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs that may interfere with Steam from your computer[/url].
 
 If other players in your region are experiencing this issue, ensure that you report it to the [url=http://dev.dota2.com]Dota 2 Development Forums[/url].
-

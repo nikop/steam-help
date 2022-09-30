@@ -1,4 +1,5 @@
 Hosting a Local (Listen) Server for Valve Games
+-----------------------------------------------
 Updated 2021-08-12 17.36.59
 
 I want to host a server on my computer to play with my friends over the Internet. What do I need to do to allow my friends to connect to me?
@@ -21,4 +22,3 @@ For guided instructions on forwarding a port for a large selection of home route
 [list]              [*][i]sv_lan 0[/i][/*]              [*][i]ip [your IP address][/i] (replace [b][your IP address][/b] with the public IP address you recorded initially, so you have a command that looks like [i]ip 255.255.255.255[/i])[/*]          [/list]          [/*]          [*]You may need to enter the [i]heartbeat[/i] command after entering these commands in order to update your IP address with the Steam master servers. If people viewing your server still see [b]Server is not responding[/b], then please enter the [i]map [i]mapname[/i][/i] command, where [b]mapname[/b] is the name of the map file you want to start on. To get a list of map files, type the [i]maps *[/i] command.[/*]      [/olist]      [/*]  [/olist]
 
 Once you have completed these steps, users should be able to join your currently running game. You will need to repeat the in-game steps if you exit the game.
-

@@ -1,4 +1,5 @@
 Games Are Missing from my Library
+---------------------------------
 Updated 2021-10-27 23.55.55
 
 [h1]New to Steam - Where are my games?[/h1]
@@ -35,4 +36,3 @@ The status of [b]Pre-load Complete[/b] means that the game is installed on your 
 
 [h1]Games that were previously installed are appearing as uninstalled[/h1]
 If games that were previously installed on your account are now appearing as uninstalled, check out[url=https://help.steampowered.com/en/faqs/view/4578-18A7-C819-8620] this FAQ[/url] for a more information.
-

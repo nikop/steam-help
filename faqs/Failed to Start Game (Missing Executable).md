@@ -40,6 +40,3 @@ We'll ask you for the following, so go ahead and include them with your ticket:
   
   
 Our goal is to get you playing your games, so we'll review your information and suggest additional troubleshooting steps.
-
-  
-  

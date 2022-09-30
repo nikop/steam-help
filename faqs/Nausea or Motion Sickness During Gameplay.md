@@ -28,5 +28,4 @@ Check the FPS your game is currently running.  Open the game console with the ~ 
   
 If you are getting below 30FPS on a regular basis, please try lower screen resolution or some of the graphical settings in the advanced video options in the Options menu.  
   
-Lowering your mouse sensitivity to slow your turn rates may also help your symptoms.  
-  
+Lowering your mouse sensitivity to slow your turn rates may also help your symptoms.

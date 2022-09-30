@@ -72,5 +72,4 @@ Please visit the following [page](https://help.steampowered.com/en/faqs/view/2C0
 Please visit the following [page](https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117#gifts-troubleshooting) for instructions on how to re-send an extra copy/gift.  
   
 ### **I sent an extra copy to a friend using their email address, but it turns out that person already owns this game. Can I give this game to someone else?**
-Please visit the following [page](https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117#emailown) for instructions on what to do in this situation.  
-  
+Please visit the following [page](https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117#emailown) for instructions on what to do in this situation.

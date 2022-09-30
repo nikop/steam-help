@@ -24,7 +24,4 @@ If you have been scammed, we recommend that you review Steam's [Scam FAQ](https:
   
 For information on how to safeguard an account, please read the [Account Security Recommendations](https://help.steampowered.com/en/faqs/view/6639-EB3C-EC79-FF60)[exclude_realm=china] and [Account Phishing](https://steamcommunity.com/actions/ReportSuspiciousLogin) articles[/exclude_realm].  
   
-If you have lost items due to your account being compromised, please see the [Steam Item Restoration Policy](https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24) article for more information.  
-  
-  
-  
+If you have lost items due to your account being compromised, please see the [Steam Item Restoration Policy](https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24) article for more information.

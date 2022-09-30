@@ -44,4 +44,3 @@ The second method is based on the Debian Installer. It requires multiple configu
 * Log on with the desktop account. The password is desktop
 * From a terminal window, run ~/post_logon.sh. This will prompt for a password - enter desktop. This script will perform the post-install customizations, delete itself, then reboot into the recovery partition capture utility.
 * Confirm y to continue and the recovery partition will be created. When it is finished, reboot into your freshly installed SteamOS
-

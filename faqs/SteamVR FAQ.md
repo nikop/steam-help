@@ -74,5 +74,4 @@ What you will see if the lens is not centered is an increase in stray light. The
 Please visit [HTC Vive Support](https://www.htcvive.com/us/support) for anything related to HTC Vive orders, shipping, and billing.  
   
 ### **Can I use my Oculus Rift with SteamVR?**
-Yes, SteamVR supports the Oculus Rift. When using the Rift with SteamVR, use the Back button on an Xbox controller to bring up and dismiss the SteamVR Dashboard. To enable this, [follow these instructions](https://help.steampowered.com/en/faqs/view/17DA-EC4C-7D5B-8266).  
-  
+Yes, SteamVR supports the Oculus Rift. When using the Rift with SteamVR, use the Back button on an Xbox controller to bring up and dismiss the SteamVR Dashboard. To enable this, [follow these instructions](https://help.steampowered.com/en/faqs/view/17DA-EC4C-7D5B-8266).

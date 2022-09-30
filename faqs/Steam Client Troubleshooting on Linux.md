@@ -14,5 +14,4 @@ On Ubuntu, the easiest way to verify this is by installing mesa-utils:i386 and r
   
 [h5]Check the Wiki[/h5]The Valve Wiki hosted by Ubuntu has some common solutions and recommendations for installing and troubleshooting the Steam client. [Valve Ubuntu Wiki](https://wiki.ubuntu.com/Valve)  
   
-[h5]Still Not Working?[/h5]Crashes or bugs can be reported to our GitHub. Those reports are then used by our developers to help determine what needs to be fixed. [Valve GitHub](https://github.com/ValveSoftware/steam-for-linux/)  
-  
+[h5]Still Not Working?[/h5]Crashes or bugs can be reported to our GitHub. Those reports are then used by our developers to help determine what needs to be fixed. [Valve GitHub](https://github.com/ValveSoftware/steam-for-linux/)

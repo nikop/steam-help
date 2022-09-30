@@ -5,5 +5,4 @@ When contacting Steam Support about a damaged or unreadable Steam Wallet code it
   
 Below are the two examples of how Wallet codes should be submitted to Steam Support:  
   
-![https://support.steampowered.com/images/faq/wallet/epaywalletcard.png](https://support.steampowered.com/images/faq/wallet/epaywalletcard.png)  ![https://support.steampowered.com/images/faq/wallet/fastcardwalletcard.png](https://support.steampowered.com/images/faq/wallet/fastcardwalletcard.png)  
-  
+![https://support.steampowered.com/images/faq/wallet/epaywalletcard.png](https://support.steampowered.com/images/faq/wallet/epaywalletcard.png)  ![https://support.steampowered.com/images/faq/wallet/fastcardwalletcard.png](https://support.steampowered.com/images/faq/wallet/fastcardwalletcard.png)

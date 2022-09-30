@@ -42,4 +42,3 @@ Read the following articles for general information on how you can ensure that y
 
 * [Troubleshooting Dota crash & performance issues](https://help.steampowered.com/en/faqs/view/698B-5A7B-09F5-19FB)
 * [Troubleshooting Networking & Connection issues](https://help.steampowered.com/en/faqs/view/74A2-3CA8-FBB5-A464)
-

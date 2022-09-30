@@ -1,7 +1,6 @@
 # Steam Guides
 Updated 2021-08-03 22.44.08
 
-
 * [What games/software can I create guides for?](#what)
 * [Where do I find guides that I created?](#where)
 * [Are there guidelines for what can and can't be included in guides?](#content)
@@ -31,5 +30,4 @@ From the 'guides' section for a specific game/software:
 ### [url id=content][/url]Are there guidelines for what can and can't be included in guides?
 For more information on this please click [here](https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B) to read the full Rules and Guidelines for Steam Guides.  
   
-You can also find more information on guides here: [http://www.steamcommunity.com/guides](http://www.steamcommunity.com/guides)  
-  
+You can also find more information on guides here: [http://www.steamcommunity.com/guides](http://www.steamcommunity.com/guides)

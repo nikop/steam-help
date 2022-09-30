@@ -42,5 +42,4 @@ First, go to your music settings: *Steam > Settings > Music*: There you can spec
   
   
 ## What music file formats does Steam support?
-Currently we support MP3, FLAC, OGG Vorbis, and M4A (both AAC and Apple Lossless) files.  
-  
+Currently we support MP3, FLAC, OGG Vorbis, and M4A (both AAC and Apple Lossless) files.

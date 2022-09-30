@@ -1,4 +1,5 @@
 Steam Guard Mobile Authenticator
+--------------------------------
 Updated 2021-10-20 21.51.37
 
 [section style=important]If you're having trouble logging in with the Steam Guard Mobile Authenticator, please use our help site ([url=https://help.steampowered.com]help.steampowered.com[/url]) to recover your account.[/section]
@@ -159,4 +160,3 @@ To make logging into your account faster, we do not require a code if you have s
 If an account that has a phone number registered to it receives a VAC or Game ban, all other accounts that use the same phone number will also receive a ban. If the other accounts do not own the game they will still receive the ban and be unable to purchase the title on that account.
 
 This feature is not enabled for all games and will be used at the discretion of the developer.
-

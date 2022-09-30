@@ -79,5 +79,4 @@ You can also enable network prioritization within Steam Remote Play settings. Go
 Some wireless routers have bugs in handling the amount of UDP traffic sent in Remote Play. Please make sure your router has the latest firmware updates to resolve any known issues.  
   
 #### Tune your streaming bandwidth
-You can directly limit the resolution and amount of bandwidth used in the advanced streaming settings. If you want to tune things exactly right for your setup, you can start at 3 Mbit/s and slowly increase the bandwidth until you start getting hitches and then drop it back down. You can do this live while your game is running by bringing up the Steam overlay with the guide button or Shift+Tab and going to the streaming settings panel.  
-  
+You can directly limit the resolution and amount of bandwidth used in the advanced streaming settings. If you want to tune things exactly right for your setup, you can start at 3 Mbit/s and slowly increase the bandwidth until you start getting hitches and then drop it back down. You can do this live while your game is running by bringing up the Steam overlay with the guide button or Shift+Tab and going to the streaming settings panel.

@@ -1,4 +1,5 @@
 Steam Sales - Purchasing and billing FAQ
+----------------------------------------
 Updated 2021-08-12 22.19.41
 
 [h1]Common Questions[/h1][list]  	
@@ -45,4 +46,3 @@ Steam's Wishlist feature can be used to receive a notification when a game that 
 [/list]
 [url id=other][/url][h4]What other resources are there for billing issues?[/h4]
 Refer to our [url=https://support.steampowered.com/kb_cat.php?id=92]General Billing[/url] or [url=https://support.steampowered.com/kb_cat.php?id=60]Refunds and Returns[/url] support articles for more information. If you can't solve your issue with the help of these articles, please go to the [url=https://help.steampowered.com]Steam Support Help Site[/url] and submit a support ticket detailing your purchasing problem.
-

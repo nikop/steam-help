@@ -167,5 +167,4 @@ The Steam Controller accepts disposable and rechargeable batteries. The USB cabl
   
 *To use rechargeable batteries, they will need to be charged with the appropriate device.*  
   
-[/expand]   
-  
+[/expand]

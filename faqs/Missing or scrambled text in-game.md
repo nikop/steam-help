@@ -18,6 +18,3 @@ Use game launch options to launch with the command **-autoconfig**.   Please see
 * Select **Options.**
 * Select the **Video** tab.
 * Set the **Renderer** to **OpenGL**.
-
-  
-  

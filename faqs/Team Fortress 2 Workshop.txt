@@ -1,4 +1,5 @@
 Team Fortress 2 Workshop
+------------------------
 Updated 2021-10-28 00.27.57
 
 [list]  	[*][url=#stepsitem]What are the steps to making an item?[/url][/*]  	[*][url=#publishitem]How does the item publishing process work?[/url][/*]  	[*][url=#itemtools]What software tool should I use to make my item?[/url][/*]  	[*][url=#l2model]Where can I find good tutorials to learn 3D modeling?[/url][/*]  	[*][url=#watchmego]I am a 3D artist, how do I get started?[/url][/*]  	[*][url=#polycount]What are the polycount limits on my items?[/url][/*]  	[*][url=#textureres]What resolution should my textures be?[/url][/*]  	[*][url=#objtga]I've made an .obj file and .tga, how do I test them in game?[/url][/*]  	[*][url=#existingassets]Where can I get the models of the existing characters so I can build my item in context?[/url][/*]  	[*][url=#texturetip]Any tips on creating textures?[/url][/*]  	[*][url=#artstyle]What are some guidelines for matching TF2's art style and improving the chances of my item getting in?[/url][/*]  	[*][url=#reportitem]What types of items should be reported?[/url][/*]  	[*][url=#beenreported]What if someone keeps reporting items that are not violating any terms?[/url][/*]  [/list]
@@ -62,4 +63,3 @@ Updated 2021-10-28 00.27.57
 [url id=beenreported][/url]
 
 [h4]What if someone keeps reporting items that are not violating any terms?[/h4]Users who repeatedly report items that do not violate terms will receive a lower reputation themselves and thus will not benefit from doing this.
-

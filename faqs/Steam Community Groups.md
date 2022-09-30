@@ -78,4 +78,3 @@ Each group has permissions that can be customized for each type of member. You'l
 * Hover over your Profile name next to Community and select *GROUPS* from the drop down.
 * Click the *Visit admin page* link next to the group you wish to edit.
 * Select the *Edit group permissions* tab and choose which permissions you wish to grant to the members of your group.
-

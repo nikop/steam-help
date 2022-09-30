@@ -76,4 +76,3 @@ Do not send any unspecified items with your return. Additional items will not be
 * Record the tracking number from the shipping label and keep it in a safe place.
 * Ship the package and keep your shipping receipt.
 * [Contact Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamHardware) if you have questions about your return.
-

@@ -1,4 +1,5 @@
 Limited User Accounts
+---------------------
 Updated 2022-07-06 23.48.33
 
 Steam prevents some accounts from accessing certain community and social features that are commonly used for spamming, phishing, and other abuse.
@@ -77,4 +78,3 @@ A purchase amount only counts towards this limit if it was processed successfull
 
 [h5]What exchange rates are used when calculating the USD value of my purchases?[/h5]
 We use the daily exchange rate at the time of purchase to calculate your account's USD spend on Steam. If you made a purchase in the past, we used that day's exchange rate, not today's rate.
-

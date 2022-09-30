@@ -11,5 +11,4 @@ Steam may allow you to play the game while it is in the process of authorizing y
   
 In the event that your credit card purchase is declined, Steam will remove the games from the Library list. The next time you try to play the game, Steam will ask if you want to attempt the purchase again.  
   
-You must make a valid purchase in order to play if your payment was declined for any reason.  
-  
+You must make a valid purchase in order to play if your payment was declined for any reason.

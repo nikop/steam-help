@@ -92,5 +92,4 @@ If you have lost or forgotten your PIN and a recovery email address has been spe
   
 If you haven't set a recovery email address yet, you can do so by visiting the following link: [http://store.steampowered.com/parental/setrecovery](http://store.steampowered.com/parental/setrecovery)  
   
-If you have lost your PIN and haven't set a recovery email, please contact [Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E)  
-  
+If you have lost your PIN and haven't set a recovery email, please contact [Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E)

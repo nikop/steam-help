@@ -77,5 +77,4 @@ No, using a proxy or VPN to disguise your location is strictly against the Steam
   
 ## What happens if I have redeemed a region restricted gift and cannot play it?
   
-You will need to purchase this product from your current location without using a VPN/proxy or obtain a copy that is sold within your country of residence. If you are unable to complete a purchase on the Steam store, please contact [Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E).  
-  
+You will need to purchase this product from your current location without using a VPN/proxy or obtain a copy that is sold within your country of residence. If you are unable to complete a purchase on the Steam store, please contact [Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E).

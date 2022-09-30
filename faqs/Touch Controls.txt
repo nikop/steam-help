@@ -1,4 +1,5 @@
 Touch Controls
+--------------
 Updated 2021-07-21 20.53.56
 
 [img]https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png[/img]
@@ -44,4 +45,3 @@ While dragging controls around, they will snap into default positions relative t
 You can also copy or reset layouts by clicking the […] in the upper left corner of the dialog window.
 
 [/expand]
-

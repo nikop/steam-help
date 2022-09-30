@@ -1,7 +1,6 @@
 # Dota 2 Workshop - Item Effects Models
 Updated 2021-10-28 02.13.44
 
-  
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/01_effects_weapon_in_game3.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/01_effects_weapon_in_game3.jpg)  
   
 
@@ -132,5 +131,4 @@ Below is an example of how to quickly create effects for an item in Maya 2016. E
 
   
   
-[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)  
-  
+[Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

@@ -1,4 +1,5 @@
 Steam Trade Offers
+------------------
 Updated 2021-08-12 20.56.28
 
 [list]
@@ -84,4 +85,3 @@ Note that you cannot include Steam Wallet funds in a trade or trade offer. If so
 [h3][url id=expirationoffer][/url]How long is an offer good for?[/h3]Trade offers automatically expire after two weeks. You can find the offer expiration date at the bottom of a pending offer.
 
 [h3][url id=historyoffer][/url]Where can I see my trade history?[/h3]You can view your trade history from the Trade Offers page or from the "[b]...[/b]" buttondrop down in your Inventory.
-

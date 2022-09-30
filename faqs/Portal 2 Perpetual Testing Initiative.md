@@ -31,6 +31,3 @@ If you are having the following error message, you may have one of several issue
 * If the files were fixed on your machine, test your compile again.
 * Find the error.p2c file in: `...Steam\steamapps\common\Portal 2\portal2\puzzles\[randomly generated number]\error.p2c`
 * E-mail the file to puzzle_error@valvesoftware.com
-
-  
-  

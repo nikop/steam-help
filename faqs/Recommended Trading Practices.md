@@ -41,5 +41,4 @@ A scammer may attempt to convince you that they will trade you an item if you pu
 If another player requests that you do, they could be attempting to scam you. Always insist that all items be traded within a single offer.  
   
 ### Avoid using middlemen
-Middlemen should not be needed if you are trading within the system. A middleman can scam you by impersonating another trader, working with a scammer or keeping any item that you give to them.  
-  
+Middlemen should not be needed if you are trading within the system. A middleman can scam you by impersonating another trader, working with a scammer or keeping any item that you give to them.

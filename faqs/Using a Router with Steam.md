@@ -26,5 +26,4 @@ Certain router services can cause problems with Steam. If any of the following s
   
   
 #### [Required Ports for Steam](https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB)
-All required ports to run the Steam application are listed [here](https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB). It is possible that other games available on Steam will require further ports to be available.  
-  
+All required ports to run the Steam application are listed [here](https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB). It is possible that other games available on Steam will require further ports to be available.

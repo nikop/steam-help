@@ -102,5 +102,4 @@ You'll want to work with a specialist to ensure that no outside software is inte
 ### Upgrade Your System
 If your system is at or below the required or recommended specifications for the game, the overlay may have difficulty functioning correctly.  
   
-You'll want to work with a specialist in your area to consider upgrading your operating system, or even the hardware that your system uses.  
-  
+You'll want to work with a specialist in your area to consider upgrading your operating system, or even the hardware that your system uses.

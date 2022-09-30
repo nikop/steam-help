@@ -1,7 +1,6 @@
 Dota 2 Workshop - Hero Ability Models
+-------------------------------------
 Updated 2021-08-18 19.57.26
-
-
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/final_ game_cog_crop.jpg?v=1459382400[/img]
 
@@ -116,4 +115,3 @@ Wards for Venomancer, Witch Doctor, Juggernaut, and Pugna
 [h2][url id=troubleshooting][/url][/h2][h2]ITEM TROUBLESHOOTING[/h2][list]  	[*]If you have problems testing or submitting your item, see our [url=https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205]Item Troubleshooting[/url] page.[/*]  [/list]
 
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]
-

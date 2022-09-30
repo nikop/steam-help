@@ -40,5 +40,4 @@ DLC owned by your account can be viewed and managed in your library a few differ
 From the DLC installation and management menu you can see what DLC you have for the game and whether if it's been installed.   
   
 In the example below you can see that both DLC for the game are currently installed:  
-![{STEAM_CLAN_IMAGE}/1976/cb68e1b1eb82f71879c36dd1d2654519da42b832.png]({STEAM_CLAN_IMAGE}/1976/cb68e1b1eb82f71879c36dd1d2654519da42b832.png)  
-  
+![{STEAM_CLAN_IMAGE}/1976/cb68e1b1eb82f71879c36dd1d2654519da42b832.png]({STEAM_CLAN_IMAGE}/1976/cb68e1b1eb82f71879c36dd1d2654519da42b832.png)

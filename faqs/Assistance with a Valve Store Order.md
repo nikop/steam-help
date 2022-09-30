@@ -12,5 +12,4 @@ Please also include the following information with your message:
 * A brief description of your issue
 
   
-Questions about games purchased on Steam should be sent to [Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E).  
-  
+Questions about games purchased on Steam should be sent to [Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E).

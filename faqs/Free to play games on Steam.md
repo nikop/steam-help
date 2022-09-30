@@ -1,7 +1,6 @@
 # Free to play games on Steam
 Updated 2021-08-28 01.23.31
 
-
 * [What is a free to play game?](#f2p)
 * [Will I need a credit card to play?](#payment)
 * [Will I need to fund my Steam Wallet?](#wallet)

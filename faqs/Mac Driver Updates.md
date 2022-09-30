@@ -13,5 +13,4 @@ To check if any updates are available please do the following:
   
 Please see Apple's support article "[Keep your Mac up to date](https://support.apple.com/guide/mac-help/get-macos-updates-mchlpx1065/11.0/mac/11.0)" for more information and for instructions on updating on older versions of macOS.  
   
-NOTE: It is recommended that you always keep your system up to date  
-  
+NOTE: It is recommended that you always keep your system up to date

@@ -1,6 +1,6 @@
 Dota 2 Workshop - Item Troubleshooting
+--------------------------------------
 Updated 2021-10-28 01.50.11
-
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img]
 
@@ -79,4 +79,3 @@ More model guidelines - Please see our [url=https://support.steampowered.com/kb/
 [list]  	[*]Make sure you are logged into the workshop.[/*]  	[*]If you are trying to view a submission that you have marked hidden, be sure that you are trying to view it through the same account you used to submit it.[/*]  	[*]If you are trying to view an item submitted by a friend that has its visibility set to "Friends Only" you will need to view it through the account they use to friend you.[/*]  	[*]Make sure that the revenue shares have been finalized for the item. After all parties have agreed to the revenue shares, the entity making the submission has to finalize these shares.[/*]  [/list]
 
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]
-

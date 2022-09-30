@@ -1,7 +1,6 @@
 # Trade and Market Confirmations
 Updated 2021-07-10 19.49.55
 
-
 * [What are trade and market confirmations?](#whatis)
 * [How do confirmations work?](#how)
 * [Why are confirmations necessary?](#why)
@@ -29,5 +28,4 @@ Open the confirmation request and cancel the trade or listing. It's possible tha
 ### [url id=phone][/url]How do I get confirmation requests via phone?
 You can get confirmation requests through the Steam Mobile App on your smartphone if you're using it to protect your account. Set up the app to act as a Mobile Authenticator and you'll automatically receive confirmations in the app.  
   
-Here's where you can [download and learn more about the Steam Mobile App](http://store.steampowered.com/mobile).  
-  
+Here's where you can [download and learn more about the Steam Mobile App](http://store.steampowered.com/mobile).

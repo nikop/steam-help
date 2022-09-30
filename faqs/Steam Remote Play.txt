@@ -1,4 +1,5 @@
 Steam Remote Play
+-----------------
 Updated 2022-01-28 21.46.06
 
 Steam Remote Play allows games to be launched on one computer, while being played from other devices connected to Steam. With Remote Play Together, you can invite your Steam Friends to join your local co-op sessions remotely, without having to own or launch the game themselves.
@@ -169,4 +170,3 @@ While the game is running, you can hit F6 or the Guide button combined with the 
 While the statistics are visible, you can hit F8 or the Guide button combined with the X button on your game controller to save a screenshot and 10 seconds worth of stats to a zip file in the streaming directory in the Steam folder on the remote computer.
 
 There is a good article on how to interpret the log information here: [url=http://steamcommunity.com/groups/homestream/discussions/0/540733523404402134/]http://steamcommunity.com/groups/homestream/discussions/0/540733523404402134/[/url]
-

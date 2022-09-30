@@ -1,4 +1,5 @@
 Find Downloadable Content (DLC) for My Games
+--------------------------------------------
 Updated 2021-07-21 23.32.58
 
 [h2]Finding DLC in the store[/h2]If a game offers additional downloadable content, you can find it on the store from the base game page or by searching for it.
@@ -36,4 +37,3 @@ From the DLC installation and management menu you can see what DLC you have for 
 
 In the example below you can see that both DLC for the game are currently installed:
 [img]{STEAM_CLAN_IMAGE}/1976/cb68e1b1eb82f71879c36dd1d2654519da42b832.png[/img]
-

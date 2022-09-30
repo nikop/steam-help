@@ -1,4 +1,5 @@
 Steam Coupons
+-------------
 Updated 2021-08-05 19.49.16
 
 [list]      [*][url=#use]When can I use my coupons?[/url][/*]      [*][url=#howmany]How many coupons can I use on an item? [/url][/*]      [*][url=#discounted]Can I use coupons on already discounted items? [/url][/*]      [*][url=#happens]What happens to my coupons when they expire? [/url][/*]      [*][url=#which]How do I know which products the coupon can apply to? [/url][/*]      [*][url=#checkout]How do I apply a coupon during checkout? [/url][/*]      [*][url=#expire]How do I know when my coupons will expire?[/url][/*]      [*][url=#trade]Can I trade Steam Coupons?[/url][/*]      [*][url=#give]Can I give my coupon to another Steam user?[/url][/*]  [/list]
@@ -44,4 +45,3 @@ Updated 2021-08-05 19.49.16
 [url id=give][/url]
 
 [h3]Can I give my coupon to another Steam user?[/h3]Absolutely. You can send your Steam Coupons to another user through Steam Trading. The user receiving the coupon does not have to send anything in return to complete a Steam Trade. For more information on how Steam Trading works please visit the following [url=https://help.steampowered.com/en/faqs/view/46A2-2B3C-95CC-8878]FAQ[/url].
-

@@ -1,7 +1,6 @@
 # Recurring Subscriptions
 Updated 2021-08-04 19.17.50
 
-
 * [How do I purchase a Subscription Plan?](#purchase)
 * [How do I manage or cancel my Subscription?](#manage)
 * [Can I freeze my Subscription?](#freeze)
@@ -54,5 +53,4 @@ Visit [Account Details](https://store.steampowered.com/account/) to review past 
 No, not at this time.  
   
 #### Can I register multiple game accounts to a my Steam account?
-Not for a single title, no.  
-  
+Not for a single title, no.

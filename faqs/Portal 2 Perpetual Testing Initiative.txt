@@ -1,4 +1,5 @@
 Portal 2 Perpetual Testing Initiative
+-------------------------------------
 Updated 2021-12-17 18.31.37
 
 Are you having issues with your Portal 2 Puzzle? Read on for some steps to fix it!
@@ -24,4 +25,3 @@ Are you having issues with your Portal 2 Puzzle? Read on for some steps to fix i
 
 [h4]If all else fails...[/h4][olist]      [*][url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]Verify integrity of game files[/url] for Portal 2.[/*]      [*]If the files were fixed on your machine, test your compile again.[/*]      [*]Find the error.p2c file in: [code]...Steam\steamapps\common\Portal 2\portal2\puzzles\[randomly generated number]\error.p2c[/code][/*]      [*]E-mail the file to puzzle_error@valvesoftware.com
 [/*]  [/olist]
-
