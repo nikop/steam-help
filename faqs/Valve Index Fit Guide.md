@@ -1,4 +1,5 @@
 # Valve Index Fit Guide
+Updated 2021-07-10 19.49.55
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) [url id=hmdfit][/url]  
   

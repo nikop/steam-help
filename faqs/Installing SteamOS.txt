@@ -1,4 +1,5 @@
 Installing SteamOS
+Updated 2021-08-10 16.39.18
 
 [h3]What are the hardware requirements for SteamOS?[/h3][list]  	[*]Intel or AMD 64-bit capable processor[*]4GB or more memory[*]500GB or larger disk[*]NVIDIA, AMD (RADEON 8500 and later), or Intel graphics card[*]UEFI boot support[*]USB port for installation[/*]  [/list]    
 [h3]How do I install SteamOS?[/h3]

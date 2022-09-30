@@ -3,5 +3,6 @@
   "language": 0,
   "version": 6,
   "content": "For Dedicated Servers, you must install any custom maps in your server directory to run them as part of your map cycle.\n\nFor Listen Servers, any maps that you have played with your client are immediately available in your Listen Server.\n\nYou can start by copying over any custom maps you might have downloaded while playing from your client to the dedicated server folder, there will be a subfolder there, one for each game type, so for example [b]cstrike[/b] is for counter-strike.\n\nThere are several folders for the custom content that you will need to copy over. For the Client Dedicated Server, the folder for cstrike is typically located here:\n\n[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half-Life\\cstrike[/code]\n\nCopy over the following folders:\n[list][*]maps[/*]      [*]sound[/*]      [*]sprites[/*]      [*]gfx[/*]      [*]overviews[/*]      [*]models[/*]  [/list]\n\nIf there are any custom WAD files (*.wad) in the cstrike folder, copy those over to the server cstrike folder as well.\n\nYou can install downloaded maps to both your client and to the dedicated server.\n\n",
-  "title": "Installing custom maps on a Half-Life or Source Dedicated Server"
+  "title": "Installing custom maps on a Half-Life or Source Dedicated Server",
+  "timestamp": "2021-10-06T23:46:35+00:00"
 }

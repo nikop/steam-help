@@ -1,4 +1,5 @@
 # Valve Hardware Warranty
+Updated 2022-03-04 17.39.34
 
 ![https://support.steampowered.com/images/faq/steam_universe/SteamHardware_Warranty_Header.png](https://support.steampowered.com/images/faq/steam_universe/SteamHardware_Warranty_Header.png)  
   

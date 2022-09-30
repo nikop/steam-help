@@ -1,4 +1,5 @@
 Steam Trade and Market Holds
+Updated 2021-07-10 19.49.55
 
 [list]  	[*][url=#1]What is a trade hold?[/url][/*]  	[*][url=#2]What is a market hold?[/url][/*]  	[*][url=#3]Why are trade holds necessary?[/url][/*]  	[*][url=#4]How does it work?[/url][/*]  	[*][url=#5]How can I remove the need for a trade or market hold?[/url][/*]  [/list]
 

@@ -1,4 +1,5 @@
 Dota 2 - Performance Issues, Crashes, or Failures When Launching
+Updated 2021-08-12 17.21.26
 
 If you are encountering performance issues, game crashes, or Dota 2 is failing to launch with or without an error message, proceed through this article from top to bottom and complete all applicable steps to troubleshoot the issue.
 

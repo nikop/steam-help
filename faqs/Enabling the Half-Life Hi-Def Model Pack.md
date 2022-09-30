@@ -1,4 +1,5 @@
 # Enabling the Half-Life Hi-Def Model Pack
+Updated 2021-07-10 19.49.55
 
 How do I enable the Hi-Def Model Pack?  
   

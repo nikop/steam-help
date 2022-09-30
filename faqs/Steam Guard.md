@@ -1,4 +1,5 @@
 # Steam Guard
+Updated 2021-08-09 18.18.49
 
 
 * [What is Steam Guard and how does it help me?](#what)

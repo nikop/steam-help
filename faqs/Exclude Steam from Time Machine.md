@@ -1,4 +1,5 @@
 # Exclude Steam from Time Machine
+Updated 2021-07-10 19.49.55
 
 ## I'm using Time Machine and each time a game gets updated it backs up the entire game again. How can I stop this?
   

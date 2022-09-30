@@ -1,4 +1,5 @@
 # Steam Trade Offers
+Updated 2021-08-12 20.56.28
 
 
 * [What is a trade offer?](#whatisoffer)

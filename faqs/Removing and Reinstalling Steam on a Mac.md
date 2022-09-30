@@ -1,4 +1,5 @@
 # Removing and Reinstalling Steam on a Mac
+Updated 2021-08-12 19.30.55
 
 
 * Can I play my games without Steam?

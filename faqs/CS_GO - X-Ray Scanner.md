@@ -1,4 +1,5 @@
 # CS:GO - X-Ray Scanner
+Updated 2021-07-10 19.49.55
 
 
 * [I scanned a container and it is no longer in my Inventory. Where did it go?](#wherecontainer)

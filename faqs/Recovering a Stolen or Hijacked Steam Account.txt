@@ -1,4 +1,5 @@
 Recovering a Stolen or Hijacked Steam Account
+Updated 2021-08-09 18.29.26
 
 [section style=important]  [h3]Try to self-recover your account or contact Steam Support:[/h3]You can use [url=https://help.steampowered.com/wizard/HelpWithLogin]the Help site to try to self-recover your account[/url] or contact Steam Support if you are unable to.
 

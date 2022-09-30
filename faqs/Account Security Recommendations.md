@@ -1,4 +1,5 @@
 # Account Security Recommendations
+Updated 2021-08-28 00.48.12
 
 
 * [Enable Steam Guard two-factor authentication](#steamguard)

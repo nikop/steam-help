@@ -1,4 +1,5 @@
 Self Locking Tool
+Updated 2021-07-10 19.49.55
 
 [list][*][url=#what]What is the self locking tool?[/url][/*][*][url=#how]How do I lock my account if it is stolen?[/url][/*][*][url=#demand]Can I lock my account on demand without an email notification?[/url][/*][*][url=#contact]What do I do after I lock my account?[/url][/*][*][url=#unlock]How do I unlock my account?[/url][/*][*][url=#restrictions]But how does it protect my account? What does it restrict exactly?[/url][/*][/list]
 

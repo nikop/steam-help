@@ -1,4 +1,5 @@
 Steam Trading
+Updated 2021-08-24 22.41.51
 
 [list]      [h4]Trading Basics[/h4][*][url=#howtotrade]How do I trade?[/url][/*]      [*][url=#whattrade]What can I trade?[/url][/*]      [*][url=#viewinventory]How do I see my inventory on the Steam Community?[/url][/*]      [*][url=#seeitems]Who can see my items?[/url][/*]      
 [h4]Trading Gifts (games)[/h4][*][url=#tradegifts]What do you mean by trading Steam Gifts? Can I trade Steam Games?[/url][/*]      [*][url=#usedgames]Does Steam Trading mean I can sell my used games?[/url][/*]      [*][url=#addtitle]How do I add a game to my library after receiving it in a trade?[/url][/*]      [*][url=#fraud]What if a game I received in a trade is fraudulently purchased?[/url][/*]      

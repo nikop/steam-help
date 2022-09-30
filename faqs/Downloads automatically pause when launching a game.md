@@ -1,4 +1,5 @@
 # Downloads automatically pause when launching a game
+Updated 2021-07-10 19.49.55
 
 Why do downloads in Steam stop when I begin playing a game?  
   

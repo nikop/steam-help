@@ -1,4 +1,5 @@
 # Dota 2 Workshop - Team, Player, or Caster Branded Items
+Updated 2021-08-26 21.40.11
 
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)  

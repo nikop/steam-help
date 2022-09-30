@@ -1,4 +1,5 @@
 # Troubleshooting Game Performance Issues - Hardware
+Updated 2022-03-02 17.20.55
 
 What can I do to make sure that my hardware is running optimally?  
   

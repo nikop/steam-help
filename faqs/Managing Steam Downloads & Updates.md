@@ -1,4 +1,5 @@
 # Managing Steam Downloads & Updates
+Updated 2021-07-10 19.49.55
 
 Steam will automatically download updates for your games based on the Steam client's download settings. Downloads can also be manually controlled from the Download Manager within your Steam client.  
 

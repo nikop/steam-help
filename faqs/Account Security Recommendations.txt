@@ -1,4 +1,5 @@
 Account Security Recommendations
+Updated 2021-08-28 00.48.12
 
 [list]  	[*][url=#steamguard]Enable Steam Guard two-factor authentication[/url][/*]  	[*][url=#verify]Verify your contact email address with Steam[/url][/*]  	[*][url=#friends]Steam Friends[/url][/*]  	[*][url=#beware]Things to watch out for[/url][/*]  	[*][url=#general]General security recommendations[/url][/*]  [/list]
 

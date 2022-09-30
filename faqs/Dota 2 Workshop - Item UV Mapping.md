@@ -1,4 +1,5 @@
 # Dota 2 Workshop - Item UV Mapping
+Updated 2021-07-10 19.49.55
 
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/uvs/luna_mount_uvs2.JPG](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/uvs/luna_mount_uvs2.JPG)  
   

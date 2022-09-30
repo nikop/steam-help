@@ -1,4 +1,5 @@
 Valve Hardware Shipping FAQ
+Updated 2022-07-27 17.28.34
 
 [h4]Issue with payment or delivery?[/h4]If you have a payment or delivery issue please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url].
 

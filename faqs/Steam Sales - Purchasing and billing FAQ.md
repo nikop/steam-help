@@ -1,4 +1,5 @@
 # Steam Sales - Purchasing and billing FAQ
+Updated 2021-08-12 22.19.41
 
 # Common Questions
 

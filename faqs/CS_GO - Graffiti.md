@@ -1,4 +1,5 @@
 # CS:GO - Graffiti
+Updated 2021-08-06 20.55.25
 
 
 * [How do I get in-game graffiti?](#howgraffiti)

@@ -1,4 +1,5 @@
 Steam Guides
+Updated 2021-08-03 22.44.08
 
 [list]      [*][url=#what]What games/software can I create guides for?[/url][/*]      [*][url=#where]Where do I find guides that I created?[/url][/*]      [*][url=#content]Are there guidelines for what can and can't be included in guides?[/url][/*]  [/list]
 

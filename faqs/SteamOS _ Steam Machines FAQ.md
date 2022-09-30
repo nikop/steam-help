@@ -1,4 +1,5 @@
 # SteamOS / Steam Machines FAQ
+Updated 2022-07-06 20.36.41
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
   

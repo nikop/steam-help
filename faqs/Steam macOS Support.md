@@ -1,4 +1,5 @@
 # Steam macOS Support
+Updated 2021-08-06 22.03.24
 
 On January 1 2019, Steam officially stopped supporting macOS versions 10.7 ("Lion"), 10.8 ("Mountain Lion"), 10.9 ("Mavericks") and 10.10 ("Yosemite"). This means that Steam Client no longer runs on those versions of macOS. In order to continue running Steam and any games or other products purchased through Steam, users need to update to a more recent version of macOS.  
   

@@ -1,4 +1,5 @@
 VALVE Index System Requirements
+Updated 2021-07-26 20.57.48
 
       	            	[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	        	[h4]Minimum[/h4][list]  			[*]OS: Windows 10, SteamOS, Linux[/*]  			[*]Processor: Dual Core with Hyper-Threading[/*]	  			[*]Memory: 8 GB RAM[/*]	  			[*]Graphics: Nvidia GeForce GTX 970 / AMD RX 480[/*]	  			[*]Network: Broadband Internet connection[/*]	  			[*]Additional Notes: Available DisplayPort (Version1.2) and USB (2.0+) Port required  [/*]	  		[/list]    	[h4]Recommended[/h4][list]  			[*]Processor: Quad Core+[/*]  			[*]Graphics: Nvidia GeForce GTX 1070 or better[/*]	  			[*]Additional Notes: Available USB (3.0+) Port required for Headset Pass-Through Camera[/*]	  		[/list]	    	[h4]Tracking[/h4]The Index Headset requires a minimum of 1 (2 recommended) Base Stations for tracking. Index is compatible with both the original Vive Base Stations and the 2.0 versions available on the [url=https://store.steampowered.com/app/1059570/Valve_Index_Base_Station/]Steam Store[/url].
 

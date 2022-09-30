@@ -1,4 +1,5 @@
 # Refresh Rate and VSYNC
+Updated 2021-10-27 21.50.34
 
 What are **refresh rate** and **VSYNC** and how do they affect gameplay?  
   

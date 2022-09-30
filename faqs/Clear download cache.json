@@ -3,5 +3,6 @@
   "language": 0,
   "version": 4,
   "content": "Clearing your download cache can solve problems with games that won\u0027t download or start.\n\n[section style=note]  [h3]Note:[/h3]This process will not affect your currently installed games, but you will need to log into Steam afterwards.[/section]\n[olist]\n[*]From your Steam Client, open the Settings panel by selecting \u0022Steam \u003E Settings\u0022 from the top left client menu.\n\n[*]In the Settings panel, select the Downloads tab and you\u0027ll find the \u0022Clear Download Cache\u0022 button at the bottom.\n\n[exclude_realm=china][img]http://steamcdn-a.akamaihd.net/steam/support/faq/clear_download_cache.jpg[/img][/exclude_realm]\n\n[exclude_realm=global][img]http://steamcdn-a.akamaihd.net/steam/support/faq/chts/clear_download_cache.jpg[/img][/exclude_realm]\n[*]Then select \u0022OK\u0022 to confirm and acknowledge that you\u0027ll need to login to Steam again.\n\n[exclude_realm=china][img]http://steamcdn-a.akamaihd.net/steam/support/faq/confirm_clear_cache.jpg[/img][/exclude_realm]\n\n[exclude_realm=global][img]http://steamcdn-a.akamaihd.net/steam/support/faq/chts/confirm_clear_cache.jpg[/img][/exclude_realm]\n[/olist]\nIf you\u0027re still having trouble with your downloads and any games that won\u0027t start, please contact [url=https://help.steampowered.com/]Steam Support[/url].\n\n",
-  "title": "Clear download cache"
+  "title": "Clear download cache",
+  "timestamp": "2021-07-10T19:49:55+00:00"
 }

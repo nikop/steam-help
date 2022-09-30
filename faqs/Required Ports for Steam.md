@@ -1,4 +1,5 @@
 # Required Ports for Steam
+Updated 2022-04-18 18.45.33
 
 The following are ports you need to have open on your router or firewall for Steam to operate normally.  
   

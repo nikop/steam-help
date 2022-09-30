@@ -1,4 +1,5 @@
 HLTV
+Updated 2021-12-16 21.32.41
 
 [list]     [*][url=#overview]Overview[/url][/*]     [*][url=#spectate]Spectating Games[/url][/*]     [*][url=#basics]HLTV Basics[/url][/*]     [*][url=#broadcast]Broadcasting Games[/url][/*]     [*][url=#record]Recording HLTV demos[/url][/*]     [*][url=#large]Larger Broadcasts[/url][/*]     [*][url=#config]HLTV Configuration[/url][/*] [/list]
 [section style=important][h5]Steam Broadcasting for all Steam games[/h5]For information on Steam's built in game broadcasting/spectating feature for all games on Steam, see the [url=https://help.steampowered.com/en/faqs/view/548F-BC55-89EB-1BC8]Steam Broadcasting[/url] page.[/section][url id=overview][/url][h4]Overview[/h4]Half-Life TV offers the ability to have an unlimited number of spectators watching online games. They can follow the game just like they would as a spectator on the game server. Spectators are invisible to players and can't interact with the running game in any way. Each spectator can choose any view position or choose any player to track individually.

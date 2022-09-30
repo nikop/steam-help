@@ -1,4 +1,5 @@
 # How To Request A Refund
+Updated 2021-08-17 18.16.52
 
 Valve will, upon request via [help.steampowered.com](https://help.steampowered.com), issue a refund for any title that is requested within 14 days of purchase and has been played for less than 2 hours. Even if you fall outside of the refund rules we've described, you can submit a request and we'll take a look at it.  
   

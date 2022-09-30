@@ -1,4 +1,5 @@
 # Dota 2 Workshop - Account Preparation for Workshop Item Submission
+Updated 2021-12-03 19.10.32
 
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)  
   

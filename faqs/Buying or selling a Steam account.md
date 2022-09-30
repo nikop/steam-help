@@ -1,4 +1,5 @@
 # Buying or selling a Steam account
+Updated 2021-08-05 19.56.13
 
 ## Can I buy or sell my Steam account?
 Steam accounts cannot be bought or sold. An account is for the personal use of its creator only.   

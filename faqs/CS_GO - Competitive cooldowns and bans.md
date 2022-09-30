@@ -1,4 +1,5 @@
 # CS:GO - Competitive cooldowns and bans
+Updated 2021-09-30 22.13.21
 
 [section style=warning]Counter-Strike: Global Offensive cooldowns and bans are non-negotiable and cannot be removed or reduced by Steam Support.  
   

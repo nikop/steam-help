@@ -1,4 +1,5 @@
 # CS:GO 360 Stats
+Updated 2022-03-18 17.46.15
 
 
 * [How much does the CS:GO 360 Stats subscription cost?](#subcost)

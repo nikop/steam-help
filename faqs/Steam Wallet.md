@@ -1,4 +1,5 @@
 # Steam Wallet
+Updated 2021-10-27 22.09.06
 
 [exclude_realm=china][section style=note] ### Note:
 We have made some changes to how Steam Wallet Codes are redeemed on Steam, as part of our ongoing effort to reduce scams like the ones explained [HERE](https://www.consumer.ftc.gov/articles/paying-scammers-gift-cards). These changes should not impact regular customers who enjoy using Steam wallet codes they purchase at retail in their local currency.  

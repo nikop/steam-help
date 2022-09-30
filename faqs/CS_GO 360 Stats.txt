@@ -1,4 +1,5 @@
 CS:GO 360 Stats
+Updated 2022-03-18 17.46.15
 
 [list]  	[*][url=#subcost]How much does the CS:GO 360 Stats subscription cost?[/url][/*]          [*][url=#sublength]How long does the CS:GO 360 Stats subscription last?[/url][/*]  	[*][url=#subinclude]What does CS:GO 360 Stats include?[/url][/*]  	[*][url=#submanage]How do I manage my CS:GO 360 Stats subscription?[/url][/*]  	[*][url=#subwallet]How do I pay for CS:GO 360 Stats using Steam Wallet funds?[/url][/*]  	[*][url=#whichmatches]Which matches are shown on my Stats page?[/url][/*]  	[*][url=#subtime]How do I check the time remaining on my subscription?[/url][/*]  	[*][url=#submatchdata]I'm not seeing Competitive matches on my Stats page. Why is this?[/url][/*]          [*][url=#subban]I am a subscriber but received a cooldown/ban. Can I refund the remaining time?[/url][/*]  [/list]
 [section id=subcost]  [h2]How much does the CS:GO 360 Stats subscription cost?[/h2]The cost of the CS:GO 360 Stats subscription can be found in-game, converted to your local currency. At launch the cost in USD is $0.99 per month.[/section]    

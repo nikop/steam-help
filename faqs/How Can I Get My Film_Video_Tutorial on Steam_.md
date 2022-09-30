@@ -1,4 +1,5 @@
 # How Can I Get My Film/Video/Tutorial on Steam?
+Updated 2021-07-10 19.49.55
 
 As of January 8th 2019, the requirements for distributing video content on Steam have changed.  
   

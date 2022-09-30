@@ -1,4 +1,5 @@
 # Steam Community Groups
+Updated 2021-10-27 20.54.19
 
 Community groups are user-created hubs where members can share interests, coordinate gaming activities and host discussions in group-specific forums.  
   

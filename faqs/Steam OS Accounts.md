@@ -1,4 +1,5 @@
 # Steam OS Accounts
+Updated 2021-07-10 19.49.55
 
 # **SteamOS accounts**  
 SteamOS comes with two predefined accounts. The first is "steam" and it is the account where Steam and all its games run. This is a non-privileged account. The second account is "desktop" and this is where the SteamOS desktop and any non-Steam applications run. This account can use 'sudo' to gain administrative privileges after you set a password for it.  

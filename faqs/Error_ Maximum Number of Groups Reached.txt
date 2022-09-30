@@ -1,4 +1,5 @@
 Error: Maximum Number of Groups Reached
+Updated 2021-08-02 18.37.34
 
 [list]      [*][url=#why]Why am I getting a max group limit error when trying to join a group?[/url][/*]      [*][url=#how]How can I join more groups?[/url][/*]      [*][url=#level]Is this limit dependent on my Steam Level?[/url][/*]  [/list]
 

@@ -1,4 +1,5 @@
 # Retail CD Keys
+Updated 2021-08-02 18.14.59
 
 Many products are sold by retailers other than Steam. If these products are meant for Steam registration, they will include a Steam CD key/product code.  
   

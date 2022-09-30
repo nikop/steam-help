@@ -1,4 +1,5 @@
 # EU/UK Right of Withdrawal and Steam Refunds
+Updated 2022-02-03 14.06.57
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
   

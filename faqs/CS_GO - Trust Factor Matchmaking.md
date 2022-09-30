@@ -1,4 +1,5 @@
 # CS:GO - Trust Factor Matchmaking
+Updated 2021-10-27 21.42.40
 
 
 * [What factors are considered in Trust Factor matchmaking?](#tfmm)

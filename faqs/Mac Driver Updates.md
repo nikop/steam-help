@@ -1,4 +1,5 @@
 # Mac Driver Updates
+Updated 2021-08-19 18.18.31
 
 macOS handles all system and driver updates for your Mac.  
   

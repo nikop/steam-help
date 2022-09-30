@@ -1,4 +1,5 @@
 # Steam Controller Setup
+Updated 2021-08-12 18.56.56
 
 ![https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png](https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png)  # Steam Controller Setup
 Just got your Steam Controller? Check out our Controller setup tips below and get right to playing all your Steam Games.  

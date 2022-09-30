@@ -1,4 +1,5 @@
 # How to Report a Scammer, Hijacker or Phisher
+Updated 2021-08-10 18.24.10
 
 Reporting a scammer, hijacker or phisher through their Steam Profile will always be better than submitting a Steam Support ticket containing your report. A community report includes the best information about the interaction between your accounts, and is quicker to review and act on.  
   

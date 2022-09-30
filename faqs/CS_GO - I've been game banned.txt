@@ -1,4 +1,5 @@
 CS:GO - I've been game banned
+Updated 2022-05-14 20.29.09
 
 [section style=warning]CS:GO game bans are permanent, non-negotiable, and cannot be removed by Steam Support.[/section][list]  	
 [*][url=#whyban]Why are game bans issued?[/url][/*]  	[*][url=#reason]Can you tell me why I was game banned?[/url][/*]  	[*][url=#appeal]Can I appeal my game ban?[/url][/*]  	[*][url=#compromised]I was not using my account when it was game banned. Can the ban be removed?[/url][/*]  	[*][url=#items]Can I move my CS:GO items to a different account?[/url][/*]  	[exclude_realm=china][*][url=#contenthubs]Can I upload content to the CS:GO Workshop and Community with a CS:GO game ban?[/url][/*][/exclude_realm]  	[exclude_realm=china][*][url=#voting]Can I vote on CS:GO Steam Workshop content with a CS:GO game ban?[/url][/*][/exclude_realm]  [/list]

@@ -1,4 +1,5 @@
 # Dota 2 Workshop - Item Shader Masks
+Updated 2021-10-28 01.43.57
 
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_base_items.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_base_items.jpg?v=1459382400)  
   

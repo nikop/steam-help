@@ -1,4 +1,5 @@
 # Steam is no longer supported on this computer's operating system
+Updated 2021-07-10 19.49.55
 
 When launching Steam, I receive this error. What does this mean?  
   

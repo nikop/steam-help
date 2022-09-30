@@ -1,4 +1,5 @@
 # Dota 2 Workshop - NPC Animations
+Updated 2022-07-06 20.40.12
 
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/smeevil_crop.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/smeevil_crop.jpg?v=1459382400)  

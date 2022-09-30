@@ -1,4 +1,5 @@
 Steam Guard Mobile Authenticator
+Updated 2021-10-20 21.51.37
 
 [section style=important]If you're having trouble logging in with the Steam Guard Mobile Authenticator, please use our help site ([url=https://help.steampowered.com]help.steampowered.com[/url]) to recover your account.[/section]
 

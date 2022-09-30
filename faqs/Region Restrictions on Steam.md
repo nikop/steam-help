@@ -1,4 +1,5 @@
 # Region Restrictions on Steam
+Updated 2021-07-10 19.49.55
 
 [section style=important] ## Steam Support is unable to modify or remove any region restrictions.
 [/section]  

@@ -1,4 +1,5 @@
 # CS:GO - Communication Penalties
+Updated 2021-07-10 19.49.55
 
 
 * [I received an abusive communication warning. What does this mean?](#whywarning)

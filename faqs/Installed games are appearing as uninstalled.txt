@@ -1,4 +1,5 @@
 Installed games are appearing as uninstalled
+Updated 2021-08-17 18.10.25
 
 Games that were previously installed and playable are appearing as not installed in my Steam library. What can be done to cause Steam to recognize the installed game files again?
 

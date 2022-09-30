@@ -1,4 +1,5 @@
 # Setting Client Rates
+Updated 2021-10-26 20.18.55
 
 What are the best client rates for my internet connection?  
   

@@ -1,4 +1,5 @@
 # Half-Life: Alyx - Performance Tips
+Updated 2021-08-10 16.48.06
 
  ![https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png](https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png) # Performance Tips
 #### Intro

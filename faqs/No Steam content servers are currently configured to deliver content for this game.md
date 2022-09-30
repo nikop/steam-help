@@ -1,4 +1,5 @@
 # No Steam content servers are currently configured to deliver content for this game
+Updated 2021-07-10 19.49.55
 
 When installing a game, Steam displays the error message:  
 

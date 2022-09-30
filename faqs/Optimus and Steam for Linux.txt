@@ -1,4 +1,5 @@
 Optimus and Steam for Linux
+Updated 2021-08-10 21.16.23
 
 [h2]How can I force a Steam for Linux game to use my NVidia card instead of the integrated video card?[/h2]
 

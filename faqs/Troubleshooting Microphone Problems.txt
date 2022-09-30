@@ -1,4 +1,5 @@
 Troubleshooting Microphone Problems
+Updated 2021-10-27 21.56.19
 
 [h1]Check the Connection[/h1]
 Sometimes microphone issues are just a small oversight, which can easily happen to anyone. Ensure your mic is plugged into the correct port on your sound card. Most analog mic connections are pink and belong in the corresponding pink connector on your sound device. Some devices aren't color coded, and that's when it is time to consult the manual for your sound device.

@@ -1,4 +1,5 @@
 # Contested Steam account ownership
+Updated 2021-07-21 21.25.02
 
 ## Contested Steam accounts
 Steam Support has informed me that ownership of my Steam account is contested. What does that mean and what can I do?  

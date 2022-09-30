@@ -1,4 +1,5 @@
 # OpenGL not using direct rendering
+Updated 2021-07-10 19.49.55
 
 What do I do if OpenGL is not using direct rendering?  
   

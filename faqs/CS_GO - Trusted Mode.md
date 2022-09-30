@@ -1,4 +1,5 @@
 # CS:GO - Trusted Mode
+Updated 2021-07-10 19.49.55
 
 
 * [What is Trusted mode?](#trust)

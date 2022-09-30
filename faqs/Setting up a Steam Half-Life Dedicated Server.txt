@@ -1,4 +1,5 @@
 Setting up a Steam Half-Life Dedicated Server
+Updated 2021-12-16 21.50.15
 
 How do I setup a Half-Life Dedicated Server?
 [list]      [*][url=#account]Setting up a Steam Half-Life Dedicated Server Account[/url][/*]      [*][url=#start]Starting the Steam Half-Life Dedicated Server[/url][/*]      [*][url=#options]Steam Half-Life Dedicated Server Main Options[/url][/*]      [*][url=#config]Steam Half-Life Dedicated Server Configuration [/url][/*]      [*][url=#stats]Viewing Steam Half-Life Dedicated Server Statistics[/url][/*]      [*][url=#kick]Kicking or Banning Players from the Server[/url][/*]      [*][url=#manageban]Managing Steam Half-Life Dedicated Server Bans[/url][/*]      [*][url=#console]Steam Half-life Dedicated Server Console[/url][/*]  [/list]

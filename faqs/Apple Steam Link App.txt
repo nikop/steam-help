@@ -1,4 +1,5 @@
 Apple Steam Link App
+Updated 2021-08-12 21.15.15
 
 The Steam Link app for iOS extends Steam Link functionality to many iOS phones, tablets, and Apple TVs. Head to [url=https://www.apple.com/app-store/]App Store[/url] to download the free app. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.
 

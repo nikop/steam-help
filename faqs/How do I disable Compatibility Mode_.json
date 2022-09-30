@@ -3,5 +3,6 @@
   "language": 0,
   "version": 6,
   "content": "Running Steam in Windows compatibility mode is not recommended. Please follow the instructions below to remove any Windows compatibility settings so that Steam may properly function.\n\n[section style=note]The following instructions are to be applied to both the Steam.exe as well as the steamwebhelper.exe.[/section]\n[olist]  \t[*]Browse to your Steam installation (Usually C:\\Program Files (x86)\\Steam\\)[/*]  \t[*]Right click on Steam.exe (or bin\\steamwebhelper.exe), choose [i]Properties[/i][/*]  \t[*]Click on the [i]Compatibility[/i] tab[/*]  \t[*]Uncheck any boxes that are checked, and click Apply[/*]  \t[*]Then, click the \u0022Change settings for all users\u0022 button[/*]  \t[*]Again, make sure none of these boxes are checked, and click [i]Ok[/i][/*]  \t[*]Click [i]Ok[/i] to close any open dialog boxes.[/*]  \t[*]Double click on Steam.exe to launch Steam.[/*]  \t[*]Re-test the issue.[/*]  [/olist]\n\n[section style=important]  [list]  \t[*]The default location for the Steam.exe file is C:\\Program Files (x86)\\Steam\\[/*]  \t[*]The default location for the steamwebhelper.exe file is C:\\Program Files (x86)\\Steam\\bin\\.[/*]  [/list]  [/section]",
-  "title": "How do I disable Compatibility Mode?"
+  "title": "How do I disable Compatibility Mode?",
+  "timestamp": "2021-08-10T17:06:27+00:00"
 }

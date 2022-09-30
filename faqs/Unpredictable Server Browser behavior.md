@@ -1,4 +1,5 @@
 # Unpredictable Server Browser behavior
+Updated 2021-08-10 17.04.58
 
 #### Steam Rates
 It is very important that you make sure your Steam rate is set properly. If, when opening the browser or pressing the refresh button, servers appear very slowly, then your rate may be set incorrectly. Please see the [Setting Client Rates](https://help.steampowered.com/en/faqs/view/163C-7C89-406E-2F63) article for instructions on setting the proper rates.  

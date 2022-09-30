@@ -1,4 +1,5 @@
 Restricted Steam Account
+Updated 2021-07-20 23.37.56
 
 [list] [*][url=#whyrestrict]Why would a Steam account be restricted?[/url][/*] [*][url=#restrictiontypes]What types of restrictions can be applied to a Steam account?[/url][/*][/list]    
 [section style=warning]Valve employees will [i]never[/i] communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [url=help.steampowered.com]Steam Support Help Site[/url]. There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.

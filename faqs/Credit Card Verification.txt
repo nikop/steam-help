@@ -1,4 +1,5 @@
 Credit Card Verification
+Updated 2021-07-10 19.49.55
 
 [list]  	[*][url=#whatisit]What is credit card verification?[/url][/*]  	[*][url=#howtoverify]How do I verify my new credit card?[/url][/*]  	[*][url=#failattempts]What happens if I use all 3 attempts to verify my credit card?[/url][/*]  	[*][url=#drop]When will the authorizations be removed from my credit card statement?[/url][/*]  	[*][url=#conversion]In what currency do the charges need to be entered in and how do I get the original amounts?[/url][/*]  	[*][url=#virtual]Are virtual online credit cards supported?[/url][/*]  [/list]
 

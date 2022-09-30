@@ -1,4 +1,5 @@
 # CS:GO - Prime Status and Free to Play
+Updated 2021-08-11 00.14.06
 
 
 * [What is included with the free version of CS:GO?](#freecsgo)

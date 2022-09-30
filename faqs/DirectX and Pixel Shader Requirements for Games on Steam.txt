@@ -1,4 +1,5 @@
 DirectX and Pixel Shader Requirements for Games on Steam
+Updated 2021-08-13 00.43.07
 
 Pixel Shading is a method used for rendering advanced graphical features such as bump mapping and shadows. Most modern PC games utilize pixel shaders in conjunction with advanced GPUs (Graphics Processing Units) found on most NVIDIA, AMD and certain Intel video cards. Pixel Shaders also directly correspond with Microsoft's DirectX platform.
 

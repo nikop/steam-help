@@ -1,4 +1,5 @@
 # Using Launch Settings for Video and Display Problems
+Updated 2021-08-03 23.30.47
 
 I'm having video and display problems in a Valve/Source game, how do I change my video and display settings during launch?  
   

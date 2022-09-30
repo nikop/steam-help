@@ -1,4 +1,5 @@
 # Intel Video Cards with Source games
+Updated 2021-08-05 18.15.46
 
 Whenever I try to play any recent Source games from Valve, I experience a crash or a hard freeze. I am using an Intel based video card. What can I do?  
   

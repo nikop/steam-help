@@ -1,4 +1,5 @@
 # How do I disable Compatibility Mode?
+Updated 2021-08-10 17.06.27
 
 Running Steam in Windows compatibility mode is not recommended. Please follow the instructions below to remove any Windows compatibility settings so that Steam may properly function.  
   

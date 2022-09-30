@@ -1,4 +1,5 @@
 # Steam Friends & Chat
+Updated 2022-07-06 20.36.00
 
 You can access your Friends & Chat interface in the lower right corner of your Steam Client or through your favorite [web browser](https://steamcommunity.com/chat/).  
   

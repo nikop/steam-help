@@ -1,4 +1,5 @@
 # Linking a YouTube account
+Updated 2021-08-05 16.13.41
 
 To link your YouTube account to your Steam account, do the following:  
 
