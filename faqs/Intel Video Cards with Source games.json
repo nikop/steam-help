@@ -1,0 +1,7 @@
+{
+  "faq_id": 7582432249025910773,
+  "language": 0,
+  "version": 5,
+  "content": "Whenever I try to play any recent Source games from Valve, I experience a crash or a hard freeze. I am using an Intel based video card. What can I do?\n\n[h4]Intel Compatibility Issue[/h4]If you are playing any Source games on a laptop or a system with an integrated Intel video card such as the 945 GM, chances are your video card has a compatibility issue with these games\n\nYou may be able to run these games by using the following launch option:\n[code]\u002Bmat_bumpmap 0 \u002Bmat_picmip 2[/code]\n\nIf you\u0027re not sure how to set game launch options, please see [url=https://help.steampowered.com/en/faqs/view/7D01-D2DD-D75E-2955]this guide[/url].\n\nIf that doesn\u0027t seem to help, you can try using the following console command:\n[code]mat_max_worldmesh_vertices 1024[/code]\n\nIf you\u0027re not sure how to use console commands, please see [url=https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD]this guide[/url].\n\nIf that command allows the game to run without crashing, then please add it to your game config files. Your config file is located in the steamapps folder, under the folder for the game you would like to play. For example:\n[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Fortress 2\\tf\\cfg[/code]\n\nPlease contact [url=https://www.intel.com/content/www/us/en/support.html]Intel Support[/url] for more information.\n\n",
+  "title": "Intel Video Cards with Source games"
+}

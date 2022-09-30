@@ -1,0 +1,7 @@
+{
+  "faq_id": 6753649458989463392,
+  "language": 0,
+  "version": 5,
+  "content": "On January 1 2019, Steam officially stopped supporting macOS versions 10.7 (\u0022Lion\u0022), 10.8 (\u0022Mountain Lion\u0022), 10.9 (\u0022Mavericks\u0022) and 10.10 (\u0022Yosemite\u0022). This means that Steam Client no longer runs on those versions of macOS. In order to continue running Steam and any games or other products purchased through Steam, users need to update to a more recent version of macOS.\n\nThe newest features in Steam rely on an embedded version of Google Chrome, which no longer functions on older versions of macOS. In addition, future versions of Steam will require macOS feature and security updates only present in macOS 10.11 (\u0022El Capitan\u0022) and above.\n\nUsers of macOS versions 10.7 (\u0022Lion\u0022) through 10.10 (\u0022Yosemite\u0022) can find more information on upgrading macOS [url=https://www.apple.com/macos/how-to-upgrade/]here[/url].\n\n",
+  "title": "Steam macOS Support"
+}

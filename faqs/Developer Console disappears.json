@@ -1,0 +1,7 @@
+{
+  "faq_id": 6316022508503228994,
+  "language": 0,
+  "version": 6,
+  "content": "Every time I bring down the developer console and start typing, the console disappears. How can I fix this?\n\nIn many cases this problem is caused by the language setting of your operating system (OS). Users with non-English keyboard layouts are affected by this for the most part.\n\nFor general information on the developer console see the page [url=https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD]developer console[/url].\n\n[h4]Fix 1:[/h4]Set your keyboard to \u0027English\u0027. For detailed instructions, you will need to research your OS manufacturer\u0027s instructions specific to your OS version. These can often be found on by searching their support website.\n\n[h4]Fix 2:[/h4]Whenever you pop-up the console, simply press the A, E, I, O or U and hit (backspace). After that, you can enter your command.\n\n[h4]Fix 3:[/h4]Bind another key to the \u0022toggleconsole\u0022 command. Not all keys will bind to console; avoid any normal typing characters or numbers.\n\nFunction Keys work well for this (F1 - F12).\n\nYou may need to edit your config.cfg or userconfig.cfg files to add the bind (use notepad).\n\n[h5]For example:[/h5][code]bind \u0022F12\u0022 \u0022toggleconsole\u0022[/code]\n\nThe usual default is:\n[code]bind \u0022~\u0022 \u0022toggleconsole\u0022[/code]\n\n",
+  "title": "Developer Console disappears"
+}

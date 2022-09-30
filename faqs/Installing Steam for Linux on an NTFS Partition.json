@@ -1,0 +1,7 @@
+{
+  "faq_id": 4422431794336645612,
+  "language": 0,
+  "version": 3,
+  "content": "Commonly, drives are mounted automatically using [b]/etc/fstab[/b]. In order to install Steam for Linux onto an NTFS partition, it must be explicitly mounted using the [b]ntfs-3g[/b] driver. The following information lists the steps for properly modifying your [b]/etc/fstab[/b] file:\n\nFrom a command-line, determine the UUID of the drive containing the NTFS partition:\n\n[code]sudo blkid[/code]\n\nAdd a line to your [b]/etc/fstab[/b] file that mounts that drive with [b]ntfs-3g:[/b]\n\n[code]UUID=[i]yourUUID  [/i]/data  ntfs-3g  defaults,locale=en_US.utf8  0 0[/code]\n\nSave your changes and reboot your machine.\n\nFor more information on mounting NTFS partitions using [b]/etc/fstab[/b], see this [url=https://help.ubuntu.com/community/MountingWindowsPartitions#NTFS]article[/url].\n\n",
+  "title": "Installing Steam for Linux on an NTFS Partition"
+}

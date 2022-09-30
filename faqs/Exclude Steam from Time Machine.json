@@ -1,0 +1,7 @@
+{
+  "faq_id": 6320035625357143222,
+  "language": 0,
+  "version": 3,
+  "content": "[h2]I\u0027m using Time Machine and each time a game gets updated it backs up the entire game again. How can I stop this?[/h2]\n\nWhen setting up Time Machine on your computer make sure that you exclude the /Users/[username]/Library/Application Support/Steam/SteamApps/:\n\n[list]\n[*]From the macOS Apple menu, select System Preferences, then Time Machine\n[*]Click Options, then click the \u0022\u002B\u0022 to add items to the exclusion list\n[*]Add your [b]/Users/[username]/Library/Application Support/Steam/SteamApps/[/b] folder to the exclusion list[/list]\nTime Machine will no longer backup your SteamApps folder each time a game is updated. This will avoid large amounts of data being backed up with only minor updates.\n\n",
+  "title": "Exclude Steam from Time Machine"
+}

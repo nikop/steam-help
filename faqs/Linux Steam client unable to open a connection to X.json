@@ -1,0 +1,7 @@
+{
+  "faq_id": 2383043331485284870,
+  "language": 0,
+  "version": 2,
+  "content": "How do I fix problems with the Steam client connecting to X?\n\nWhen the Steam client is unable to open a connection to the X Window System it will not be able to run at all.  Here are some possible causes of this problem:\n\n[olist]      [*]Your DISPLAY environment variable is set incorrectly, for example it is set to an empty string.  You can check the setting by running \u0027echo $DISPLAY\u0027 in a terminal window.  Unless you have specifically changed it, it should normally be \u0027:0\u0027.  If it isn\u0027t and you haven\u0027t changed it you can try and run Steam with the default by running \u0027DISPLAY=:0 steam\u0027 in a terminal window.  You can also try running simple X programs like xclock to see if they work.[/*]      [*]You are running through a remote connection, such as ssh, but you have not enabled X remoting.  In the case of ssh you need to use ssh -X to enable X forwarding so that X programs can run over the remote connection.[/*]  [/olist]",
+  "title": "Linux Steam client unable to open a connection to X"
+}
