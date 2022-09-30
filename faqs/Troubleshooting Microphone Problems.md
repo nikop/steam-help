@@ -1,0 +1,66 @@
+# Troubleshooting Microphone Problems
+
+# Check the Connection
+  
+Sometimes microphone issues are just a small oversight, which can easily happen to anyone. Ensure your mic is plugged into the correct port on your sound card. Most analog mic connections are pink and belong in the corresponding pink connector on your sound device. Some devices aren't color coded, and that's when it is time to consult the manual for your sound device.  
+  
+  
+# USB Mics
+  
+Try swapping ports. If you're using a USB port on the front of your case, switch it to one of the ones in the back. If you're using a USB hub, try bypassing the hub and see if that makes any difference.  
+  
+  
+# Check your drivers
+  
+This applies to both your mic (for USB) and your sound device. Check the manufacturer of your sound device and visit their website for driver updates. If you're not sure where to find this information, check your motherboard's manual (for on-board sound) and/or consult the manufacturer of your PC.  
+  
+  
+# Checking the Mic settings in the game
+  
+Once you're sure your microphone is correctly connected and properly configured in your operating system; the next thing to look at is the mic settings in-game.  To open these settings, open your Friends & Chat in the bottom right of the Steam client and selecting the gear icon in the upper right.   
+  
+![{STEAM_CLAN_IMAGE}/1976/22cd036496e947a45c5ea39c1154d9e377459a75.png]({STEAM_CLAN_IMAGE}/1976/22cd036496e947a45c5ea39c1154d9e377459a75.png)  
+  
+Select **"Voice"** - from here you can use the button "Start Microphone Test" to test your mic settings (expect echoes if you don't have earphones!)   
+  
+![{STEAM_CLAN_IMAGE}/1976/d62f1004ee814d5b8797cf7e91232d4cf43bc796.png]({STEAM_CLAN_IMAGE}/1976/d62f1004ee814d5b8797cf7e91232d4cf43bc796.png)  
+  
+If it works, go ahead and test it in-game.  Make sure you have the correct "Voice Transmission Type" selected. If using "Push to Talk" make sure your voice key is correctly bound to the right of "Push-to-talk hotkey assigned as".  
+  
+If it isn't working in-game, then the issue is probably that the mic input is being switched when you launch the game.  
+  
+One last thing to keep in mind is that the Server can control if your mic is allowed to work at all, as well as what codec and sound quality is used. If you have everything configured properly and your mic still doesn't seem to work in-game, always try several different servers to make sure it isn't just a Server issue.  
+  
+Note: Your microphone will not work while you are in Spectator mode.  
+  
+  
+# Bad Voice Quality
+  
+Bad voice quality can stem from a few different causes. Below are some examples of situations where the quality is affecting the voice chat in-game:  
+
+* ### Feedback/Echoing
+  
+Normally feedback will occur if you have your speakers cranked while using the mic. It is recommended that you use a headset with earphones so that your communication is clear to other players. Certain low-grade microphones are omni-directional, meaning they will pick up sounds from all directions - including your stereo/surround speakers. Turn your audio devices down and see if your voice quality improves.
+* ### Low Volume
+  
+Certain microphones need a boost. This can be configured by checking the operating system's mic settings.
+* ### Crackling/Distortion
+  
+Many times bad voice quality is due to a faulty cable or a bad connection. Check the connection of your mic to your PC. If the connection is loose, it may be the reason why your voice quality is not clear. If you experience the same issue in other applications, you may want to consider getting a different mic to test with. Inexpensive, low-grade mics have often times been shunned on quality to keep the price low.  
+  
+Also, make sure the mic is not too close to your mouth. If it is touching your face or lips as you use it, put it away so that it is about 1 inch away from your mouth. If there's no windscreen on the mic itself, try moving it even further away.
+
+  
+  
+  
+# Effective Troubleshooting
+  
+To effectively troubleshoot any technical issue, it's good to have a plan to consistently narrow down the potential cause with each step taken. A system that should be applicable to many cases follows, but make sure that you tailor it to your specific problem and setup:  
+
+* Take steps to determine if the problem is hardware or software.
+* Determine if the problem is universal, or unique to a specific situation.
+* Check to make sure that all settings are inherited correctly. Is your operating system using the correct device? If applicable (if the game uses Steam Voice systems) is Steam using the correct device? Do the game's settings reflect the correct device?
+
+  
+As a basic starting place, answering these questions should help direct your troubleshooting efforts.  
+  

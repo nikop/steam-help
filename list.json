@@ -247,7 +247,59 @@
     "153F-1B04-6CAB-43A1",
     "369C-3E9F-76FD-DEDA",
     "339C-BC5C-3D89-53D9",
-    "17DA-EC4C-7D5B-8266"
+    "17DA-EC4C-7D5B-8266",
+    "68D2-35AB-09A9-7678",
+    "5B87-5887-9E13-61D1",
+    "3E8D-FA11-0704-C0CD",
+    "7336-6EBC-1923-EE1B",
+    "53FC-FF49-3C78-D019",
+    "5F3D-1477-AFF9-C4F3",
+    "29ED-68C9-0171-2BA8",
+    "6089-6768-F7FB-C46F",
+    "6E66-54EC-3EFC-283C",
+    "4A90-DDB2-B8DA-2162",
+    "4985-7118-B4FC-EAEC",
+    "3BDC-9523-C02B-7075",
+    "26CE-6A3B-C548-5AB4",
+    "09A0-4879-4353-EF95",
+    "58D3-B80D-2943-3CC6",
+    "1E45-57ED-9153-7EF4",
+    "5E9C-65C2-C968-98DC",
+    "726E-E811-168F-0D9E",
+    "1A06-BC6C-B2EA-1FD2",
+    "4984-C127-121D-B3F2",
+    "1796-5FC3-88B3-C85F",
+    "71AB-698D-57EB-178C",
+    "6B1A-66BE-E911-3D98",
+    "4030-BC19-140F-45DA",
+    "32ED-36ED-8BC1-1B98",
+    "0916-91EF-814D-5C67",
+    "00EF-D679-C76A-C185",
+    "4B1F-9E44-5AF4-7E1B",
+    "29A6-F529-F956-6292",
+    "1025-BD94-12FC-3409",
+    "2E6E-A02C-5581-8904",
+    "0E18-319B-E34B-B2C8",
+    "5814-D9A3-BE42-62DF",
+    "5107-700D-89B4-A4CD",
+    "21F5-8D5D-0141-7A5E",
+    "2816-BE67-5B69-0FEC",
+    "3725-76D3-3F31-FB63",
+    "2A85-29DD-C16A-D129",
+    "595C-42F4-3B66-E02F",
+    "4CEF-A17B-388F-2A24",
+    "652B-2F65-8233-8932",
+    "3A2A-BF2D-15FF-7963",
+    "276C-85A0-C531-AFA3",
+    "71EA-CDCE-FB5C-82B3",
+    "1F74-BE45-3AAC-1B47",
+    "01DE-9E83-B094-313B",
+    "7DD6-C783-D141-A720",
+    "5E0D-522A-4E62-B6EF",
+    "5AC5-8056-E88F-F3FF",
+    "4D81-BB44-4F5C-9B6B",
+    "002F-D14F-9E51-937B",
+    "1C94-8CCC-CDC5-E1E7"
   ],
   "KnownFags": {
     "9067089756590837321": {
@@ -990,6 +1042,159 @@
     },
     "1718946021060084326": {
       "FileName": "SteamVR \u002B Oculus Rift"
+    },
+    "7553158533771523704": {
+      "FileName": "Steam Cloud"
+    },
+    "6595337518803280337": {
+      "FileName": "Missing CD Key"
+    },
+    "4507533753106874573": {
+      "FileName": "CS_GO - Communication Penalties"
+    },
+    "8301944717258780187": {
+      "FileName": "CS_GO - X-Ray Scanner"
+    },
+    "6051992689291350041": {
+      "FileName": "Steam Community Artwork"
+    },
+    "6862663911468549363": {
+      "FileName": "Antivirus software reports Steam games are malicious"
+    },
+    "3021186137557380008": {
+      "FileName": "Game is not available on your current platform"
+    },
+    "6956204799985173615": {
+      "FileName": "Disable Steam from running at startup"
+    },
+    "7955139165442287676": {
+      "FileName": "Windows XP and Windows Vista Support"
+    },
+    "5373038115128222050": {
+      "FileName": "CS_GO 360 Stats"
+    },
+    "5297764887600884460": {
+      "FileName": "Credit Card Verification"
+    },
+    "4313486523894558837": {
+      "FileName": "My Items Are Missing or Were Stolen"
+    },
+    "2796289223589124788": {
+      "FileName": "Retrying a failed purchase - saved shopping cart"
+    },
+    "693634028272873365": {
+      "FileName": "CS_GO - Trusted Mode"
+    },
+    "6400661862089964742": {
+      "FileName": "Region Restrictions on Steam"
+    },
+    "2181246272387907316": {
+      "FileName": "Voice Chat Connection and Quality Issues"
+    },
+    "6817435823209224412": {
+      "FileName": "How do I download, install and update a standalone dedicated server_"
+    },
+    "8245783127852518814": {
+      "FileName": "Recurring Subscriptions"
+    },
+    "1875393469890568146": {
+      "FileName": "Pure server_ file [GAME]_pak01_001.vpk does not match the server\u0027s file"
+    },
+    "5297571435246367730": {
+      "FileName": "Steam and Games - Language Settings"
+    },
+    "1699651202795685983": {
+      "FileName": "Steam Controller BLE"
+    },
+    "8190756403089708940": {
+      "FileName": "Managing Steam Downloads \u0026 Updates"
+    },
+    "7717593881592806808": {
+      "FileName": "Family View"
+    },
+    "4625403633206248922": {
+      "FileName": "Steam Community Groups"
+    },
+    "3669649665256659864": {
+      "FileName": "Steam Remote Play Audio Setup"
+    },
+    "67508337958896005": {
+      "FileName": "CS_GO - Trust Factor Matchmaking"
+    },
+    "5413219293543562779": {
+      "FileName": "Adding a Phone Number to a Dota Account"
+    },
+    "3001355762314666642": {
+      "FileName": "Steam Client Troubleshooting"
+    },
+    "1163544522416469001": {
+      "FileName": "How to remotely manage your library using  Steam\u2019s Remote Downloads feature"
+    },
+    "3345787685456414980": {
+      "FileName": "Trade and Market Confirmations"
+    },
+    "1015616261575127752": {
+      "FileName": "Offline Mode"
+    },
+    "6346937072166789855": {
+      "FileName": "Games do not run after \u0027Preparing to Launch\u0027"
+    },
+    "5838758645356340429": {
+      "FileName": "How do I change my Steam account password_"
+    },
+    "2447017403138275934": {
+      "FileName": "Update \u0026 Installation Issues"
+    },
+    "2888705562129272812": {
+      "FileName": "SteamID, Steam Account Names, Merging Accounts and Deleting Accounts"
+    },
+    "3973712895894748003": {
+      "FileName": "Steam\u0027s Big Picture mode"
+    },
+    "3063901153905004841": {
+      "FileName": "A Steam account already exists with that contact email address"
+    },
+    "6439095183969017903": {
+      "FileName": "Steam Friends \u0026 Chat"
+    },
+    "5543827216918325796": {
+      "FileName": "Your credit card information has been declined by your credit card company"
+    },
+    "7289972534851897650": {
+      "FileName": "Linking a YouTube account"
+    },
+    "4191372603585165667": {
+      "FileName": "Failed to Start Game (Missing Executable)"
+    },
+    "2840792390513569699": {
+      "FileName": "Steam Client Beta"
+    },
+    "8208599559700251315": {
+      "FileName": "Steam Account Use"
+    },
+    "2266645717020580679": {
+      "FileName": "Steam Levels and XP"
+    },
+    "134719327308099899": {
+      "FileName": "Self Locking Tool"
+    },
+    "9067654268722456352": {
+      "FileName": "Troubleshooting Microphone Problems"
+    },
+    "6777163355919660783": {
+      "FileName": "Steam and macOS 10.15 Catalina"
+    },
+    "6540775144582804479": {
+      "FileName": "Slow Downloads and Connection to Content Servers"
+    },
+    "5584950914979765099": {
+      "FileName": "CS_GO - Prime Status and Free to Play"
+    },
+    "13459463794168699": {
+      "FileName": "Your credit card information has been declined by your credit card company due to an incorrect address being entered"
+    },
+    "2059425740868674023": {
+      "FileName": "An unexpected error has occurred. Your purchase has not been completed."
     }
   }
 }

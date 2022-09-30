@@ -1,0 +1,54 @@
+# Self Locking Tool
+
+
+* [What is the self locking tool?](#what)
+* [How do I lock my account if it is stolen?](#how)
+* [Can I lock my account on demand without an email notification?](#demand)
+* [What do I do after I lock my account?](#contact)
+* [How do I unlock my account?](#unlock)
+* [But how does it protect my account? What does it restrict exactly?](#restrictions)
+
+  
+  
+## What is the self locking tool?
+The Steam self locking tool allows you to lock your account and protect it from unauthorized actions if you suspect that the account has been stolen or compromised.  
+  
+  
+[url id=how][/url]## How do I lock my account if it is stolen?
+Locking your account is simple. When certain Steam account changes are made, a notification will be sent to the email address that is associated with your account. These include the following:  
+
+* Password changes
+* Email changes
+* Steam Guard code requests
+
+  
+In these various notification emails you will find a link to lock your account. Once clicked, you will be taken to a page to complete the process. Even if your email address is changed on your Steam account, you will still receive an email with a lock link confirming the action.  
+  
+**When locking an account, please ensure that you write down the provided unlock code.** Once the account has been secured, this code can be used to remove the restrictions.  
+  
+  
+[url id=demand][/url]## Can I lock my account on demand without an email notification?
+At this time you can only lock your account from the link that can be found in the associated email notifications above. You cannot lock your account from directly within the Steam client or any other location.  
+  
+  
+[url id=contact][/url]## What do I do after I lock my account?
+If possible, please use [Steam's Account Recovery tools](https://help.steampowered.com/wizard/HelpWithAccountStolen) to revert any unauthorized changes.  
+  
+If you are unable to sign in to the account, you must [contact Steam Support](https://help.steampowered.com/wizard/HelpWithLogin). A Support tech will verify that you are the owner of the account and restore full access to you. When submitting this message to Steam Support, please make sure that you include the account's login name and appropriate [proof of ownership](https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A).  
+  
+  
+[url id=unlock][/url]## How do I unlock my account?
+If you believe your account is secure, you can use the "unlock my account link" from your self-lock confirmation email to initiate the unlock process.  
+  
+  
+[url id=restrictions][/url]## But how does it protect my account? What does it restrict exactly?
+The lock that is applied to your account restricts all major actions that can impact you and other Steam users. These include the following:  
+  
+
+* Purchasing
+* Playing on VAC enabled game servers (VAC Ban Protection)
+* Gifting
+* Trading
+* CD-Key activation
+* Steam Community access
+
