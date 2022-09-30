@@ -44,7 +44,10 @@
     "66C8-4FF1-8470-B666",
     "1F39-DCB4-FF28-5748",
     "70D4-67C8-784D-692A",
-    "2EA8-4D75-DA21-31EB"
+    "2EA8-4D75-DA21-31EB",
+    "784C-923B-A4A1-C825",
+    "5FDE-BA65-ACCE-A411",
+    "588C-C67D-0251-C276"
   ],
   "KnownFags": {
     "9067089756590837321": {
@@ -178,6 +181,15 @@
     },
     "3362022290398196203": {
       "FileName": "Required Ports for Steam"
+    },
+    "8668464167644153893": {
+      "FileName": "How To Request A Refund"
+    },
+    "6908163824286606353": {
+      "FileName": "Common Refund Questions"
+    },
+    "6380693012289274486": {
+      "FileName": "Steam Profile Privacy"
     }
   }
 }
