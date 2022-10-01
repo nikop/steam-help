@@ -302,898 +302,1196 @@
   ],
   "KnownFags": {
     "9067089756590837321": {
-      "FileName": "Steam Deck - Software Info \u0026 Troubleshooting Guide"
+      "FileName": "Steam Deck - Software Info \u0026 Troubleshooting Guide",
+      "LastUpdated": "2022-02-28T17:55:19+00:00"
     },
     "7429325662480118332": {
-      "FileName": "Steam Deck Desktop_ FAQ"
+      "FileName": "Steam Deck Desktop_ FAQ",
+      "LastUpdated": "2022-03-02T23:43:46+00:00"
     },
     "1977623338980027315": {
-      "FileName": "Steam Deck Recovery Instructions"
+      "FileName": "Steam Deck Recovery Instructions",
+      "LastUpdated": "2022-06-27T21:11:58+00:00"
     },
     "885235219122197483": {
-      "FileName": "Verify Integrity of Game Files"
+      "FileName": "Verify Integrity of Game Files",
+      "LastUpdated": "2021-08-09T18:23:29+00:00"
     },
     "5613481479696531885": {
-      "FileName": "Reporting content within the Steam Community"
+      "FileName": "Reporting content within the Steam Community",
+      "LastUpdated": "2022-02-17T20:32:43+00:00"
     },
     "7521716275295218299": {
-      "FileName": "Rules and Guidelines For Steam_ Discussions, Reviews, and User Generated Content"
+      "FileName": "Rules and Guidelines For Steam_ Discussions, Reviews, and User Generated Content",
+      "LastUpdated": "2021-12-17T18:22:32+00:00"
     },
     "5732710972950444086": {
-      "FileName": "Addressing abuse, harassment and other misconduct on Steam"
+      "FileName": "Addressing abuse, harassment and other misconduct on Steam",
+      "LastUpdated": "2022-02-11T21:10:21+00:00"
     },
     "3404481548165460199": {
-      "FileName": "Reporting suspected cheaters"
+      "FileName": "Reporting suspected cheaters",
+      "LastUpdated": "2022-02-17T22:38:17+00:00"
     },
     "7366177312439140192": {
-      "FileName": "Account Security Recommendations"
+      "FileName": "Account Security Recommendations",
+      "LastUpdated": "2021-08-28T00:48:12+00:00"
     },
     "6276495995147255668": {
-      "FileName": "Valve Anti-Cheat (VAC) System"
+      "FileName": "Valve Anti-Cheat (VAC) System",
+      "LastUpdated": "2021-07-12T23:34:51+00:00"
     },
     "7535050430889918772": {
-      "FileName": "Steam Guard_ How to set up a Steam Guard Mobile Authenticator"
+      "FileName": "Steam Guard_ How to set up a Steam Guard Mobile Authenticator",
+      "LastUpdated": "2021-07-22T23:01:08+00:00"
     },
     "2241594507127334767": {
-      "FileName": "E-Mail Verification"
+      "FileName": "E-Mail Verification",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8027951266919050878": {
-      "FileName": "How do I contact Steam Support_"
+      "FileName": "How do I contact Steam Support_",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "762501453500979592": {
-      "FileName": "Recovering a Stolen or Hijacked Steam Account"
+      "FileName": "Recovering a Stolen or Hijacked Steam Account",
+      "LastUpdated": "2021-08-09T18:29:26+00:00"
     },
     "7240764287028378665": {
-      "FileName": "I\u0027ve been VAC banned"
+      "FileName": "I\u0027ve been VAC banned",
+      "LastUpdated": "2021-10-07T16:33:03+00:00"
     },
     "9150536737600248881": {
-      "FileName": "Steam Guard Mobile Authenticator"
+      "FileName": "Steam Guard Mobile Authenticator",
+      "LastUpdated": "2021-10-20T21:51:37+00:00"
     },
     "4656875171981542682": {
-      "FileName": "Providing Proof of Ownership"
+      "FileName": "Providing Proof of Ownership",
+      "LastUpdated": "2021-12-17T18:35:19+00:00"
     },
     "4282557254890196260": {
-      "FileName": "Steam Item Restoration Policy"
+      "FileName": "Steam Item Restoration Policy",
+      "LastUpdated": "2022-07-06T20:35:43+00:00"
     },
     "3792569919739876523": {
-      "FileName": "Steam Trade and Market Holds"
+      "FileName": "Steam Trade and Market Holds",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "4980583936977817852": {
-      "FileName": "Trading and Market Restrictions"
+      "FileName": "Trading and Market Restrictions",
+      "LastUpdated": "2022-05-06T09:16:04+00:00"
     },
     "7057266748979463947": {
-      "FileName": "Community Market FAQ"
+      "FileName": "Community Market FAQ",
+      "LastUpdated": "2021-08-16T18:35:10+00:00"
     },
     "1775850366047052960": {
-      "FileName": "Recommended Trading Practices"
+      "FileName": "Recommended Trading Practices",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8135358118725657467": {
-      "FileName": "Scam FAQ (Confidence Scams and Trade Scams)"
+      "FileName": "Scam FAQ (Confidence Scams and Trade Scams)",
+      "LastUpdated": "2021-08-11T21:49:59+00:00"
     },
     "3171155790013657367": {
-      "FileName": "Steam Gifts"
+      "FileName": "Steam Gifts",
+      "LastUpdated": "2021-07-28T00:13:37+00:00"
     },
     "1231050348534963552": {
-      "FileName": "Steam Trade Offers"
+      "FileName": "Steam Trade Offers",
+      "LastUpdated": "2021-08-12T20:56:28+00:00"
     },
     "5089678068093323384": {
-      "FileName": "Steam Trading"
+      "FileName": "Steam Trading",
+      "LastUpdated": "2021-08-24T22:41:51+00:00"
     },
     "8201958456624065082": {
-      "FileName": "Limited User Accounts"
+      "FileName": "Limited User Accounts",
+      "LastUpdated": "2022-07-06T23:48:33+00:00"
     },
     "8710933858579164505": {
-      "FileName": "Steam Wallet"
+      "FileName": "Steam Wallet",
+      "LastUpdated": "2021-10-27T22:09:06+00:00"
     },
     "5550635109985296512": {
-      "FileName": "How to Report a Scammer, Hijacker or Phisher"
+      "FileName": "How to Report a Scammer, Hijacker or Phisher",
+      "LastUpdated": "2021-08-10T18:24:10+00:00"
     },
     "6165005609161511406": {
-      "FileName": "Revoked Gifts"
+      "FileName": "Revoked Gifts",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "9198165838761275289": {
-      "FileName": "Extra Copies"
+      "FileName": "Extra Copies",
+      "LastUpdated": "2021-07-22T19:06:33+00:00"
     },
     "6607600367846018830": {
-      "FileName": "Where to buy Steam Wallet Codes"
+      "FileName": "Where to buy Steam Wallet Codes",
+      "LastUpdated": "2022-09-28T19:30:47+00:00"
     },
     "2129689670173640493": {
-      "FileName": "How to Send Wallet Codes For Steam Support"
+      "FileName": "How to Send Wallet Codes For Steam Support",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1040623370678964577": {
-      "FileName": "Retail CD Keys"
+      "FileName": "Retail CD Keys",
+      "LastUpdated": "2021-08-02T18:14:59+00:00"
     },
     "3456374830860450845": {
-      "FileName": "Steam-Issued Activation Keys"
+      "FileName": "Steam-Issued Activation Keys",
+      "LastUpdated": "2021-08-05T19:37:53+00:00"
     },
     "470756531795269941": {
-      "FileName": "Dota 2 Workshop - Character Art Guide"
+      "FileName": "Dota 2 Workshop - Character Art Guide",
+      "LastUpdated": "2021-12-02T22:35:27+00:00"
     },
     "5443610150482493676": {
-      "FileName": "Add Non-Steam Games to a Library"
+      "FileName": "Add Non-Steam Games to a Library",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1859693572039101176": {
-      "FileName": "Failed to Contact Key Server"
+      "FileName": "Failed to Contact Key Server",
+      "LastUpdated": "2021-08-11T22:09:32+00:00"
     },
     "7393273865525372396": {
-      "FileName": "Troubleshooting Network Connectivity"
+      "FileName": "Troubleshooting Network Connectivity",
+      "LastUpdated": "2021-08-12T01:54:58+00:00"
     },
     "5103341103616735335": {
-      "FileName": "Using a Router with Steam"
+      "FileName": "Using a Router with Steam",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7406257485938472550": {
-      "FileName": "Using a Firewall with Steam"
+      "FileName": "Using a Firewall with Steam",
+      "LastUpdated": "2021-08-04T22:23:14+00:00"
     },
     "2250072158781331272": {
-      "FileName": "Programs Which May Interfere with Steam"
+      "FileName": "Programs Which May Interfere with Steam",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8130237338020047146": {
-      "FileName": "Spyware, Malware, Adware, or Virus Interfering with Steam"
+      "FileName": "Spyware, Malware, Adware, or Virus Interfering with Steam",
+      "LastUpdated": "2021-08-04T21:40:56+00:00"
     },
     "3362022290398196203": {
-      "FileName": "Required Ports for Steam"
+      "FileName": "Required Ports for Steam",
+      "LastUpdated": "2022-04-18T18:45:33+00:00"
     },
     "8668464167644153893": {
-      "FileName": "How To Request A Refund"
+      "FileName": "How To Request A Refund",
+      "LastUpdated": "2021-08-17T18:16:52+00:00"
     },
     "6908163824286606353": {
-      "FileName": "Common Refund Questions"
+      "FileName": "Common Refund Questions",
+      "LastUpdated": "2021-10-27T23:49:24+00:00"
     },
     "6380693012289274486": {
-      "FileName": "Steam Profile Privacy"
+      "FileName": "Steam Profile Privacy",
+      "LastUpdated": "2021-08-12T21:41:37+00:00"
     },
     "2504005587630228712": {
-      "FileName": "Disconnected by VAC_ You cannot play on secure servers"
+      "FileName": "Disconnected by VAC_ You cannot play on secure servers",
+      "LastUpdated": "2021-08-12T19:49:00+00:00"
     },
     "3031658645476079728": {
-      "FileName": "Activating a Product on Steam"
+      "FileName": "Activating a Product on Steam",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "5481077739806853445": {
-      "FileName": "Steam Sales - Purchasing and billing FAQ"
+      "FileName": "Steam Sales - Purchasing and billing FAQ",
+      "LastUpdated": "2021-08-12T22:19:41+00:00"
     },
     "4467803444565209988": {
-      "FileName": "Dota 2 Workshop - Submitting Items"
+      "FileName": "Dota 2 Workshop - Submitting Items",
+      "LastUpdated": "2021-10-27T22:50:31+00:00"
     },
     "9041373518389234842": {
-      "FileName": "Index Headset FAQ"
+      "FileName": "Index Headset FAQ",
+      "LastUpdated": "2021-12-30T19:16:37+00:00"
     },
     "2424762422016217099": {
-      "FileName": "Account Deletion - Common Questions"
+      "FileName": "Account Deletion - Common Questions",
+      "LastUpdated": "2022-04-13T03:40:53+00:00"
     },
     "3116450189417357544": {
-      "FileName": "Steam Store Country"
+      "FileName": "Steam Store Country",
+      "LastUpdated": "2022-07-27T17:31:51+00:00"
     },
     "9007712579960580437": {
-      "FileName": "Setting Game Launch Options"
+      "FileName": "Setting Game Launch Options",
+      "LastUpdated": "2021-08-24T20:05:54+00:00"
     },
     "1616742204002961995": {
-      "FileName": "Dota 2 Workshop - Item FAQ"
+      "FileName": "Dota 2 Workshop - Item FAQ",
+      "LastUpdated": "2021-08-24T22:38:40+00:00"
     },
     "5464068287806472999": {
-      "FileName": "Moving a Steam Installation and Games"
+      "FileName": "Moving a Steam Installation and Games",
+      "LastUpdated": "2021-10-27T22:55:30+00:00"
     },
     "4141067743344458745": {
-      "FileName": "Steam Community Overlay"
+      "FileName": "Steam Community Overlay",
+      "LastUpdated": "2021-08-10T19:05:05+00:00"
     },
     "296180920002045980": {
-      "FileName": "Team Fortress 2 - Free to Play"
+      "FileName": "Team Fortress 2 - Free to Play",
+      "LastUpdated": "2021-08-18T19:04:12+00:00"
     },
     "172754100318855391": {
-      "FileName": "Touch Controls"
+      "FileName": "Touch Controls",
+      "LastUpdated": "2021-07-21T20:53:56+00:00"
     },
     "8781091100125471692": {
-      "FileName": "SteamOS _ Steam Machines FAQ"
+      "FileName": "SteamOS _ Steam Machines FAQ",
+      "LastUpdated": "2022-07-06T20:36:41+00:00"
     },
     "4401621164100598477": {
-      "FileName": "Valve Hardware Compliance"
+      "FileName": "Valve Hardware Compliance",
+      "LastUpdated": "2022-05-20T00:50:29+00:00"
     },
     "5718041075055894628": {
-      "FileName": "Portal 2 Perpetual Testing Initiative"
+      "FileName": "Portal 2 Perpetual Testing Initiative",
+      "LastUpdated": "2021-12-17T18:31:37+00:00"
     },
     "4126508409841133534": {
-      "FileName": "Recovering a Lost or Forgotten Steam Account"
+      "FileName": "Recovering a Lost or Forgotten Steam Account",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "3453689899482173588": {
-      "FileName": "Dota Plus FAQ"
+      "FileName": "Dota Plus FAQ",
+      "LastUpdated": "2021-10-28T01:08:15+00:00"
     },
     "7851066054108918429": {
-      "FileName": "Enabling the Half-Life Hi-Def Model Pack"
+      "FileName": "Enabling the Half-Life Hi-Def Model Pack",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8928310935471522734": {
-      "FileName": "Steam Link Hardware"
+      "FileName": "Steam Link Hardware",
+      "LastUpdated": "2021-08-04T17:23:36+00:00"
     },
     "3965521571861153503": {
-      "FileName": "Dota 2 Workshop - Cursor Packs"
+      "FileName": "Dota 2 Workshop - Cursor Packs",
+      "LastUpdated": "2021-10-28T02:08:01+00:00"
     },
     "913451504419250277": {
-      "FileName": "Steam Wishlist"
+      "FileName": "Steam Wishlist",
+      "LastUpdated": "2021-10-27T22:58:59+00:00"
     },
     "6728278602742985221": {
-      "FileName": "Dota 2 Workshop - Item Troubleshooting"
+      "FileName": "Dota 2 Workshop - Item Troubleshooting",
+      "LastUpdated": "2021-10-28T01:50:11+00:00"
     },
     "6312157025629753691": {
-      "FileName": "Updating Drivers"
+      "FileName": "Updating Drivers",
+      "LastUpdated": "2021-08-20T16:53:33+00:00"
     },
     "7609654911247676940": {
-      "FileName": "Valve Index Fit Guide"
+      "FileName": "Valve Index Fit Guide",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "110456628157286625": {
-      "FileName": "Setting Steam Launch Options"
+      "FileName": "Setting Steam Launch Options",
+      "LastUpdated": "2021-08-04T17:44:31+00:00"
     },
     "923052218959003952": {
-      "FileName": "Dota 2 Workshop - Account Preparation for Workshop Item Submission"
+      "FileName": "Dota 2 Workshop - Account Preparation for Workshop Item Submission",
+      "LastUpdated": "2021-12-03T19:10:32+00:00"
     },
     "8533140843407049492": {
-      "FileName": "Dota 2 Workshop - Team, Player, or Caster Branded Items"
+      "FileName": "Dota 2 Workshop - Team, Player, or Caster Branded Items",
+      "LastUpdated": "2021-08-26T21:40:11+00:00"
     },
     "517430071990120014": {
-      "FileName": "Dota 2 - League Tickets"
+      "FileName": "Dota 2 - League Tickets",
+      "LastUpdated": "2021-08-12T20:19:54+00:00"
     },
     "1158486557366884452": {
-      "FileName": "Dota 2 Workshop - Contract Only Submissions"
+      "FileName": "Dota 2 Workshop - Contract Only Submissions",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "5430878778831183783": {
-      "FileName": "Dota 2 Workshop - Couriers"
+      "FileName": "Dota 2 Workshop - Couriers",
+      "LastUpdated": "2021-08-28T01:26:51+00:00"
     },
     "2999597443984448879": {
-      "FileName": "Dota 2 Workshop - Wards"
+      "FileName": "Dota 2 Workshop - Wards",
+      "LastUpdated": "2021-12-03T19:12:21+00:00"
     },
     "3079909816009962279": {
-      "FileName": "Dota 2 Workshop - Hero Ability Models"
+      "FileName": "Dota 2 Workshop - Hero Ability Models",
+      "LastUpdated": "2021-08-18T19:57:26+00:00"
     },
     "8683067691023101264": {
-      "FileName": "Dota 2 Workshop - NPC Animations"
+      "FileName": "Dota 2 Workshop - NPC Animations",
+      "LastUpdated": "2022-07-06T20:40:12+00:00"
     },
     "5013452754937210096": {
-      "FileName": "Using the Steam Backup Feature"
+      "FileName": "Using the Steam Backup Feature",
+      "LastUpdated": "2021-08-10T17:11:35+00:00"
     },
     "4355984667845853798": {
-      "FileName": "Uninstall Steam"
+      "FileName": "Uninstall Steam",
+      "LastUpdated": "2021-08-16T19:57:14+00:00"
     },
     "693261672931936120": {
-      "FileName": "Installing Steam"
+      "FileName": "Installing Steam",
+      "LastUpdated": "2021-08-09T16:23:42+00:00"
     },
     "8147800086409599480": {
-      "FileName": "Android Steam Link App"
+      "FileName": "Android Steam Link App",
+      "LastUpdated": "2021-08-09T16:05:40+00:00"
     },
     "1683464241602868157": {
-      "FileName": "Samsung TV Steam Link App"
+      "FileName": "Samsung TV Steam Link App",
+      "LastUpdated": "2022-09-22T18:20:07+00:00"
     },
     "7215969993590687435": {
-      "FileName": "Raspberry Pi Steam Link App"
+      "FileName": "Raspberry Pi Steam Link App",
+      "LastUpdated": "2021-08-12T18:02:10+00:00"
     },
     "4484950172723160530": {
-      "FileName": "Steam Link - Suggested Network Settings"
+      "FileName": "Steam Link - Suggested Network Settings",
+      "LastUpdated": "2021-08-28T00:52:17+00:00"
     },
     "6897333715793003819": {
-      "FileName": "Dota 2 Workshop - Item Model Requirements"
+      "FileName": "Dota 2 Workshop - Item Model Requirements",
+      "LastUpdated": "2021-08-23T17:14:26+00:00"
     },
     "2998508916530583734": {
-      "FileName": "Dota 2 Workshop - Item Shader Masks"
+      "FileName": "Dota 2 Workshop - Item Shader Masks",
+      "LastUpdated": "2021-10-28T01:43:57+00:00"
     },
     "3525060389150609709": {
-      "FileName": "Removing and Reinstalling Steam on a Mac"
+      "FileName": "Removing and Reinstalling Steam on a Mac",
+      "LastUpdated": "2021-08-12T19:30:55+00:00"
     },
     "471035972120482034": {
-      "FileName": "Steam Remote Play"
+      "FileName": "Steam Remote Play",
+      "LastUpdated": "2022-01-28T21:46:06+00:00"
     },
     "4493131959423850177": {
-      "FileName": "How do I diagnose and report network problems_"
+      "FileName": "How do I diagnose and report network problems_",
+      "LastUpdated": "2021-08-12T19:07:21+00:00"
     },
     "1563625177232679631": {
-      "FileName": "Dota 2 Workshop - Hero Wearable Items"
+      "FileName": "Dota 2 Workshop - Hero Wearable Items",
+      "LastUpdated": "2021-08-12T21:02:53+00:00"
     },
     "9123492164012614105": {
-      "FileName": "Steam Link Support"
+      "FileName": "Steam Link Support",
+      "LastUpdated": "2021-10-28T01:59:27+00:00"
     },
     "2769590072922235898": {
-      "FileName": "Dota 2 Workshop - Low Violence Items"
+      "FileName": "Dota 2 Workshop - Low Violence Items",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "5477442274052911722": {
-      "FileName": "Apple Steam Link App"
+      "FileName": "Apple Steam Link App",
+      "LastUpdated": "2021-08-12T21:15:15+00:00"
     },
     "7520452088281282591": {
-      "FileName": "Dota 2 Workshop - Item Effects Models"
+      "FileName": "Dota 2 Workshop - Item Effects Models",
+      "LastUpdated": "2021-10-28T02:13:44+00:00"
     },
     "7663351218451343229": {
-      "FileName": "Steam is no longer supported on this computer\u0027s operating system"
+      "FileName": "Steam is no longer supported on this computer\u0027s operating system",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6982090234903941909": {
-      "FileName": "Dota 2 Workshop - Color Texture Light Baking"
+      "FileName": "Dota 2 Workshop - Color Texture Light Baking",
+      "LastUpdated": "2021-08-28T00:52:48+00:00"
     },
     "7176140764688977492": {
-      "FileName": "Regaining Access to Areas After Losing Saved Games"
+      "FileName": "Regaining Access to Areas After Losing Saved Games",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6112410335400106472": {
-      "FileName": "TF2 and L4D Network Performance (Xbox 360)"
+      "FileName": "TF2 and L4D Network Performance (Xbox 360)",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "4449523428990370888": {
-      "FileName": "Surround Sound does not Function in Source Games"
+      "FileName": "Surround Sound does not Function in Source Games",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6320035625357143222": {
-      "FileName": "Exclude Steam from Time Machine"
+      "FileName": "Exclude Steam from Time Machine",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6316022508503228994": {
-      "FileName": "Developer Console disappears"
+      "FileName": "Developer Console disappears",
+      "LastUpdated": "2021-10-27T21:35:30+00:00"
     },
     "8604539892456401617": {
-      "FileName": "Steam Is Asking Me To Purchase a Game I Already Paid For"
+      "FileName": "Steam Is Asking Me To Purchase a Game I Already Paid For",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "2489182133973989222": {
-      "FileName": "Team Fortress 2 Workshop"
+      "FileName": "Team Fortress 2 Workshop",
+      "LastUpdated": "2021-10-28T00:27:57+00:00"
     },
     "7883391850674475728": {
-      "FileName": "Item and Trading Bugs"
+      "FileName": "Item and Trading Bugs",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6817840760713638200": {
-      "FileName": "Adding a PPA Repository for the Latest Intel Drivers"
+      "FileName": "Adding a PPA Repository for the Latest Intel Drivers",
+      "LastUpdated": "2021-10-27T23:24:56+00:00"
     },
     "7950562402793786703": {
-      "FileName": "Deleted Items"
+      "FileName": "Deleted Items",
+      "LastUpdated": "2021-07-20T23:18:52+00:00"
     },
     "4540816117086373196": {
-      "FileName": "Manually Updating the Steam Link"
+      "FileName": "Manually Updating the Steam Link",
+      "LastUpdated": "2022-07-14T00:25:27+00:00"
     },
     "2383043331485284870": {
-      "FileName": "Linux Steam client unable to open a connection to X"
+      "FileName": "Linux Steam client unable to open a connection to X",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "2454794093843389788": {
-      "FileName": "USBDeview"
+      "FileName": "USBDeview",
+      "LastUpdated": "2021-08-10T19:10:20+00:00"
     },
     "7127420159890143333": {
-      "FileName": "HTTP Fast Download"
+      "FileName": "HTTP Fast Download",
+      "LastUpdated": "2021-10-27T20:57:27+00:00"
     },
     "8219060330831152543": {
-      "FileName": "How do I find bonus content, artwork and soundtracks_"
+      "FileName": "How do I find bonus content, artwork and soundtracks_",
+      "LastUpdated": "2022-04-21T20:54:17+00:00"
     },
     "4739332223502729502": {
-      "FileName": "Steam Controller Setup"
+      "FileName": "Steam Controller Setup",
+      "LastUpdated": "2021-08-12T18:56:56+00:00"
     },
     "7301537020462257929": {
-      "FileName": "Dota 2 Workshop - Loading Screens"
+      "FileName": "Dota 2 Workshop - Loading Screens",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7673269715324575046": {
-      "FileName": "Linux Dedicated Server System Requirements"
+      "FileName": "Linux Dedicated Server System Requirements",
+      "LastUpdated": "2021-08-17T17:29:55+00:00"
     },
     "5737132002687600633": {
-      "FileName": "Downloads automatically pause when launching a game"
+      "FileName": "Downloads automatically pause when launching a game",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "5396243629175572094": {
-      "FileName": "Troubleshooting Lag"
+      "FileName": "Troubleshooting Lag",
+      "LastUpdated": "2021-12-16T21:51:10+00:00"
     },
     "2940507034125666005": {
-      "FileName": "Dota 2 - Fantasy Leagues"
+      "FileName": "Dota 2 - Fantasy Leagues",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "2345305381509849804": {
-      "FileName": "Restoring SteamOS"
+      "FileName": "Restoring SteamOS",
+      "LastUpdated": "2021-10-28T02:00:20+00:00"
     },
     "5883611091460142765": {
-      "FileName": "Assistance with a Valve Store Order"
+      "FileName": "Assistance with a Valve Store Order",
+      "LastUpdated": "2021-07-21T22:03:39+00:00"
     },
     "1544926568350143403": {
-      "FileName": "Repairing Disk Permissions on Mac"
+      "FileName": "Repairing Disk Permissions on Mac",
+      "LastUpdated": "2021-08-10T22:10:10+00:00"
     },
     "5462666714099915846": {
-      "FileName": "Managing Bans on a Half-Life or Source Dedicated Server"
+      "FileName": "Managing Bans on a Half-Life or Source Dedicated Server",
+      "LastUpdated": "2022-03-02T17:35:27+00:00"
     },
     "3363261774082873484": {
-      "FileName": "NVIDIA Shield"
+      "FileName": "NVIDIA Shield",
+      "LastUpdated": "2021-08-19T19:40:07+00:00"
     },
     "3843832090999931729": {
-      "FileName": "Available disk space decreases every time a game is run"
+      "FileName": "Available disk space decreases every time a game is run",
+      "LastUpdated": "2021-08-12T17:33:15+00:00"
     },
     "6710907134894229325": {
-      "FileName": "Missing or scrambled text in-game"
+      "FileName": "Missing or scrambled text in-game",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "3121143267482147157": {
-      "FileName": "Half-Life and Source Game Servers Overview"
+      "FileName": "Half-Life and Source Game Servers Overview",
+      "LastUpdated": "2021-12-02T23:35:10+00:00"
     },
     "2548068556033019130": {
-      "FileName": "Dota 2 - Item Drops"
+      "FileName": "Dota 2 - Item Drops",
+      "LastUpdated": "2021-12-02T23:49:06+00:00"
     },
     "2020460277170598642": {
-      "FileName": "Resources for APIs, Source SDK, Mapping, and Dedicated Servers"
+      "FileName": "Resources for APIs, Source SDK, Mapping, and Dedicated Servers",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1120798639422331823": {
-      "FileName": "Team Fortress 2 Replay Server Overview"
+      "FileName": "Team Fortress 2 Replay Server Overview",
+      "LastUpdated": "2022-04-21T20:57:51+00:00"
     },
     "3154948633515378370": {
-      "FileName": "Managing HLDS Server Resources"
+      "FileName": "Managing HLDS Server Resources",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7190580229257918664": {
-      "FileName": "Installing custom maps on a Half-Life or Source Dedicated Server"
+      "FileName": "Installing custom maps on a Half-Life or Source Dedicated Server",
+      "LastUpdated": "2021-10-06T23:46:35+00:00"
     },
     "2814370121932126635": {
-      "FileName": "How to manage the use of cookies"
+      "FileName": "How to manage the use of cookies",
+      "LastUpdated": "2021-10-28T00:24:06+00:00"
     },
     "4285668986312724366": {
-      "FileName": "TF2 Mann vs Machine Server Overview"
+      "FileName": "TF2 Mann vs Machine Server Overview",
+      "LastUpdated": "2021-10-27T22:48:17+00:00"
     },
     "7882946670718611008": {
-      "FileName": "Bots in Valve games"
+      "FileName": "Bots in Valve games",
+      "LastUpdated": "2021-12-02T23:07:43+00:00"
     },
     "4422431794336645612": {
-      "FileName": "Installing Steam for Linux on an NTFS Partition"
+      "FileName": "Installing Steam for Linux on an NTFS Partition",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "4109375360473964749": {
-      "FileName": "Team Fortress 2 Replays"
+      "FileName": "Team Fortress 2 Replays",
+      "LastUpdated": "2022-04-21T20:56:44+00:00"
     },
     "8593836637999631280": {
-      "FileName": "Left 4 Dead Add-ons"
+      "FileName": "Left 4 Dead Add-ons",
+      "LastUpdated": "2021-08-10T17:32:19+00:00"
     },
     "6522916455231425610": {
-      "FileName": "CS_GO - Opting into Beta depots"
+      "FileName": "CS_GO - Opting into Beta depots",
+      "LastUpdated": "2021-08-12T20:26:42+00:00"
     },
     "4895292587004348258": {
-      "FileName": "Unpredictable Server Browser behavior"
+      "FileName": "Unpredictable Server Browser behavior",
+      "LastUpdated": "2021-08-10T17:04:58+00:00"
     },
     "3372003606165516072": {
-      "FileName": "System Reports"
+      "FileName": "System Reports",
+      "LastUpdated": "2022-03-16T01:08:38+00:00"
     },
     "2268468941081009710": {
-      "FileName": "Unable to log in to Steam using a web browser"
+      "FileName": "Unable to log in to Steam using a web browser",
+      "LastUpdated": "2021-08-05T18:59:16+00:00"
     },
     "5098924744398475990": {
-      "FileName": "SteamVR Developers"
+      "FileName": "SteamVR Developers",
+      "LastUpdated": "2021-09-21T23:59:38+00:00"
     },
     "3959187196950733952": {
-      "FileName": "Submitting A Network Activity Report"
+      "FileName": "Submitting A Network Activity Report",
+      "LastUpdated": "2021-12-02T23:31:29+00:00"
     },
     "9061896879059087246": {
-      "FileName": "Changing the radar and map displays in Counter-Strike_ Source"
+      "FileName": "Changing the radar and map displays in Counter-Strike_ Source",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "5644148975375488343": {
-      "FileName": "CS_GO - I\u0027ve been game banned"
+      "FileName": "CS_GO - I\u0027ve been game banned",
+      "LastUpdated": "2022-05-14T20:29:09+00:00"
     },
     "4749747457379821545": {
-      "FileName": "Steam Controller Troubleshooting"
+      "FileName": "Steam Controller Troubleshooting",
+      "LastUpdated": "2021-08-12T20:24:44+00:00"
     },
     "6971838848730400062": {
-      "FileName": "Dota Underlords Mobile FAQ"
+      "FileName": "Dota Underlords Mobile FAQ",
+      "LastUpdated": "2021-07-13T01:16:53+00:00"
     },
     "8842624695755865797": {
-      "FileName": "Invalid or Damaged CD Key from Merchandise"
+      "FileName": "Invalid or Damaged CD Key from Merchandise",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "9090673684631364026": {
-      "FileName": "Making a Custom Spray"
+      "FileName": "Making a Custom Spray",
+      "LastUpdated": "2021-10-06T23:20:11+00:00"
     },
     "8018261768684080568": {
-      "FileName": "Configuring a Router for use with a Half-Life or Source Dedicated Server"
+      "FileName": "Configuring a Router for use with a Half-Life or Source Dedicated Server",
+      "LastUpdated": "2021-12-02T23:30:26+00:00"
     },
     "4047821285747258830": {
-      "FileName": "Installing SteamOS"
+      "FileName": "Installing SteamOS",
+      "LastUpdated": "2021-08-10T16:39:18+00:00"
     },
     "4303641735138999482": {
-      "FileName": "OpenGL not using direct rendering"
+      "FileName": "OpenGL not using direct rendering",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "649421164836354824": {
-      "FileName": "Half-Life_ Alyx - Streaming_Spectating Guide"
+      "FileName": "Half-Life_ Alyx - Streaming_Spectating Guide",
+      "LastUpdated": "2021-08-17T18:01:44+00:00"
     },
     "5973512499471541601": {
-      "FileName": "Items Not Properly Awarded"
+      "FileName": "Items Not Properly Awarded",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7681404295339481420": {
-      "FileName": "Low Violence Option in Left 4 Dead"
+      "FileName": "Low Violence Option in Left 4 Dead",
+      "LastUpdated": "2021-08-05T19:51:00+00:00"
     },
     "3165264747722062098": {
-      "FileName": "DirectX Installs with every game"
+      "FileName": "DirectX Installs with every game",
+      "LastUpdated": "2021-08-12T19:42:19+00:00"
     },
     "1340151801933239152": {
-      "FileName": "Error_ Maximum Number of Groups Reached"
+      "FileName": "Error_ Maximum Number of Groups Reached",
+      "LastUpdated": "2021-08-02T18:37:34+00:00"
     },
     "3728425755129504368": {
-      "FileName": "Dota 2 Workshop - Item UV Mapping"
+      "FileName": "Dota 2 Workshop - Item UV Mapping",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "4804102756223097641": {
-      "FileName": "How do I get my Server to be VAC Secure_"
+      "FileName": "How do I get my Server to be VAC Secure_",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "3205687863149959036": {
-      "FileName": "Refresh Rate and VSYNC"
+      "FileName": "Refresh Rate and VSYNC",
+      "LastUpdated": "2021-10-27T21:50:34+00:00"
     },
     "8404346551101924452": {
-      "FileName": "Dota 2 - Network_Connectivity Issues"
+      "FileName": "Dota 2 - Network_Connectivity Issues",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "578010788365722146": {
-      "FileName": "No Steam content servers are currently configured to deliver content for this game"
+      "FileName": "No Steam content servers are currently configured to deliver content for this game",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1230678365821384580": {
-      "FileName": "Steam Client Troubleshooting on Linux"
+      "FileName": "Steam Client Troubleshooting on Linux",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1130490359376509857": {
-      "FileName": "Steam Controller"
+      "FileName": "Steam Controller",
+      "LastUpdated": "2021-08-12T20:23:31+00:00"
     },
     "3529734239162292442": {
-      "FileName": "SteamVR Chaperone FAQ"
+      "FileName": "SteamVR Chaperone FAQ",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1281012404870241244": {
-      "FileName": "Third-Party Game Support"
+      "FileName": "Third-Party Game Support",
+      "LastUpdated": "2021-10-06T23:48:15+00:00"
     },
     "1166099635598618949": {
-      "FileName": "Failed to create D3D Device"
+      "FileName": "Failed to create D3D Device",
+      "LastUpdated": "2021-08-09T23:02:40+00:00"
     },
     "376565511221600873": {
-      "FileName": "Steam Controller FAQ"
+      "FileName": "Steam Controller FAQ",
+      "LastUpdated": "2021-08-12T20:24:54+00:00"
     },
     "4517485828743518799": {
-      "FileName": "Dota 2 Workshop - Authoring Arcana, Ability, and Ambient Textures"
+      "FileName": "Dota 2 Workshop - Authoring Arcana, Ability, and Ambient Textures",
+      "LastUpdated": "2021-10-28T01:24:11+00:00"
     },
     "9102067325513940398": {
-      "FileName": "Steam Guides"
+      "FileName": "Steam Guides",
+      "LastUpdated": "2021-08-03T22:44:08+00:00"
     },
     "1466764269478160266": {
-      "FileName": "Optimus and Steam for Linux"
+      "FileName": "Optimus and Steam for Linux",
+      "LastUpdated": "2021-08-10T21:16:23+00:00"
     },
     "3550465691586434288": {
-      "FileName": "Steam Coupons"
+      "FileName": "Steam Coupons",
+      "LastUpdated": "2021-08-05T19:49:16+00:00"
     },
     "6958024543388679482": {
-      "FileName": "Nausea or Motion Sickness During Gameplay"
+      "FileName": "Nausea or Motion Sickness During Gameplay",
+      "LastUpdated": "2021-10-28T02:12:21+00:00"
     },
     "187864036051131770": {
-      "FileName": "Revoked CD Keys"
+      "FileName": "Revoked CD Keys",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1613106792545854478": {
-      "FileName": "Contested Steam account ownership"
+      "FileName": "Contested Steam account ownership",
+      "LastUpdated": "2021-07-21T21:25:02+00:00"
     },
     "6164862055093213372": {
-      "FileName": "HLTV"
+      "FileName": "HLTV",
+      "LastUpdated": "2021-12-16T21:32:41+00:00"
     },
     "481927930167436620": {
-      "FileName": "Steam Guard"
+      "FileName": "Steam Guard",
+      "LastUpdated": "2021-08-09T18:18:49+00:00"
     },
     "5517864947485979433": {
-      "FileName": "Why do I have to enter a Steam Guard code every time I log in_"
+      "FileName": "Why do I have to enter a Steam Guard code every time I log in_",
+      "LastUpdated": "2021-08-12T21:26:26+00:00"
     },
     "8978166077040914691": {
-      "FileName": "Windows Mixed Reality Setup"
+      "FileName": "Windows Mixed Reality Setup",
+      "LastUpdated": "2021-07-15T21:50:44+00:00"
     },
     "7633566947121337714": {
-      "FileName": "Dota 2 Workshop - Chat Emoticons"
+      "FileName": "Dota 2 Workshop - Chat Emoticons",
+      "LastUpdated": "2021-08-28T00:50:56+00:00"
     },
     "6893118316788988094": {
-      "FileName": "Enabling Low Violence in Team Fortress 2"
+      "FileName": "Enabling Low Violence in Team Fortress 2",
+      "LastUpdated": "2021-12-02T21:34:16+00:00"
     },
     "5005778094718027296": {
-      "FileName": "Installed games are appearing as uninstalled"
+      "FileName": "Installed games are appearing as uninstalled",
+      "LastUpdated": "2021-08-17T18:10:25+00:00"
     },
     "2818492806024508181": {
-      "FileName": "Your account has been blocked from participating in the Steam Community."
+      "FileName": "Your account has been blocked from participating in the Steam Community.",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "9113043585562955314": {
-      "FileName": "Buying or selling a Steam account"
+      "FileName": "Buying or selling a Steam account",
+      "LastUpdated": "2021-08-05T19:56:13+00:00"
     },
     "1602292496370380643": {
-      "FileName": "Setting Client Rates"
+      "FileName": "Setting Client Rates",
+      "LastUpdated": "2021-10-26T20:18:55+00:00"
     },
     "583797173729499770": {
-      "FileName": "Setting up a Steam Half-Life Dedicated Server"
+      "FileName": "Setting up a Steam Half-Life Dedicated Server",
+      "LastUpdated": "2021-12-16T21:50:15+00:00"
     },
     "8664747629155197650": {
-      "FileName": "Payment Disputes and Chargebacks"
+      "FileName": "Payment Disputes and Chargebacks",
+      "LastUpdated": "2021-10-28T00:07:02+00:00"
     },
     "5752815083891053342": {
-      "FileName": "Steam OS Accounts"
+      "FileName": "Steam OS Accounts",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "4882140089320502590": {
-      "FileName": "How Can I Get My Film_Video_Tutorial on Steam_"
+      "FileName": "How Can I Get My Film_Video_Tutorial on Steam_",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7177453344181410307": {
-      "FileName": "This game is currently unavailable"
+      "FileName": "This game is currently unavailable",
+      "LastUpdated": "2021-10-28T00:18:13+00:00"
     },
     "7698765082706437407": {
-      "FileName": "Clear download cache"
+      "FileName": "Clear download cache",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8825269716938169804": {
-      "FileName": "Server Verification Failed"
+      "FileName": "Server Verification Failed",
+      "LastUpdated": "2021-08-04T18:25:01+00:00"
     },
     "5415491538769492073": {
-      "FileName": "Checking DirectX Settings"
+      "FileName": "Checking DirectX Settings",
+      "LastUpdated": "2021-07-12T21:44:52+00:00"
     },
     "7605271880239749627": {
-      "FileName": "Dota 2 - Performance Issues, Crashes, or Failures When Launching"
+      "FileName": "Dota 2 - Performance Issues, Crashes, or Failures When Launching",
+      "LastUpdated": "2021-08-12T17:21:26+00:00"
     },
     "258297692838653570": {
-      "FileName": "Case Sensitive Filesystems not supported on Mac"
+      "FileName": "Case Sensitive Filesystems not supported on Mac",
+      "LastUpdated": "2021-12-03T19:44:18+00:00"
     },
     "462593103816411357": {
-      "FileName": "CS_GO - Viewer Passes"
+      "FileName": "CS_GO - Viewer Passes",
+      "LastUpdated": "2021-10-27T23:30:11+00:00"
     },
     "2646334668964795145": {
-      "FileName": "CS_GO - Graffiti"
+      "FileName": "CS_GO - Graffiti",
+      "LastUpdated": "2021-08-06T20:55:25+00:00"
     },
     "5706435398068383642": {
-      "FileName": "CS_GO - In-game Items"
+      "FileName": "CS_GO - In-game Items",
+      "LastUpdated": "2021-08-12T22:49:00+00:00"
     },
     "304198226935724578": {
-      "FileName": "Dota - Low Priority Matchmaking"
+      "FileName": "Dota - Low Priority Matchmaking",
+      "LastUpdated": "2021-12-02T23:54:26+00:00"
     },
     "6753649458989463392": {
-      "FileName": "Steam macOS Support"
+      "FileName": "Steam macOS Support",
+      "LastUpdated": "2021-08-06T22:03:24+00:00"
     },
     "6920789354318624301": {
-      "FileName": "Steam Link Build History"
+      "FileName": "Steam Link Build History",
+      "LastUpdated": "2021-12-20T22:46:08+00:00"
     },
     "3494694514230243911": {
-      "FileName": "Valve Hardware Return Packaging Guide"
+      "FileName": "Valve Hardware Return Packaging Guide",
+      "LastUpdated": "2022-07-12T16:33:17+00:00"
     },
     "6057563872459458384": {
-      "FileName": "DirectX and Pixel Shader Requirements for Games on Steam"
+      "FileName": "DirectX and Pixel Shader Requirements for Games on Steam",
+      "LastUpdated": "2021-08-13T00:43:07+00:00"
     },
     "5242650211871460280": {
-      "FileName": "Configuring a router for multiple clients"
+      "FileName": "Configuring a router for multiple clients",
+      "LastUpdated": "2021-08-10T23:04:24+00:00"
     },
     "4916736414384177194": {
-      "FileName": "How do I disable Compatibility Mode_"
+      "FileName": "How do I disable Compatibility Mode_",
+      "LastUpdated": "2021-08-10T17:06:27+00:00"
     },
     "6397398491832065558": {
-      "FileName": "Server Settings"
+      "FileName": "Server Settings",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7388971518156176644": {
-      "FileName": "Permanent Bans and Gift Restrictions"
+      "FileName": "Permanent Bans and Gift Restrictions",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1179493280080598391": {
-      "FileName": "VALVE Index System Requirements"
+      "FileName": "VALVE Index System Requirements",
+      "LastUpdated": "2021-07-26T20:57:48+00:00"
     },
     "442469429570524299": {
-      "FileName": "How Can I Get My Game on Steam_"
+      "FileName": "How Can I Get My Game on Steam_",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8466903480464485479": {
-      "FileName": "CS_GO - Competitive cooldowns and bans"
+      "FileName": "CS_GO - Competitive cooldowns and bans",
+      "LastUpdated": "2021-09-30T22:13:21+00:00"
     },
     "6950152966254053540": {
-      "FileName": "Mac Driver Updates"
+      "FileName": "Mac Driver Updates",
+      "LastUpdated": "2021-08-19T18:18:31+00:00"
     },
     "646087698021628335": {
-      "FileName": "Steam Play"
+      "FileName": "Steam Play",
+      "LastUpdated": "2021-07-21T21:18:46+00:00"
     },
     "6386610800410042470": {
-      "FileName": "Pre-Order Refunds"
+      "FileName": "Pre-Order Refunds",
+      "LastUpdated": "2021-08-28T01:18:18+00:00"
     },
     "7586403624451082884": {
-      "FileName": "Find Downloadable Content (DLC) for My Games"
+      "FileName": "Find Downloadable Content (DLC) for My Games",
+      "LastUpdated": "2021-07-21T23:32:58+00:00"
     },
     "1612367487684520621": {
-      "FileName": "SteamVR"
+      "FileName": "SteamVR",
+      "LastUpdated": "2021-07-26T21:55:09+00:00"
     },
     "7324553054381872868": {
-      "FileName": "Hosting a Local (Listen) Server for Valve Games"
+      "FileName": "Hosting a Local (Listen) Server for Valve Games",
+      "LastUpdated": "2021-08-12T17:36:59+00:00"
     },
     "2652784778746300889": {
-      "FileName": "Saving a Screenshot"
+      "FileName": "Saving a Screenshot",
+      "LastUpdated": "2021-08-02T23:36:41+00:00"
     },
     "7099260082728795856": {
-      "FileName": "Free to play games on Steam"
+      "FileName": "Free to play games on Steam",
+      "LastUpdated": "2021-08-28T01:23:31+00:00"
     },
     "4086435168742248526": {
-      "FileName": "Half-Life_ Alyx - Performance Tips"
+      "FileName": "Half-Life_ Alyx - Performance Tips",
+      "LastUpdated": "2021-08-10T16:48:06+00:00"
     },
     "1455697461566617374": {
-      "FileName": "Peer-to-Peer Networking and Sharing Your IP Address"
+      "FileName": "Peer-to-Peer Networking and Sharing Your IP Address",
+      "LastUpdated": "2021-08-12T21:02:02+00:00"
     },
     "3694187790818368155": {
-      "FileName": "Steam is already running"
+      "FileName": "Steam is already running",
+      "LastUpdated": "2021-08-05T19:57:40+00:00"
     },
     "1441334659516646678": {
-      "FileName": "Right-handed and Left-handed Models"
+      "FileName": "Right-handed and Left-handed Models",
+      "LastUpdated": "2021-08-12T20:57:25+00:00"
     },
     "8131262101315318936": {
-      "FileName": "My Steam Support ticket was closed and I don\u0027t know why"
+      "FileName": "My Steam Support ticket was closed and I don\u0027t know why",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "5116319035402673629": {
-      "FileName": "Console"
+      "FileName": "Console",
+      "LastUpdated": "2021-08-12T21:14:25+00:00"
     },
     "8715395377764033350": {
-      "FileName": "Games Are Missing from my Library"
+      "FileName": "Games Are Missing from my Library",
+      "LastUpdated": "2021-10-27T23:55:55+00:00"
     },
     "5601042700399114322": {
-      "FileName": "Soundtracks and Steam Music Player"
+      "FileName": "Soundtracks and Steam Music Player",
+      "LastUpdated": "2021-08-11T21:56:47+00:00"
     },
     "6558267004196197409": {
-      "FileName": "Troubleshooting Game Performance Issues - Software"
+      "FileName": "Troubleshooting Game Performance Issues - Software",
+      "LastUpdated": "2022-02-24T18:33:09+00:00"
     },
     "5720193824363732003": {
-      "FileName": "Restricted Steam Account"
+      "FileName": "Restricted Steam Account",
+      "LastUpdated": "2021-07-20T23:37:56+00:00"
     },
     "337359420261323109": {
-      "FileName": "Valve Hardware RMA Guide"
+      "FileName": "Valve Hardware RMA Guide",
+      "LastUpdated": "2022-02-24T22:44:18+00:00"
     },
     "5638895013442037178": {
-      "FileName": "Valve Hardware Warranty"
+      "FileName": "Valve Hardware Warranty",
+      "LastUpdated": "2022-03-04T17:39:34+00:00"
     },
     "1045408767405771538": {
-      "FileName": "Setting up a Steam Source Dedicated Server"
+      "FileName": "Setting up a Steam Source Dedicated Server",
+      "LastUpdated": "2021-12-02T22:55:41+00:00"
     },
     "1941446215599928099": {
-      "FileName": "Index Base Station \u0026 Lighthouse Tracking"
+      "FileName": "Index Base Station \u0026 Lighthouse Tracking",
+      "LastUpdated": "2021-07-26T22:06:18+00:00"
     },
     "2684841433549559402": {
-      "FileName": "Using Launch Settings for Video and Display Problems"
+      "FileName": "Using Launch Settings for Video and Display Problems",
+      "LastUpdated": "2021-08-03T23:30:47+00:00"
     },
     "6316105223607675304": {
-      "FileName": "Family Library Sharing"
+      "FileName": "Family Library Sharing",
+      "LastUpdated": "2021-08-12T22:07:44+00:00"
     },
     "6093295896427699144": {
-      "FileName": "Steam Broadcasting"
+      "FileName": "Steam Broadcasting",
+      "LastUpdated": "2021-08-10T18:29:02+00:00"
     },
     "8253233898342035073": {
-      "FileName": "Troubleshooting Game Performance Issues - Hardware"
+      "FileName": "Troubleshooting Game Performance Issues - Hardware",
+      "LastUpdated": "2022-03-02T17:20:55+00:00"
     },
     "7582432249025910773": {
-      "FileName": "Intel Video Cards with Source games"
+      "FileName": "Intel Video Cards with Source games",
+      "LastUpdated": "2021-08-05T18:15:46+00:00"
     },
     "5105759183209843173": {
-      "FileName": "Banned by Game Developer (Game Ban)"
+      "FileName": "Banned by Game Developer (Game Ban)",
+      "LastUpdated": "2022-01-18T21:41:56+00:00"
     },
     "553749440390020427": {
-      "FileName": "CS_GO - GSLT Bans"
+      "FileName": "CS_GO - GSLT Bans",
+      "LastUpdated": "2021-08-17T17:47:22+00:00"
     },
     "1490283970781686375": {
-      "FileName": "SteamVR FAQ"
+      "FileName": "SteamVR FAQ",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1530972104146240417": {
-      "FileName": "SteamVR Troubleshooting (Vive)"
+      "FileName": "SteamVR Troubleshooting (Vive)",
+      "LastUpdated": "2021-08-13T18:55:49+00:00"
     },
     "3935089029032042202": {
-      "FileName": "EU_UK Right of Withdrawal and Steam Refunds"
+      "FileName": "EU_UK Right of Withdrawal and Steam Refunds",
+      "LastUpdated": "2022-02-03T14:06:57+00:00"
     },
     "3719054496656610265": {
-      "FileName": "Valve Hardware Shipping FAQ"
+      "FileName": "Valve Hardware Shipping FAQ",
+      "LastUpdated": "2022-07-27T17:28:34+00:00"
     },
     "1718946021060084326": {
-      "FileName": "SteamVR \u002B Oculus Rift"
+      "FileName": "SteamVR \u002B Oculus Rift",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7553158533771523704": {
-      "FileName": "Steam Cloud"
+      "FileName": "Steam Cloud",
+      "LastUpdated": "2021-12-02T23:46:19+00:00"
     },
     "6595337518803280337": {
-      "FileName": "Missing CD Key"
+      "FileName": "Missing CD Key",
+      "LastUpdated": "2021-12-02T23:19:46+00:00"
     },
     "4507533753106874573": {
-      "FileName": "CS_GO - Communication Penalties"
+      "FileName": "CS_GO - Communication Penalties",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8301944717258780187": {
-      "FileName": "CS_GO - X-Ray Scanner"
+      "FileName": "CS_GO - X-Ray Scanner",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6051992689291350041": {
-      "FileName": "Steam Community Artwork"
+      "FileName": "Steam Community Artwork",
+      "LastUpdated": "2021-08-11T21:44:38+00:00"
     },
     "6862663911468549363": {
-      "FileName": "Antivirus software reports Steam games are malicious"
+      "FileName": "Antivirus software reports Steam games are malicious",
+      "LastUpdated": "2021-08-04T22:54:27+00:00"
     },
     "3021186137557380008": {
-      "FileName": "Game is not available on your current platform"
+      "FileName": "Game is not available on your current platform",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6956204799985173615": {
-      "FileName": "Disable Steam from running at startup"
+      "FileName": "Disable Steam from running at startup",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7955139165442287676": {
-      "FileName": "Windows XP and Windows Vista Support"
+      "FileName": "Windows XP and Windows Vista Support",
+      "LastUpdated": "2021-08-05T18:08:07+00:00"
     },
     "5373038115128222050": {
-      "FileName": "CS_GO 360 Stats"
+      "FileName": "CS_GO 360 Stats",
+      "LastUpdated": "2022-03-18T17:46:15+00:00"
     },
     "5297764887600884460": {
-      "FileName": "Credit Card Verification"
+      "FileName": "Credit Card Verification",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "4313486523894558837": {
-      "FileName": "My Items Are Missing or Were Stolen"
+      "FileName": "My Items Are Missing or Were Stolen",
+      "LastUpdated": "2021-08-16T17:40:55+00:00"
     },
     "2796289223589124788": {
-      "FileName": "Retrying a failed purchase - saved shopping cart"
+      "FileName": "Retrying a failed purchase - saved shopping cart",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "693634028272873365": {
-      "FileName": "CS_GO - Trusted Mode"
+      "FileName": "CS_GO - Trusted Mode",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6400661862089964742": {
-      "FileName": "Region Restrictions on Steam"
+      "FileName": "Region Restrictions on Steam",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "2181246272387907316": {
-      "FileName": "Voice Chat Connection and Quality Issues"
+      "FileName": "Voice Chat Connection and Quality Issues",
+      "LastUpdated": "2021-08-12T21:09:32+00:00"
     },
     "6817435823209224412": {
-      "FileName": "How do I download, install and update a standalone dedicated server_"
+      "FileName": "How do I download, install and update a standalone dedicated server_",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8245783127852518814": {
-      "FileName": "Recurring Subscriptions"
+      "FileName": "Recurring Subscriptions",
+      "LastUpdated": "2021-08-04T19:17:50+00:00"
     },
     "1875393469890568146": {
-      "FileName": "Pure server_ file [GAME]_pak01_001.vpk does not match the server\u0027s file"
+      "FileName": "Pure server_ file [GAME]_pak01_001.vpk does not match the server\u0027s file",
+      "LastUpdated": "2021-08-04T17:26:44+00:00"
     },
     "5297571435246367730": {
-      "FileName": "Steam and Games - Language Settings"
+      "FileName": "Steam and Games - Language Settings",
+      "LastUpdated": "2021-08-10T16:32:49+00:00"
     },
     "1699651202795685983": {
-      "FileName": "Steam Controller BLE"
+      "FileName": "Steam Controller BLE",
+      "LastUpdated": "2021-07-26T21:59:50+00:00"
     },
     "8190756403089708940": {
-      "FileName": "Managing Steam Downloads \u0026 Updates"
+      "FileName": "Managing Steam Downloads \u0026 Updates",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "7717593881592806808": {
-      "FileName": "Family View"
+      "FileName": "Family View",
+      "LastUpdated": "2022-02-20T09:00:38+00:00"
     },
     "4625403633206248922": {
-      "FileName": "Steam Community Groups"
+      "FileName": "Steam Community Groups",
+      "LastUpdated": "2021-10-27T20:54:19+00:00"
     },
     "3669649665256659864": {
-      "FileName": "Steam Remote Play Audio Setup"
+      "FileName": "Steam Remote Play Audio Setup",
+      "LastUpdated": "2021-10-27T23:50:40+00:00"
     },
     "67508337958896005": {
-      "FileName": "CS_GO - Trust Factor Matchmaking"
+      "FileName": "CS_GO - Trust Factor Matchmaking",
+      "LastUpdated": "2021-10-27T21:42:40+00:00"
     },
     "5413219293543562779": {
-      "FileName": "Adding a Phone Number to a Dota Account"
+      "FileName": "Adding a Phone Number to a Dota Account",
+      "LastUpdated": "2021-11-03T22:12:11+00:00"
     },
     "3001355762314666642": {
-      "FileName": "Steam Client Troubleshooting"
+      "FileName": "Steam Client Troubleshooting",
+      "LastUpdated": "2022-03-16T23:36:31+00:00"
     },
     "1163544522416469001": {
-      "FileName": "How to remotely manage your library using  Steam\u2019s Remote Downloads feature"
+      "FileName": "How to remotely manage your library using  Steam\u2019s Remote Downloads feature",
+      "LastUpdated": "2021-08-02T19:14:18+00:00"
     },
     "3345787685456414980": {
-      "FileName": "Trade and Market Confirmations"
+      "FileName": "Trade and Market Confirmations",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "1015616261575127752": {
-      "FileName": "Offline Mode"
+      "FileName": "Offline Mode",
+      "LastUpdated": "2021-08-09T21:47:16+00:00"
     },
     "6346937072166789855": {
-      "FileName": "Games do not run after \u0027Preparing to Launch\u0027"
+      "FileName": "Games do not run after \u0027Preparing to Launch\u0027",
+      "LastUpdated": "2021-08-05T20:06:53+00:00"
     },
     "5838758645356340429": {
-      "FileName": "How do I change my Steam account password_"
+      "FileName": "How do I change my Steam account password_",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "2447017403138275934": {
-      "FileName": "Update \u0026 Installation Issues"
+      "FileName": "Update \u0026 Installation Issues",
+      "LastUpdated": "2021-08-12T19:57:54+00:00"
     },
     "2888705562129272812": {
-      "FileName": "SteamID, Steam Account Names, Merging Accounts and Deleting Accounts"
+      "FileName": "SteamID, Steam Account Names, Merging Accounts and Deleting Accounts",
+      "LastUpdated": "2021-08-10T20:53:34+00:00"
     },
     "3973712895894748003": {
-      "FileName": "Steam\u0027s Big Picture mode"
+      "FileName": "Steam\u0027s Big Picture mode",
+      "LastUpdated": "2021-12-17T18:43:24+00:00"
     },
     "3063901153905004841": {
-      "FileName": "A Steam account already exists with that contact email address"
+      "FileName": "A Steam account already exists with that contact email address",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "6439095183969017903": {
-      "FileName": "Steam Friends \u0026 Chat"
+      "FileName": "Steam Friends \u0026 Chat",
+      "LastUpdated": "2022-07-06T20:36:00+00:00"
     },
     "5543827216918325796": {
-      "FileName": "Your credit card information has been declined by your credit card company"
+      "FileName": "Your credit card information has been declined by your credit card company",
+      "LastUpdated": "2021-08-28T00:49:47+00:00"
     },
     "7289972534851897650": {
-      "FileName": "Linking a YouTube account"
+      "FileName": "Linking a YouTube account",
+      "LastUpdated": "2021-08-05T16:13:41+00:00"
     },
     "4191372603585165667": {
-      "FileName": "Failed to Start Game (Missing Executable)"
+      "FileName": "Failed to Start Game (Missing Executable)",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "2840792390513569699": {
-      "FileName": "Steam Client Beta"
+      "FileName": "Steam Client Beta",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "8208599559700251315": {
-      "FileName": "Steam Account Use"
+      "FileName": "Steam Account Use",
+      "LastUpdated": "2021-08-04T20:40:28+00:00"
     },
     "2266645717020580679": {
-      "FileName": "Steam Levels and XP"
+      "FileName": "Steam Levels and XP",
+      "LastUpdated": "2021-10-28T01:02:21+00:00"
     },
     "134719327308099899": {
-      "FileName": "Self Locking Tool"
+      "FileName": "Self Locking Tool",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     },
     "9067654268722456352": {
-      "FileName": "Troubleshooting Microphone Problems"
+      "FileName": "Troubleshooting Microphone Problems",
+      "LastUpdated": "2021-10-27T21:56:19+00:00"
     },
     "6777163355919660783": {
-      "FileName": "Steam and macOS 10.15 Catalina"
+      "FileName": "Steam and macOS 10.15 Catalina",
+      "LastUpdated": "2021-07-13T01:07:35+00:00"
     },
     "6540775144582804479": {
-      "FileName": "Slow Downloads and Connection to Content Servers"
+      "FileName": "Slow Downloads and Connection to Content Servers",
+      "LastUpdated": "2021-08-18T20:46:25+00:00"
     },
     "5584950914979765099": {
-      "FileName": "CS_GO - Prime Status and Free to Play"
+      "FileName": "CS_GO - Prime Status and Free to Play",
+      "LastUpdated": "2021-08-11T00:14:06+00:00"
     },
     "13459463794168699": {
-      "FileName": "Your credit card information has been declined by your credit card company due to an incorrect address being entered"
+      "FileName": "Your credit card information has been declined by your credit card company due to an incorrect address being entered",
+      "LastUpdated": "2021-08-24T20:02:52+00:00"
     },
     "2059425740868674023": {
-      "FileName": "An unexpected error has occurred. Your purchase has not been completed."
+      "FileName": "An unexpected error has occurred. Your purchase has not been completed.",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
     }
   }
 }
