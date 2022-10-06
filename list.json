@@ -298,7 +298,29 @@
     "5AC5-8056-E88F-F3FF",
     "4D81-BB44-4F5C-9B6B",
     "002F-D14F-9E51-937B",
-    "1C94-8CCC-CDC5-E1E7"
+    "1C94-8CCC-CDC5-E1E7",
+    "7CFE-6339-CEA8-DC13",
+    "6121-ECCD-D643-BAA8",
+    "65DA-BD12-0DE9-9853",
+    "69E3-14AF-9764-4C28",
+    "7F7D-77FB-8CAA-4329",
+    "4228-F1C9-4D00-5B97",
+    "6E58-B45E-9263-0B19",
+    "56C6-D584-CC80-4EB2",
+    "4B5B-79DC-EF45-15DC",
+    "27AE-E9F6-BD78-F085",
+    "445F-796D-B42A-1C2B",
+    "7612-AE31-EF42-9E10",
+    "4886-1865-570C-4548",
+    "5E79-EA37-6D29-8CE9",
+    "57B5-E574-406A-4E61",
+    "6C09-ED6F-3A21-D2AB",
+    "61D8-A895-3212-09F4",
+    "2FC3-54BF-465F-E556",
+    "5389-9AE7-8969-BD70",
+    "58CB-73CB-1709-6182",
+    "73F2-8EEA-1113-69B2",
+    "679B-EC53-5A6D-6D7D"
   ],
   "KnownFags": {
     "9067089756590837321": {
@@ -1492,6 +1514,94 @@
     "2059425740868674023": {
       "FileName": "An unexpected error has occurred. Your purchase has not been completed.",
       "LastUpdated": "2021-07-10T19:49:55+00:00"
+    },
+    "9006745404719029267": {
+      "FileName": "Failed to start game (app already running)",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
+    },
+    "6999135664717675176": {
+      "FileName": "Steam Deck - Windows Resources",
+      "LastUpdated": "2022-06-17T00:08:24+00:00"
+    },
+    "7339386427994118227": {
+      "FileName": "CS_GO - Overwatch System",
+      "LastUpdated": "2021-12-02T21:22:28+00:00"
+    },
+    "7629964938087517224": {
+      "FileName": "Steam Deck - Basic Use \u0026 Troubleshooting Guide",
+      "LastUpdated": "2022-04-25T22:21:55+00:00"
+    },
+    "9186630737186145065": {
+      "FileName": "Valve Index Setup Guide",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
+    },
+    "4767326052454259607": {
+      "FileName": "CS_GO - I\u0027ve been Overwatch banned",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
+    },
+    "7951303460398500633": {
+      "FileName": "My computer crashes or stops at a blue or gray screen and I am forced to restart or it restarts itself",
+      "LastUpdated": "2021-12-02T21:12:48+00:00"
+    },
+    "6252919898993872562": {
+      "FileName": "Community Avatars \u0026 Profile Names",
+      "LastUpdated": "2021-12-02T23:05:45+00:00"
+    },
+    "5430067765539313116": {
+      "FileName": "Steam Servers Are Currently Unavailable or Too Busy",
+      "LastUpdated": "2021-08-10T17:51:19+00:00"
+    },
+    "2859480059376889989": {
+      "FileName": "CS_GO - Operation Riptide",
+      "LastUpdated": "2021-12-06T22:50:38+00:00"
+    },
+    "4926790029447666731": {
+      "FileName": "Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
+    },
+    "8508054175547039248": {
+      "FileName": "CS_GO - Steam Group Lobbies",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
+    },
+    "5225891241141224776": {
+      "FileName": "How do I download and install custom or user-made maps for my Source and Gold Source games_",
+      "LastUpdated": "2021-08-10T22:47:29+00:00"
+    },
+    "6807729835522755817": {
+      "FileName": "Unrecognized Charges",
+      "LastUpdated": "2021-07-10T19:49:55+00:00"
+    },
+    "6320209939544034913": {
+      "FileName": "Index Controller Troubleshooting",
+      "LastUpdated": "2021-12-02T21:13:55+00:00"
+    },
+    "7785014492859060907": {
+      "FileName": "Secure connection failed, No Steam logon, or A connection to the VAC servers could not be made",
+      "LastUpdated": "2021-07-21T23:44:52+00:00"
+    },
+    "7050570575392147956": {
+      "FileName": "SteamVR Troubleshooting (Index)",
+      "LastUpdated": "2021-08-12T18:09:18+00:00"
+    },
+    "3441687720737367382": {
+      "FileName": "Streaming Videos on Steam",
+      "LastUpdated": "2021-12-02T22:56:52+00:00"
+    },
+    "6019512696190909808": {
+      "FileName": "Sound Troubleshooting",
+      "LastUpdated": "2021-10-28T00:08:55+00:00"
+    },
+    "6398335011711967618": {
+      "FileName": "LAN Servers are Restricted to Local Clients (Class C)",
+      "LastUpdated": "2021-10-28T00:58:52+00:00"
+    },
+    "8354897394685667762": {
+      "FileName": "Using custom subtitles in Source games",
+      "LastUpdated": "2021-08-24T22:43:25+00:00"
+    },
+    "7465820650040290685": {
+      "FileName": "Supported Games for Steam for Linux",
+      "LastUpdated": "2021-08-10T23:55:21+00:00"
     }
   }
 }
