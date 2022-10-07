@@ -1,9 +1,12 @@
 Optimus and Steam for Linux
 ---------------------------
 Updated 2021-08-10 21.16.23
+Version 4
 
-[h2]How can I force a Steam for Linux game to use my NVidia card instead of the integrated video card?[/h2]
 
+[h2]
+How can I force a Steam for Linux game to use my NVidia card instead of the integrated video card?
+[/h2]
 The latest client release includes support for using Primus to run Steam client games. To take advantage of this you will need to install Primus for Bumblebee on your system. For installation instructions, see [url=https://wiki.ubuntu.com/Bumblebee]https://wiki.ubuntu.com/Bumblebee[/url] or [url=http://www.webupd8.org/2012/11/primus-better-performance-and-less.html]here[/url].
 
 [b]Note - Primus must be installed with 32-bit support because Steam for Linux (and most games downloaded from Steam) are 32-bit.[/b]

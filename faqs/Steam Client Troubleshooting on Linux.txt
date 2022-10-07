@@ -1,10 +1,15 @@
 Steam Client Troubleshooting on Linux
 -------------------------------------
 Updated 2021-07-10 19.49.55
+Version 4
 
 What should I do if Steam is crashing, not opening correctly or closing immediately after launching?
-
-[section style=important]  [h3]Important:[/h3]Currently, Steam for Linux is only supported on the most recent version of Ubuntu LTS with the Unity, Gnome, or KDE desktops.[/section]
+[section style=important]
+[h3]
+Important:
+[/h3]
+Currently, Steam for Linux is only supported on the most recent version of Ubuntu LTS with the Unity, Gnome, or KDE desktops.
+[/section]
 [h4]Troubleshooting[/h4]
 
 [h5]Check Video Drivers[/h5]You will want to install a 32-bit OpenGL program and make sure it runs properly, as most issues with Steam starting up on Linux are due to problems with the installation OpenGL drivers, or the lack of drivers entirely.

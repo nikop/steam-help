@@ -1,5 +1,6 @@
 # Error: Maximum Number of Groups Reached
-Updated 2021-08-02 18.37.34
+Updated 2021-08-02 18.37.34  
+Version 3  
 
 * [Why am I getting a max group limit error when trying to join a group?](#why)
 * [How can I join more groups?](#how)

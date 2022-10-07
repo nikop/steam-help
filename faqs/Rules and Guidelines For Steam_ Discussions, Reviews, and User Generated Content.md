@@ -1,5 +1,6 @@
 # Rules and Guidelines For Steam: Discussions, Reviews, and User Generated Content
-Updated 2021-12-17 18.22.32
+Updated 2021-12-17 18.22.32  
+Version 6  
 
 These guidelines apply to all places in the Steam Store and Community where users can post content. This includes, but is not limited to, discussions, comments, guides, product reviews, screenshots, artwork, videos, tags, and Steam Workshop.  
   

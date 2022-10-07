@@ -1,9 +1,16 @@
 Retrying a failed purchase - saved shopping cart
 ------------------------------------------------
 Updated 2021-07-10 19.49.55
+Version 3
 
-[list]  	[*][url=#summary]My purchase failed, can I try again? [/url][/*]  	[*][url=#findcart]How do I find my saved cart? [/url][/*]  	[*][url=#howtotryagain]How do I try my purchase again? [/url][/*]  	[*][url=#whynotsaved]Why was my cart not saved? [/url][/*]  	[*][url=#extend]I need more time, can Steam Support extend the 3 days (72 hours) period? [/url][/*]  [/list]
 
+[list]
+[*][url=#summary]My purchase failed, can I try again? [/url] [/*]
+[*][url=#findcart]How do I find my saved cart? [/url] [/*]
+[*][url=#howtotryagain]How do I try my purchase again? [/url] [/*]
+[*][url=#whynotsaved]Why was my cart not saved? [/url] [/*]
+[*][url=#extend]I need more time, can Steam Support extend the 3 days (72 hours) period? [/url] [/*]
+[/list]
 [url id=summary][/url]
 
 [h1][b]My purchase failed, can I try again?[/b][/h1]If your purchase fails, Steam will save your shopping cart for 72 hours so you can try to make your purchase again. Any discounts applied to your failed purchase will be saved, even if they are no longer available in the Steam store.

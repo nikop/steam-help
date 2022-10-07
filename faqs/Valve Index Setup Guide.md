@@ -1,5 +1,6 @@
 # Valve Index Setup Guide
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 2  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) [url id=knucklefit][/url]    	[tr]    		[td]![https://support.steampowered.com/steamvr/FitGuide/Headset.png](https://support.steampowered.com/steamvr/FitGuide/Headset.png) ![https://support.steampowered.com/steamvr/FitGuide/Line.png](https://support.steampowered.com/steamvr/FitGuide/Line.png) [/td]  		  		[td]  
   

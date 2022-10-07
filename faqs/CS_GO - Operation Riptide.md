@@ -1,5 +1,6 @@
 # CS:GO - Operation Riptide
-Updated 2021-12-06 22.50.38
+Updated 2021-12-06 22.50.38  
+Version 6  
 
 * [What is included when purchasing an Operation Riptide Pass?](#includedrt)
 * [How do I earn and redeem Operation rewards?](#rewardsrt)

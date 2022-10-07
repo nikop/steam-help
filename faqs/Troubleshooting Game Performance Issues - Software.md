@@ -1,5 +1,6 @@
 # Troubleshooting Game Performance Issues - Software
-Updated 2022-02-24 18.33.09
+Updated 2022-02-24 18.33.09  
+Version 7  
 
 ### How can I improve my game's FPS and reduce choppiness and lag while playing?
  Poor or reduced FPS can be caused by any number of factors, all of which are hard to diagnose without physically looking at your machine. Due to the number of unique hardware and software configurations, it's nearly impossible to provide detailed analysis and recommendations for each user.  

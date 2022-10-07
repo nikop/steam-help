@@ -1,5 +1,6 @@
 # NVIDIA Shield
-Updated 2021-08-19 19.40.07
+Updated 2021-08-19 19.40.07  
+Version 3  
 
 ### Games
 Portal and Half-Life 2 are now available on the NVIDIA Shield via the Google Play store.  

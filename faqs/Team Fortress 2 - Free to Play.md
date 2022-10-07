@@ -1,5 +1,6 @@
 # Team Fortress 2 - Free to Play
-Updated 2021-08-18 19.04.12
+Updated 2021-08-18 19.04.12  
+Version 7  
 
 What do I need to know about Team Fortress 2 Free to Play?  
   

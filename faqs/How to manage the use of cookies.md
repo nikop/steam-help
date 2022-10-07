@@ -1,5 +1,6 @@
 # How to manage the use of cookies
-Updated 2021-10-28 00.24.06
+Updated 2021-10-28 00.24.06  
+Version 5  
 
 Steam uses cookies, some of which are technically required for the website to work (e.g. a cookie that stores what you have added to your shopping cart). Others are not required but help us identify how you use Steam or improve your user experience.  
   

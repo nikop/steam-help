@@ -1,5 +1,6 @@
 # CS:GO - I've been Overwatch banned
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 Overwatch bans are non-negotiable and cannot be removed or reduced by Steam Support.  
   

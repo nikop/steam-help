@@ -1,5 +1,6 @@
 # Community Market FAQ
-Updated 2021-08-16 18.35.10
+Updated 2021-08-16 18.35.10  
+Version 6  
 
 #### General Questions
 

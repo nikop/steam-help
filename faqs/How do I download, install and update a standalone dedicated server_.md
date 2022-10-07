@@ -1,5 +1,6 @@
 # How do I download, install and update a standalone dedicated server?
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 ### What happened to the HLDSUpdateTool? Why can't I download or update servers from it?
 All Steam game servers now use SteamCMD to download and update game server files. HLDSUpdateTool has been retired and will no longer function.  

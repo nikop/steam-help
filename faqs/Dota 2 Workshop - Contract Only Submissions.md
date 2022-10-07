@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Contract Only Submissions
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)  
   

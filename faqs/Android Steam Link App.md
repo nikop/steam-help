@@ -1,5 +1,6 @@
 # Android Steam Link App
-Updated 2021-08-09 16.05.40
+Updated 2021-08-09 16.05.40  
+Version 10  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)    
   

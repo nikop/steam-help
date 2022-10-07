@@ -1,5 +1,6 @@
 # Steam Levels and XP
-Updated 2021-10-28 01.02.21
+Updated 2021-10-28 01.02.21  
+Version 5  
 
 * [Who can level up their Steam Community profile?](#who)
 * [How do I increase XP on my profile to level up?](#increase)

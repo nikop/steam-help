@@ -1,5 +1,6 @@
 # Enabling Low Violence in Team Fortress 2
-Updated 2021-12-02 21.34.16
+Updated 2021-12-02 21.34.16  
+Version 5  
 
 How do I enable low violence or censored mode in Team Fortress 2?  
   

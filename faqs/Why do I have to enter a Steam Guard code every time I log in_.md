@@ -1,5 +1,6 @@
 # Why do I have to enter a Steam Guard code every time I log in?
-Updated 2021-08-12 21.26.26
+Updated 2021-08-12 21.26.26  
+Version 7  
 
 With [Steam Guard](https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C), Steam saves a cookie to remember your computer or browser. Your browser must have cookies enabled for [Steam Guard](https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C) to work properly.  
   

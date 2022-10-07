@@ -1,5 +1,6 @@
 # Third-Party Game Support
-Updated 2021-10-06 23.48.15
+Updated 2021-10-06 23.48.15  
+Version 8  
 
 When is it appropriate to contact Steam Support about a third party game?  
   

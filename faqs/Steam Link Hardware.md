@@ -1,5 +1,6 @@
 # Steam Link Hardware
-Updated 2021-08-04 17.23.36
+Updated 2021-08-04 17.23.36  
+Version 7  
 
 ![https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png](https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png)  # Steam Link Hardware
 The Steam Link allows you to stream games from the Steam Library on your PC to any TV in your home. The technology takes advantage of the horsepower you already have in your home, streaming from your current gaming computer by mirroring its experience to your TV.  

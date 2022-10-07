@@ -1,5 +1,6 @@
 # Resources for APIs, Source SDK, Mapping, and Dedicated Servers
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 I have an issue or a question regarding APIs, the Source SDK, Mapping, and/or the Dedicated Server. Where can I find more information?  
   

@@ -1,5 +1,6 @@
 # Index Controller Troubleshooting
-Updated 2021-12-02 21.13.55
+Updated 2021-12-02 21.13.55  
+Version 8  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) # General troubleshooting
 Before reading further, be sure to:  

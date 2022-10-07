@@ -1,5 +1,6 @@
 # Account Security Recommendations
-Updated 2021-08-28 00.48.12
+Updated 2021-08-28 00.48.12  
+Version 5  
 
 * [Enable Steam Guard two-factor authentication](#steamguard)
 * [Verify your contact email address with Steam](#verify)

@@ -1,5 +1,6 @@
 # Steam Account Use
-Updated 2021-08-04 20.40.28
+Updated 2021-08-04 20.40.28  
+Version 5  
 
 * [Can I use multiple Steam accounts on one computer?](#onemachine)
 * [Can I use my Steam account on other computers?](#multiple)

@@ -1,5 +1,6 @@
 # Linux Dedicated Server System Requirements
-Updated 2021-08-17 17.29.55
+Updated 2021-08-17 17.29.55  
+Version 3  
 
 ### Linux dedicated server requirements
   

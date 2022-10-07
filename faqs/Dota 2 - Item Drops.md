@@ -1,5 +1,6 @@
 # Dota 2 - Item Drops
-Updated 2021-12-02 23.49.06
+Updated 2021-12-02 23.49.06  
+Version 6  
 
 Dota cosmetic items are awarded periodically for playing and completing matches.  
   

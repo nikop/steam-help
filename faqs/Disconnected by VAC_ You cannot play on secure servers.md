@@ -1,5 +1,6 @@
 # Disconnected by VAC: You cannot play on secure servers
-Updated 2021-08-12 19.49.00
+Updated 2021-08-12 19.49.00  
+Version 6  
 
 Modifying game files and/or in-game textures may cause this error.  
   

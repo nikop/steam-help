@@ -1,5 +1,6 @@
 # Recurring Subscriptions
-Updated 2021-08-04 19.17.50
+Updated 2021-08-04 19.17.50  
+Version 4  
 
 * [How do I purchase a Subscription Plan?](#purchase)
 * [How do I manage or cancel my Subscription?](#manage)

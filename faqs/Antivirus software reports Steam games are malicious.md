@@ -1,5 +1,6 @@
 # Antivirus software reports Steam games are malicious
-Updated 2021-08-04 22.54.27
+Updated 2021-08-04 22.54.27  
+Version 7  
 
 My antivirus or firewall software reports my new Steam purchases contain a trojan or potentially dangerous program - what is happening?  
   

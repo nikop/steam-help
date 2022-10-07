@@ -1,17 +1,22 @@
 Game is not available on your current platform
 ----------------------------------------------
 Updated 2021-07-10 19.49.55
+Version 4
 
 When installing or launching a game, Steam displays the error:
 [list]
 [*]Game is not available on your current platform.
-[/list] 
+[/list]
 This error message means that the game is not supported on the operating system that you are currently using.
 
 [h1]Check Supported Operating Systems for the Game[/h1]
 You can check each game's system requirements and compatible operating systems on that game's Steam Store page by scrolling down to its "System Requirements" section.
-
-[section style=important]  [h3]Note:[/h3]When checking system compatibility with a specific game, ensure that you check the game's hardware requirements in addition to compatible operating systems.[/section]
+[section style=important]
+[h3]
+Note:
+[/h3]
+When checking system compatibility with a specific game, ensure that you check the game's hardware requirements in addition to compatible operating systems.
+[/section]
 [b]Purchased on Steam store[/b]
 If the game does not support your operating system and you purchased it on the Steam store you can request a refund through our help site by following the instructions on the [url=https://help.steampowered.com/en/faqs/view/784C-923B-A4A1-C825]How To Request A Refund[/url] page.
 
@@ -47,5 +52,9 @@ A list of featured Linux games can be found here:
 You can also perform a search within the Steam Store and then select "SteamOS + Linux" in the Narrow by OS box to filter to Linux compatible results only.
 
 [b]Note:[/b] Steam users on Linux may be able to make use of the Steam feature Steam Play to potentially play some Windows only games on Linux. For more information see the [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Introducing a new version of Steam Play[/url] page.
-
-[section style=important]  [h3]Important:[/h3]Some users will deliberately purchase a game that is not available on their operating system with the aim of running the game with emulators or other utilities that simulate the game's system requirements. Be aware that purchases made with this goal in mind are not supported by Steam Support.[/section]
+[section style=important]
+[h3]
+Important:
+[/h3]
+Some users will deliberately purchase a game that is not available on their operating system with the aim of running the game with emulators or other utilities that simulate the game's system requirements. Be aware that purchases made with this goal in mind are not supported by Steam Support.
+[/section]

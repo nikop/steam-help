@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Item FAQ
-Updated 2021-08-24 22.38.40
+Updated 2021-08-24 22.38.40  
+Version 9  
 
 ## ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)
 

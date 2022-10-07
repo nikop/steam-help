@@ -1,5 +1,6 @@
 # CS:GO - Opting into Beta depots
-Updated 2021-08-12 20.26.42
+Updated 2021-08-12 20.26.42  
+Version 5  
 
 CS:GO Beta depots allow the game's developers (and users) to test changes not yet available in the Public version of the game.  
   

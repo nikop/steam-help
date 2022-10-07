@@ -1,5 +1,6 @@
 # Using a Firewall with Steam
-Updated 2021-08-04 22.23.14
+Updated 2021-08-04 22.23.14  
+Version 5  
 
 How should I configure my firewall to work with Steam?  
   

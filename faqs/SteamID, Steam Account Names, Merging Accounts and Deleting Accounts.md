@@ -1,5 +1,6 @@
 # SteamID, Steam Account Names, Merging Accounts and Deleting Accounts
-Updated 2021-08-10 20.53.34
+Updated 2021-08-10 20.53.34  
+Version 4  
 
 ## How can I find my SteamID?
 The term **SteamID** refers to a unique identifier for a specific Steam account. It can be formatted in a few different ways, but the most commonly used is the account's 64 bit ID which is a 17 digit number. The instructions below will help you find your SteamID.  

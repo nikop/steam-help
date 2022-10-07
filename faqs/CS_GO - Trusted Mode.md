@@ -1,5 +1,6 @@
 # CS:GO - Trusted Mode
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 * [What is Trusted mode?](#trust)
 * [How does Trusted mode help fight against cheaters?](#how)

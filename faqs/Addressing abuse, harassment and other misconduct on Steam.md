@@ -1,5 +1,6 @@
 # Addressing abuse, harassment and other misconduct on Steam
-Updated 2022-02-11 21.10.21
+Updated 2022-02-11 21.10.21  
+Version 8  
 
 Several options are available to address abusive or inappropriate behaviors encountered while using Steam. There are also practices to keep in mind that can help you avoid these types of behaviors altogether.  
   

@@ -1,5 +1,6 @@
 # Steam Link Support
-Updated 2021-10-28 01.59.27
+Updated 2021-10-28 01.59.27  
+Version 4  
 
 ![https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png](https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png)  
   

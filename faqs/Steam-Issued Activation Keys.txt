@@ -1,12 +1,13 @@
 Steam-Issued Activation Keys
 ----------------------------
 Updated 2021-08-05 19.37.53
+Version 5
 
 Some Steam games may provide you with an additional activation key once they have been downloaded on a Steam account. These keys appear in the Steam library when you right-click the game and select 'Manage' -> 'CD keys'. These keys are used to register your product outside of Steam, with a third party client or service.
 
 [img]https://support.steampowered.com/images/faq/client/view_cd_key.jpg[/img]
-
-[section style=important]This FAQ pertains to Steam-issued keys that were added to your account after a game was purchased or registered. If you are registering a retail or digital key to your Steam account, please see the [url=https://help.steampowered.com/en/faqs/view/0E71-0971-324A-1161]Retail & Digital CD Keys[/url] FAQ for further information.[/section]
+[section style=important]This FAQ pertains to Steam-issued keys that were added to your account after a game was purchased or registered. If you are registering a retail or digital key to your Steam account, please see the [url=https://help.steampowered.com/en/faqs/view/0E71-0971-324A-1161]Retail & Digital CD Keys[/url] FAQ for further information.
+[/section]
 [h4]Why am I not receiving my Steam-issued third party key?[/h4]Make sure that the game has been successfully downloaded and installed through the Steam client. A key will not be issued on the Steam account until the download has begun.
 
 If the key is still not generating, please [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]verify integrity of game files[/url] and restart the Steam client.

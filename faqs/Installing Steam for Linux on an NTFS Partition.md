@@ -1,5 +1,6 @@
 # Installing Steam for Linux on an NTFS Partition
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 Commonly, drives are mounted automatically using **/etc/fstab**. In order to install Steam for Linux onto an NTFS partition, it must be explicitly mounted using the **ntfs-3g** driver. The following information lists the steps for properly modifying your **/etc/fstab** file:  
   

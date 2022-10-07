@@ -1,5 +1,6 @@
 # Valve Hardware Return Packaging Guide
-Updated 2022-07-12 16.33.17
+Updated 2022-07-12 16.33.17  
+Version 6  
 
 # Contact Steam Support
   

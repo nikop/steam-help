@@ -1,5 +1,6 @@
 # How do I download and install custom or user-made maps for my Source and Gold Source games?
-Updated 2021-08-10 22.47.29
+Updated 2021-08-10 22.47.29  
+Version 7  
 
 How do I download and install custom maps for Source and Gold Source engine games?  
   

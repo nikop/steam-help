@@ -1,6 +1,7 @@
 Steam Deck Desktop: FAQ
 -----------------------
 Updated 2022-03-02 23.43.46
+Version 6
 
 Steam Deck is designed to be a complete Steam gaming experience out of the box – players can browse, download and play games from Steam, text or voice-chat their friends with Steam Chat, get game and system updates, adjust Steam Deck settings and more all within the default Deck user experience. That said, Steam Deck is a PC and you can easily get to the desktop and do even more. Here are answers to a few common questions we’ve received about using the desktop on Steam Deck.
 

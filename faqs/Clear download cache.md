@@ -1,5 +1,6 @@
 # Clear download cache
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 4  
 
 Clearing your download cache can solve problems with games that won't download or start.  
   

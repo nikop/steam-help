@@ -1,5 +1,6 @@
 # Team Fortress 2 Workshop
-Updated 2021-10-28 00.27.57
+Updated 2021-10-28 00.27.57  
+Version 8  
 
 * [What are the steps to making an item?](#stepsitem)
 * [How does the item publishing process work?](#publishitem)

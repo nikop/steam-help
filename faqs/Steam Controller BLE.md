@@ -1,5 +1,6 @@
 # Steam Controller BLE
-Updated 2021-07-26 21.59.50
+Updated 2021-07-26 21.59.50  
+Version 4  
 
 ![https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png](https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png)  
   

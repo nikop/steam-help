@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Cursor Packs
-Updated 2021-10-28 02.08.01
+Updated 2021-10-28 02.08.01  
+Version 4  
 
 ![http://cdn.dota2.com/apps/dota2/images/international2015/compendium/stretch_goals/cursor_pack.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/international2015/compendium/stretch_goals/cursor_pack.jpg?v=1459382400)  
   

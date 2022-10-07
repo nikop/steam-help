@@ -1,5 +1,6 @@
 # Saving a Screenshot
-Updated 2021-08-02 23.36.41
+Updated 2021-08-02 23.36.41  
+Version 8  
 
 Troubleshooting issues may require providing a screen shot to Steam Support  
   

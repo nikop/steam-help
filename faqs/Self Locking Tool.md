@@ -1,5 +1,6 @@
 # Self Locking Tool
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 * [What is the self locking tool?](#what)
 * [How do I lock my account if it is stolen?](#how)

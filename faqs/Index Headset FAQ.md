@@ -1,5 +1,6 @@
 # Index Headset FAQ
-Updated 2021-12-30 19.16.37
+Updated 2021-12-30 19.16.37  
+Version 8  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) ### General troubleshooting
 **Before following instructions below, be sure you've tried the following:**  

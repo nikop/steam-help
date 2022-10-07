@@ -1,5 +1,6 @@
 # Dota 2 - League Tickets
-Updated 2021-08-12 20.19.54
+Updated 2021-08-12 20.19.54  
+Version 7  
 
 * [How do I sign-up for a Dota TV league ticket?](#signup)
 * [How far in advance do I need to submit my league ticket?](#advance)

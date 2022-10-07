@@ -1,5 +1,6 @@
 # Steam is already running
-Updated 2021-08-05 19.57.40
+Updated 2021-08-05 19.57.40  
+Version 8  
 
 When I attempt to launch Steam or a game, I get an error message saying that Steam is already running.  How can I resolve the problem?  
   

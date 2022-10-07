@@ -1,5 +1,6 @@
 # Moving a Steam Installation and Games
-Updated 2021-10-27 22.55.30
+Updated 2021-10-27 22.55.30  
+Version 10  
 
 * [How do I change the default installation path for my games?](#default)
 * [How do I move a game's installation folder?](#move)

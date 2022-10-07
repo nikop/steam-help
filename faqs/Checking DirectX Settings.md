@@ -1,5 +1,6 @@
 # Checking DirectX Settings
-Updated 2021-07-12 21.44.52
+Updated 2021-07-12 21.44.52  
+Version 5  
 
 There are a number of different types of DirectX related errors, some common ones are listed below. For DirectX related errors the best first step is to make sure you are running the most up-to-date version of it.  
 

@@ -1,5 +1,6 @@
 # Manually Updating the Steam Link
-Updated 2022-07-14 00.25.27
+Updated 2022-07-14 00.25.27  
+Version 7  
 
 ![https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png](https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png)  
   

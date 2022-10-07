@@ -1,5 +1,6 @@
 # Raspberry Pi Steam Link App
-Updated 2021-08-12 18.02.10
+Updated 2021-08-12 18.02.10  
+Version 8  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  # Steam Link App for Raspberry Pi
 The Steam Link app extends Steam Link functionality to the Raspberry Pi 3B and 3B+, running Raspbian Stretch. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your Raspberry Pi.  

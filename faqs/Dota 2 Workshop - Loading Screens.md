@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Loading Screens
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 ![{STEAM_CLAN_IMAGE}/1976/d16acdec7b7174be653ae9b086252b0def5b70da.png]({STEAM_CLAN_IMAGE}/1976/d16acdec7b7174be653ae9b086252b0def5b70da.png)  
   

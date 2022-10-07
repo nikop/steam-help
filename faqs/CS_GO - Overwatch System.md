@@ -1,5 +1,6 @@
 # CS:GO - Overwatch System
-Updated 2021-12-02 21.22.28
+Updated 2021-12-02 21.22.28  
+Version 11  
 
 CS:GO Game bans issued by Overwatch Investigators are non-negotiable and cannot be removed by Steam Support.    
 ## CS:GO Overwatch basics:

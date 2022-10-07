@@ -1,5 +1,6 @@
 # Index Base Station & Lighthouse Tracking
-Updated 2021-07-26 22.06.18
+Updated 2021-07-26 22.06.18  
+Version 4  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) # General troubleshooting
 Before reading further, be sure to:  

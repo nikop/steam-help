@@ -1,5 +1,6 @@
 # SteamVR Troubleshooting (Vive)
-Updated 2021-08-13 18.55.49
+Updated 2021-08-13 18.55.49  
+Version 9  
 
 ![https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png](https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png)  
   

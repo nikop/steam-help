@@ -1,6 +1,7 @@
 Steam Controller Troubleshooting
 --------------------------------
 Updated 2021-08-12 20.24.44
+Version 6
 
 [img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
 
@@ -21,29 +22,70 @@ You can also launch Big Picture Mode from your Steam Controller. Press the Steam
 The Steam Client Beta is a feature any Steam user can opt into. Opting into the beta will allow users to receive updates and fixes before they are made available through the regular Steam Client.
 
 To get the latest updates and features from the development team, please opt into the Steam Client beta.
-
-[list]  	[*]While in Big Picture Mode, select the [i]Settings[/i] icon from the top right section of the client.[/*]  	[*]From here, select the [i]System[/i] menu.[/*]  	[*]Ensure that the [i]Participate in Client Beta[/i] option is checked.[/*]  	[*]Finally, select [i]Check for Updates[/i]. If updates are available, they will automatically be downloaded and installed.[/*]  [/list][/expand][expand type=title title="Enable the Steam Overlay"]
+[list]
+[*]While in Big Picture Mode, select the [i]Settings[/i] icon from the top right section of the client. [/*]
+[*]From here, select the [i]System[/i] menu. [/*]
+[*]Ensure that the [i]Participate in Client Beta[/i] option is checked. [/*]
+[*]Finally, select [i]Check for Updates[/i]. If updates are available, they will automatically be downloaded and installed. [/*]
+[/list]
+[/expand][expand type=title title="Enable the Steam Overlay"]
 
 Please ensure that the Steam Overlay is enabled.
-
-[list]  	[*]While in Big Picture Mode, select the [i]Settings[/i] icon from the top right section of the client.[/*]  	[*]From here, select [i]Steam Overlay[/i] under [i]Features[/i].[/*]  	[*]Make sure the [i]Enable the Steam Overlay[/i] option is checked.[/*]  [/list][/expand][expand type=title title="Run Steam as Admin"]
+[list]
+[*]While in Big Picture Mode, select the [i]Settings[/i] icon from the top right section of the client. [/*]
+[*]From here, select [i]Steam Overlay[/i] under [i]Features[/i]. [/*]
+[*]Make sure the [i]Enable the Steam Overlay[/i] option is checked. [/*]
+[/list]
+[/expand][expand type=title title="Run Steam as Admin"]
 
 Depending on your setup, certain features may require Steam to be run with administrator privileges. Try running Steam as administrator by doing the following:
-
-[list]  	[*]Navigate to the Steam installation folder (C:\Program Files (x86)\Steam\ by default)[/*]  	[*]Right-click on steam.exe[/*]  	  	[*]Select [i]Run as administrator[/i][/*]  [/list][/expand]            
-[h2]Is my Controller Defective?[/h2]There are multiple diagnostic tools that can help in determining whether or not a controller has a hardware defect.
-
-[list]  	[*]The Input test tool can be used to verify the functionality of each button on the Steam Controller. It will also verify the functionality of the Steam Controller’s haptic feedback. To do this, please follow these steps:  	[list]  		[*]In Big Picture mode, go to Settings > Controller > Controller settings[/*]  		[*]Highlight your Steam Controller in the device list and select [i]Support[/i][/*]  		[*]Follow the on-screen instructions to complete the diagnostic test[/*]  	[/list]  	[/*]  	[*]The calibration tool automatically adjusts the controller so that the Joystick, Track Pads, and Gyro function optimally.  	[list]  		[*]In Big Picture mode, go to Settings > Controller > Controller settings[/*]  		[*]Highlight your Steam Controller in the device list and select [i]Calibrate[/i][/*]  		[*]Follow the on-screen instructions to complete the calibration[/*]  		[*]The development team recommends performing the calibration twice[/*]  	[/list]  	[/*]  [/list]      [expand type=title title="Diagnostics Failed"]
+[list]
+[*]Navigate to the Steam installation folder (C:\Program Files (x86)\Steam\ by default) [/*]
+[*]Right-click on steam.exe [/*]
+[*]Select [i]Run as administrator[/i] [/*]
+[/list]
+[/expand]
+[h2]
+Is my Controller Defective?
+[/h2]
+There are multiple diagnostic tools that can help in determining whether or not a controller has a hardware defect.
+[list]
+[*]The Input test tool can be used to verify the functionality of each button on the Steam Controller. It will also verify the functionality of the Steam Controller’s haptic feedback. To do this, please follow these steps:
+[list]
+[*]In Big Picture mode, go to Settings > Controller > Controller settings [/*]
+[*]Highlight your Steam Controller in the device list and select [i]Support[/i] [/*]
+[*]Follow the on-screen instructions to complete the diagnostic test [/*]
+[/list]
+[/*]
+[*]The calibration tool automatically adjusts the controller so that the Joystick, Track Pads, and Gyro function optimally.
+[list]
+[*]In Big Picture mode, go to Settings > Controller > Controller settings [/*]
+[*]Highlight your Steam Controller in the device list and select [i]Calibrate[/i] [/*]
+[*]Follow the on-screen instructions to complete the calibration [/*]
+[*]The development team recommends performing the calibration twice [/*]
+[/list]
+[/*]
+[/list]
+[expand type=title title="Diagnostics Failed"]
 
 If you are unable to complete the hardware diagnostic tests, then your device may have a physical defect. You may need to initiate an RMA to pursue a refund or replacement.
 
 You may request a replacement for your device through the Steam Support site by following the instructions below.
-
-[olist]  	[*]If purchased on Steam:[/*]  	[*]Go to [url=https://help.steampowered.com]https://help.steampowered.com[/url][/*]  	[*]Select [i]A Purchase[/i][/*]  	[*]Locate and select the Steam Controller[/*]  	[*]Select [i]Technical Issue[/i][/*]  	[*]Select [i]I would like a replacement[/i][/*]  	[*]Follow the instructions to request your replacement[/*]  [/olist]
-
+[olist]
+[*]If purchased on Steam: [/*]
+[*]Go to [url=https://help.steampowered.com]https://help.steampowered.com[/url] [/*]
+[*]Select [i]A Purchase[/i] [/*]
+[*]Locate and select the Steam Controller [/*]
+[*]Select [i]Technical Issue[/i] [/*]
+[*]Select [i]I would like a replacement[/i] [/*]
+[*]Follow the instructions to request your replacement [/*]
+[/olist]
 More information about Steam Hardware returns and replacements is available here:
-
-[list]  	[*][url=https://help.steampowered.com/en/faqs/view/04AE-8A9A-F64E-D165]Steam Hardware RMA Guide[/url][/*]  	[*][url=https://help.steampowered.com/en/faqs/view/4E41-6123-79EF-25BA]Steam Hardware Warranty[/url][/*]  [/list][/expand][expand type=title title="Diagnostics Passed"]
+[list]
+[*][url=https://help.steampowered.com/en/faqs/view/04AE-8A9A-F64E-D165]Steam Hardware RMA Guide[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/4E41-6123-79EF-25BA]Steam Hardware Warranty[/url] [/*]
+[/list]
+[/expand][expand type=title title="Diagnostics Passed"]
 
 If the problem does not appear to be hardware related, then it may be a software issue. Our developers frequently read the Steam Hardware Forums, and are constantly releasing updates and bug fixes. Please submit all bugs and feedback to the Steam Hardware forums, found here:
 

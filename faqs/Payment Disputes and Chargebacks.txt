@@ -1,12 +1,22 @@
 Payment Disputes and Chargebacks
 --------------------------------
 Updated 2021-10-28 00.07.02
+Version 5
 
-[exclude_realm=china][img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img][/exclude_realm]
 
+[exclude_realm=china][img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
+[/exclude_realm]
 [h1]Payment Disputes and Chargebacks[/h1]When a cardholder or financial institution disputes a purchase made through Steam resulting in a payment reversal, this is considered a chargeback.
-
-[list]      [*][url=#7]Why do chargebacks result in account restrictions?[/url][/*]      [*][url=#5]How can I remove the restrictions from my account?[/url][/*]      [*][url=#6]What if the charges were unauthorized or made without my consent?[/url][/*]      [*][url=#2]Why were games/items removed?[/url][/*]      [*][url=#4]What if I disputed the purchase because of issues with the product?[/url][/*]      [*][url=#8]What if I am unable to reverse the chargeback?[/url][/*]      [*][url=#9]What if hardware is included in the disputed transaction?[/url][/*]  [/list]      [url id=7][/url]
+[list]
+[*][url=#7]Why do chargebacks result in account restrictions?[/url] [/*]
+[*][url=#5]How can I remove the restrictions from my account?[/url] [/*]
+[*][url=#6]What if the charges were unauthorized or made without my consent?[/url] [/*]
+[*][url=#2]Why were games/items removed?[/url] [/*]
+[*][url=#4]What if I disputed the purchase because of issues with the product?[/url] [/*]
+[*][url=#8]What if I am unable to reverse the chargeback?[/url] [/*]
+[*][url=#9]What if hardware is included in the disputed transaction?[/url] [/*]
+[/list]
+[url id=7][/url]
 
 [h4]Why do chargebacks result in account restrictions?[/h4]Chargebacks typically occur when someone identifies unknown charges on their bank account, or finds purchases that were made without their consent.
 

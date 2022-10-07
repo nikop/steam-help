@@ -1,5 +1,6 @@
 # Updating Drivers
-Updated 2021-08-20 16.53.33
+Updated 2021-08-20 16.53.33  
+Version 7  
 
 Using outdated drivers can affect performance despite video hardware meeting or exceeding the system requirements of the game you are playing. We recommend checking for driver updates on a regular basis. If you do encounter performance issues, updating your drivers is a good first step in troubleshooting.  
   

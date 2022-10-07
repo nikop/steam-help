@@ -1,5 +1,6 @@
 # Scam FAQ (Confidence Scams and Trade Scams)
-Updated 2021-08-11 21.49.59
+Updated 2021-08-11 21.49.59  
+Version 10  
 
 Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
   

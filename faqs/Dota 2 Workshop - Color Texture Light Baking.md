@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Color Texture Light Baking
-Updated 2021-08-28 00.52.48
+Updated 2021-08-28 00.52.48  
+Version 4  
 
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_01-DefiningColor_notext_01.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_01-DefiningColor_notext_01.jpg)  
   

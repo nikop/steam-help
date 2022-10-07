@@ -1,5 +1,6 @@
 # Touch Controls
-Updated 2021-07-21 20.53.56
+Updated 2021-07-21 20.53.56  
+Version 3  
 
 ![https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png](https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png)  
   

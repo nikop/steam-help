@@ -1,5 +1,6 @@
 # Steam Guard: How to set up a Steam Guard Mobile Authenticator
-Updated 2021-07-22 23.01.08
+Updated 2021-07-22 23.01.08  
+Version 4  
 
 ## For Android and iOS devices, and Windows Phone
 ![http://steamcdn-a.akamaihd.net/steam/mobile/setupfaq/banner_phones.jpg](http://steamcdn-a.akamaihd.net/steam/mobile/setupfaq/banner_phones.jpg)  

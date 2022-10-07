@@ -1,5 +1,6 @@
 # Low Violence Option in Left 4 Dead
-Updated 2021-08-05 19.51.00
+Updated 2021-08-05 19.51.00  
+Version 4  
 
 How can I lower the violence and content for Left 4 Dead?  
   

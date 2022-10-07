@@ -1,5 +1,6 @@
 # Steam Store Country
-Updated 2022-07-27 17.31.51
+Updated 2022-07-27 17.31.51  
+Version 4  
 
 * [What if I moved and want to change my store country to the new location?](#currency)
 * [What if I want to purchase in a currency or region other than what is shown?](#othercountry)

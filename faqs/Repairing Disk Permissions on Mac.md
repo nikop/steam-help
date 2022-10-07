@@ -1,5 +1,6 @@
 # Repairing Disk Permissions on Mac
-Updated 2021-08-10 22.10.10
+Updated 2021-08-10 22.10.10  
+Version 5  
 
 I'm having trouble running Steam or playing my games, what can I do to fix it?  
   

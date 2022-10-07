@@ -1,5 +1,6 @@
 # CS:GO - In-game Items
-Updated 2021-08-12 22.49.00
+Updated 2021-08-12 22.49.00  
+Version 4  
 
 Any CS:GO item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [Steam Community Market](https://steamcommunity.com/market/search?appid=730).  
   

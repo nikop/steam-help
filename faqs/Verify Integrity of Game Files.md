@@ -1,5 +1,6 @@
 # Verify Integrity of Game Files
-Updated 2021-08-09 18.23.29
+Updated 2021-08-09 18.23.29  
+Version 5  
 
 If you are missing textures or other content in game or experiencing crashing while playing a game, you can have Steam verify that the game's files are installed correctly on the computer.  
   

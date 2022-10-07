@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Authoring Arcana, Ability, and Ambient Textures
-Updated 2021-10-28 01.24.11
+Updated 2021-10-28 01.24.11  
+Version 5  
 
 ![{STEAM_CLAN_IMAGE}/1976/4a2cbaf07bd6b8ab4c5fe2ef7810d20450d32858.png]({STEAM_CLAN_IMAGE}/1976/4a2cbaf07bd6b8ab4c5fe2ef7810d20450d32858.png)  
   

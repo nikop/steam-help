@@ -1,11 +1,15 @@
 Steam Wishlist
 --------------
 Updated 2021-10-27 22.58.59
+Version 7
 
 How do I use the Steam Wishlist feature?
-
-[list]      [*][url=#wl-add]How do I add a game to my Wishlist?[/url][/*]      [*][url=#wl-edit]How do I edit my Wishlist?[/url][/*]      [*][url=#wl-remove]How do I remove an item from my Wishlist?[/url][/*]      [*][url=#wl-whosee]Who can see my Wishlist?[/url][/*]  [/list]
-
+[list]
+[*][url=#wl-add]How do I add a game to my Wishlist?[/url] [/*]
+[*][url=#wl-edit]How do I edit my Wishlist?[/url] [/*]
+[*][url=#wl-remove]How do I remove an item from my Wishlist?[/url] [/*]
+[*][url=#wl-whosee]Who can see my Wishlist?[/url] [/*]
+[/list]
 [url id=wl-add][/url]
 
 [h5][b]How do I add a game to my Wishlist?[/b][/h5]You can add a game to your Wishlist by viewing the storefront page for a specific game and clicking on the [b]Add to your Wishlist[/b] button on the left side of the screen.

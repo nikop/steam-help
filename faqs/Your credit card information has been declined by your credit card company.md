@@ -1,5 +1,6 @@
 # Your credit card information has been declined by your credit card company
-Updated 2021-08-28 00.49.47
+Updated 2021-08-28 00.49.47  
+Version 6  
 
 When attempting to complete a purchase through Steam, I receive the following specific error message:  
   

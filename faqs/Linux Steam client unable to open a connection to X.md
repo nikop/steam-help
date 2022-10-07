@@ -1,5 +1,6 @@
 # Linux Steam client unable to open a connection to X
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 2  
 
 How do I fix problems with the Steam client connecting to X?  
   

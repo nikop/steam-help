@@ -1,6 +1,7 @@
 Valve Hardware Shipping FAQ
 ---------------------------
 Updated 2022-07-27 17.28.34
+Version 6
 
 [h4]Issue with payment or delivery?[/h4]If you have a payment or delivery issue please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url].
 
@@ -18,48 +19,48 @@ Your order’s carrier and tracking information is included in your shipment con
 Depending on your location, local taxes and customs or import fees may apply.
 
 [h4]How do I modify or cancel my shipment?[/h4]You can modify or cancel shipment within 24 hours of placing your order. After 24 hours has passed, your order is allocated for shipment and can no longer be changed, cancelled, or recalled either by you or by our Hardware Support team.
-
-[list]  		
-[*]Within 24h of placing order: Use the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site[/url] to locate your purchase, then follow the on-screen instructions to request a refund or update your information.	
-[*]After 24 hours of placing order: If you’d like to refund your order after it has shipped, submit a refund request through the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site[/url] after delivery.	
-[/list]    
+[list]
+[*]Within 24h of placing order: Use the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site[/url] to locate your purchase, then follow the on-screen instructions to request a refund or update your information.
+[*]After 24 hours of placing order: If you’d like to refund your order after it has shipped, submit a refund request through the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site[/url] after delivery.
+[/list]
 [h4]Where can I ship my hardware?[/h4]Valve hardware products are available for purchase in the countries listed below. Note: Some postal codes might not be available if they are located within an offshore territory. For example, we are unable to ship to Isle of Man, Réunion, or the Canary Islands.
-
-[h3]Supported Countries:[/h3]
-[list]  
+[h3]
+Supported Countries:
+[/h3]
+[list]
 [*]Australia (through EB Games)*
-[*]Austria			
-[*]Belgium		
+[*]Austria
+[*]Belgium
 [*]Bulgaria
-[*]Canada	
-[*]Croatia			
-[*]Cyprus		
-[*]Czech Republic			
-[*]Denmark		
-[*]Estonia		
-[*]Finland		
-[*]France		
-[*]Germany		
-[*]Greece	
-[*]Hungary		
-[*]Ireland	
+[*]Canada
+[*]Croatia
+[*]Cyprus
+[*]Czech Republic
+[*]Denmark
+[*]Estonia
+[*]Finland
+[*]France
+[*]Germany
+[*]Greece
+[*]Hungary
+[*]Ireland
 [*]Italy
 [*]Japan (through Degica)*
-[*]Latvia		
-[*]Lithuania	
-[*]Luxembourg	
+[*]Latvia
+[*]Lithuania
+[*]Luxembourg
 [*]Malta
-[*]Netherlands	
+[*]Netherlands
 [*]New Zealand (through EB Games)*
-[*]Poland	
-[*]Portugal		
-[*]Romania	
+[*]Poland
+[*]Portugal
+[*]Romania
 [*]Slovakia
-[*]Slovenia	
-[*]Spain	
-[*]Sweden	
-[*]United Kingdom		
-[*]United States (Note: APO/FPO addresses are not supported currently)					
+[*]Slovenia
+[*]Spain
+[*]Sweden
+[*]United Kingdom
+[*]United States (Note: APO/FPO addresses are not supported currently)
 [/list]
 *Valve Index only. Steam Deck is not available in these locations.
 

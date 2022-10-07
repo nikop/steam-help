@@ -1,5 +1,6 @@
 # Steam Trade Offers
-Updated 2021-08-12 20.56.28
+Updated 2021-08-12 20.56.28  
+Version 4  
 
 * [What is a trade offer?](#whatisoffer)
 * [How do I send a trade offer?](#howtosendoffer)

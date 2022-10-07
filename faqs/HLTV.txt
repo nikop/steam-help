@@ -1,9 +1,21 @@
 HLTV
 ----
 Updated 2021-12-16 21.32.41
+Version 14
 
-[list]     [*][url=#overview]Overview[/url][/*]     [*][url=#spectate]Spectating Games[/url][/*]     [*][url=#basics]HLTV Basics[/url][/*]     [*][url=#broadcast]Broadcasting Games[/url][/*]     [*][url=#record]Recording HLTV demos[/url][/*]     [*][url=#large]Larger Broadcasts[/url][/*]     [*][url=#config]HLTV Configuration[/url][/*] [/list]
-[section style=important][h5]Steam Broadcasting for all Steam games[/h5]For information on Steam's built in game broadcasting/spectating feature for all games on Steam, see the [url=https://help.steampowered.com/en/faqs/view/548F-BC55-89EB-1BC8]Steam Broadcasting[/url] page.[/section][url id=overview][/url][h4]Overview[/h4]Half-Life TV offers the ability to have an unlimited number of spectators watching online games. They can follow the game just like they would as a spectator on the game server. Spectators are invisible to players and can't interact with the running game in any way. Each spectator can choose any view position or choose any player to track individually.
+
+[list]
+[*][url=#overview]Overview[/url] [/*]
+[*][url=#spectate]Spectating Games[/url] [/*]
+[*][url=#basics]HLTV Basics[/url] [/*]
+[*][url=#broadcast]Broadcasting Games[/url] [/*]
+[*][url=#record]Recording HLTV demos[/url] [/*]
+[*][url=#large]Larger Broadcasts[/url] [/*]
+[*][url=#config]HLTV Configuration[/url] [/*]
+[/list]
+[section style=important][h5]Steam Broadcasting for all Steam games[/h5]For information on Steam's built in game broadcasting/spectating feature for all games on Steam, see the [url=https://help.steampowered.com/en/faqs/view/548F-BC55-89EB-1BC8]Steam Broadcasting[/url] page.
+[/section]
+[url id=overview][/url][h4]Overview[/h4]Half-Life TV offers the ability to have an unlimited number of spectators watching online games. They can follow the game just like they would as a spectator on the game server. Spectators are invisible to players and can't interact with the running game in any way. Each spectator can choose any view position or choose any player to track individually.
 
 To have the most enjoyable spectating experience, spectators can enable the Auto-Director mode. Then the camera is changed automatically so that only interesting scenes are shown from a suitable viewpoint. Thus the spectator can lean back and won't miss any relevant action. All the time, spectators may communicate between each other using the standard HL chat system.
 
@@ -11,7 +23,10 @@ Most popular Half-Life mods are supported. HLTV providers have full control over
 
 The broadcast is delayed by a customizable amount of time, by default 30 seconds. This ensures that the playing teams can't use HLTV to get any usable information about their opponents. Providing a single HLTV server for up to 100 spectators is an easy task and doesn't need any changes in default configurations.
 
-Installing a larger HLTV network for thousands of spectators needs some more planning time and experience about required bandwidth and CPU/RAM demands [url=#large](see Larger Broadcasts)[/url]. [section style=note]For information on broadcasting and spectating of Source games see [url=https://developer.valvesoftware.com/wiki/SourceTV]developer Wiki on SourceTV[/url].[/section][url id=spectate][/url]
+Installing a larger HLTV network for thousands of spectators needs some more planning time and experience about required bandwidth and CPU/RAM demands [url=#large](see Larger Broadcasts)[/url].
+[section style=note]For information on broadcasting and spectating of Source games see [url=https://developer.valvesoftware.com/wiki/SourceTV]developer Wiki on SourceTV[/url].
+[/section]
+[url id=spectate][/url]
 [h4]Spectate[/h4]To watch a HLTV game, start Half-Life, select 'Find Servers' from the main menu. To search for currently broadcasted games, choose the 'Spectate' section and hit 'Refresh All'. After the list has been updated, double click on the server you want to spectate and you'll be connected.
 
 If computer game leagues announce important matches to be broadcasted via HLTV, they often provide IP:Port addresses of their HLTV servers. Instead of searching them via the server browser, you can also go to the 'Favorites' folder and add the HLTV address to your server list by pressing the right mouse button. Otherwise, you can also open the console window and use the 'connect' command to spectate a certain game.
@@ -25,13 +40,34 @@ The default HLTV port number is 27020, but may be changed. It should always be i
 You can spectate the game in different modes: Chase Cam, First Person, Free Look, Map Overview and Map Chase. The easiest way to change modes is to press the JUMP key (default SPACE). Alternatively you can use the spectator menu, which can be enabled by pressing the DUCK key (default CTRL). Here you can customize your personal view style and enable the Auto-Director Mode. Press USE (default E) to cycle through the different Picture-In-Picture modes.
 
 The following HL console commands can be used to customize spectator settings:
-[list]     [*][i]spec_autodirector (0|1) [/i]- turns Auto Director mode on or off[/*]     [*][i]spec_drawcone (0|1) [/i]- shows your view cone in map overview mode[/*]     [*][i]spec_drawnames (0|1) [/i]- shows player names under their icons[/*]     [*][i]spec_drawstatus (0|1) [/i]- shows game information (time, map etc)[/*]     [*][i]spec_pip (0|1) [/i]- turns Picture-In-Picture mode on or off[/*]     [*][i]spec_menu [/i]- opens the spectator menu[/*]     [*][i]spec_help [/i]- shows a help screen[/*]     [*][i]spec_mode (1-6) [(0-4)] [/i]- set the main view mode, seconds parameter is the PIP mode. Not all combinations are valid.[/*] [/list]
-
+[list]
+[*][i]spec_autodirector (0|1) [/i]- turns Auto Director mode on or off [/*]
+[*][i]spec_drawcone (0|1) [/i]- shows your view cone in map overview mode [/*]
+[*][i]spec_drawnames (0|1) [/i]- shows player names under their icons [/*]
+[*][i]spec_drawstatus (0|1) [/i]- shows game information (time, map etc) [/*]
+[*][i]spec_pip (0|1) [/i]- turns Picture-In-Picture mode on or off [/*]
+[*][i]spec_menu [/i]- opens the spectator menu [/*]
+[*][i]spec_help [/i]- shows a help screen [/*]
+[*][i]spec_mode (1-6) [(0-4)] [/i]- set the main view mode, seconds parameter is the PIP mode. Not all combinations are valid. [/*]
+[/list]
 Main modes are:
-[list]     [*][b]1[/b] : Locked Chase[/*]     [*][b]2 [/b]: Free Chase[/*]     [*][b]3[/b] : Free Roaming[/*]     [*][b]4[/b] : First Person[/*]     [*][b]5[/b] : Map Overview[/*]     [*][b]6[/b] : Chase Map Overview[/*] [/list]
-
+[list]
+[*][b]1[/b] : Locked Chase [/*]
+[*][b]2 [/b]: Free Chase [/*]
+[*][b]3[/b] : Free Roaming [/*]
+[*][b]4[/b] : First Person [/*]
+[*][b]5[/b] : Map Overview [/*]
+[*][b]6[/b] : Chase Map Overview [/*]
+[/list]
 PIP modes are:
-[list]     [*][b]0[/b] : PIP off[/*]     [*][b]1[/b] : Free Chase[/*]     [*][b]2[/b] : First Person[/*]     [*][b]3[/b] : Map Overview[/*]     [*][b]4[/b] : Chase Map Overview[/*] [/list][url id=basics][/url]
+[list]
+[*][b]0[/b] : PIP off [/*]
+[*][b]1[/b] : Free Chase [/*]
+[*][b]2[/b] : First Person [/*]
+[*][b]3[/b] : Map Overview [/*]
+[*][b]4[/b] : Chase Map Overview [/*]
+[/list]
+[url id=basics][/url]
 [h4]Basics[/h4]The core of the HLTV broadcasting system is the HLTV server, also called HLTV proxy. The HLTV executable is a console application that works much like a HL dedicated server. To broadcast a game running on a certain game server, the HLTV proxy connects to this server just like a normal player.
 
 Spectators connect themselves to the HLTV proxy and the game data stream is relayed through the HLTV proxy to all connected spectator clients. The next figure shows a basic HLTV configuration:
@@ -103,9 +139,13 @@ Sometimes a HLTV broadcast is not wanted and the HLTV proxy is only used to reco
 [h4]Large[/h4]Setting up a HLTV network that can handle a larger number of spectators (>1000) is a difficult and time consuming task. The following guide should help to configure and run such a HLTV network. One of the most important rule should be [b]Quality, not Quantity[/b]. It's better to offer a smaller number of spectator slots, than operating at the maximum bandwidth limit, thus all spectators would suffer from lags and timeouts. Check carefully your available bandwidth capacity and calculate how many spectators can be handled by your HLTV servers. The average bandwidth demand per spectator is between 2 and 3 KB/sec and depends on the current mod, map and number of players. CPU and RAM shouldn't be a bottleneck on modern PC systems.
 
 This list for common Internet connection types gives a feeling, how bandwidth-demanding HLTV can be:
-
-[list]     [*][b]ISDN 64 Kbps[/b] : 2 spectators[/*]     [*][b]DSL 128 Kbps[/b] (upstream) : 5 spectators[/*]     [*][b]T1 1.5 Mbps[/b] : 75 spectators[/*]     [*][b]LAN 10 Mbps[/b] : 500 spectators[/*]     [*][b]T3 75 Mbps[/b] : 4000 spectators[/*] [/list]
-
+[list]
+[*][b]ISDN 64 Kbps[/b] : 2 spectators [/*]
+[*][b]DSL 128 Kbps[/b] (upstream) : 5 spectators [/*]
+[*][b]T1 1.5 Mbps[/b] : 75 spectators [/*]
+[*][b]LAN 10 Mbps[/b] : 500 spectators [/*]
+[*][b]T3 75 Mbps[/b] : 4000 spectators [/*]
+[/list]
 Use the [i]maxclients [/i]command to set how many clients should be accepted by a HLTV proxy. Make sure that the [i]maxrate [/i]variable is set too a reasonable value, e.g. 3500 kilobits/sec. Lower values are possible, but make sure spectators don't get too much choke during a running game. Choke occurs when the server, factoring in your rate setting, determines that it can't send you an update yet because doing so would start to flood your connection.
 
 The [b]maxrate[/b] command doesn't effect the bandwidth limit between HLTV proxies, only for spectator clients. To lower the general bandwidth demand, you can turn off the internal HLTV chat ( [i]chatmode 0 [/i]) or decrease the game update rate from the default value 20 to 10 ( [i]updaterate 10 [/i]). A lower update rate may save up to 25% network traffic and is an acceptable tradeoff in this case since spectators don't need a high update rate like real players do.
@@ -141,7 +181,8 @@ If you're running 3 or more HLTV servers in total, it's a good idea to use RCON 
 [h4]HLTV Configuration[/h4]A short note about console command syntax:
 [list]
 [*]A command description follows the following notation:
-[code]command (parameter) [(parameter)] - description[/code][*]A command may have one or more parameters. Parameters in brackets [] are optional.
+[code]command (parameter) [(parameter)] - description[/code]
+[*]A command may have one or more parameters. Parameters in brackets [] are optional.
 [/list]
 [b]Commonly used parameters are:[/b]
 

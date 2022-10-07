@@ -1,5 +1,6 @@
 # Nausea or Motion Sickness During Gameplay
-Updated 2021-10-28 02.12.21
+Updated 2021-10-28 02.12.21  
+Version 6  
 
 ### I experience nausea or motion sickness when I play Source games.  What options are there?
   

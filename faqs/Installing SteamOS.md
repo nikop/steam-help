@@ -1,5 +1,6 @@
 # Installing SteamOS
-Updated 2021-08-10 16.39.18
+Updated 2021-08-10 16.39.18  
+Version 4  
 
 ### What are the hardware requirements for SteamOS?
 

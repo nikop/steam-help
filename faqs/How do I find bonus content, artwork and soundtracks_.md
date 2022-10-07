@@ -1,5 +1,6 @@
 # How do I find bonus content, artwork and soundtracks?
-Updated 2022-04-21 20.54.17
+Updated 2022-04-21 20.54.17  
+Version 4  
 
 How do I find the following content that comes with my purchase?  
 

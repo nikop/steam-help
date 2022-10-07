@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Wards
-Updated 2021-12-03 19.12.21
+Updated 2021-12-03 19.12.21  
+Version 8  
 
 # ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/header_wards.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/header_wards.jpg)
 

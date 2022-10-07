@@ -1,5 +1,6 @@
 # Valve Anti-Cheat (VAC) System
-Updated 2021-07-12 23.34.51
+Updated 2021-07-12 23.34.51  
+Version 4  
 
 VAC bans are permanent, non-negotiable, and cannot be removed by Steam Support. If a VAC ban is determined to have been issued incorrectly, it will automatically be removed.   
   

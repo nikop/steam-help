@@ -1,23 +1,40 @@
 Steam Guard
 -----------
 Updated 2021-08-09 18.18.49
+Version 5
 
-[list]  	[*][url=#what]What is Steam Guard and how does it help me?[/url][/*]  	[*][url=#enableemail]How do I enable Steam Guard via email?[/url][/*]  	[exclude_realm=china][*][url=#enablephone]How do I enable Steam Guard via my smartphone?[/url][/*][/exclude_realm]   	[*][url=#limit]Is there a limit to the number of machines that can be authorized?[/url][/*]  	[*][url=#deauthorize]How do I deauthorize a device?[/url][/*]  	[*][url=#code]How do I get a new Steam Guard code?[/url][/*]  	[*][url=#email]I'm not receiving a Steam Guard email…[/url][/*]  	[*][url=#auth]Why am I being asked to authenticate a "new device" every time I log in on the same device?[/url][/*]  	[*][url=#cantlogin]What if I can't log in once Steam Guard is enabled?[/url][/*]  	[*][url=#ps3]Will Steam Guard prohibit me from logging into 3rd party sites that sign in through Steam?[/url][/*]  	[*][url=#stolen]How do Steam Guard enabled accounts get stolen?[/url][/*]  	[*][url=#notenabled]Why does Steam report 'Steam Guard not enabled' while the Steam Guard button is missing?[/url][/*]  [/list]
 
+[list]
+[*][url=#what]What is Steam Guard and how does it help me?[/url] [/*]
+[*][url=#enableemail]How do I enable Steam Guard via email?[/url] [/*]
+[exclude_realm=china]
+[*][url=#enablephone]How do I enable Steam Guard via my smartphone?[/url] [/*]
+[/exclude_realm]
+[*][url=#limit]Is there a limit to the number of machines that can be authorized?[/url] [/*]
+[*][url=#deauthorize]How do I deauthorize a device?[/url] [/*]
+[*][url=#code]How do I get a new Steam Guard code?[/url] [/*]
+[*][url=#email]I'm not receiving a Steam Guard email…[/url] [/*]
+[*][url=#auth]Why am I being asked to authenticate a "new device" every time I log in on the same device?[/url] [/*]
+[*][url=#cantlogin]What if I can't log in once Steam Guard is enabled?[/url] [/*]
+[*][url=#ps3]Will Steam Guard prohibit me from logging into 3rd party sites that sign in through Steam?[/url] [/*]
+[*][url=#stolen]How do Steam Guard enabled accounts get stolen?[/url] [/*]
+[*][url=#notenabled]Why does Steam report 'Steam Guard not enabled' while the Steam Guard button is missing?[/url] [/*]
+[/list]
 [img]http://steamcdn-a.akamaihd.net/steam/support/banner_steamguard.jpg[/img]
 
 [url id=what][/url]
 [h1]What is Steam Guard and how does it help me?[/h1]Steam Guard is an additional level of security that can be applied to your Steam account. The first level of security on your account is your login credentials: your Steam account name and password. With Steam Guard, a second level of security is applied to your account, making it harder for your Steam account to fall into the wrong hands.
 
-When Steam Guard is enabled on your account, you'll need to provide a special code to login from an unrecognized device. Depending on your Steam Guard settings, you'll either receive an email with the special code[exclude_realm=china] or you'll get it from the Steam Mobile app on your smartphone[/exclude_realm].
+When Steam Guard is enabled on your account, you'll need to provide a special code to login from an unrecognized device. Depending on your Steam Guard settings, you'll either receive an email with the special code
+[exclude_realm=china] or you'll get it from the Steam Mobile app on your smartphone
+[/exclude_realm]
+.
 
 [url id=enableemail][/url]
 [h1]How do I enable Steam Guard via email?[/h1]Steam Guard is enabled by default on your Steam account if your email is verified and you have restarted Steam twice on your computer since verifying your email. If you have disabled Steam Guard, and wish to reactivate it, please follow the instructions below:
-
 [olist]
 [*]Be sure your contact email address is verified with Steam.
 You must verify your contact email address with Steam. You can check whether your email address is already verified by visiting Account Details page. A verified address will be marked as "Verified." [url=https://help.steampowered.com/en/faqs/view/1F1B-BE53-E7CA-A76F#verify]Learn how to verify your email address[/url].
-
 [*]Enable Steam Guard in Steam Settings.
 While logged into the Steam client, you can enable Steam Guard by clicking on "Steam" in the top left hand corner of the client. Then Select "Settings", and click "Manage Steam Guard Account Security" under the "Account" tab. On the page that appears, select "Get Steam Guard codes by email (will require you to re-login)".
 [/olist]
@@ -25,8 +42,7 @@ That's it! With Steam Guard enabled, you will be asked to enter the special acce
 [exclude_realm=china] 
 [url id=enablephone][/url]
 [h1]How do I enable Steam Guard via my smartphone?[/h1]Getting Steam Guard codes via your smartphone provides the best level of Steam account security because you're authorizing your logins with a physical device that you possess. You'll need to [url=http://store.steampowered.com/mobile]download and install the free Steam Mobile app to your phone[/url].
-[/exclude_realm] 
-
+[/exclude_realm]
 [url id=limit][/url]
 [h1]Is there a limit to the number of machines that can be authorized?[/h1]No, there's no limit. Steam Guard is aimed to protect the value that is yours, not limit your access to your stuff. As always, you can access your Steam account and library from as many machines as you'd like.
 
@@ -39,7 +55,7 @@ If you've mistakenly checked the "remember me" box when logging in to a public c
 [h1]How do I get a new Steam Guard code?[/h1]Email - Exit Steam and log back into your account. This will generate a new verification email.
 [exclude_realm=china] 
 Phone - The Mobile Authenticator will automatically generate a new code every 30 seconds.
-[/exclude_realm] 
+[/exclude_realm]
 Always ensure that you enter the most recent code sent or generated - older codes will not work!
 
 [url id=email][/url]
@@ -66,7 +82,6 @@ Please see our [url=https://help.steampowered.com/en/faqs/view/4C93-64EF-517B-33
 
 [url id=stolen][/url]
 [h1]How do Steam Guard enabled accounts get stolen?[/h1]Steam Guard protects your Steam account by requiring access to your verified email account. This second layer of security depends on your email account also being secure. Below are the common methods used to steal accounts with Steam Guard enabled:
-
 [list]
 [*]Through Email: If your verified email account is stolen or compromised, a user can enter your account freely provided they know your account name. Knowing your Steam account password would not be required as this can be reset with access to your email account. Never use the same password for both your email and Steam account.
 [*]Acquiring a Steam Guard File: Steam will never ask you to provide any Steam Guard files. If you upload or give a user your Steam Guard .SSFN file, they can gain access to your account without accessing your email account. However, they must know your Steam account password and username to use this file.

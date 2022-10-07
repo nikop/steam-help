@@ -1,5 +1,6 @@
 # I've been VAC banned
-Updated 2021-10-07 16.33.03
+Updated 2021-10-07 16.33.03  
+Version 8  
 
 VAC bans are permanent, non-negotiable, and cannot be removed by Steam Support. If a VAC ban is determined to have been issued incorrectly it will automatically be removed.   
   

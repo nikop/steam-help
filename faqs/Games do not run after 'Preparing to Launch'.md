@@ -1,5 +1,6 @@
 # Games do not run after 'Preparing to Launch'
-Updated 2021-08-05 20.06.53
+Updated 2021-08-05 20.06.53  
+Version 6  
 
 My game isn't launching. How can I resolve this?  
   

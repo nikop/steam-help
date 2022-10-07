@@ -1,6 +1,7 @@
 Steam Link Build History
 ------------------------
 Updated 2021-12-20 22.46.08
+Version 6
 
 [img]https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png[/img]
 

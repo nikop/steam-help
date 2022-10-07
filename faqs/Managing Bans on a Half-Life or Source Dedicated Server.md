@@ -1,5 +1,6 @@
 # Managing Bans on a Half-Life or Source Dedicated Server
-Updated 2022-03-02 17.35.27
+Updated 2022-03-02 17.35.27  
+Version 11  
 
 Here are the Server commands you need to know to manage your bans.  
   

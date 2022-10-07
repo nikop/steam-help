@@ -1,5 +1,6 @@
 # CS:GO - Prime Status and Free to Play
-Updated 2021-08-11 00.14.06
+Updated 2021-08-11 00.14.06  
+Version 4  
 
 * [What is included with the free version of CS:GO?](#freecsgo)
 * [What are the benefits of Prime Status?](#primebenefits)

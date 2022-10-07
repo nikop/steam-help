@@ -1,5 +1,6 @@
 # Peer-to-Peer Networking and Sharing Your IP Address
-Updated 2021-08-12 21.02.02
+Updated 2021-08-12 21.02.02  
+Version 4  
 
 When is my IP Address shared with other players?  What are the downsides?  How can I control when this happens?  
   

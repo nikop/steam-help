@@ -1,5 +1,6 @@
 # This game is currently unavailable
-Updated 2021-10-28 00.18.13
+Updated 2021-10-28 00.18.13  
+Version 10  
 
 I see the error "**This game is currently unavailable"** when launching a game through Steam.  What can I do?  
   

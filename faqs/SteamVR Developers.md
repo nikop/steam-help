@@ -1,5 +1,6 @@
 # SteamVR Developers
-Updated 2021-09-21 23.59.38
+Updated 2021-09-21 23.59.38  
+Version 7  
 
 ![https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png](https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png)  # SteamVR Developers
 Are you a developer with questions about VR development on the Steam Platform? Click one of the links or scroll down for answers to some of the most commonly asked questions:  

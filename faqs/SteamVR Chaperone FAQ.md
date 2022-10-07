@@ -1,5 +1,6 @@
 # SteamVR Chaperone FAQ
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 2  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png)  #### What is Chaperone?
 Chaperone is technology that indicates the boundaries of your play area. You establish these Chaperone boundaries during the setup process by designating the play area with your Controllers.  By default Chaperone displays a grid pattern when you approach the boundary.  

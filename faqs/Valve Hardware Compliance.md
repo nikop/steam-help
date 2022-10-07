@@ -1,5 +1,6 @@
 # Valve Hardware Compliance
-Updated 2022-05-20 00.50.29
+Updated 2022-05-20 00.50.29  
+Version 5  
 
 ![https://support.steampowered.com/images/faq/steam_universe/header_steamcompliance.png](https://support.steampowered.com/images/faq/steam_universe/header_steamcompliance.png)  
   

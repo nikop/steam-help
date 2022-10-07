@@ -1,5 +1,6 @@
 # LAN Servers are Restricted to Local Clients (Class C)
-Updated 2021-10-28 00.58.52
+Updated 2021-10-28 00.58.52  
+Version 4  
 
 ### I get this error: *'LAN servers are restricted to local clients (class C)'* when I try to connect to a server or my friends get this error when they try to connect to my Server. What's wrong?
   

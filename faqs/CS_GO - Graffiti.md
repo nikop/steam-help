@@ -1,5 +1,6 @@
 # CS:GO - Graffiti
-Updated 2021-08-06 20.55.25
+Updated 2021-08-06 20.55.25  
+Version 4  
 
 * [How do I get in-game graffiti?](#howgraffiti)
 * [How many different types of graffiti are there?](#graffititypes)

@@ -1,5 +1,6 @@
 # Find Downloadable Content (DLC) for My Games
-Updated 2021-07-21 23.32.58
+Updated 2021-07-21 23.32.58  
+Version 4  
 
 ## Finding DLC in the store
 If a game offers additional downloadable content, you can find it on the store from the base game page or by searching for it.  

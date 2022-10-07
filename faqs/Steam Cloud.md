@@ -1,5 +1,6 @@
 # Steam Cloud
-Updated 2021-12-02 23.46.19
+Updated 2021-12-02 23.46.19  
+Version 6  
 
 The Steam Cloud allows games and the platform to utilize cloud storage hosted by Steam. Games can utilize Steam Cloud for storage of many different types of data, including game settings, save games, profile stats and other user-specific bits. Many Steam client settings are also saved via the cloud, including collections, friend nicknames and anything changed via the Steam client Settings menu. These settings will persist on an account regardless of which machine it is logged into, as the settings are pulled from the cloud upon login.  
 

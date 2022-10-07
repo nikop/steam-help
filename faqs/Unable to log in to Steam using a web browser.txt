@@ -1,6 +1,7 @@
 Unable to log in to Steam using a web browser
 ---------------------------------------------
 Updated 2021-08-05 18.59.16
+Version 5
 
 [h1]Disable Extensions that may interfere with the login process[/h1]Try disabling any browser extensions or add-ons you have installed. These may interfere with the login process.
 

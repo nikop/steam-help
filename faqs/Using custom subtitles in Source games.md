@@ -1,5 +1,6 @@
 # Using custom subtitles in Source games
-Updated 2021-08-24 22.43.25
+Updated 2021-08-24 22.43.25  
+Version 5  
 
 How do I install custom subtitles for any Source game?  
   

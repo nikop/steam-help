@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Character Art Guide
-Updated 2021-12-02 22.35.27
+Updated 2021-12-02 22.35.27  
+Version 5  
 
 * [INTRODUCTION](#intro)
 * [SILHOUETTE](#silhouette)

@@ -1,6 +1,7 @@
 Valve Hardware Return Packaging Guide
 -------------------------------------
 Updated 2022-07-12 16.33.17
+Version 6
 
 [h1]Contact Steam Support[/h1]
 Do not return items without contacting us first. Make sure you have worked with [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url] to initiate a return or a replacement.
@@ -12,7 +13,6 @@ Steam Support will provide "Return Merchandise Authorization" (RMA) forms that w
 If you are returning multiple items, make sure you have included all RMA forms you received from Steam Support. You can return multiple items in the same package, but each RMA form will need to be included to avoid delays in processing.
 
 [b]Important[/b]: If you are returning a Steam Deck, back up your game installs and any other data you'd like to keep via a microSD card or another external storage device, then perform a factory reset by pressing the Steam button and going to Settings > System > Reset to factory state. It's OK to skip this step if your device is not functional. Valve is not responsible for the loss of any data left on your device.
-
 [hr][/hr]
 [h1]How to pack your hardware[/h1]
 Use the product's original packaging whenever possible. If you are unable to do so or you are returning a component part for replacement, please follow the instructions below to ensure no damage occurs while your package is in transit.

@@ -1,5 +1,6 @@
 # Supported Games for Steam for Linux
-Updated 2021-08-10 23.55.21
+Updated 2021-08-10 23.55.21  
+Version 4  
 
 Which games are currently supported by the Steam for Linux client?  
   

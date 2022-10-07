@@ -1,5 +1,6 @@
 # Dota 2 Workshop - Submitting Items
-Updated 2021-10-27 22.50.31
+Updated 2021-10-27 22.50.31  
+Version 8  
 
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg)  
   

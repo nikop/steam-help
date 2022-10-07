@@ -1,6 +1,7 @@
 EU/UK Right of Withdrawal and Steam Refunds
 -------------------------------------------
 Updated 2022-02-03 14.06.57
+Version 6
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 
@@ -11,8 +12,10 @@ European and UK law principally provides a right of withdrawal on software sales
 At the same time, Steam voluntarily offers refunds to all of its customers worldwide in a way that is much more customer-friendly than our legal obligations. In particular, and for digital games we allow you to try them for up to two hours, whereas your statutory right of withdrawal does not give you a chance to try out games at all. You can find the details of our voluntary refund policy here: [url=http://store.steampowered.com/steam_refunds/]http://store.steampowered.com/steam_refunds/[/url].
 
 As a result, even when your statutory right of withdrawal ends, you may still request a refund of your purchase pursuant to our own refund policy.
-
-[h3]Legal Text[/h3]We are obligated as merchants to inform you of the EU/UK right of withdrawal in very specific legal terms, which you can find below. If these should in any way differ from our more informal wording, the below terms shall prevail towards any EU/UK consumer.
+[h3]
+Legal Text
+[/h3]
+We are obligated as merchants to inform you of the EU/UK right of withdrawal in very specific legal terms, which you can find below. If these should in any way differ from our more informal wording, the below terms shall prevail towards any EU/UK consumer.
 
 [h4]Right of withdrawal[/h4]As a Steam user domiciled in a European Union member country or the United Kingdom of Great Britain and Northern Ireland, you have the right to withdraw from any purchase on Steam without giving any reason.
 
@@ -30,8 +33,14 @@ For hardware, we may withhold reimbursement until we have received the goods bac
 
 If hardware you wish to return was bundled with a Subscription, the Subscription is automatically cancelled with your return of the hardware.
 
-[h4]Exceptions from the right of withdrawal:[/h4]The statutory right of withdrawal is not applicable as regards the following:  [olist]  [*]service contracts after the service has been fully performed if the performance has begun with the consumer’s prior express consent, and with the acknowledgement that he will lose his right of withdrawal once the contract has been fully performed by the trader;[/*]  [*]the supply of goods made to the consumer’s specifications or clearly personalized;[/*]  [*]the supply of goods which are, after delivery, according to their nature, inseparably mixed with other items;[/*]  [*]the supply of sealed audio or sealed video recordings or sealed computer software which were unsealed after delivery;[/*]  [*]the supply of digital content which is not supplied on a tangible medium if the performance has begun with the consumer’s prior express consent and his acknowledgment that he thereby loses his right of withdrawal.[/*]  [/olist]
-
+[h4]Exceptions from the right of withdrawal:[/h4]The statutory right of withdrawal is not applicable as regards the following:
+[olist]
+[*]service contracts after the service has been fully performed if the performance has begun with the consumer’s prior express consent, and with the acknowledgement that he will lose his right of withdrawal once the contract has been fully performed by the trader; [/*]
+[*]the supply of goods made to the consumer’s specifications or clearly personalized; [/*]
+[*]the supply of goods which are, after delivery, according to their nature, inseparably mixed with other items; [/*]
+[*]the supply of sealed audio or sealed video recordings or sealed computer software which were unsealed after delivery; [/*]
+[*]the supply of digital content which is not supplied on a tangible medium if the performance has begun with the consumer’s prior express consent and his acknowledgment that he thereby loses his right of withdrawal. [/*]
+[/olist]
 [b]WITHDRAWAL FORM:[/b]
 
 "To Valve Corporation, 10400 NE 4th St., Suite 1400, Bellevue, WA 98004

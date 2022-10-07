@@ -1,5 +1,6 @@
 # CS:GO - GSLT Bans
-Updated 2021-08-17 17.47.22
+Updated 2021-08-17 17.47.22  
+Version 5  
 
 GSLT bans are non-negotiable and cannot be removed or reduced by Steam Support.  
   

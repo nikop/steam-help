@@ -1,5 +1,6 @@
 # Your account has been blocked from participating in the Steam Community.
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 When using the Steam Community, I get the message "Your account has been blocked from participating in the Steam Community." What does this mean?  
   

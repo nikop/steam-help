@@ -1,5 +1,6 @@
 # Steam Servers Are Currently Unavailable or Too Busy
-Updated 2021-08-10 17.51.19
+Updated 2021-08-10 17.51.19  
+Version 5  
 
 I receive the message **The Steam Servers are currently unavailable. Please try again later.** or **The Steam Servers are too busy** while using Steam - what should I do?  
   

@@ -1,5 +1,6 @@
 # Steam Guides
-Updated 2021-08-03 22.44.08
+Updated 2021-08-03 22.44.08  
+Version 4  
 
 * [What games/software can I create guides for?](#what)
 * [Where do I find guides that I created?](#where)

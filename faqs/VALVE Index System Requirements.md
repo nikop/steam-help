@@ -1,5 +1,6 @@
 # VALVE Index System Requirements
-Updated 2021-07-26 20.57.48
+Updated 2021-07-26 20.57.48  
+Version 4  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) #### Minimum
 

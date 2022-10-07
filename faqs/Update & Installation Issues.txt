@@ -1,15 +1,20 @@
 Update & Installation Issues
 ----------------------------
 Updated 2021-08-12 19.57.54
+Version 7
 
 When installing or updating a game, Steam displays an error message:
-
-[list]  	[*]An error occurred while updating [i][game title][/i][/*]  	[*]An error occurred while installing [i][game title][/i][/*]  [/list]
+[list]
+[*]An error occurred while updating [i][game title][/i] [/*]
+[*]An error occurred while installing [i][game title][/i] [/*]
+[/list]
 This is a common type of error that can occur any time a game is updated or installed on Steam.
 
 The error results when Steam is not able to complete the installation. The specific reason for the error will be shown in the parenthesis at the end of the error message.
-
-[h2]Basic Steam Troubleshooting[/h2]The following fixes will resolve most update and installation errors with Steam. They can be performed with a minimal amount of technical knowledge.
+[h2]
+Basic Steam Troubleshooting
+[/h2]
+The following fixes will resolve most update and installation errors with Steam. They can be performed with a minimal amount of technical knowledge.
 
 [h5]Restart Computer[/h5]It's always a good first step to make sure that you restart Steam as well as your computer.
 
@@ -40,8 +45,10 @@ WARNING! Uninstalling Steam will delete all game content.
 [h5]Move Game Folder[/h5]It can be very helpful to test the issue by installing on an alternate hard drive. If one is already available, you can create a new Steam library folder on this drive. You can then install new games into this Steam library folder or move already installed games there.
 
 Steam -> Settings -> Downloads -> Steam Library Folders -> Add new Library folder
-
-[h2]Advanced Troubleshooting[/h2]If the error is still occurring after following the fixes outlined above, it is possible that something outside of Steam is responsible.
+[h2]
+Advanced Troubleshooting
+[/h2]
+If the error is still occurring after following the fixes outlined above, it is possible that something outside of Steam is responsible.
 
 Because these are advanced troubleshooting steps, we highly recommend that you contact a local IT support specialist in your area for further assistance with these steps.
 

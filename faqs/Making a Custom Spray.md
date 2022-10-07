@@ -1,5 +1,6 @@
 # Making a Custom Spray
-Updated 2021-10-06 23.20.11
+Updated 2021-10-06 23.20.11  
+Version 3  
 
 How do I make a Custom Spray for Half-Life 1 and other GoldSource games?  
   

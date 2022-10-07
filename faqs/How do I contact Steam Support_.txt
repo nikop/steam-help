@@ -1,6 +1,7 @@
 How do I contact Steam Support?
 -------------------------------
 Updated 2021-07-10 19.49.55
+Version 3
 
 Visit [url=https://help.steampowered.com]https://help.steampowered.com[/url] for help with your issue.
 

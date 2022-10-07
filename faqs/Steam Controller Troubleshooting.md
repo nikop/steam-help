@@ -1,5 +1,6 @@
 # Steam Controller Troubleshooting
-Updated 2021-08-12 20.24.44
+Updated 2021-08-12 20.24.44  
+Version 6  
 
 ![https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png](https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png)  
   

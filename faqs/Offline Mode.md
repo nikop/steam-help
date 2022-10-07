@@ -1,5 +1,6 @@
 # Offline Mode
-Updated 2021-08-09 21.47.16
+Updated 2021-08-09 21.47.16  
+Version 4  
 
 Offline Mode allows you to play games through Steam without having an active connection to the Steam Network.  This feature is useful when you have limited or no internet access.  
   

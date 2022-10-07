@@ -1,5 +1,6 @@
 # Steam and Games - Language Settings
-Updated 2021-08-10 16.32.49
+Updated 2021-08-10 16.32.49  
+Version 4  
 
 How can I change the language for Steam and my games?  
   

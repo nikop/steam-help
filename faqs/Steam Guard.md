@@ -1,5 +1,6 @@
 # Steam Guard
-Updated 2021-08-09 18.18.49
+Updated 2021-08-09 18.18.49  
+Version 5  
 
 * [What is Steam Guard and how does it help me?](#what)
 * [How do I enable Steam Guard via email?](#enableemail)

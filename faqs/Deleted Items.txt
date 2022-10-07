@@ -1,11 +1,12 @@
 Deleted Items
 -------------
 Updated 2021-07-20 23.18.52
+Version 4
 
 [h1]Accidental Deletion[/h1]Each game has a built-in feature that requires confirmation when an item is about to be deleted. It is the user's responsibility to ensure that this is intentional.
 
 [h1]Deletion By Another User[/h1]Please see our [url=https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24]Item Restoration Policy[/url] for further information.
 
 [h1]Items Affected by Bans[/h1]Please see the [url=https://help.steampowered.com/en/faqs/view/52E6-2DF8-205B-6561]Items Not Properly Awarded[/url] article for information on how bans affect inventories and items.
-
-[section style=important] Please note that Steam Support does not restore deleted items.[/section]
+[section style=important] Please note that Steam Support does not restore deleted items.
+[/section]

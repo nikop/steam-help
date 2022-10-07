@@ -1,8 +1,13 @@
 Steam Guard: How to set up a Steam Guard Mobile Authenticator
 -------------------------------------------------------------
 Updated 2021-07-22 23.01.08
+Version 4
 
-[h2]For Android and iOS devices, and Windows Phone[/h2][img]http://steamcdn-a.akamaihd.net/steam/mobile/setupfaq/banner_phones.jpg[/img]
+
+[h2]
+For Android and iOS devices, and Windows Phone
+[/h2]
+[img]http://steamcdn-a.akamaihd.net/steam/mobile/setupfaq/banner_phones.jpg[/img]
 
 Setup is done directly from your mobile device.
 
@@ -55,9 +60,11 @@ When the code is successfully entered, we'll present you with a Recovery code. W
 When the mobile authenticator is successfully enabled, you'll be presented with a unique Steam Guard code that will periodically refresh. When you log in to Steam you'll be asked to enter the code.
 
 [img]http://steamcdn-a.akamaihd.net/steam/mobile/setupfaq/6.jpg[/img]
-
-[h2]Protecting multiple accounts[/h2]Your Steam Mobile app can be used to authenticate multiple Steam accounts. To add an account, log out of the Steam Mobile app and log back in with with the account you want to add. Follow the steps above to add the mobile authenticator to this account. When that's successfully completed, the Steam Mobile app will display authenticator codes for both Steam accounts, regardless of the account you're logged in with.
+[h2]
+Protecting multiple accounts
+[/h2]
+Your Steam Mobile app can be used to authenticate multiple Steam accounts. To add an account, log out of the Steam Mobile app and log back in with with the account you want to add. Follow the steps above to add the mobile authenticator to this account. When that's successfully completed, the Steam Mobile app will display authenticator codes for both Steam accounts, regardless of the account you're logged in with.
 
 Questions about Steam Guard Mobile Authenticators? [url=https://help.steampowered.com/en/faqs/view/7EFD-3CAE-64D3-1C31?l]Learn more here[/url]
-
-[section style=important]If you're having trouble logging in with the Steam mobile authenticator, please use our help site ([url=https://help.steampowered.com]help.steampowered.com[/url]) to recover your account.[/section]
+[section style=important]If you're having trouble logging in with the Steam mobile authenticator, please use our help site ([url=https://help.steampowered.com]help.steampowered.com[/url]) to recover your account.
+[/section]

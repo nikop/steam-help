@@ -1,9 +1,9 @@
 My Items Are Missing or Were Stolen
 -----------------------------------
 Updated 2021-08-16 17.40.55
+Version 5
 
 View related issues below for more information on how to resolve them
-
 [exclude_realm=china]
 [url=
 https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24][h1]Items Traded Without Your Knowledge[/h1][/url]
@@ -15,7 +15,6 @@ You participated in a trade where you felt tricked or deceived. Your trade partn
 [url=https://help.steampowered.com/en/faqs/view/558E-7FF0-1C5C-D1EE][h1]A Gift Was Removed[/h1][/url]
 After successfully trading for a gift through Steam, the game was removed from your account.
 [/exclude_realm]
-
 [url=https://help.steampowered.com/en/faqs/view/52E6-2DF8-205B-6561][h1]Items Not Properly Awarded[/h1][/url]
 You qualified for an item that was not delivered to your account. You are not receiving item drops associated with normal gameplay.
 

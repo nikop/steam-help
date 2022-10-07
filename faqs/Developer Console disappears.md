@@ -1,5 +1,6 @@
 # Developer Console disappears
-Updated 2021-10-27 21.35.30
+Updated 2021-10-27 21.35.30  
+Version 6  
 
 Every time I bring down the developer console and start typing, the console disappears. How can I fix this?  
   

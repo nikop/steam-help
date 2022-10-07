@@ -1,5 +1,6 @@
 # Update & Installation Issues
-Updated 2021-08-12 19.57.54
+Updated 2021-08-12 19.57.54  
+Version 7  
 
 When installing or updating a game, Steam displays an error message:  
   

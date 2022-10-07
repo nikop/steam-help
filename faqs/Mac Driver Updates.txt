@@ -1,11 +1,11 @@
 Mac Driver Updates
 ------------------
 Updated 2021-08-19 18.18.31
+Version 4
 
 macOS handles all system and driver updates for your Mac.
 
 To check if any updates are available please do the following:
-
 [list]
 [*]Click on the Apple in the upper left corner of the screen
 [*]Select "System Preferences...", then click "Software Update"

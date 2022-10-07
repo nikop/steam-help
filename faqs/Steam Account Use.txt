@@ -1,8 +1,16 @@
 Steam Account Use
 -----------------
 Updated 2021-08-04 20.40.28
+Version 5
 
-[list]     [*][url=#onemachine]Can I use multiple Steam accounts on one computer?[/url][/*]     [*][url=#multiple]Can I use my Steam account on other computers?[/url][/*]     [*][url=#simultaneous]Can multiple users play simultaneously on one Steam account?[/url][/*]     [*][url=#cybercafe]Can I use my personal Steam Account in a PC Café?[/url][/*]     [*][url=#dedicated]Do I need a separate account to run a dedicated server?[/url][/*] [/list]
+
+[list]
+[*][url=#onemachine]Can I use multiple Steam accounts on one computer?[/url] [/*]
+[*][url=#multiple]Can I use my Steam account on other computers?[/url] [/*]
+[*][url=#simultaneous]Can multiple users play simultaneously on one Steam account?[/url] [/*]
+[*][url=#cybercafe]Can I use my personal Steam Account in a PC Café?[/url] [/*]
+[*][url=#dedicated]Do I need a separate account to run a dedicated server?[/url] [/*]
+[/list]
 [url id=onemachine][/url][h4]Can I use multiple Steam accounts on one computer?[/h4]Yes, you can access different Steam accounts from one computer. However, you may only access one account at a time.
 
 The accounts will share the core files for any games the accounts have in common, but each account will maintain its own custom content and configuration files.

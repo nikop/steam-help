@@ -1,5 +1,6 @@
 # Limited User Accounts
-Updated 2022-07-06 23.48.33
+Updated 2022-07-06 23.48.33  
+Version 5  
 
 Steam prevents some accounts from accessing certain community and social features that are commonly used for spamming, phishing, and other abuse.  
   

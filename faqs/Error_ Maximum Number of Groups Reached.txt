@@ -1,9 +1,14 @@
 Error: Maximum Number of Groups Reached
 ---------------------------------------
 Updated 2021-08-02 18.37.34
+Version 3
 
-[list]      [*][url=#why]Why am I getting a max group limit error when trying to join a group?[/url][/*]      [*][url=#how]How can I join more groups?[/url][/*]      [*][url=#level]Is this limit dependent on my Steam Level?[/url][/*]  [/list]
 
+[list]
+[*][url=#why]Why am I getting a max group limit error when trying to join a group?[/url] [/*]
+[*][url=#how]How can I join more groups?[/url] [/*]
+[*][url=#level]Is this limit dependent on my Steam Level?[/url] [/*]
+[/list]
 [url id=why][/url]
 
 [h4]Why am I getting a max group limit error when trying to join a group?[/h4]Once you have joined [b]1,000[/b] Steam groups, you will be unable to join any more groups. This limit does not include groups that you have created or official game groups.

@@ -1,5 +1,6 @@
 # Submitting A Network Activity Report
-Updated 2021-12-02 23.31.29
+Updated 2021-12-02 23.31.29  
+Version 7  
 
 When encountering issues using Steam web services, it may be helpful to record the behavior and submit a diagnostic report to Steam Support. Some common issues that can be better understood with a report:  
 

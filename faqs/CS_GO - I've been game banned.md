@@ -1,5 +1,6 @@
 # CS:GO - I've been game banned
-Updated 2022-05-14 20.29.09
+Updated 2022-05-14 20.29.09  
+Version 12  
 
 CS:GO game bans are permanent, non-negotiable, and cannot be removed by Steam Support.
 * [Why are game bans issued?](#whyban)

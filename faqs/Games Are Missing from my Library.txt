@@ -1,6 +1,7 @@
 Games Are Missing from my Library
 ---------------------------------
 Updated 2021-10-27 23.55.55
+Version 6
 
 [h1]New to Steam - Where are my games?[/h1]
 If you purchased a retail package and created a Steam account, you will need to register your CD Key to activate the product.  Learn how to [url=https://help.steampowered.com/en/faqs/view/2A12-9D79-C3D7-F870]activate a product on Steam[/url].
@@ -16,8 +17,9 @@ You can use the [url=https://help.steampowered.com/en/wizard/HelpWithLoginInfo]H
 Sometimes Steam will appear to be functioning correctly, except certain games will be missing from your list. If you are sure that you are logged in to the correct Steam account, then the issue is most likely that your filter is set incorrectly. Please log in to your Steam account using the Steam client and ensure that all games are visible in your Library.  
 
 [img]{STEAM_CLAN_IMAGE}/1976/a2b8ace8fe94524b2eafebe7645613471716fcd3.png[/img]
-
-[h3]Do you have any games hidden?[/h3]
+[h3]
+Do you have any games hidden?
+[/h3]
 If you are still missing any games, check to see if any have been added to your hidden list.  You can view this list by selecting [b][i]View > Hidden Games[/i][/b] at the top of the Steam client.
 
 To remove any game from this list: [b][i]Right-click the game > select Manage > Remove from Hidden[/i][/b].

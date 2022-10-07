@@ -1,5 +1,6 @@
 # Steam Trading
-Updated 2021-08-24 22.41.51
+Updated 2021-08-24 22.41.51  
+Version 6  
 
 * #### Trading Basics
 * [How do I trade?](#howtotrade)

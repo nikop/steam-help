@@ -1,5 +1,6 @@
 # Steam Deck - Windows Resources
-Updated 2022-06-17 00.08.24
+Updated 2022-06-17 00.08.24  
+Version 10  
 
 #### Windows Resources
   

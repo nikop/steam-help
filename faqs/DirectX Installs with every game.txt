@@ -1,6 +1,7 @@
 DirectX Installs with every game
 --------------------------------
 Updated 2021-08-12 19.42.19
+Version 4
 
 Why does DirectX install with every game?
 

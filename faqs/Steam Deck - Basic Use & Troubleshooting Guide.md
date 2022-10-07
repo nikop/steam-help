@@ -1,5 +1,6 @@
 # Steam Deck - Basic Use & Troubleshooting Guide
-Updated 2022-04-25 22.21.55
+Updated 2022-04-25 22.21.55  
+Version 5  
 
 ### First steps
 **Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:**  

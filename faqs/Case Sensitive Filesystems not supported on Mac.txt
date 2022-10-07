@@ -1,20 +1,24 @@
 Case Sensitive Filesystems not supported on Mac
 -----------------------------------------------
 Updated 2021-12-03 19.44.18
+Version 5
 
 Steam gives me the error, "Steam requires that ~/Library/Application Support/Steam be created on a case insensitive filesystem." or "Steam requires that ~/Documents/Steam Content be created on a case insensitive filesystem."
-
 [hr][/hr]
-
 Steam does not currently support case sensitive filesystems or partitions.
 
 If you wish to use Steam please make sure of the following:
-
-[list]  	[*]Steam is installed on a case-insensitive partition or hard drive  	[*]Your User folder is installed on a case-insensitive partition or hard drive  [/list]
-
+[list]
+[*]Steam is installed on a case-insensitive partition or hard drive
+[*]Your User folder is installed on a case-insensitive partition or hard drive
+[/list]
 To check whether you have a case-sensitive partition:
-
-[list]  	[*]Open the program Terminal  	[*]Type in: diskutil info /   	[*]Hit enter  	[*]Scroll down until you see the line "File System Personality."[/list]
+[list]
+[*]Open the program Terminal
+[*]Type in: diskutil info /
+[*]Hit enter
+[*]Scroll down until you see the line "File System Personality."
+[/list]
 If it shows "Case-sensitive Journaled HFS", "APFS (Case-sensitive)" or "APFS (Case-sensitive, Encrypted)" the hard drive IS case-sensitive.
 
 If it shows "Journaled HFS", "APFS", "APFS (Encrypted)" the hard drive is NOT case-sensitive.

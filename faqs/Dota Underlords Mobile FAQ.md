@@ -1,5 +1,6 @@
 # Dota Underlords Mobile FAQ
-Updated 2021-07-13 01.16.53
+Updated 2021-07-13 01.16.53  
+Version 3  
 
 ![https://steamcdn-a.akamaihd.net/steam/support/faq/underlordskbbanner.png](https://steamcdn-a.akamaihd.net/steam/support/faq/underlordskbbanner.png)  # Dota Underlords Mobile FAQ
 Hire a crew, destroy your rivals, and rule White Spire in this new strategy battler set in the world of Dota.  

@@ -1,5 +1,6 @@
 # Failed to create D3D Device
-Updated 2021-08-09 23.02.40
+Updated 2021-08-09 23.02.40  
+Version 5  
 
 D3D errors typically occur if you are running the game at settings which your machine does not adequately support or if you are running outdated video drivers. Other potential causes include outdated Windows installs or larger video card issues.  
   

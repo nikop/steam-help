@@ -1,5 +1,6 @@
 # Steam Link - Suggested Network Settings
-Updated 2021-08-28 00.52.17
+Updated 2021-08-28 00.52.17  
+Version 6  
 
 ![https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png](https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png)  
   

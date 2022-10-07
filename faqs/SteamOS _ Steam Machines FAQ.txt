@@ -1,10 +1,15 @@
 SteamOS / Steam Machines FAQ
 ----------------------------
 Updated 2022-07-06 20.36.41
+Version 5
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 
-  [h1][b]SteamOS / Steam Machine FAQ[/b][/h1]      [h2]SteamOS[/h2]  [expand type=title title="What is SteamOS?"]
+  [h1][b]SteamOS / Steam Machine FAQ[/b][/h1]
+[h2]
+SteamOS
+[/h2]
+[expand type=title title="What is SteamOS?"]
 
 SteamOS is our Linux-based operating system. The base system draws from Debian 8, code named Debian Jessie. Our work builds on top of the solid Debian core and optimizes it for a living room experience. Most of all, it’s an open Linux platform that gives you full control. You can take charge of your system and install the software and content that you want.
 
@@ -28,7 +33,11 @@ This error shows up if SteamOS fails to start the graphics driver and boot Steam
 
 If an update repeatedly fails, try restoring from recovery and re-updating without cutting power. If this fails, factory resetting your Steam Machine will fix the issue.
 
-[/expand]                  [h2]Steam Machines[/h2]  [expand type=title title="What is a Steam Machine?"]
+[/expand]
+[h2]
+Steam Machines
+[/h2]
+[expand type=title title="What is a Steam Machine?"]
 
 A Steam Machine is a compact gaming computer that’s built for playing Steam games on SteamOS. Learn to [url=http://store.steampowered.com/steamos/]build your own.[/url]
 

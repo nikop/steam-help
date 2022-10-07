@@ -1,5 +1,6 @@
 # Troubleshooting Microphone Problems
-Updated 2021-10-27 21.56.19
+Updated 2021-10-27 21.56.19  
+Version 5  
 
 # Check the Connection
   

@@ -1,5 +1,6 @@
 # Account Deletion - Common Questions
-Updated 2022-04-13 03.40.53
+Updated 2022-04-13 03.40.53  
+Version 4  
 
 If you think that you will not return to play the games on your Steam account and you’d like your account information removed, you can [request that Steam Support](https://help.steampowered.com/wizard/HelpDeleteAccount) delete your account. Steam Support will ask that you provide comprehensive [Proof of Ownership ](https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A) prior to fulfilling the request.  
   

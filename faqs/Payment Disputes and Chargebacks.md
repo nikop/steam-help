@@ -1,5 +1,6 @@
 # Payment Disputes and Chargebacks
-Updated 2021-10-28 00.07.02
+Updated 2021-10-28 00.07.02  
+Version 5  
 
 [exclude_realm=china]![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)[/exclude_realm]  
   

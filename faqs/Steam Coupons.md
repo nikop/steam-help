@@ -1,5 +1,6 @@
 # Steam Coupons
-Updated 2021-08-05 19.49.16
+Updated 2021-08-05 19.49.16  
+Version 5  
 
 * [When can I use my coupons?](#use)
 * [How many coupons can I use on an item? ](#howmany)

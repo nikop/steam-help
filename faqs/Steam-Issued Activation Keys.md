@@ -1,5 +1,6 @@
 # Steam-Issued Activation Keys
-Updated 2021-08-05 19.37.53
+Updated 2021-08-05 19.37.53  
+Version 5  
 
 Some Steam games may provide you with an additional activation key once they have been downloaded on a Steam account. These keys appear in the Steam library when you right-click the game and select 'Manage' -> 'CD keys'. These keys are used to register your product outside of Steam, with a third party client or service.  
   

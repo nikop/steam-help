@@ -1,5 +1,6 @@
 # How do I get my Server to be VAC Secure?
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 Enabling VAC security requires a different process for the different types of dedicated servers.  
   

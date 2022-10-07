@@ -1,5 +1,6 @@
 # Steam Deck - Software Info & Troubleshooting Guide
-Updated 2022-02-28 17.55.19
+Updated 2022-02-28 17.55.19  
+Version 2  
 
 ### First steps
 **Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:**  

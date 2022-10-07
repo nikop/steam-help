@@ -1,5 +1,6 @@
 # Soundtracks and Steam Music Player
-Updated 2021-08-11 21.56.47
+Updated 2021-08-11 21.56.47  
+Version 4  
 
 Soundtracks are purchasable on Steam as standalone music products or as DLC specific to a parent game (deprecated method). Some soundtracks were also included as bonus content for much older games on Steam.  
   

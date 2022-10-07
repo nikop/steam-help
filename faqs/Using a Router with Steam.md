@@ -1,5 +1,6 @@
 # Using a Router with Steam
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19.49.55  
+Version 3  
 
 How do I determine if my router is causing a Steam connection issue?  How do I configure my router to work with Steam?  
   
