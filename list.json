@@ -176,6 +176,7 @@
     "4BD4-4528-6B2E-8327",
     "4C03-C8BA-3EA1-B26A",
     "4C10-B32A-137D-0945",
+    "4C18-08B5-DEC9-3AF4",
     "4C93-64EF-517B-3329",
     "4CEF-A17B-388F-2A24",
     "4D07-D139-587C-2080",
@@ -2242,6 +2243,12 @@
       "FileName": "Where to buy Steam Wallet Codes",
       "LastUpdated": "2022-09-28T19:30:47+00:00",
       "Version": 31
+    },
+    "5483142123543411444": {
+      "Slug": "4C18-08B5-DEC9-3AF4",
+      "FileName": "Docking the Steam Deck",
+      "LastUpdated": "2022-10-06T16:30:15+00:00",
+      "Version": 1
     }
   }
 }
