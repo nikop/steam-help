@@ -13,7 +13,7 @@ I am trying to connect to a secure game server, but I received the error message
 * [Third-party Anti-Cheat Applications](#third)
 
 This issue stems from four main sources: connection issues, security software, background applications and third-party anti-cheat applications.  
-[](id=connection)  
+  
 ## Connection Issues
 
 * ## Firewalls and Routers
@@ -40,7 +40,7 @@ There are many online tools that help you to check for problems with your connec
 If you suspect that you are having a problem related to your Internet Connection, please contact your Internet Service Provider (ISP).
 
   
-[](id=security)## Security Software
+## Security Software
 
 * ## Security, Firewall, and Anti-Virus Software
 If you're using Internet security, firewall or anti-virus software, make sure they are set to recognize Steam.exe and all instances of HL.exe and HL2.exe as trusted programs. Please consult your security program manuals for instructions.  
@@ -62,7 +62,7 @@ After making any changes to your firewall, anti-virus or security software setti
 PeerGuardian is not compatible with Steam. Please disable PeerGuardian before launching Steam to avoid connection issues.
 
   
-[](id=background)## Background Applications
+## Background Applications
 
 * ## P2P, FTP and Web Server Applications
 Do not run Peer-to-Peer (P2P) programs like BitTorrent, Kazaa, eMule, LimeWire or Exeem in the background. These programs can consume large portions of your bandwidth. The same is true for FTP and Webserver applications such as Apache, MySQL servers and Microsoft's IIS services.  
@@ -74,6 +74,6 @@ Connection problems can also arise if your system is infected with a virus or sp
 Programs like Cybersitter, Netlimiter, X-Fire and Steganos Anonymous Internet can also interfere with normal Steam operations. Please disable these programs before launching Steam.
 
   
-[](id=third)  
+  
 ## Third-party Anti-Cheat Applications
 Using third-party anti-cheat applications, both server and client-side, is not necessary and may result in the errors outlined above. Do not use third-party anti-cheat applications while playing on a VAC secured server.

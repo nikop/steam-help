@@ -16,7 +16,7 @@ This guide describes a method for quickly creating a consistent color texture fr
 
   
   
-[](id=define)  
+  
   
 ##  DEFINING COLOR
 
@@ -29,7 +29,7 @@ This guide describes a method for quickly creating a consistent color texture fr
 ---
   
   
-[](id=ambient)  
+  
   
 ## AMBIENT OCCLUSION
 Start with the predominant color of the character  
@@ -56,7 +56,7 @@ Multiply the ambient occlusion layer on top of the base color at an 80% opacity.
 ---
   
   
-[](id=pointlight)  
+  
   
 ##   
 ## POINT LIGHT MAP
@@ -112,7 +112,7 @@ Multiply the ambient occlusion layer on top of the base color at an 80% opacity.
 ---
   
   
-[](id=colormap)  
+  
   
 ## COLOR MAP
 The majority of the painting is done in the color layers.  
@@ -151,7 +151,7 @@ The color layer group was duplicated again and given a blending mode of darken a
 ---
   
   
-[](id=patterns)  
+  
   
 ## GRAPHIC PATTERNS
 
@@ -176,7 +176,7 @@ Color is loosely painted inside the layer mask to preserve a sharp edge to the d
 ---
   
   
-[](id=final)  
+  
   
 ## FINAL ADJUSTMENTS
 Make final adjustments to details like the eye highlights, improve the value gradient overall, and adjust the saturation.  

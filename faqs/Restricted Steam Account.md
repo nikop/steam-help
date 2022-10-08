@@ -12,7 +12,7 @@ If someone claims they reported you accidentally or falsely, you do not need to 
   
 Anyone claiming to be a Valve employee or Steam Support representative, asking to verify your items for an investigation or security reasons should be immediately [ reported for trade scams.](https://help.steampowered.com/en/faqs/view/70E6-991B-233B-A37B#reportscammer)    
   
-[](id=whyrestrict)  
+  
 # Why would a Steam account be restricted?
 Steam Support does not contact the owners of restricted accounts by email in most circumstances. Most restrictions present their details in a lock or ban notification message shown on the account as long as that restriction remains active.   
   
@@ -38,7 +38,7 @@ An account used to abuse or harass others will be blocked from using Steam Commu
 
   
   
-[](id=restrictiontypes)  
+  
 # What types of restrictions can be applied to a Steam account?
   
   

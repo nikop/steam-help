@@ -46,7 +46,7 @@ If you're having trouble logging in with the Steam Guard Mobile Authenticator, p
 
   
   
-# [](id=what)**What is the Steam Guard Mobile Authenticator?**
+# **What is the Steam Guard Mobile Authenticator?**
   
 The Steam Guard Mobile Authenticator is a feature of the Steam Mobile App that provides an additional level of security to your Steam account. The authenticator generates a code that you need to enter every time that you log on to your Steam account. The code changes every 30 seconds, can be used only once, and is unguessable.  
   
@@ -56,11 +56,11 @@ Valve also strongly recommends that you add a phone number to your account, whic
   
 Your phone does not need to be connected to the Internet for the authenticator to work (however, your phone does need to know the correct time).  
   
-#### [](id=whyphone)Why should I add a phone number to my Steam account?
+#### Why should I add a phone number to my Steam account?
   
 Adding a phone to your account gives you more options to recover your account in case you forget your password, or if your account is stolen. You can use SMS messaging to reset your password, or transfer your Steam Guard Mobile Authenticator from one phone to another.  
   
-#### [](id=addphone)How do I add a phone number to my Steam account?
+#### How do I add a phone number to my Steam account?
   
 To add a phone number to your account or manage a previously added phone number:  
 
@@ -75,11 +75,11 @@ You will now be able to reset your password or transfer your Steam Guard Mobile 
   
 Please note that only one phone number can be associated with a Steam account at a time.  
   
-#### [](id=enable)How do I setup a Steam Guard Mobile Authenticator?
+#### How do I setup a Steam Guard Mobile Authenticator?
   
 [View the setup walkthrough here](https://help.steampowered.com/en/faqs/view/6891-E071-C9D9-0134)  
   
-#### [](id=login) How do I log in using the authenticator?
+####  How do I log in using the authenticator?
   
 If your account has the authenticator enabled, you will be asked to enter your current code after you've entered your user name and password.  
 
@@ -91,7 +91,7 @@ You can't use a code more than once, and you can't use old codes. So if you just
   
 **Never** share your authenticator codes with anyone, and don't type them in to a web site that isn't run by Valve. Steam Support will **never** ask for any of your codes.  
   
-#### [](id=where) Where is my mobile authenticator code?
+####  Where is my mobile authenticator code?
   
 The Mobile Steam App provides the current authenticator code for your account.  
 
@@ -100,11 +100,11 @@ The Mobile Steam App provides the current authenticator code for your account.
 * If you're logged in, go to the Steam Guard menu, where your current code will be shown.
 
   
-#### [](id=nophone) I don't have a phone. Can I still use the mobile authenticator?
+####  I don't have a phone. Can I still use the mobile authenticator?
   
 Not at this time. A supported phone is required.  
   
-#### [](id=bestway) What is the best way to use two factor authentication?
+####  What is the best way to use two factor authentication?
   
 First, you need to realize that just because you've enabled better protection for your account, this does **not** give you super powers.  
 
@@ -118,19 +118,19 @@ First, you need to realize that just because you've enabled better protection fo
   
 It's a good idea to print out a set of [backup codes](#backupcodes) that you can use in an emergency.  
   
-#### [](id=disable) How do I disable Steam Guard Mobile Authenticator?
+####  How do I disable Steam Guard Mobile Authenticator?
   
 You can remove two factor authentication from your account by opening the Steam Mobile App, navigating to the Steam Guard menu item, and selecting "Remove Authenticator". This will bring you to a confirmation window, where you can confirm your choice by selecting "Remove Authenticator" again.  
   
-#### [](id=devices) What devices does the Steam Guard Mobile Authenticator work on?
+####  What devices does the Steam Guard Mobile Authenticator work on?
   
 The Steam Guard Mobile Authenticator works on Apple iOS devices running iOS 8.0 or later, Android devices running 4.0 or later, and Windows Phone 8.1 and later.  
   
-# [](id=troubleshooting)  **Troubleshooting**
+#   **Troubleshooting**
   
 If you're having trouble logging in with the Steam Guard Mobile Authenticator, please use our help site ([help.steampowered.com](https://help.steampowered.com)) to recover your account.  
   
-#### [](id=restrictions)Why are my items on hold?
+#### Why are my items on hold?
   
 Any trades or Market listings created before a Mobile Authenticator is added, or during the first 7 days after it is added, will be held for 15 days. Trades or Market listings created more than 7 days after a Mobile Authenticator is added will not be held by Steam. Adding a Mobile Authenticator will not reduce the length of existing item holds.  
   
@@ -138,17 +138,17 @@ Any trades or Market listings created before a Mobile Authenticator is added, or
   
 [Read more about Trading and Market Restrictions](https://help.steampowered.com/en/faqs/view/451E-96B3-D194-50FC), or why you may be unable to trade or use the Market.  
   
-#### [](id=restart)Suddenly I'm logged out of the Steam Mobile App and not seeing authenticator codes, what do I do?
+#### Suddenly I'm logged out of the Steam Mobile App and not seeing authenticator codes, what do I do?
   
 Make sure the app is up to date on your phone and restart the app. This is a rare issue, that is commonly solved by restarting the app. Do not delete and reinstall the app. If you delete the mobile app from your phone, you'll need to reset your authenticator using [https://help.steampowered.com](https://help.steampowered.com).  
   
-#### [](id=sold) Help! I sold or lost my phone and I can't log in anymore! What do I do?
+####  Help! I sold or lost my phone and I can't log in anymore! What do I do?
   
 If possible, you should contact your wireless service provider and get a replacement phone with the same phone number. Steam will be able to send SMS messages to your replacement phone, and you will be able to recover your account as described below.  
   
 If you no longer have access to your phone and don't have your recovery code, you'll need the assistance of Steam Support. Use the "Help me with my issue" button at the top right of this page to get help removing your authenticator. If you don’t have access to the email address that is currently associated with your Steam Account please provide [proof of account ownership](https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A) within your ticket.  
   
-#### [](id=notworking) My authenticator codes aren't working!
+####  My authenticator codes aren't working!
   
 If you are unable to log in using the authenticator codes:  
 
@@ -158,7 +158,7 @@ If you are unable to log in using the authenticator codes:
   
 You can remove the authenticator from the account; see the section below on [authenticator recovery](#newphone).  
   
-#### [](id=transfer) Can I transfer my authenticator to my new phone?
+####  Can I transfer my authenticator to my new phone?
   
 Yes, you can.  
   
@@ -168,7 +168,7 @@ From the Steam Mobile app on your new device, try to log into your account. When
   
 After transferring the authenticator, any new trades or market listings will be held for a couple of days to protect your items in case your authenticator is ever transferred by a malicious person. See our [Trade Holds FAQ](https://help.steampowered.com/en/faqs/view/34A1-EA3F-83ED-54AB) for more information about trade holds.  
   
-#### [](id=newphone) I'm getting a new phone soon. What do I need to do?
+####  I'm getting a new phone soon. What do I need to do?
   
 If you're keeping your phone number, then you don't need to do anything in advance to prepare. Once you get your new phone, you can transfer your authenticator to the new phone using the [steps in the answer for the previous question above.](#transfer)  
   
@@ -180,7 +180,7 @@ If you have two factor authentication enabled, and you will also lose access to 
   
 Before you sell or give your phone away, we recommend doing a factory reset on it and removing personal information.  
   
-#### [](id=removephone) How do I remove the phone number from my account?
+####  How do I remove the phone number from my account?
   
 Log into the store in a browser, then:  
 
@@ -190,7 +190,7 @@ Log into the store in a browser, then:
 * You can remove the phone by typing in the current code from your Authenticator, or by sending your phone an SMS code. Choose one of these options and follow the instructions.
 
   
-#### [](id=backup) Is there a way to get backup codes in case I lose my phone?
+####  Is there a way to get backup codes in case I lose my phone?
   
 Yes, you can generate backup codes to use in an emergency. It's easy:  
 
@@ -204,15 +204,15 @@ Yes, you can generate backup codes to use in an emergency. It's easy:
   
 It's a good idea to print these codes instead of saving them on your computer. Don't take a screen shot of them.  
   
-#### [](id=recoverycode)I didn't save my recovery code, where can I find it?
+#### I didn't save my recovery code, where can I find it?
   
 Log in to the Steam Mobile App, from the main menu select Steam Guard, and on the Steam Guard page you'll see a menu option for "My Recovery Code". For security purposes, if you're unable to log into the Steam Mobile App, you will not be able to view your recovery code.  
   
-#### [](id=nosms) I'm not receiving SMS messages!
+####  I'm not receiving SMS messages!
   
 If you are unable to receive SMS messages from Steam, check with your wireless provider that your wireless account is allowed to receive them. Our text messages can come from a 6 digit phone number, please ensure that your provider supports this. Steam will also stop sending SMS messages if too many have been sent to you, so waiting a few minutes to an hour may allow messages to come through again. You should also check to make sure that your phone's inbox is not full.  
   
-#### [](id=phonenotworking) Why isn't my phone number working?
+####  Why isn't my phone number working?
   
 First, make sure you are entering your phone in international format (with '+' and your country code first).  
   
@@ -220,29 +220,29 @@ Make sure that your country code is correct (Steam tries to guess where you are 
   
 Valve does not allow certain phone numbers, such as VoIP numbers and numbers that cannot receive text messages. If your phone number is being rejected and you think that the rejection is in error, please contact Support by clicking on the "Help me with my issue" button.  
   
-# [](id=general)  **General Questions**
+#   **General Questions**
   
-#### [](id=VoIPphones)Why is my number being blocked because it's considered VoIP?
+#### Why is my number being blocked because it's considered VoIP?
   
 We are unable to accept new VoIP phone numbers on Steam due to them not meeting our security requirements. If your phone number is blocked because it's considered VoIP you will need to find a mobile or prepaid phone number to use on Steam. Select carriers use VoIP technology in their cellular plans and we are unable to support these. Our system will notify you when you enter your phone number if we consider it to be a VoIP number.  
   
-#### [](id=morethanone) Can I use multiple phones to authenticate my Steam account?
+####  Can I use multiple phones to authenticate my Steam account?
   
 No, only one authenticator can be active on an account at any one time.  
   
-#### [](id=share) Can I share my phone number between multiple accounts?
+####  Can I share my phone number between multiple accounts?
   
 Yes. You may use the same phone number on multiple accounts. You may enable Steam Guard Mobile Authenticator on multiple accounts on the same phone by logging in to each account within the app and following the procedure to enable the authenticator on each account. The app will provide codes for all accounts regardless of which account is currently logged in to the app. Accounts with the same phone number may be treated as the same identity with respect to the Steam Subscriber Agreement, policies, or restrictions.  
   
-#### [](id=cost)Do the SMS messages you send cost me anything?
+#### Do the SMS messages you send cost me anything?
   
 Standard messaging charges may apply; check your wireless phone plan to confirm.  
   
-#### [](id=noprompt) Why am I not prompted for a code when I save my login credentials in Steam?
+####  Why am I not prompted for a code when I save my login credentials in Steam?
   
 To make logging into your account faster, we do not require a code if you have saved your Steam client credentials. You may choose not to save your credentials and require a code on every login. You can change this in Steam's client settings under the account tab anytime by checking the box at the bottom that says, 'Don't save account credentials on this computer'.  
   
-#### [](id=banbyphone) Do VAC and Game bans apply to all accounts on a phone number?
+####  Do VAC and Game bans apply to all accounts on a phone number?
   
 If an account that has a phone number registered to it receives a VAC or Game ban, all other accounts that use the same phone number will also receive a ban. If the other accounts do not own the game they will still receive the ban and be unable to purchase the title on that account.  
   

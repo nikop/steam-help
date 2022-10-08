@@ -8,7 +8,7 @@ Since avatars and names are public, it is important that they are appropriate fo
   
 If your avatar or name is moderated or is cleared by our support and moderation staff, please understand that our goal is simply to keep these public pieces from offending or harming other members of the community. Please seek to avoid such content as disturbing images, sexual content, harassment, or any kind of harmful or illegal activity, and make sure your profile name follows our [Community Guidelines](https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B).  
   
-## [](id=faq)Frequently Asked Questions
+## Frequently Asked Questions
 
 * [Can I make my avatar or profile name private?](#private)
 * [How do I remove my profile name history?](#historyname)
@@ -21,44 +21,44 @@ If your avatar or name is moderated or is cleared by our support and moderation 
 
   
   
-# [](id=private)Can I make my avatar or profile name private?
+# Can I make my avatar or profile name private?
 No, because avatar and profile name represent you throughout Steam, they cannot be hidden. Also keep in mind that because these are publicly available once uploaded, other sites may scrape this content and keep a permanent record of it.  
   
   
-# [](id=historyname)How do I remove my profile name history?
+# How do I remove my profile name history?
 Steam stores the previous 10 names that you've used for your profile. If you'd like to clear this history, follow these instructions:  
 
 * Log in to your account and go to [your profile](https://steamcommunity.com/my/)
 * Click the drop down arrow next to your current persona name
 * Select *clear previous aliases*
 
-  # [](id=historyavatar)How do I remove my avatar image history?
+  # How do I remove my avatar image history?
 Steam does not store a history of avatars used on your profile. We do store avatar images on our content servers to serve any player that may be using that image. We do not give players a way to purge images from our content servers. Keep this in mind when uploading content to Steam.  
   
 If a third-party site is showing an old image associated to your account, we encourage you to ask them to remove this association.  
   
   
-# [](id=trouble)I'm having trouble editing my profile?
+# I'm having trouble editing my profile?
 If you are trying to edit your profile within the Steam client, you'll want to make sure you are logged in to the correct Steam account, make sure that you are not in offline mode, and that you are logged in to Friends & Chat (click on the "Friends & Chat" text in the lower right corner of the client).  
   
 If you are still not able to edit this content, please try again from your preferred web browser at https://steamcommunity.com/my/edit/info  
   
   
-# [](id=banned)What if my content has been banned?
+# What if my content has been banned?
 If you've recently had an avatar or profile name removed by support, you'll be prevented from changing them for a period of time which is detailed on your profile page. The length of time is based on whether or not you've had content removed in the past. Players who repeatedly have content removed, risk losing the ability to use the Steam Community.  
   
   
-# [](id=appeal)What if content was removed by mistake?
+# What if content was removed by mistake?
 We understand that subjectivity plays a role when applying our [Community Guidelines](https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B). We rely on feedback from the community to make sure that we are applying our rules correctly. If you feel that your content was mistakenly removed, you should contact Steam Support. They can review the content and help you understand the reason for removing it.  
   
   
-# [](id=others)Why was my content removed when worse stuff exists?
+# Why was my content removed when worse stuff exists?
 We rely on user reports to surface content that is objectionable to players on Steam. Please report anything that you feel is in violation of our rules: [How to report content.](https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD)  
   
 The existence of content that violates Steam's rules and guidelines does not permit other objectionable content to exist.  
   
   
-# [](id=report)How can content be reported?
+# How can content be reported?
 We encourage players to report any content that they find objectionable or believe to be in violation of these guidelines.  
   
 Detailed instructions for how to report each type of content are available in our [Reporting content within the Steam Community](https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD) article.

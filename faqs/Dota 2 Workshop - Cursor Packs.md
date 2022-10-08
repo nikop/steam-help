@@ -12,7 +12,7 @@ Version 4
 
   
   
-## [](id=requirements)
+## 
 ## CURSOR TECHNICAL REQUIREMENTS
 
 * Each cursor must be 32 pixels by 32 pixels, 24-bit RGB color with 8-bit alpha channel.
@@ -22,7 +22,7 @@ Version 4
 
   
   
-[](id=design)  
+  
   
 ## DESIGN CONSIDERATIONS
 
@@ -32,7 +32,7 @@ Version 4
 
   
   
-[](id=submission)  
+  
   
 ## INSTRUCTIONS FOR SUBMISSION
 
@@ -43,7 +43,7 @@ Version 4
 
   
   
-[](id=examples)  
+  
   
 ## EXAMPLE CURSOR PACK
 Download the [Valve Example Cursor Pack](http://media.steampowered.com/apps/dota2/images/workshop/guidelines/cursors/example_valve_cursor_pack.zip)  

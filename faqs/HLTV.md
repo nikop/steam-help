@@ -11,7 +11,7 @@ Version 14
 * [HLTV Configuration](#config)
 
   
-[h5]Steam Broadcasting for all Steam games[/h5]For information on Steam's built in game broadcasting/spectating feature for all games on Steam, see the [Steam Broadcasting](https://help.steampowered.com/en/faqs/view/548F-BC55-89EB-1BC8) page.[](id=overview)#### Overview
+[h5]Steam Broadcasting for all Steam games[/h5]For information on Steam's built in game broadcasting/spectating feature for all games on Steam, see the [Steam Broadcasting](https://help.steampowered.com/en/faqs/view/548F-BC55-89EB-1BC8) page.#### Overview
 Half-Life TV offers the ability to have an unlimited number of spectators watching online games. They can follow the game just like they would as a spectator on the game server. Spectators are invisible to players and can't interact with the running game in any way. Each spectator can choose any view position or choose any player to track individually.  
   
 To have the most enjoyable spectating experience, spectators can enable the Auto-Director mode. Then the camera is changed automatically so that only interesting scenes are shown from a suitable viewpoint. Thus the spectator can lean back and won't miss any relevant action. All the time, spectators may communicate between each other using the standard HL chat system.  
@@ -20,7 +20,7 @@ Most popular Half-Life mods are supported. HLTV providers have full control over
   
 The broadcast is delayed by a customizable amount of time, by default 30 seconds. This ensures that the playing teams can't use HLTV to get any usable information about their opponents. Providing a single HLTV server for up to 100 spectators is an easy task and doesn't need any changes in default configurations.  
   
-Installing a larger HLTV network for thousands of spectators needs some more planning time and experience about required bandwidth and CPU/RAM demands [(see Larger Broadcasts)](#large). For information on broadcasting and spectating of Source games see [developer Wiki on SourceTV](https://developer.valvesoftware.com/wiki/SourceTV).[](id=spectate)  
+Installing a larger HLTV network for thousands of spectators needs some more planning time and experience about required bandwidth and CPU/RAM demands [(see Larger Broadcasts)](#large). For information on broadcasting and spectating of Source games see [developer Wiki on SourceTV](https://developer.valvesoftware.com/wiki/SourceTV).  
 #### Spectate
 To watch a HLTV game, start Half-Life, select 'Find Servers' from the main menu. To search for currently broadcasted games, choose the 'Spectate' section and hit 'Refresh All'. After the list has been updated, double click on the server you want to spectate and you'll be connected.  
   
@@ -66,7 +66,7 @@ PIP modes are:
 * **3** : Map Overview
 * **4** : Chase Map Overview
 
-[](id=basics)  
+  
 #### Basics
 The core of the HLTV broadcasting system is the HLTV server, also called HLTV proxy. The HLTV executable is a console application that works much like a HL dedicated server. To broadcast a game running on a certain game server, the HLTV proxy connects to this server just like a normal player.  
   
@@ -83,7 +83,7 @@ The first HLTV proxy connected to the game server is called the Master proxy, wh
 HL Game Server -> HLTV Master -> HLTV Relay Proxy 2 => Spectator Clients  
   
 -> HLTV Relay Proxy 3 => Spectator Clients  
-[](id=broadcast)  
+  
 #### Broadcasting Games
 Let's assume the most simple configuration, a single HLTV proxy in a LAN environment. This is a very common situation and the default HLTV settings doesn't need to be changed. Choose a dedicated computer as your HLTV proxy and install the Half-Life Dedicated Server, which also includes all files needed by a HLTV proxy. This isn't needed if Half-Life is already installed.  
   
@@ -117,7 +117,7 @@ Server Name "Half-Life dedicated server"
 Time 01:35, Game "valve", Map "maps/rapidcore.bsp", Players 1  
   
 The **'status'** command shows your own IP address, HLTV system cycles per second, total incoming and outgoing network traffic in kB/sec. Local slot and spectator numbers your HLTV proxy is providing, total numbers are the sum of all slots & spectators on all proxies broadcasting this game. The game source can be a game server, another HLTV proxy or a demo file.[/expand]  
-[](id=record)  
+  
 #### Recording HLTV demos
 HLTV demo files are like normal recorded games in Half-Life, but you can choose any view point, view mode or player to chase during replay. To play back a HLTV demo, a HLTV proxy is not needed. Just start Half-Life and type in console *playdemo <demoname>* or *viewdemo <demoname>* (viewdemo offers more options during playback like fast forward/backward, pause & slowmotion). To record a HLTV demo, connect the proxy to a game server (see [Broadcasting Games](#broadcast) ) and type in console:  
   
@@ -137,7 +137,7 @@ Sometimes a HLTV broadcast is not wanted and the HLTV proxy is only used to reco
 *updaterate 20* // standard update rate  
   
 *nomaster 1* // don't register at master servers[/expand]  
-[](id=large)  
+  
 #### Large
 Setting up a HLTV network that can handle a larger number of spectators (>1000) is a difficult and time consuming task. The following guide should help to configure and run such a HLTV network. One of the most important rule should be **Quality, not Quantity**. It's better to offer a smaller number of spectator slots, than operating at the maximum bandwidth limit, thus all spectators would suffer from lags and timeouts. Check carefully your available bandwidth capacity and calculate how many spectators can be handled by your HLTV servers. The average bandwidth demand per spectator is between 2 and 3 KB/sec and depends on the current mod, map and number of players. CPU and RAM shouldn't be a bottleneck on modern PC systems.  
   
@@ -183,7 +183,7 @@ The configuration files of HLTV master and HLTV dispatcher are different:
 *hostname MyGame* // public HLTV server name  
   
 If you're running 3 or more HLTV servers in total, it's a good idea to use RCON to manage them via a single server admin tool. To enable RCON on a HLTV server an **adminpassword** must been set. Also **proxypassword** should be set to ensure only known HLTV providers can connect to your HLTV network. Otherwise anybody can connect with slow HLTV proxies and disturb your network load balancing.  
-[](id=config)  
+  
 #### HLTV Configuration
 A short note about console command syntax:  
 

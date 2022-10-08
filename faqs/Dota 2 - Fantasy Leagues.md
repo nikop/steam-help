@@ -10,7 +10,7 @@ Version 3
 
   
   
-## [](id=general)**General**
+## **General**
   
   
 ### Can I create more than one Fantasy League?
@@ -29,7 +29,7 @@ Ties are broken by the total number of points scored in the season.
 ### When does a matchup end?
 Weekly matchups end on Sunday night at midnight in the time zone of the tournament. At that point, wins and losses are assigned for that week, and the next matchups begin.  
   
-## [](id=players)**Players**
+## **Players**
   
   
 ### Can a player be owned by more than one Fantasy Team?
@@ -56,7 +56,7 @@ No, all players are scored based on the same criteria.
 
   
   
-## [](id=rosters)**Player Rosters**
+## **Player Rosters**
   
   
 ### How many players can I have on my team?
@@ -95,7 +95,7 @@ The draft system will automatically pick players for you.
 ### Do players get more points if a best-of-three goes to a third game?
 No. In a best-of-three series, each player earns points only for their highest-scoring games.  
   
-## [](id=trading)**Trading and Free Agents**
+## **Trading and Free Agents**
   
   
 ### Can I remove a player from my team?
@@ -107,7 +107,7 @@ No, currently you can only have one outstanding drop/add request.
 ### Can I trade players with another Fantasy Team?
 Trading players between Fantasy Teams is not yet supported.  
   
-## [](id=scoring)**Scoring**
+## **Scoring**
   
   
 ### Do all matches played by a player in my roster count towards my score?

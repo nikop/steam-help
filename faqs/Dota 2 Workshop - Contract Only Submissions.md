@@ -14,7 +14,7 @@ Contract Only submissions are only intended for partners working with Valve who 
 
   
   
-[](id=newusers)  
+  
   
 ## CONTRACT ONLY SUBMISSIONS FOR NEW USERS
 
@@ -22,7 +22,7 @@ Contract Only submissions are only intended for partners working with Valve who 
 
   
   
-[](id=instructions)  
+  
   
 ## INSTRUCTIONS
 
@@ -68,14 +68,14 @@ Contract Only submissions are only intended for partners working with Valve who 
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/hidden_submission.jpg?v=1577836800](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/hidden_submission.jpg?v=1577836800)  
   
-[](id=failures)  
+  
   
 ## SUBMISSION FAILURES
 
 * If you attempt to add item files to a contract-only submission, the submission will fail and you will see an error saying "Invalid zip file". To submit item files, you will need do your submission under another category of supported item types.
 
   ## ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/invalid_zip.jpg?v=1577836800](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/invalid_zip.jpg?v=1577836800)
-[](id=revenuerestrictions)  
+  
   
 ## REVENUE SHARE RESTRICTIONS
 

@@ -25,14 +25,14 @@ Version 9
 
   
   
-## [](id=homepage)
+## 
 ## Is there a main resource web page for the Dota 2 Item Workshop?
 
 * Yes. The [Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/) is the starting place for item workshop resources.
 
   
   
-[](id=account)  
+  
   
 ## Do I need a special Steam account to submit items to the Dota Workshop?
 
@@ -40,7 +40,7 @@ Version 9
 
   
   
-[](id=steps)  
+  
   
 ## What are the steps to making and submitting a Dota 2 Workshop item?
 
@@ -59,7 +59,7 @@ Version 9
 
   
   
-[](id=publishingprocess)  
+  
   
 ## How does the item publishing process work?
 
@@ -91,7 +91,7 @@ Version 9
 
   
   
-[](id=copyright)  
+  
   
 ## What should always be avoided when creating items for Dota 2?
 
@@ -100,7 +100,7 @@ Version 9
 
   
   
-[](id=tutorials)  
+  
   
 ## Where can I find good tutorials to learn 3D modeling?
 
@@ -144,7 +144,7 @@ Version 9
 
   
   
-[](id=courier)  
+  
   
 ## I would like to create a custom courier. Do I have to animate it or will Valve take care of that?
 
@@ -153,7 +153,7 @@ Version 9
 
   
   
-[](id=tools)  
+  
   
 ## Do I need to use special tools to submit Workshop items?
 
@@ -161,7 +161,7 @@ Version 9
 
   
   
-[](id=heroitems)  
+  
   
 ## Do all heroes in Dota 2 have the same types of items?
 
@@ -169,7 +169,7 @@ Version 9
 
   
   
-[](id=originalcontent)  
+  
   
 ## Where can I get the original content for the existing characters so I can build my item in context?
 
@@ -178,7 +178,7 @@ Version 9
 
   
   
-[](id=heroes)  
+  
   
 ## Will you be adding more heroes to the Dota 2 Item Workshop?
 
@@ -194,7 +194,7 @@ Version 9
 
   
   
-[](id=response)  
+  
   
 ## I submitted an item to the Workshop. When will I hear whether it has been accepted or not?
 
@@ -202,7 +202,7 @@ Version 9
 
   
   
-[](id=technicalproblems)  
+  
   
 ## I am having technical problems preparing my items or using the Dota Workshop Item Tools. Can someone help me?
 
@@ -211,7 +211,7 @@ Version 9
 
   
   
-[](id=revenue)  
+  
   
 ## Can I change the revenue shares on my workshop item?
 

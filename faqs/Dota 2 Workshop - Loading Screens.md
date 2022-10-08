@@ -13,7 +13,7 @@ Version 3
 
   
   
-[](id=requirements)  
+  
   
 ## TECHNICAL REQUIREMENTS
 
@@ -23,7 +23,7 @@ Version 3
 
   
   
-[](id=instructions)  
+  
   
 ## SUBMISSION INSTRUCTIONS
 
@@ -32,7 +32,7 @@ Version 3
 
   
   
-[](id=aspect)  
+  
   
 ## ASPECT RATIOS
 
@@ -46,7 +46,7 @@ Version 3
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_4-3.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_4-3.jpg)  
   
-[](id=notes)  
+  
   
 ## OTHER NOTES
 

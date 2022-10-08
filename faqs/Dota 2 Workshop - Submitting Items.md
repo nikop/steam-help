@@ -31,13 +31,13 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
 
   
   
-## [](id=preparations)
+## 
 ## PREPARATIONS BEFORE SUBMITTING ITEMS
 
 * [Prepare a Steam account for submitting items to the Dota Item Workshop and install Dota Workshop tools](https://support.steampowered.com/kb/8860-WOSX-7503/dota-2-account-preparation-for-workshop-item-submission)
 * Make sure your items conform to the texture and triangle budgets and other technical requirements described in the [Hero Reference](http://www.dota2.com/workshop/requirements) pages and [Asset Creation Guidelines](http://www.dota2.com/workshop/#creation).
 
-  ## [](id=launch)
+  ## 
 ## LAUNCH ITEM TOOLS
 
 * Launch Dota 2 in Steam and click the button that says "Launch Dota 2 - Tools"
@@ -58,7 +58,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
 
     
   
-## [](id=createitem)​CREATE NEW ITEM
+## ​CREATE NEW ITEM
 
 * In the next window, click "Create New Item"
 
@@ -78,7 +78,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/select_item_to_upload.jpg?v=1466444802](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/select_item_to_upload.jpg?v=1466444802)​  
   
-## [](id=inputs)
+## 
 ## SELECT INPUTS
 
 * Inputs will vary according to the item type.
@@ -88,7 +88,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/select_inputs.JPG?](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/select_inputs.JPG?)​  
   
-# [](id=inputattach)
+# 
 # INPUT ATTACHMENTS
 
 * Details about typical creature attachments can be found on the [Ability Model](https://support.steampowered.com/kb/7823-RUAZ-5739/dota-2-workshop-ability-models-summoned-units#attachments) and [Courier](https://support.steampowered.com/kb/8986-WRAZ-1046/dota-2-workshop-couriers#attachments) pages.
@@ -110,7 +110,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/save_session.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/save_session.jpg)  
   
-## [](id=compile)​
+## ​
 ## COMPILE YOUR ITEM
 
 * After saving the session, click "Next" in the lower right to compile the item.
@@ -130,7 +130,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
 
 * Click "Next" after a successful compile.
 
-  ## [](id=previewmodel)
+  ## 
 ## PREVIEW MODEL
 
 * ​You'll see your compiled model in the tool's model viewer.
@@ -157,7 +157,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/preview_model.JPG](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/preview_model.JPG)  
   
-# [](id=editattach)
+# 
 # EDIT ATTACHMENTS
 
 * To edit the position and orientation of attachments:
@@ -174,7 +174,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
 
 * If your model's mesh is disconnected or the weighting is distorted, please see [this section](https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205#refmodel) of our Item Troubleshooting page.
 
-  ## [](id=previewgame)
+  ## 
 ## PREVIEW IN GAME
 
 * Some items have special requirements for testing. These may be noted in the submission tool, on the resource page for that hero or in the web guidelines for that item type.
@@ -197,7 +197,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
 * Remember - your item's appearance from above in game view is just as important as its closeup appearance in loadout.
 * Click "Next" when done testing.
 
-  ## [](id=editportrait)
+  ## 
 ## EDIT PORTRAIT
 
 * If you are submitting a courier, ward, or hero ability model, you will need to create a portrait for it.
@@ -211,13 +211,13 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/edit_portrait.JPG?](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/edit_portrait.JPG?)​  
   
-## [](id=makerev)
+## 
 ## MAKE REVISIONS
 
 * You don't have to submit your first pass of an item to the workshop. You can take it as far as compiling the model in the tool and previewing it in game, then save your session, and exit the tool to do more work before making your final submission.
 * To reload an existing session for an item you haven't submitted yet, return to the first page, click "Create New Item" and then, on the following page, click "Load Session" in the lower left.
 
-  ## [](id=submititem)
+  ## 
 ## SUBMIT YOUR ITEM TO THE STEAM WORKSHOP
 
 * ​Once you are done previewing and revising your item, continue clicking "Next" to take the item through to the final workshop submission.
@@ -225,7 +225,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
 * Save your final workshop session.
 * If you have problems submitting your item, see our [Item Troubleshooting page](https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205).
 
-  ## [](id=collection)
+  ## 
 ## ITEM COLLECTIONS 
 
 * You can put all items for a hero's item set or other combinations of items (such as a courier and loading screen) into a collection on the workshop by going to the [Browsing: Collections](https://steamcommunity.com/workshop/browse/?appid=570&browsesort=trend&section=collections) part of the Steam Dota Workshop, clicking "Create Collection" , choosing the correct collection type and following the instructions.
@@ -241,7 +241,7 @@ Follow the steps in the sections below to submit in-game items for the Dota Work
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/collection_type_button.JPG](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/collection_type_button.JPG)  
   
-## [](id=update)
+## 
 ## UPDATING WORKSHOP SUBMISSIONS
 
 * ​​If you need to update your item once it has been submitted to the workshop, you can select it from your list of submitted items in the tool's Workshop Manager and use the "Edit" menu to edit or re-upload your item.

@@ -8,11 +8,11 @@ Version 4
 
   
   
-### [](id=what)What games/software can I create guides for?
+### What games/software can I create guides for?
 You can create a guide for any game or software that you have in your Steam Library.  
   
   
-### [](id=where)Where do I find guides that I created?
+### Where do I find guides that I created?
 There are two ways you can locate guides that you've created:  
   
 From your Steam Community profile:  
@@ -28,7 +28,7 @@ From the 'guides' section for a specific game/software:
 * In the right column, you will see a section for "Your Guides" and a link to "Guides you've made"
 
   
-### [](id=content)Are there guidelines for what can and can't be included in guides?
+### Are there guidelines for what can and can't be included in guides?
 For more information on this please click [here](https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B) to read the full Rules and Guidelines for Steam Guides.  
   
 You can also find more information on guides here: [http://www.steamcommunity.com/guides](http://www.steamcommunity.com/guides)

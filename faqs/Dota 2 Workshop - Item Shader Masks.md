@@ -23,7 +23,7 @@ Version 6
 
   
   
-[](id=overview)  
+  
   
 ## OVERVIEW
 
@@ -48,7 +48,7 @@ Model, Color, Normal, Metalness, Self Illumination, Specular, Rimlight, Base Tin
 ---
   
   
-[](id=source1)  
+  
   
 ## SOURCE 1 TEXTURE AND SHADER MASK CONVERSION
 
@@ -64,10 +64,10 @@ Model, Color, Normal, Metalness, Self Illumination, Specular, Rimlight, Base Tin
 ---
   
   
-[](id=source2)  
+  
   
 ## SOURCE 2 TEXTURES AND SHADER MASKS 
-[](id=color)  
+  
   
 ##  Color Map
   
@@ -98,7 +98,7 @@ Color Maps for Ogre Magi, Disruptor, and Razor
 ---
   
   
-[](id=transparency)  
+  
   
 ##  Transparency
   
@@ -123,7 +123,7 @@ The mesh, Color Map, Transparency, and game model for Abaddon's default cape
   
   
   
-[](id=normal)  
+  
   
 ##  Normal Map
   
@@ -155,7 +155,7 @@ The model mesh without Normal Map, with Normal Map, and with all final textures 
 ---
   
   
-[](id=detail)  
+  
   
 ##  Detail Mask
   
@@ -189,7 +189,7 @@ Razor's arm with the Detail Mask
 ---
   
   
-[](id=metalness)  
+  
   
 ##  Metalness Mask
   
@@ -213,7 +213,7 @@ Razor's arm with the Detail Mask
 ---
   
   
-[](id=selfillum)  
+  
   
 ##  Self Illumination Mask
   
@@ -246,7 +246,7 @@ A more subtle mask is used for the glow within Earth Spirit's arms.
 ---
   
   
-[](id=specular)  
+  
   
 ##  Specular Mask
   
@@ -277,7 +277,7 @@ Authored Specular
 ---
   
   
-[](id=rimlight)  
+  
   
 ##  Rimlight
 
@@ -312,7 +312,7 @@ Ogre Magi's weapon rimlight mask is light for leather and dark for metal
 ---
   
   
-[](id=basetint)  
+  
   
 ##  Base Tint Mask
   
@@ -337,7 +337,7 @@ Ogre Magi's bracer and Disruptor's base model without and with a Base Tint Mask
 ---
   
   
-[](id=exponent)  
+  
   
 ##  Specular Exponent
   
@@ -382,7 +382,7 @@ Authored Specular Exponent
 ---
   
   
-[](id=diffuse)  
+  
   
 ## Diffuse Mask (rarely used)
 
@@ -400,7 +400,7 @@ Puck without (left) and with (right) a Custom Fresnel Color Warp applied to diff
 ---
   
   
-[](id=budgets)  
+  
   
 ## TEXTURE BUDGETS AND RESOLUTION
   

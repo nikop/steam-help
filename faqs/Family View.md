@@ -13,7 +13,7 @@ You can use Family View to limit an account's access to a subset of its content 
 * [How do I reset my PIN?](#forgotpin)
 
   
-[](id=setitup)  # Setting up Family View
+  # Setting up Family View
 We encourage you to create a Steam account with your child. If there are features of Steam that you would like to exclude from the experience, you can restrict access using Family View. You may also choose to enable Family View on your own Steam account if you would rather they share your Steam Account.   
 If you are currently logged in to the Steam account for which you want to set up Family View, you can simply click [here ](https://store.steampowered.com/parental/set)to start the family view setup wizard. Otherwise, please follow these steps in the Steam Client or on the Steam website:   
   
@@ -76,7 +76,7 @@ To modify your Family View options:
 * Step through the Family View options wizard to select new content and features for Family Mode. You’ll also be asked to select a PIN, which you’re welcome to change or leave the same.
 
     
-[](id=disableit)    
+    
 # Disabling Family View
 To remove Family View from your or your child’s account:  
 
@@ -87,7 +87,7 @@ To remove Family View from your or your child’s account:
 
  This will remove all restrictions from the account. If you wish to enable Family View in the future, simply revisit the "Family" tab in Settings and step through the Family View wizard once more. Your selected options will remain the same if you disable and re-enable the feature again in the future.  
   
-[](id=forgotpin)    
+    
 # Resetting your PIN
 If you have lost or forgotten your PIN and a recovery email address has been specified, you are able to request an email containing a link to disable Family View on your account here: [http://store.steampowered.com/parental/requestrecovery](http://store.steampowered.com/parental/requestrecovery)  
   

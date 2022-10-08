@@ -17,7 +17,7 @@ Family and guests can play one another's games while earning their own Steam ach
 
   
   
-[](id=enable)  #### Setting up Family Sharing
+  #### Setting up Family Sharing
 There are two recommended methods for authorizing shared libraries. Both require that Steam Guard be enabled on all accounts.  
   
 [h5]Authorizing another user:[/h5]
@@ -45,7 +45,7 @@ Or, you can [remotely deauthorize computers from the web](https://store.steampow
 #### Disabling Family Sharing
 In these same settings, deselect any account from the list of authorized users to prohibit them from accessing your games.  
   
-[](id=faq)  #### Frequently Asked Questions
+  #### Frequently Asked Questions
 
 * [Can I share my games with users that don't live with me?](#dontlivewithme)
 * [I want to play my own games, but they're being played by another account. What do I do?](#inuse)
@@ -59,13 +59,13 @@ In these same settings, deselect any account from the list of authorized users t
 
  [url id=dontlivewithme][/url]  [h5]Can I share my games with users that don't live with me?[/h5]While Family Sharing can work for users that are not accessing Steam from the same location, due to technical limitations, the feature may encounter issues that Steam is unable to provide support for.  
   
-[](id=inuse) [h5]I want to play my own games, but they're being played by another account. What do I do?[/h5]As the owner, you may always access and play your games at any time. If you decide to start playing when another user is already playing one of your games, he/she will see a message giving them five minutes to either purchase or quit out of the game.  
+ [h5]I want to play my own games, but they're being played by another account. What do I do?[/h5]As the owner, you may always access and play your games at any time. If you decide to start playing when another user is already playing one of your games, he/she will see a message giving them five minutes to either purchase or quit out of the game.  
   
-[](id=gamevslibrary) [h5]Can I share specific games?[/h5]No, libraries are shared in their entirety. You aren't able to select specific games to share or exclude.  
+ [h5]Can I share specific games?[/h5]No, libraries are shared in their entirety. You aren't able to select specific games to share or exclude.  
   
 Additionally, for users that are borrowing multiple Steam Libraries, they will be unable to choose who they borrow a game from.  
   
-[](id=excludedgames) [h5]Can all Steam games be shared?[/h5]No, due to technical limitations, some Steam games and content may be unavailable for sharing. Games or content that matches the criteria below cannot be shared between accounts.  
+ [h5]Can all Steam games be shared?[/h5]No, due to technical limitations, some Steam games and content may be unavailable for sharing. Games or content that matches the criteria below cannot be shared between accounts.  
 
 * Games that require an additional third-party key, account, or a subscription in order to play
 * Free to play games and any purchased DLC for those games
@@ -77,19 +77,19 @@ Additionally, for users that are borrowing multiple Steam Libraries, they will b
 * Games the owner has (automatically) from belonging to a Steamworks partner account
 
   
-[](id=simultaneous) [h5]Can two users share a library and both play at the same time?[/h5]No, a shared library may only be played by one user at a time including the owner and even if they want to play different games.  
+ [h5]Can two users share a library and both play at the same time?[/h5]No, a shared library may only be played by one user at a time including the owner and even if they want to play different games.  
   
-[](id=sharelimit) [h5]Is there a limit to the number of accounts I can share my Library with?[/h5]Yes. A Steam account may authorize Family Library Sharing on up to 5 accounts and on up to 10 devices in a 90 day period. This includes accounts/devices that you have cancelled sharing with in that same time period.  
+ [h5]Is there a limit to the number of accounts I can share my Library with?[/h5]Yes. A Steam account may authorize Family Library Sharing on up to 5 accounts and on up to 10 devices in a 90 day period. This includes accounts/devices that you have cancelled sharing with in that same time period.  
   
-[](id=dlc) [h5]DLC and in-game content[/h5]A borrower will have access to the lender's games and DLC, but only if the borrower **does not** also own the base game. If they already own the game, they'll need to purchase the DLC themselves in order to play it. For free to play games, DLC cannot be shared since all Steam users "own" the game.  
+ [h5]DLC and in-game content[/h5]A borrower will have access to the lender's games and DLC, but only if the borrower **does not** also own the base game. If they already own the game, they'll need to purchase the DLC themselves in order to play it. For free to play games, DLC cannot be shared since all Steam users "own" the game.  
   
 Any user may purchase, trade, earn, or otherwise acquire in-game content while playing a game, but in-game items cannot be shared between accounts. These items remain the property of the account that purchased or acquired them.  
   
 Trading cards will not be dropped while playing a shared game.  
   
-[](id=regionrestriction) [h5]Can region-restricted games be shared across regions?[/h5]No, any region restrictions will remain in place when lending or borrowing games.  
+ [h5]Can region-restricted games be shared across regions?[/h5]No, any region restrictions will remain in place when lending or borrowing games.  
   
-[](id=VACban) [h5]What if a borrower is caught cheating or committing fraud while playing my shared games?[/h5]Your Family Sharing privileges may be revoked and your account may also be VAC banned if a borrower cheats or commits fraud. In addition, not all VAC protected games are shareable. We recommend you only authorize familiar Steam Accounts and familiar computers you know to be secure. And as always, never give your password to anyone.  
+ [h5]What if a borrower is caught cheating or committing fraud while playing my shared games?[/h5]Your Family Sharing privileges may be revoked and your account may also be VAC banned if a borrower cheats or commits fraud. In addition, not all VAC protected games are shareable. We recommend you only authorize familiar Steam Accounts and familiar computers you know to be secure. And as always, never give your password to anyone.  
   
 If you receive a VAC ban, you will be unable to share [any VAC protected games](http://store.steampowered.com/search/?category2=8). [url id=trouble][/url] #### Troubleshooting Family Sharing
 If you are experiencing issues with an entire shared library, it's likely that there is an authorization issue with device or user that was previously authorized.  
@@ -109,7 +109,7 @@ If you are experiencing an issue with a specific game or DLC in a shared library
   
 You will need to wait for the cooldown to expire before authorizing another machine. Steam Support does not remove these cooldowns.  
   
-[](id=bugs)  #### Reporting an issue with Family Sharing
+  #### Reporting an issue with Family Sharing
 If you have an issue with Family Sharing and wish to discuss it with the community, or have a new bug to report, use the [Family Sharing Community Discussion](http://steamcommunity.com/groups/familysharing/discussions) forum.  
   
 Should you continue to have issues, please contact [Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamIssue/?issueid=803).

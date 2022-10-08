@@ -22,7 +22,7 @@ Version 9
 
   
   
-## [](id=concept)
+## 
 ## COURIER CONCEPT CONSIDERATIONS
 
 * Make sure the courier's face or prominent features can be clearly seen from above in game view.
@@ -44,7 +44,7 @@ Version 9
 ---
   
   
-[](id=eyefocus)  
+  
   
 ## EYE FOCUS
 
@@ -60,7 +60,7 @@ Version 9
 
 ---
   ##   
-## [](id=models)
+## 
 ## COURIER MODELS
 
 * Couriers require both a walking AND a flying model.
@@ -87,7 +87,7 @@ Version 9
 ---
   
   
-[](id=scale)  
+  
   
 ## COURIER SCALE
 
@@ -103,7 +103,7 @@ Version 9
 ---
   
   
-[](id=textures)  
+  
   
 ## COURIER TEXTURES
 
@@ -120,7 +120,7 @@ Version 9
 ---
   
   
-[](id=animation)  
+  
   
 ## COURIER ANIMATION OVERVIEW
 
@@ -139,7 +139,7 @@ Version 9
 ---
   
   
-[](id=spawn)  
+  
   
 ## COURIER SPAWN ANIMATION
 
@@ -154,7 +154,7 @@ Version 9
 ---
   
   
-[](id=movement)  
+  
   
 ## COURIER MOVEMENT ANIMATION
 
@@ -174,7 +174,7 @@ Version 9
 ---
   
   
-[](id=death)  
+  
   
 ## FLYING COURIER HEIGHT AND DEATH ANIMATION
 
@@ -197,7 +197,7 @@ Version 9
 ---
   
   
-[](id=hitboxes)  
+  
   
 ## HITBOXES
 
@@ -212,7 +212,7 @@ Version 9
 ---
   
   
-[](id=attachments)  
+  
   
 ## ATTACHMENT POINTS
 
@@ -236,7 +236,7 @@ Version 9
 ---
   
   
-[](id=submitting)  
+  
   
 ## SUBMITTING COURIERS 
 
@@ -262,7 +262,7 @@ Version 9
 ---
   
   
-[](id=download)  
+  
   
 ## REFERENCE DOWNLOAD
 

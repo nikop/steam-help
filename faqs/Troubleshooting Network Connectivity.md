@@ -29,14 +29,14 @@ Scan your computer for [Spyware, Malware, Adware, or Virus Interfering with Stea
 
   
   
-[](id=ports)  
+  
 ### Required Ports for Steam
 All required ports to run the Steam application are listed [here](https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB).  It is possible that other games available on Steam will require further ports to be available.  
   
   ### Note:
 Many university networks and proxies block required ports for Steam operation - please consult your network administrator to ensure the required ports are open if you are using a university network or a proxy. **Ports required for Steam can not be re-mapped to HTTP or reconfigured to a custom port range.**  
   
-[](id=isp)  
+  
 ### Known Issues with Internet Service Providers (ISPs)
   ### Important:
 If you notice that your Steam connection only has issues during certain hours of the day (for example in the evenings between 5pm and 11pm), it is possible that your ISP is blocking or "shaping" your connection.  Please test your connection at other hours of the day and contact your ISP directly if you believe this is causing the connection issue.  

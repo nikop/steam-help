@@ -38,7 +38,7 @@ Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com
 
   
   
-[](id=addfunds)  
+  
   
 #### How do I add funds to my Steam Wallet?
 [h5]Add funds via Steam:[/h5]
@@ -51,7 +51,7 @@ Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com
 Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E) article to find the best local purchasing option nearest you.  
 [/exclude_realm]  
   
-[](id=viewbalance)  
+  
   
 #### How do I view my Steam Wallet balance?
 
@@ -60,12 +60,12 @@ Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com
 
   
   
-[](id=transferred)  
+  
   
 #### Can Steam Wallet funds be gifted, withdrawn or transferred to another Steam account?
 No, Wallet funds cannot be moved or withdrawn to a bank account. [exclude_realm=china]Once a Steam Wallet code has been redeemed on an account, the wallet funds are then tied to that account. If you would like to buy another user Steam Wallet funds, please purchase a [Steam Wallet code](https://store.steampowered.com/account/redeemwalletcode).[/exclude_realm]  
   
-[](id=notappeared)  
+  
   
 #### I recently added Steam Wallet funds but they have not appeared, what do I do?
 In most cases, the new funds will automatically be displayed in your account. If the issue persists for more than two hours after completing your transaction, please do the following:  
@@ -86,7 +86,7 @@ Steam Wallet codes work just like gift cards which can be redeemed on your accou
   ### Note:
 Funds added to the Steam wallet will be used towards the next purchase(s) to the Steam account. Once depleted, another form of payment can be used.  
   
-[](id=redeem)  
+  
   
 #### How do I redeem a Steam Wallet Code?
 
@@ -99,34 +99,34 @@ Funds added to the Steam wallet will be used towards the next purchase(s) to the
   
 When in the "Review + Purchase" step during checkout click "My Steam Wallet" as a payment method. The cost of the item you purchase and the associated tax will be deducted from your wallet funds.  
   
-[](id=currency)  
+  
   
 #### What currency will my Steam Wallet funds be in?
 If you have never had a Steam Wallet balance on your Steam account, the funds will be added in the currency of the Steam store. If you have an existing Steam Wallet (regardless of the current balance), the funds will be added in your Steam Wallet's current currency.  
   
-[](id=restrictions)  
+  
   
 #### Are there country restrictions on Steam Wallet codes?
 Yes. Each Steam User Account is associated with a specific currency, which you can see in the top right corner of your Steam Client. You may encounter an error if you try to activate a Steam Wallet Code issued in a different currency than the one of your Steam User Account.  
   
-[](id=codedamaged)  
+  
   
 #### What if my Steam Wallet code is damaged or unreadable?
 If a Steam Wallet code has been damaged or is otherwise unreadable, please contact Steam Support with a [photo of the code](https://help.steampowered.com/en/faqs/view/1D8E-2D78-B084-C72D) attached to the ticket.  
   
-[](id=helpPayPal)  
+  
   
 #### Who do I contact for help with PayPal Wallet Codes?
 If you need help with a Steam Wallet code purchased directly from PayPal, please contact [PayPal Help](https://www.paypal.com/smarthelp/home).  
   
-[](id=invalid)  
   
-[](id=helpWebMoney)  
+  
+  
   
 #### Who do I contact for help with Steam Prepaid Card issued by WebMoney?
 If you need help with a Steam prepaid card purchased at convenience stores in Japan, please contact [WebMoney Help](https://www.webmoney.jp/utility/contact.html).  
   
-[](id=invalid)  
+  
   
 #### I keep getting an invalid code error, what should I do?
 Sometimes it is easy to get certain letters and numbers confused. Please try the below suggestions to ensure that you are entering the correct code:  
@@ -146,7 +146,7 @@ Check instances of the following pairs to ensure these characters are not being 
 
   
   
-[](id=instore)  
+  
   
 #### How do in-store promotions regarding Steam Wallet codes work? (Including used game trade-ins)
 Any trade-in credit or other promotion offer by a retail store which modifies the value of your Steam Wallet code is handled by the retailer. If you have any questions regarding these offers or an issue with the Steam Wallet credit value received in one of these promotions, you will need to contact them directly.[/exclude_realm]

@@ -20,7 +20,7 @@ Version 7
 
   
   
-[](id=overview)  
+  
   
 ##  HERO ABILITY MODEL OVERVIEW
 
@@ -45,7 +45,7 @@ Version 7
 ---
   
   
-[](id=types)  
+  
   
 ## ABILITY MODEL TYPES
 
@@ -78,7 +78,7 @@ Wards for Venomancer, Witch Doctor, Juggernaut, and Pugna
 
 ---
   ##   
-[](id=budgets)  
+  
   
 ## BUDGETS AND MODEL REQUIREMENTS
 
@@ -103,7 +103,7 @@ Wards for Venomancer, Witch Doctor, Juggernaut, and Pugna
 ---
   
   
-[](id=supported)  
+  
   
 ## SUPPORTED ABILITY MODELS
 These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:  
@@ -136,7 +136,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[](id=other)  
+  
   
 ## OTHER ABILITY MODELS
 
@@ -148,7 +148,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[](id=defaultcustomanim)  
+  
   
 ## DEFAULT OR CUSTOM ANIMATIONS?
 
@@ -179,7 +179,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[](id=animguidelines)  
+  
   
 ## ABILITY MODEL ANIMATION GUIDELINES
 
@@ -198,7 +198,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[](id=hitboxes)  
+  
   
 ## HITBOXES
 
@@ -210,7 +210,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 
 ---
   ##   
-## [](id=attachments)
+## 
 ## ATTACHMENT POINTS
 
 * An attachment is a static point bound to a bone in the skeleton. The names and number of attachments used varies with each type of NPC.
@@ -232,7 +232,7 @@ These heroes have Ability Models that are enabled in the Source 2 Dota Workshop:
 ---
   
   
-[](id=testing)  
+  
   
 ## ABILITY MODEL TESTING
 When Valve artists review custom NPCs they are mainly evaluated on how they look from above in game view. To test your custom ability models in game, you may need to attain a certain hero level or trigger certain events to spawn the units.   
@@ -255,7 +255,7 @@ When Valve artists review custom NPCs they are mainly evaluated on how they look
 ---
   
   
-[](id=submitting)  
+  
   
 ## SUBMITTING ABILITY MODELS 
 
@@ -277,7 +277,7 @@ When Valve artists review custom NPCs they are mainly evaluated on how they look
 ---
   
   
-## [](id=troubleshooting)
+## 
 ## ITEM TROUBLESHOOTING
 
 * If you have problems testing or submitting your item, see our [Item Troubleshooting](https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205) page.

@@ -18,7 +18,7 @@ Version 5
 
   
   
-[](id=overview)  
+  
   
 ## Detail Mask Overview
 
@@ -42,7 +42,7 @@ Version 5
 
 ---
   ##   
-## [](id=terrorblade)
+## 
 ## Terrorblade - "Fractal Horns of Inner Abysm" Arcana and Ambient Textures
 
 * Terrorblade's Arcana has an option to display alternate colors by using different Prismatic Gems.
@@ -74,7 +74,7 @@ The demon's very dark and desaturated color texture is designed to totally take 
 
 ---
   ##   
-## [](id=legion)
+## 
 ## Legion Commander - "Blades of Voth Domosh" Arcana
 
 * This Arcana uses Legion Commander's weapon slot, changing from single weapon to dual wield swords.
@@ -92,7 +92,7 @@ Legion Commander's Arcana detail map, banner color, detail mask, and game displa
 ---
   
   
-[](id=phantom)  
+  
   
 ## Phantom Assassin - "Manifold Paradox" Arcana Textures
 
@@ -110,7 +110,7 @@ Phantom Assassin's Arcana detail map, default helmet color, detail mask, and gam
 ---
   
   
-[](id=druid)  
+  
   
 ## Lone Druid - "Rabid" Ability Texture
 
@@ -132,7 +132,7 @@ Spirit Bear color, detail mask, and Rabid game display
   
 
 ---
-  ## [](id=earthshaker)
+  ## 
 ## Earthshaker - "Enchant Totem" Ability and Ambient Textures
 
 * Earthshaker's totem has a subtle scrolling ambient texture that constantly displays in the item's surface decorations.
@@ -148,7 +148,7 @@ Spirit Bear color, detail mask, and Rabid game display
 ---
   
   
-[](id=sven)  
+  
   
 ## Sven - "God's Strength" Ability Texture
 
@@ -170,7 +170,7 @@ Sven's God's Strength detail map, sword color, detail mask, and game display
 ---
   
   
-[](id=rubick)  
+  
   
 ## Rubick - Ambient Detail Map
 
@@ -186,7 +186,7 @@ Rubick detail map, robe color, detail mask, and game display
 ---
   
   
-[](id=lycan)  
+  
   
 ## Lycan - Ultimate Ambient Detail Map
 
@@ -203,7 +203,7 @@ Lycan's Ultimate detail map, color, detail mask, and in-game display.
 ---
   
   
-[](id=razor)  
+  
   
 ## Razor - Ambient Detail Map
 

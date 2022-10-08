@@ -17,7 +17,7 @@ Version 8
 
   
   
-[](id=concept)  
+  
   
 ## WARD CONCEPT CONSIDERATIONS
 
@@ -57,7 +57,7 @@ Version 8
 
   
   
-[](id=materials)  
+  
   
 ## WARD MATERIALS
 
@@ -67,7 +67,7 @@ Version 8
 
   
   
-[](id=animation)  
+  
   
 ## WARD ANIMATION REQUIREMENTS
 
@@ -80,7 +80,7 @@ Version 8
 
   
   
-[](id=hitboxes)  
+  
   
 ## HITBOXES
 
@@ -89,7 +89,7 @@ Version 8
 
   
   
-[](id=attachments)  
+  
   
 ## ATTACHMENT POINTS
 
@@ -118,13 +118,13 @@ Version 8
 * Refer to the [Submitting Items](https://help.steampowered.com/en/faqs/view/3E00-D38F-B793-7384) page for important general information about testing and submitting items.
 * It is no longer necessary to maintain our file structure when preparing your item files. The workshop tool will place your files where they need to go.
 
-  # [](id=trouble)ITEM TROUBLESHOOTING
+  # ITEM TROUBLESHOOTING
 
 * If you have problems testing or submitting your ward, see our [Item Troubleshooting](https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205) page.
 
   
   
-[](id=reference)  
+  
   
 ## WARD REFERENCE DOWNLOAD
 Download the [Ward Model](http://media.steampowered.com/apps/dota2/workshop/ward.zip ) (675k)   

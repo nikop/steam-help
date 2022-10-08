@@ -14,7 +14,7 @@ Version 4
 
   
   
-[](id=definition)  
+  
   
 ##  EFFECTS MODEL OVERVIEW 
 
@@ -26,7 +26,7 @@ Version 4
 
   
   
-[](id=overview)  
+  
   
 ## AUTHORING GUIDELINES
 
@@ -38,7 +38,7 @@ Version 4
 
   
   
-[](id=particlecounts)  
+  
   
 ## PARTICLE VERTEX LIMITS AND CONTEXT
 Here are the particle vertex count limits and ambient effect display context for effects models for these hero items:  
@@ -58,7 +58,7 @@ Here are the particle vertex count limits and ambient effect display context for
 
   
   
-[](id=example)  
+  
   
 ## AUTHORING EXAMPLE IN MAYA 2016
 Below is an example of how to quickly create effects for an item in Maya 2016. Each type of modeling software will vary, but there should be equivalent processes in each.   
@@ -104,7 +104,7 @@ Below is an example of how to quickly create effects for an item in Maya 2016. E
 
   
   
-[](id=toolmesh)  
+  
   
 ## ADDING THE EFFECTS MESH IN THE WORKSHOP TOOL
 
@@ -114,7 +114,7 @@ Below is an example of how to quickly create effects for an item in Maya 2016. E
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/09_fx_mesh_workshop_tool.jpg?](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/09_fx_mesh_workshop_tool.jpg?)  
   
-[](id=previewing)  
+  
   
 ## EFFECTS MODEL PREVIEWING
 

@@ -23,7 +23,7 @@ Version 5
 
   
   
-## [](id=overview)
+## 
 ## NPC OVERVIEW
 Any unit that is not a hero can be referred to as an NPC or Non-Player Character. Dota uses many types of customizable NPCs that require animations:  
   
@@ -33,7 +33,7 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 * [Ability Models](https://support.steampowered.com/kb/7823-RUAZ-5739/dota-2-workshop-ability-models-summoned-units) (ultimates, True Forms, summons units, and ability wards that are used by specific heroes).
 
   ##   
-## [](id=default)
+## 
 ## DEFAULT AND CUSTOM NPC ANIMATIONS
 
 * A full set of custom animations must always be provided for Couriers and Wards.
@@ -42,7 +42,7 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 * More information about animation requirements for ability models can be found on the [Ability Model page](https://help.steampowered.com/faqs/view/2ABE-09A8-DB83-3327).
 
   ##   
-## [](id=orientation)
+## 
 ## HEAD ORIENTATION IN GAME VIEW
 
 * It is helpful if idles, runs, and other important animations have the NPC's head or prominent features tilted slightly upward to read better from above in game view.
@@ -59,7 +59,7 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 * Non-looping animations usually have to transition to a looping idle at the end of the sequence, so the requirements for matching poses and smooth movements apply.
 
   ##   
-## [](id=spawn)
+## 
 ## ACT_DOTA_SPAWN 
 
 * Spawn animations are played when an NPC first appears in game.
@@ -70,14 +70,14 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 * Don't have very extreme movements or poses near the end of the spawn, otherwise there will be a jarring transition to the idle animation that follows the spawn.
 
   ##   
-## [](id=idle)
+## 
 ## ACT_DOTA_IDLE
 
 * Idle animations need to repeat in a looping cycle, with matching start and end poses.
 * Idle animation plays while the NPC stays in one place, waiting for a command to move or react.
 * Because idles are seen so often, rather than just have one simple cycle that mechanically repeats over and over, it's helpful, once you've established a cycle, to put several cycles together into one long sequence in your animation software and then add slight variations to body and head attitudes to make the character look more organic and alive. These variations should not be extreme, otherwise it will be very obviously repetitive when the animation loops. Extreme idle variations should be saved for rare idle animations, explained below.
 
-  ## [](id=run)
+  ## 
 ## ACT_DOTA_RUN 
 
 * This activity is for the animation your NPC will use for any type of walking or running movement.
@@ -87,7 +87,7 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 * Because NPCs often transition between idle and run animations, it's helpful if the two animations have similar core body positions.
 * Sentry/Observer Wards or Hero Wards, such as Venomancer Plague Wards, do not need run animations because they are always rooted in one place.
 
-  ## [](id=die)
+  ## 
 ## ACT_DOTA_DIE
 
 * This animation is used when the NPC is killed. Normally the death animation ends once the character comes to rest on the ground.
@@ -108,7 +108,7 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 
   
   
-## [](id=loadout)
+## 
 ##  ACT_DOTA_LOADOUT
 
 * This is the looping animation that will play in the loadout when you are selecting and previewing NPCs or hero items.
@@ -119,17 +119,17 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 * Rare loadout animation can help provide variety and interest - see below.
 
   ##   
-## [](id=attack)
+## 
 ## ACT_DOTA_ATTACK 
 
 * If your Ability Model NPC can attack another unit, it will need at least one attack animation.
 
-  ## [](id=ability)
+  ## 
 ## ACT_DOTA_CAST_ABILITY_# 
 
 * If your Ability Model NPC has active abilities it can cast, you will need to create these animations if you are replacing the default animations.
 
-  ## [](id=rare)
+  ## 
 ## RARE ANIMATIONS - IDLE, CAPTURE, and LOADOUT
 
 * Rare animations will play once, randomly, if your NPC has been playing an idle animation with no commands for a while.
@@ -139,14 +139,14 @@ Any unit that is not a hero can be referred to as an NPC or Non-Player Character
 * Not all NPCs have options for rare animations but if they are offered, using these to add a bit of variety can increase the appeal of your character.
 
   ##   
-## [](id=turn)
+## 
 ## TURN ANIMATIONS
 
 * Though optional, these right, left, and center poses are very helpful for generating smooth transitions during turns, especially for horizontal or long creatures that can otherwise look somewhat mechanical when turning.
 
   
   
-## [](id=activities)
+## 
 ## ANIMATION ACTIVITIES
 
 * Dota 2 Workshop animation activities are now determined by how the animation files are input through the workshop tool UI. The initial iteration of the Dota 2 Workshop required artists to edit qc text files to assign activities to animation sequences but qc text file editing is no longer required. Bear this in mind if you see references to the qc process in developer websites or in the workshops of other Valve games.
