@@ -14,10 +14,8 @@ For a list of dedicated servers and games that SteamCMD supports on Steam, pleas
 You can also post questions and search for help in [Steam Discussions](http://steamcommunity.com/discussions/#tools).  
   
 #### Third Party Dedicated Server Resources
-
 * [AlliedMods.Net](https://forums.alliedmods.net/forumdisplay.php?f=129)
 * [SRCDS.com](http://www.srcds.com/)
-
   
   
   ### Note:

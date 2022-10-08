@@ -19,7 +19,6 @@ Titles without native Index Controller support should automatically map existing
   
 For advanced information about how to use the legacy input system to create custom controller bindings, you can check out[our rebinding guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1545634111).  
   
-
 ---
   
   
@@ -28,12 +27,10 @@ If your controller is not ready, first check the LED above the Track Button and 
   
 #### LED is blue
 Controller is powered, but not paired to your headset. Pair your controller again:   
-
 * Navigate to the SteamVR status window.
 * Open the menu and select *Devices* > *Pair Controller*.
 * Hold down both the System and B buttons for a few seconds.
 * If this does not pair the controller, try turning the device on and off to power-cycle it.
-
   
   
 #### LED is red (flashing)
@@ -50,12 +47,10 @@ If none of this information solved the problem, you can try performing a "hard r
 [*]Plug the controller in via USB and leave it to charge for 10 minutes.[/*]  		[*]Unplug it and hold down the System Button for 15 seconds, then release.[/*]  		[*]Power the controller on again.[/*]  
 The controller should recover. If you continue having problems, go to [Help With Valve Index](https://help.steampowered.com/wizard/HelpWithValveIndex) to contact Steam Support regarding the issue.  
   
-
 ---
  # Controller is not tracking
 If you're having a tracking issue, please refer to our [Base Station & Lighthouse Tracking](https://help.steampowered.com/en/faqs/view/1AF1-670B-FF5C-3323) article.  
   
-
 ---
   
 # Other Issues

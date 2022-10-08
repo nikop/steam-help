@@ -6,7 +6,6 @@ Version 8
   
 If you are not satisfied with your Valve Hardware ("Hardware") purchase, you can pursue a refund or request product service. To make this as easy as possible for you, please use the "Return Merchandise Authorization" (RMA) process. You can start this process by contacting Steam Support [here](https://help.steampowered.com/en/wizard/HelpWithSteamHardware).  
   
-
 ---
   
 ## Warranty Repairs or Replacement
@@ -16,7 +15,6 @@ Hardware must be transported or shipped to a Valve-designated service center in 
   
 If the Hardware does require repair or replacement, but the Warranty or statutory rights to receive repair or replacement do not apply (e.g., due to misuse), Valve will contact you regarding your options and their associated costs and options for payment, which may including the costs of shipping the Hardware back to you. Valve will not return Hardware that is shipped to Valve without pre-authorization or return any part or Hardware that is replaced pursuant to the Warranty.  
   
-
 ---
   
 ## Requesting Repair or Replacement
@@ -26,11 +24,9 @@ If your unit has experienced a hardware failure or other issue covered by the Wa
   
 If you are having issues with your Hardware, please follow the steps below for assistance:  
   
-
 * Go to the [Steam Support Site](https://help.steampowered.com/en/wizard/HelpWithSteamHardware).
 * Select your *Steam Hardware Device*.
 * Select your issue to review troubleshooting information and contact Steam Support if necessary.
-
   
 Once the replacement or repair process has been initiated, you will receive a pre-paid shipping label along with further instructions.  
   
@@ -38,27 +34,23 @@ It is your responsibility to back up stored data before returning your Hardware.
   
 If we initiate repair service for your Hardware, you may receive a different unit than the one you sent in some cases. Back up any data you wish to keep before returning your Hardware.  
   
-
 ---
   
 ## Replacement Parts
   
 Some Hardware accessories and replacement parts may be made available through the Steam Store and other partnered sellers. Can't find what you need? Feel free to [contact Steam Support.](https://help.steampowered.com/en/)  
   
-
 ---
   
 ## Refunds
 If you are not satisfied with your purchase and would like to return the Hardware, you may request a refund through the [Help Site.](https://help.steampowered.com/en/wizard/HelpWithSteamHardware) To qualify for a refund, your request must generally be submitted according to the time periods identified in the [Hardware Refund Policy](https://store.steampowered.com/hardware_order_terms), unless otherwise provided by applicable law. We recommend troubleshooting with Steam Support before requesting a refund if you are experiencing technical issues with your Hardware.  
   
-
 ---
   
 ## Purchases from Non-Steam Retailers
   
 While you should contact Steam Support for troubleshooting assistance with your Hardware, you will need to work directly with your retailer to arrange for a replacement, repair, or refund.  
   
-
 ---
   
 ## Additional Information:

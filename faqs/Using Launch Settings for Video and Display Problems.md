@@ -13,16 +13,13 @@ If that does not resolve the issue you can try using the launch options below to
   
 **Note:** The following processes are suggested only for Valve games. These options will have no effect when launching other Steam games.  
   
-
 * [How do I set the autoconfig launch option?](#autoconfig)
 * [How do I set the safe mode launch option?](#safe)
 * [How do I force a working DirectX level and video mode?](#force)
-
   
   
 # How do I set the autoconfig launch option?
 The *-autoconfig* launch option will allow Steam to configure a Valve/Source game with the best settings for use on your machine.  
-
 * Open Steam
 * Go to the "Library"
 * Right-click the game which needs to be reconfigured
@@ -30,11 +27,9 @@ The *-autoconfig* launch option will allow Steam to configure a Valve/Source gam
 * Go to the section "Launch Options"
 * Remove any launch options currently shown in the input box
 * Type *-autoconfig* in the box
-
     
   # How do I set the safe mode launch option?
 The *-safe* launch option will cause the game to launch with minimal video settings, in windowed mode and with a 640 x 480 resolution. This can be helpful for solving video configuration problems.  
-
 * Open Steam
 * Go to the "Library"
 * Right-click the game which needs to be reconfigured
@@ -42,7 +37,6 @@ The *-safe* launch option will cause the game to launch with minimal video setti
 * Go to the section "Launch Options"
 * Remove any launch options currently shown in the input box
 * Type *-safe* in the box.
-
     
   
   # How do I force a working DirectX level and video mode?
@@ -50,7 +44,6 @@ If the Valve/Source game fails to load with the default settings, you will need 
   
 #### Force a DirectX level
 This process may help with some older video cards - some users report the game will run faster, as well:  
-
 * Open Steam
 * Go to the "Library"
 * Right-click the game which needs to be reconfigured
@@ -58,12 +51,10 @@ This process may help with some older video cards - some users report the game w
 * Go to the section "Launch Options"
 * Remove any launch options currently shown in the input box
 * Type one of the DirectX level launch options specified below in the box
-
   **DirectX Level Launch Options**
 * *-dxlevel 90* (DirectX v9.0)
 * *-dxlevel 81* (DirectX v8.1)
 * *-dxlevel 80* (DirectX v8.0)
-
   
   
 #### Force a Video Mode
@@ -78,7 +69,6 @@ If you are forcing a refresh rate on your system (this is not recommended), you 
 * Go to the section "Launch Options"
 * Remove any launch options currently shown in the input box
 * Specify the appropriate Video Mode and Video Option switches from the lists below
-
   
   
 **Supported Video Modes**
@@ -89,11 +79,9 @@ If you are forcing a refresh rate on your system (this is not recommended), you 
 * *-w #* (see the [Supported Video Resolutions](#videores) list below)
 * *-fullscreen* or *-full* use Full Screen mode (default)
 * *-startwindowed* / *-sw* / *-windowed* / *-window* / *-win* use the Window display mode (game appears as a window on the desktop)
-
   
   
 **Supported Video Resolutions**Use the *-w #* switch (where " *#* " is a number from the list below) to specify the display resolution:  
-
 * *640* (640x480) **GoldSource Only**
 * *720* (720x576)
 * *800* (800x600)
@@ -104,7 +92,6 @@ If you are forcing a refresh rate on your system (this is not recommended), you 
 * *1768*  (1768 x 992)
 * *1920* (1920 x 1080)
 * *2560* (2560 x 1440)
-
   
 **Notes on Display Resolution Settings**
 * Higher resolutions will affect the Frames Per Second which your machine can display.

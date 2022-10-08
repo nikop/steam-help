@@ -15,7 +15,6 @@ If you buy and use an account, you risk losing access to the account at any time
 * Rank, playtime, and stats
 * Purchases or activated games
 * Inventory items purchased or acquired through gameplay
-
   
   
 ## I've been using a purchased account and just learned I shouldn't. What should I do?

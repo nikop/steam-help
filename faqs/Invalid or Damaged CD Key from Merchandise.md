@@ -8,7 +8,6 @@ If you are receiving an invalid or duplicate error when activating a CD Key you 
   
 Please also include the following information with your question, if applicable:  
   
-
 * Your Valve Store Order number
 * A receipt from the third party vendor where the item was purchased
 * The email address you used when you placed the order

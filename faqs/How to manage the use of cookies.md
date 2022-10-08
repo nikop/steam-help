@@ -10,49 +10,38 @@ As an alternative, it is possible to control the access of cookies through your 
   
 #### How to manage the use of cookies in **Microsoft Edge**
   
-
 * Click the "..." button in the top-right, or press Alt + F;
 * Go to 'Settings';
 * Click on 'Cookies and site permissions' from the left navigation pane;
 * Here you will find a number of settings allowing you control over how your browser handles site cookies.
-
   
 #### How to manage the use of cookies in **Internet Explorer 11**
   
-
 * In the tools menu, select 'Internet options';
 * Click the privacy tab;
 * Click 'Advanced';
 * Here you will see various settings around how cookies are handled. You can always accept them, block them, or have them prompt a message before accepting or blocking them.
-
   
 #### How to manage the use of cookies in previous **Internet Explorer** versions
   
-
 * In the tools menu, select 'Internet options';
 * Click the privacy tab;
 * You will see a privacy settings slider which has six settings that allow you to control the number of cookies that will be placed: Block All Cookies, High, Medium High, Medium (default level), Low, and Accept All Cookies.
-
   
 #### How to manage the use of cookies in **Google Chrome**
   
-
 * Navigate to the Chrome Settings page: chrome://settings/
 * Click on 'Privacy and security', then click on 'Cookies and other site data';
 * Here you will find a number of settings allowing you control over how your browser handles site cookies.
-
   
 #### How to manage the use of cookies in **Mozilla Firefox**
   
-
 * Click the menu button and choose 'Settings'. (macOS users, go to the Firefox menu & select preferences);
 * Select the Privacy & Security panel
 * Here you will see various settings around how cookies are handled. You can always accept them, block them, or have them prompt a message before accepting or blocking them.
-
   
 #### How to manage the use of cookies in **Safari**
   
-
 * In the settings menu/Safari menu, select the 'Preferences' option;
 * Open the privacy tab;
 * Select the option you want related to cookie management on the page.

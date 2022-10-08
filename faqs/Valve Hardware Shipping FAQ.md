@@ -24,17 +24,14 @@ Depending on your location, local taxes and customs or import fees may apply.
 #### How do I modify or cancel my shipment?
 You can modify or cancel shipment within 24 hours of placing your order. After 24 hours has passed, your order is allocated for shipment and can no longer be changed, cancelled, or recalled either by you or by our Hardware Support team.  
   
-
 * Within 24h of placing order: Use the [Help Site](https://help.steampowered.com/en/wizard/HelpWithSteamHardware) to locate your purchase, then follow the on-screen instructions to request a refund or update your information.
 * After 24 hours of placing order: If you’d like to refund your order after it has shipped, submit a refund request through the [Help Site](https://help.steampowered.com/en/wizard/HelpWithSteamHardware) after delivery.
-
     
 #### Where can I ship my hardware?
 Valve hardware products are available for purchase in the countries listed below. Note: Some postal codes might not be available if they are located within an offshore territory. For example, we are unable to ship to Isle of Man, Réunion, or the Canary Islands.  
   
 ### Supported Countries:
   
-
 * Australia (through EB Games)*
 * Austria
 * Belgium
@@ -68,7 +65,6 @@ Valve hardware products are available for purchase in the countries listed below
 * Sweden
 * United Kingdom
 * United States (Note: APO/FPO addresses are not supported currently)
-
   
 *Valve Index only. Steam Deck is not available in these locations.  
   

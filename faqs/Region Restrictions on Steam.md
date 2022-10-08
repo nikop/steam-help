@@ -5,7 +5,6 @@ Version 3
 ## Steam Support is unable to modify or remove any region restrictions.
   
 # **Steam Store Purchases**
-
 ---
     
 ## Do products I purchase on my Steam account have any region restrictions?
@@ -24,7 +23,6 @@ If you are currently traveling, please ensure that your store region is correctl
 ![https://support.steampowered.com/images/faq/regionrestrictions/storecountry.png](https://support.steampowered.com/images/faq/regionrestrictions/storecountry.png)  
   
 # **CD Keys**
-
 ---
     
 ## I purchased a CD key from another retailer. Is it restricted to a certain region?
@@ -41,7 +39,6 @@ You will see this error message if you have purchased a regionally restricted co
   
   
 # **Steam Gifts**
-
 ---
   
 ## Are Steam gifts region restricted?

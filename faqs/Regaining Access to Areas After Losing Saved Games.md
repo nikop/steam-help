@@ -3,7 +3,6 @@ Updated 2021-07-10 19.49.55
 Version 2  
 
 ## What do I do if I deleted my saved games in Half-Life 2?  
-
   
   
 If you have deleted your saved games or have lost them for any other reason, you can do the following to regain access to the later chapters of the game:  

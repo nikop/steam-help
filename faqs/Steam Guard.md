@@ -16,7 +16,6 @@ Version 5
 * [Will Steam Guard prohibit me from logging into 3rd party sites that sign in through Steam?](#ps3)
 * [How do Steam Guard enabled accounts get stolen?](#stolen)
 * [Why does Steam report 'Steam Guard not enabled' while the Steam Guard button is missing?](#notenabled)
-
   
   
 ![http://steamcdn-a.akamaihd.net/steam/support/banner_steamguard.jpg](http://steamcdn-a.akamaihd.net/steam/support/banner_steamguard.jpg)  
@@ -31,12 +30,10 @@ When Steam Guard is enabled on your account, you'll need to provide a special co
 # How do I enable Steam Guard via email?
 Steam Guard is enabled by default on your Steam account if your email is verified and you have restarted Steam twice on your computer since verifying your email. If you have disabled Steam Guard, and wish to reactivate it, please follow the instructions below:  
   
-
 * Be sure your contact email address is verified with Steam.  
 You must verify your contact email address with Steam. You can check whether your email address is already verified by visiting Account Details page. A verified address will be marked as "Verified." [Learn how to verify your email address](https://help.steampowered.com/en/faqs/view/1F1B-BE53-E7CA-A76F#verify).
 * Enable Steam Guard in Steam Settings.  
 While logged into the Steam client, you can enable Steam Guard by clicking on "Steam" in the top left hand corner of the client. Then Select "Settings", and click "Manage Steam Guard Account Security" under the "Account" tab. On the page that appears, select "Get Steam Guard codes by email (will require you to re-login)".
-
   
 That's it! With Steam Guard enabled, you will be asked to enter the special access code sent to your email address each time you login to Steam from an unrecognized device.  
 [exclude_realm=china]   
@@ -93,12 +90,10 @@ No, Steam Guard will not limit your ability to access your Steam account through
 # How do Steam Guard enabled accounts get stolen?
 Steam Guard protects your Steam account by requiring access to your verified email account. This second layer of security depends on your email account also being secure. Below are the common methods used to steal accounts with Steam Guard enabled:  
   
-
 * Through Email: If your verified email account is stolen or compromised, a user can enter your account freely provided they know your account name. Knowing your Steam account password would not be required as this can be reset with access to your email account. Never use the same password for both your email and Steam account.
 * Acquiring a Steam Guard File: Steam will never ask you to provide any Steam Guard files. If you upload or give a user your Steam Guard .SSFN file, they can gain access to your account without accessing your email account. However, they must know your Steam account password and username to use this file.
 * Malware: Hijackers can use malware to gain access to your computer and login to your account using your already authorized device. Since your Steam account could be logged in or you have your account credentials saved, the hijacker does not need to know anything about your account to gain access. Using a proper anti-virus software with real-time protection and avoiding unsafe websites and files will prevent malware from entering your system.
 * Phishing: Hijackers will sometimes use social engineering to steal your Steam account information, often impersonating Steam or Valve employees. You should never provide your Steam account or personal information to someone claiming to be from Valve or Steam. Steam Support is exclusively handled through help.steampowered.com.
-
   
   
 # Why does Steam report 'Steam Guard not enabled' while the Steam Guard button is missing?

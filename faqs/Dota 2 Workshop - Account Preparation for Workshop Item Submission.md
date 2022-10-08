@@ -10,7 +10,6 @@ There are numerous steps involved with this process but most will only have to b
   
 The instructions below will take you through these steps:  
   
-
 * [Setting up a Steam account](#account)
 * [Installing Steam](#steam)
 * [Installing and launching Dota 2 and the Dota 2 Workshop Tools](#installdota)
@@ -20,7 +19,6 @@ The instructions below will take you through these steps:
 * [Adding another entity to share item revenue](#anotherentity)
 * [Finalizing your submission to the Dota 2 Workshop](#finalize)
 * [Adding an optional revenue share for a pre-approved Service Provider](#serviceprovider)
-
   
   
   
@@ -30,12 +28,10 @@ The instructions below will take you through these steps:
   
 [https://store.steampowered.com/join/](https://store.steampowered.com/join/)  
   
-
 * If this account is set up for a business entity, it should be set up by a person who has signing authority for the entity.
 * We do not have the ability to do name changes after submission so please take this into account as you are setting up your Steam Account.
 * You should have tax and bank account information available to complete the process.
 * Please refer to the [Workshop Payment FAQ](http://steamcommunity.com/workshop/workshoppaymentinfofaq) for more details about account naming and bank information.
-
   
   
 IMPORTANT: This Steam account must have purchased at least one product on Steam of $5 or more to become a [non-limited account](https://support.steampowered.com/kb/3330-IAGK-7663/limited-user-accounts) that will be allowed to make submissions to the Dota 2 Workshop.  
@@ -86,21 +82,17 @@ IMPORTANT: This Steam account must have purchased at least one product on Steam 
   
 11. Add a filename for your item. This is not publicly displayed. Use only lower case letters with no spaces or special characters.   
   
-
 * If you are doing a Contract Only submission, click Next.
 * If you are submitting an actual item, select the type of item and enter the requested information.
-
   
   
 12. Click Submit  
   
 13. Add a title, description, and 512x512px image  
   
-
 * Select the Hidden option under Visibility. You can reset this to Public later once your item is ready for voting and comments. Valve admins can see Hidden and Friends-Only items.
 * Read and accept the agreement
 * Click Submit
-
   
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/click_submit.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/click_submit.jpg?v=1459382400)  
@@ -133,29 +125,23 @@ NOTE: There are strict procedures to follow for entering name and banking inform
   
 18. Enter your banking information  
   
-
 * NOTE: You will be directed to a website outside of Valve to enter your information.
 * We use WorldPay, a third party payout provider, to make monthly payments to you. The bank information page is a template provided by WorldPay.
 * Routing number will be your ACH (Automated Clearing House) number
-
   
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/bank_information.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/bank_information.jpg?v=1459382400)  
   
 19. Enter Your Tax Information  
   
-
 * NOTE: You will be directed to a website outside of Valve to enter your information.
 * We use a service called TaxIdentity provided by a third-party company called Lilaham to conduct the tax interview.
-
   
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/tax_information.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/tax_information.jpg?v=1459382400)  
   
-
 * Upon exit of the last step of entering your tax information we will verify your tax information before you can proceed.
 * If you have any issues please refer again to the[ Workshop Payment FAQ](http://steamcommunity.com/workshop/workshoppaymentinfofaq).
-
   
   
 20. After your forms are all filled out and accepted, click Save.  
@@ -179,10 +165,8 @@ NOTE: The tax form can take a few days to process. You will only have to enter b
 ## ADDING ANOTHER ENTITY TO SHARE ITEM REVENUE
 24. IMPORTANT:  Adding Another User (Optional)  
   
-
 * If you are splitting payments with another entity for your item you need to add their Steam account as a friend to your account.
 * If they have never accepted the Workshop agreement they must go through steps 1-19 above to be set up as a collaborator.
-
   
   
 Here is how to add a friend on Steam:  
@@ -220,10 +204,8 @@ NOTE: Revenue shares cannot be changed on an item once it has been submitted. If
   
 34. If you review your submitted item in the workshop and the item link shows an error message saying "Sorry, An error was encountered while processing your request: That item does not exist. It may have been removed by the author.", check these two things:  
   
-
 * Make sure you are logged in under the account that submitted the item if it is a hidden item.
 * The Steam account submitting the item must have purchased at least one product on Steam of $5 or more to become a [non-limited account](https://support.steampowered.com/kb/3330-IAGK-7663/limited-user-accounts) that is allowed to make submissions to the Dota 2 Workshop.
-
   
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/item_does_not_exist.jpg?v=1459382400](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_account_preparation/item_does_not_exist.jpg?v=1459382400)  

@@ -13,7 +13,6 @@ The uninstallation process deletes the folder Steam was installed to to ensure i
 Please observe the following procedure to uninstall Steam and any game content from your machine:  
   
 **Note:** The following instructions are for Windows 10. For older versions of Windows please see Microsoft's support site for instructions on how to remove an application for your specific version.  
-
 * Exit Steam
 * To keep game installations, move the steamapps folder out of C:\Program Files (x86)\Steam
 * Click the Windows **Start** button and select the **gear icon** for the **Settings**
@@ -21,7 +20,6 @@ Please observe the following procedure to uninstall Steam and any game content f
 * Search and click the **Steam** entry from the list and then click the **Uninstall** button that appears
 * Select the **Automatic** option and click **Next**
 * Click **Finish** to uninstall Steam
-
   
   
 If the normal process to uninstall Steam does not work, you may have inadvertently damaged your Steam installation. To uninstall Steam, you may first be required to re-install Steam to repair the installation before it may be removed.  

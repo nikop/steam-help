@@ -5,16 +5,13 @@ Version 8
 Family Sharing allows family members to share games while keeping their accounts separate.  
   
 Family and guests can play one another's games while earning their own Steam achievements and saving their own game progress to the Steam Cloud. It works by granting family members access to games on a shared computer.  
-
 * [Setting up Family Sharing](#enable)
 * [Managing which devices and accounts have access to Family Library Sharing](#howtomanage)
 * [Disabling Family Sharing](#howtomanage)
 * [Frequently Asked Questions](#faq)
-
  [h5]Issues & Troubleshooting[/h5]
 * [Troubleshooting Family Sharing](#trouble)
 * [Reporting an issue with Family Sharing](#bugs)
-
   
   
   #### Setting up Family Sharing
@@ -28,7 +25,6 @@ There are two recommended methods for authorizing shared libraries. Both require
   
 ![http://steamcdn-a.akamaihd.net/steam/support/faq/Familysharingupdatepic.jpg](http://steamcdn-a.akamaihd.net/steam/support/faq/Familysharingupdatepic.jpg)
 * Check the box next the account you'd like to share your Library with.
-
  [h5]Requesting access from owner:[/h5]
 * Be sure to enable [Steam Guard](https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C) on your Steam Account.
 * From your Library you'll be able to see games owned by other Steam accounts that use the same computer. Select a game and click "Play" to request access to that respective Library.
@@ -36,7 +32,6 @@ There are two recommended methods for authorizing shared libraries. Both require
 * The game owner will then need to click the link in the email to authorize your computer and grant your Steam account access to their games.  
   
 ![http://steamcdn-a.akamaihd.net/steam/support/faq/family_sharing_request.jpg](http://steamcdn-a.akamaihd.net/steam/support/faq/family_sharing_request.jpg)
-
  [url id=howtomanage][/url] #### Managing which devices and accounts have access to Family Library Sharing
 You can log into the Steam client and visit the "Family" tab in Settings, where you'll find a link "Manage other computers". Here you can deauthorize any computer or account that's been authorized to share your library.  
   
@@ -46,7 +41,6 @@ Or, you can [remotely deauthorize computers from the web](https://store.steampow
 In these same settings, deselect any account from the list of authorized users to prohibit them from accessing your games.  
   
   #### Frequently Asked Questions
-
 * [Can I share my games with users that don't live with me?](#dontlivewithme)
 * [I want to play my own games, but they're being played by another account. What do I do?](#inuse)
 * [Can I share specific games?](#gamevslibrary)
@@ -56,7 +50,6 @@ In these same settings, deselect any account from the list of authorized users t
 * [DLC and in-game content](#dlc)
 * [Can region-restricted games be shared across regions?](#regionrestriction)
 * [What if a borrower is caught cheating or committing fraud while playing my shared games?](#VACban)
-
  [url id=dontlivewithme][/url]  [h5]Can I share my games with users that don't live with me?[/h5]While Family Sharing can work for users that are not accessing Steam from the same location, due to technical limitations, the feature may encounter issues that Steam is unable to provide support for.  
   
  [h5]I want to play my own games, but they're being played by another account. What do I do?[/h5]As the owner, you may always access and play your games at any time. If you decide to start playing when another user is already playing one of your games, he/she will see a message giving them five minutes to either purchase or quit out of the game.  
@@ -66,7 +59,6 @@ In these same settings, deselect any account from the list of authorized users t
 Additionally, for users that are borrowing multiple Steam Libraries, they will be unable to choose who they borrow a game from.  
   
  [h5]Can all Steam games be shared?[/h5]No, due to technical limitations, some Steam games and content may be unavailable for sharing. Games or content that matches the criteria below cannot be shared between accounts.  
-
 * Games that require an additional third-party key, account, or a subscription in order to play
 * Free to play games and any purchased DLC for those games
 * Free DLC for a game
@@ -75,7 +67,6 @@ Additionally, for users that are borrowing multiple Steam Libraries, they will b
 * Base games that the borrower already owns
 * Games that do not support the borrower's operating system
 * Games the owner has (automatically) from belonging to a Steamworks partner account
-
   
  [h5]Can two users share a library and both play at the same time?[/h5]No, a shared library may only be played by one user at a time including the owner and even if they want to play different games.  
   
@@ -97,12 +88,10 @@ If you are experiencing issues with an entire shared library, it's likely that t
 If you are experiencing an issue with a specific game or DLC in a shared library, it's likely that the game is not available for sharing for one of the reasons outlined in the FAQ above.  
   
 [h5]Re-authorizing a shared library[/h5]This is always a good first step to ensure that Family Sharing is working correctly.  
-
 * The owner of the shared library needs to access their [Device Management](https://store.steampowered.com/account/managedevices) page. From there, deauthorize the device that is giving you issues by selecting the *Revoke* link across from its name.
 * Now, the borrower should attempt to launch one of the games in the shared library which will open request to share.
 * Requesting access will send the game owner an authorization email.
 * They need to click on the link in the email to authorize that computer and grant access to the library.
-
  [h5]Shared library locked[/h5]This is error indicates that someone else is using the shared library. A Steam library can only be used by one user at a time to play one game at a time. The same is true if that library is being accessed by another user via Family Sharing.  
   
 [h5]Rate limit exceeded[/h5]A Steam account may authorize Family Library Sharing on up to 5 accounts and on up to 10 devices in a 90 day period. This includes accounts/devices that were previously shared to and have since been cancelled. In order to add a new authorization to Family Sharing after having reached the limit, users will have to cancel an existing link and then wait out the 90 day cooldown period.  

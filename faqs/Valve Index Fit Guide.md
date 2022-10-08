@@ -16,7 +16,6 @@ Version 3
   
 Before fitting your Index headset, launch SteamVR and make sure the headset is connected properly – Green LEDs should be visible above the two front-facing cameras.  
   
-
 ---
   
 [table noborder=1 equalcells=1]  
@@ -99,7 +98,6 @@ You should be able to slide the headset on and off without making any additional
   
 ** You may need to use the rear cradle adapter if you find the headset is too loose or moves/wiggles during use.*  
   
-
 ---
   
   
@@ -112,12 +110,10 @@ You should be able to slide the headset on and off without making any additional
   
 Valve’s Index Controllers are designed to give you smarter hands in VR. There are several adjustment mechanisms in place that can help you find your perfect fit. You’ll know you are ready to get started when:  
   
-
 * Your index finger rests comfortably on the trigger.
 * The pad of your thumb rests naturally on the Track Button’s surface without obscuring the LED above or the System Button below.
 * The hand strap rests behind your knuckles on the back of your hand.
 * For added security, tighten the Index Controllers to your wrists using the provided lanyards.
-
   
   
 [table noborder=1 equalcells=1]  
@@ -148,10 +144,8 @@ Now you should be able to wrap your remaining fingers around the handle of the c
 ### Fine tune the Adjustment Arm
 If you are having trouble reaching all the inputs, try sliding the arm up or down.  
   
-
 * If your thumb is resting above the Track Button, adjust the strap arm down.
 * If your thumb is resting below the top of the Track Button, adjust the strap arm up.
-
  [/td]  		[td]  			[video poster="https://support.steampowered.com/steamvr/FitGuide/Thumbnails/Controller_strap_adjustment.jpg?v=20192006" mp4="https://support.steampowered.com/steamvr/FitGuide/KnucklesFit/Clips/Controller_strap_size_adjust_360x202_MP4.mp4" autoplay=0][/video]  
 [/td]  
 [/tr]  

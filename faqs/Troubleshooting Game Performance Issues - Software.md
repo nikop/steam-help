@@ -18,14 +18,12 @@ As games update, new features may be added along with improvements to graphical 
 The amount of memory available (RAM) for model loading and graphics rendering has a direct effect on the rate at which frames are displayed in games, and whether or not lag is apparent while playing.  
   
 Below are some instructions to reduce the hard drive read times for loading game levels and content, prevent video display conflicts, and increase the available processor time and memory for games on your system. We have ordered these from most to least effective for increasing or maintaining your FPS:  
-
 * ## Disable background applications
  Running fewer processes in the background while playing a game may have an immediate impact on in-game performance. If you're noticing poor performance, we recommend removing unnecessary startup programs and manually stopping any unnecessary applications through your task manager (in Windows: CTRL+Shift+Esc, on a Mac: Command+Option+Esc).
 * ## Free up memory
  Be sure to have plenty of available RAM when running games. When a machine has insufficient RAM for game resources you will experience disk swapping, which will have a noticeable effect on FPS. Model detail, water detail, HDR, and other video options enabled or increased will require a significantly greater amount of RAM to maintain a high FPS rate.
 * ## Video card software
  Any video card software for forcing particular video modes should be disabled. Please see the [Refresh rate and VSYNC](https://help.steampowered.com/en/faqs/view/2C7C-E420-87D5-977C) article for more information on managing your screen refresh rate.
-
   
   
 # Update your various drivers
@@ -36,7 +34,6 @@ Outdated drivers (CPU, GPU, and audio) may fail to make full use of your machine
 # Use an optimal resolution
   
 Increasing resolution, or any video option beyond your recommended settings will have an immediate negative impact on your FPS.  
-
 * [h5]For games developed by Valve[/h5]  
 If you have changed or modified your video settings (and do not remember the original settings) you can reset them with the instructions provided in the [Using Launch Settings for Video and Display Problems](https://help.steampowered.com/en/faqs/view/2542-790F-14F8-D66A) article.  
   
@@ -45,7 +42,6 @@ Valve games have support for auto-detecting your hardware and setting reasonable
 As the settings and configuration options for these games can be very different depending on the game developer, you will want to contact that game's support team if you are encountering resolution issues that you are unable to solve.  
 [h5]Contacting third-party support[/h5]  
 You can find the third-party game's support contact information by selecting the game in your Steam Library and then on the right hand side select "Support" from the tabs available above the "Activity" section.
-
   
   
 # Modify your video settings

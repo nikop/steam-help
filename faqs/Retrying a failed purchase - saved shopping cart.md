@@ -7,7 +7,6 @@ Version 3
 * [How do I try my purchase again? ](#howtotryagain)
 * [Why was my cart not saved? ](#whynotsaved)
 * [I need more time, can Steam Support extend the 3 days (72 hours) period? ](#extend)
-
   
   
   

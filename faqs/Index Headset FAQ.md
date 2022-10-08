@@ -5,12 +5,10 @@ Version 8
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) ### General troubleshooting
 **Before following instructions below, be sure you've tried the following:**  
   
-
 * Check your headset connections (power outlet, USB, DisplayPort, PC, breakaway connector).
 * Make sure the tether is fully plugged into the HMD. It can look like it’s connected even when it is not.
 * Check your video driver versions (including the high-definition audio component) and update if necessary - see [Updating Drivers.](https://help.steampowered.com/en/faqs/view/5799-495F-1F25-D15B)
 * Reboot your headset from the SteamVR status window ( *Menu* > *Devices* > *Restart headset*) or restart SteamVR.
-
  
 ---
    
@@ -42,7 +40,6 @@ The headset is not receiving power. Check all your headset connections and try u
 #### Still having problems?
 If your headset is still not ready in the SteamVR status window or is stuck in one of the states described above, please click  		the "Help Me With My Issue" button on the right side of this page to get help.  
   
-
 ---
   
   
@@ -55,7 +52,6 @@ There are several steps to getting the right fit and setup for your Index. Refer
 #### No display?
 If you're not seeing anything in your headset's display, something isn't connected properly. Check the headset's power, USB, DisplayPort, and main cable connections.  
   
-
 ---
  # SteamVR is displaying an error message
 Some error messages contain instructions or links to help articles. SteamVR will also recover from many temporary issues after a restart. If the error appears again and there are no instructions on-screen, be sure to check all of your headset's connections (power, USB, DisplayPort, and main cable connections). If you continue  		to receive errors, please click the "Help Me With My Issue" button on the right side of this page to get help.  
@@ -72,11 +68,9 @@ Verify that your headset is solid green in the SteamVR status window. Next, veri
 * Test your system audio from the Windows Sound Panel.
 * Verify that nothing is plugged into the 3.5mm audio jack behind the face gasket.
 * Check SteamVR audio levels - with the headset on, press the System Button to bring up the VR Dashboard and check the slider in the bottom right.
-
  #### Low audio volume
 Be sure the off-ear speakers are positioned correctly. You can check [our Index Fit Guide](https://help.steampowered.com/en/faqs/view/699A-ECD2-F839-760C) for more information. If your issue continues, play test sounds from the Windows Sound Panel to verify that your system audio is working correctly, then try to retest the issue with another game or application. Finally, check all your headset connections, exit Steam VR, and restart Windows.  			If you continue to experience low audio, please click the "Help Me With My Issue" button on the right side of this page to get help.  
   
-
 ---
  # Microphone issues
 #### No microphone
@@ -96,7 +90,6 @@ Even while indoors, exposure to sunlight can cause permanent damage to the displ
 * Don't leave your headset unattended in a place where it may be exposed to sunlight.
 * Transport your headset in a manner that protects it from exposure.
 * Be sure to store your headset away from any possible exposure while not in use.
-
  #### Cleaning
 **To clean the headset's exterior surfaces**, use a dry, clean cloth to wipe down as necessary. Isopropyl alcohol may also be used if a dry cloth is insufficient, but take care to apply it only to the cloth, using small quantities and avoiding all non-exterior surfaces.  
   

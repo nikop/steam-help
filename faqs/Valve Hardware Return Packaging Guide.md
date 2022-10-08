@@ -14,7 +14,6 @@ If you are returning multiple items, make sure you have included all RMA forms y
   
 **Important**: If you are returning a Steam Deck, back up your game installs and any other data you'd like to keep via a microSD card or another external storage device, then perform a factory reset by pressing the Steam button and going to Settings > System > Reset to factory state. It's OK to skip this step if your device is not functional. Valve is not responsible for the loss of any data left on your device.  
   
-
 ---
   
 # How to pack your hardware
@@ -71,7 +70,6 @@ Ensure that you include any other specified components with your return. You may
 Do not send any unspecified items with your return. Additional items will not be returned to you.  
 #### Finalize shipment
   
-
 * Check to make sure you've included everything, including the RMA form.
 * Seal the box well with packing tape and attach your shipping label to the box. In some regions, you will also need to attach other documentation. Steam Support will provide you with instructions.
 * Record the tracking number from the shipping label and keep it in a safe place.

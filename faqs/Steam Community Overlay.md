@@ -11,7 +11,6 @@ Because the Steam overlay is a customizable Steamworks feature, games will use i
   
 # What can the overlay be used for?
   
-
 * **In-game purchasing**  
 If a game offers micro-transactions, item purchases, or any other type of in-game purchasing, the Steam overlay will be required. The overlay enables the game to communicate with Steam and allow your purchase to be made while playing.
 * **Friend, game & group invites**  
@@ -22,7 +21,6 @@ Steam allows screenshots to be captured in-game by using the default keybinding 
 Many games with in-game inventory systems will use the overlay to allow players access to inventory features while in the game. If a game supports trading or market purchasing while in-game, the Steam overlay will be required.
 * **Other community features**  
 The overlay interface gives access to most other features that are available through the [Steam website](http://store.steampowered.com/). Along with access to these features specifically, the overlay has a built in web browser.
-
     
   
 # Overlay Not Opening
@@ -50,10 +48,8 @@ Open the Steam client and navigate to the **Steam > Settings/Preferences > In-ga
 ![https://steamcdn-a.akamaihd.net/steam/support/faq/overlay_options.JPG](https://steamcdn-a.akamaihd.net/steam/support/faq/overlay_options.JPG)  
   
 Additionally, you can turn on/off the Steam Overlay per game.  
-
 * Find the game in your Library -> **Properties...**
 * Under the **General** tab, you'll find a checkbox for **Enable the Steam Overlay while in-game**
-
   
 ### Steam Overlay Shortcut Keys
 The Steam shortcut allows the overlay to be opened in-game. You'll want to double check that you have it set correctly.  

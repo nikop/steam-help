@@ -23,35 +23,28 @@ The Steam Client Beta is a feature any Steam user can opt into. Opting into the 
   
 To get the latest updates and features from the development team, please opt into the Steam Client beta.  
   
-
 * While in Big Picture Mode, select the *Settings* icon from the top right section of the client.
 * From here, select the *System* menu.
 * Ensure that the *Participate in Client Beta* option is checked.
 * Finally, select *Check for Updates*. If updates are available, they will automatically be downloaded and installed.
-
 [/expand][expand type=title title="Enable the Steam Overlay"]  
   
 Please ensure that the Steam Overlay is enabled.  
   
-
 * While in Big Picture Mode, select the *Settings* icon from the top right section of the client.
 * From here, select *Steam Overlay* under *Features*.
 * Make sure the *Enable the Steam Overlay* option is checked.
-
 [/expand][expand type=title title="Run Steam as Admin"]  
   
 Depending on your setup, certain features may require Steam to be run with administrator privileges. Try running Steam as administrator by doing the following:  
   
-
 * Navigate to the Steam installation folder (C:\Program Files (x86)\Steam\ by default)
 * Right-click on steam.exe
 * Select *Run as administrator*
-
 [/expand]   
 ## Is my Controller Defective?
 There are multiple diagnostic tools that can help in determining whether or not a controller has a hardware defect.  
   
-
 * The Input test tool can be used to verify the functionality of each button on the Steam Controller. It will also verify the functionality of the Steam Controller’s haptic feedback. To do this, please follow these steps:
 * In Big Picture mode, go to Settings > Controller > Controller settings
 * Highlight your Steam Controller in the device list and select *Support*
@@ -61,14 +54,12 @@ There are multiple diagnostic tools that can help in determining whether or not 
 * Highlight your Steam Controller in the device list and select *Calibrate*
 * Follow the on-screen instructions to complete the calibration
 * The development team recommends performing the calibration twice
-
  [expand type=title title="Diagnostics Failed"]  
   
 If you are unable to complete the hardware diagnostic tests, then your device may have a physical defect. You may need to initiate an RMA to pursue a refund or replacement.  
   
 You may request a replacement for your device through the Steam Support site by following the instructions below.  
   
-
 * If purchased on Steam:
 * Go to [https://help.steampowered.com](https://help.steampowered.com)
 * Select *A Purchase*
@@ -76,15 +67,12 @@ You may request a replacement for your device through the Steam Support site by 
 * Select *Technical Issue*
 * Select *I would like a replacement*
 * Follow the instructions to request your replacement
-
   
   
 More information about Steam Hardware returns and replacements is available here:  
   
-
 * [Steam Hardware RMA Guide](https://help.steampowered.com/en/faqs/view/04AE-8A9A-F64E-D165)
 * [Steam Hardware Warranty](https://help.steampowered.com/en/faqs/view/4E41-6123-79EF-25BA)
-
 [/expand][expand type=title title="Diagnostics Passed"]  
   
 If the problem does not appear to be hardware related, then it may be a software issue. Our developers frequently read the Steam Hardware Forums, and are constantly releasing updates and bug fixes. Please submit all bugs and feedback to the Steam Hardware forums, found here:  

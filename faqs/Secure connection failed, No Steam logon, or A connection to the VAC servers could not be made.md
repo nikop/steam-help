@@ -6,16 +6,13 @@ I am trying to connect to a secure game server, but I received the error message
   
 ## Common causes:
   
-
 * [Connection Issues](#connection)
 * [Security Software](#security)
 * [Background Applications](#background)
 * [Third-party Anti-Cheat Applications](#third)
-
 This issue stems from four main sources: connection issues, security software, background applications and third-party anti-cheat applications.  
   
 ## Connection Issues
-
 * ## Firewalls and Routers
 If your computer is behind a router with a firewall, you must open the ports that Steam uses to connect to the Internet. Most embedded firewalls require you to open ports manually (they do not automatically learn your used ports). Routers without firewalls rarely need to have ports opened for a game client, but usually do for game servers.  
   
@@ -38,10 +35,8 @@ There are many online tools that help you to check for problems with your connec
 [http://www.speedguide.net/analyzer.php](http://www.speedguide.net/analyzer.php)  
   
 If you suspect that you are having a problem related to your Internet Connection, please contact your Internet Service Provider (ISP).
-
   
 ## Security Software
-
 * ## Security, Firewall, and Anti-Virus Software
 If you're using Internet security, firewall or anti-virus software, make sure they are set to recognize Steam.exe and all instances of HL.exe and HL2.exe as trusted programs. Please consult your security program manuals for instructions.  
   
@@ -51,19 +46,15 @@ The best solution is to go to the firewall permissions and remove all references
   
 [h5]Multiple Firewalls[/h5]Never run more than one firewall program at a time while using Steam. They can conflict with each other and cause many different connection problems. Examples of running multiple firewalls include:  
   
-
 * Running the Windows firewall with your router's firewall simultaneously
 * Running the Windows firewall with Zone Alarm, Tiny Personal Firewall or some other third-party firewall application
 * Running the Windows firewall with your motherboard's built-in firewall (mainly an issue with nForce motherboards)
-
   
 After making any changes to your firewall, anti-virus or security software settings please **EXIT STEAM AND RESTART** before attempting to connect to a secure server. Once you have restarted you should be able to connect to VAC servers.
 * ## PeerGuardian
 PeerGuardian is not compatible with Steam. Please disable PeerGuardian before launching Steam to avoid connection issues.
-
   
 ## Background Applications
-
 * ## P2P, FTP and Web Server Applications
 Do not run Peer-to-Peer (P2P) programs like BitTorrent, Kazaa, eMule, LimeWire or Exeem in the background. These programs can consume large portions of your bandwidth. The same is true for FTP and Webserver applications such as Apache, MySQL servers and Microsoft's IIS services.  
   
@@ -72,7 +63,6 @@ After exiting your Peer to Peer software please **EXIT STEAM AND RESTART** befor
 Connection problems can also arise if your system is infected with a virus or spyware. We strongly recommend running virus checks while you are not using Steam if you suspect there is a virus or trojan on your system. For more information, please follow the [Spyware, Malware, Adware, and Viruses Interfering with Steam](https://help.steampowered.com/en/faqs/view/70D4-67C8-784D-692A) topic.  
   
 Programs like Cybersitter, Netlimiter, X-Fire and Steganos Anonymous Internet can also interfere with normal Steam operations. Please disable these programs before launching Steam.
-
   
   
 ## Third-party Anti-Cheat Applications

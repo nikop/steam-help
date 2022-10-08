@@ -4,14 +4,11 @@ Version 2
 
 ### First steps
 **Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:**  
-
 * To address issues with system instability, install any available system updates (Steam > Settings > System > Software Updates) and restart your Steam Deck (from the Software Updates section or via Steam > Power > Restart).
 * To address issues with instability in applications running through Steam, exit or disable any third party applications that you have installed via Desktop Mode and restart your Steam Deck (Steam > Power > Restart).
 * For non-Steam application instability, exit or disable any other third party applications that you have installed via Desktop Mode and restart your Steam Deck (Steam > Power > Restart). You should also contact the application's product support team if your issue persists.
 * Found a bug? You can submit bug reports to the forum [here](https://steamcommunity.com/app/1675200/discussions/1/).
-
    
-
 ---
   
 # Deck Verified
@@ -32,7 +29,6 @@ If a game is Playable or Unsupported, you can see what requirements of Verified 
   
 To see Steam Deck compatibility for your entire Library at a glance, check out [your personalized breakdown](https://store.steampowered.com/steamdeck/mygames).  
   
-
 ---
   
 # System issues
@@ -43,14 +39,12 @@ You can also check the SteamOS/Steam Deck Discussions forums to see if there's a
   
 If you're not able to resolve your issue, [contact Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamDeck).  
   
-
 ---
   
 # Desktop Mode
   
 For more information about using Steam Deck in Desktop Mode, check out our [Desktop FAQ](https://help.steampowered.com/faqs/view/671A-4453-E8D2-323C).  
   
-
 ---
   
 # Issues with a specific app
@@ -74,7 +68,6 @@ Try a lower graphics preset or adjust individual settings to decrease system loa
   
 Before trying to install apps from sources other than Steam, you'll want to be sure they are supported by the Arch Linux distribution.  
   
-
 ---
   
 # Contact Steam Support

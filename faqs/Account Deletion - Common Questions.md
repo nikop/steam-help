@@ -6,7 +6,6 @@ If you think that you will not return to play the games on your Steam account an
   
   
 Account deletion is **permanent**. If you delete your Steam account, game licenses, community profile, gifts, inventory items, wallet funds, and other associated information will be deleted permanently and will not be recoverable.  ### Table of Contents:
-
 * [ How do I delete my account?](#howto)
 * [How do I cancel my account deletion?](#howtocancel)
 * [Can I regain access to my account once it has been deleted?](#howtorecover)
@@ -19,7 +18,6 @@ Account deletion is **permanent**. If you delete your Steam account, game licens
 * [Can someone else delete my account?](#malicious)
 * [How do I view my personal information?](#viewmyinfo)
 * [Can I play games after deleting my account?](#playgames)
-
   
   
   

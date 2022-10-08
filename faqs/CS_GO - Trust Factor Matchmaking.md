@@ -10,7 +10,6 @@ Version 5
 * [Will new players have a low Trust Factor?](#tfnewplayer)
 * [I suspect that I have a low Trust Factor because the quality of my matches is poor. What can I do about this?](#tfpoormatch)
 * [I suspect that my friend has a low Trust Factor because of the quality of my matches when, and only when, I party up with them. What can I do about this?](#tfpoorfriend)
-
   
   ## What factors are considered in Trust Factor matchmaking?
 At this time we are not providing the list of factors used in the Trust Factor matchmaking system. We don’t want players to have to worry about any particular action while they’re playing CS:GO or other games on Steam. Additionally, Trust Factor matchmaking will get continuous updates, and any list of factors would become outdated very quickly. In general, Trust Factor is determined by looking at a user's past experience in CS:GO and on Steam to ensure the system is as accurate as possible.    
@@ -18,10 +17,8 @@ At this time we are not providing the list of factors used in the Trust Factor m
 Currently there is no way to check your Trust Factor. The goal with Trust Factor is to provide a better matchmaking experience without players having to worry about optimizing anything. Trust Factor matchmaking will try to match similar players, but like skill groups, the range of players on a server will vary depending on the time of day, the player's region, and the maps they are queuing for.    
   ## I am being shown a warning before queueing with a player. What does this mean?
 Before beginning a Competitive match, players with Prime status on their account will be told if a member of their lobby (who is also opted into Prime) will affect their matchmaking experience due to their Trust Factor. This message will only show to players who have Prime status. The two messages you may receive are:  
-
 * *Your matchmaking experience may be slightly impacted because Trust Factor of (player) is lower than yours.*
 * *Your matchmaking experience will be significantly affected because Trust Factor of (player) is substantially lower than yours.*
-
 Either of these messages indicate a player in your lobby has lower trust score than you and may negatively affect the quality of your match. As a player's Trust Factor improves this message will show to fewer users.    
   ## What can I do to improve my Trust Factor?
 The only way to improve your Trust Factor is to be a positive member of the CS:GO and Steam community. Trust Factor matchmaking will continue to be adjusted, but all players have to do to improve their matchmaking experience is continue playing CS:GO and other Steam games legitimately. The more a user plays, the more information the system has and the easier it will be for the system to determine who they should be matched with.    

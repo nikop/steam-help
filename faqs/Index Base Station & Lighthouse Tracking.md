@@ -5,11 +5,9 @@ Version 4
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) # General troubleshooting
 Before reading further, be sure to:  
   
-
 * Check power connections for all Base Stations
 * Make sure your Base Stations are pointed at your play area and are visible to you.
 * Restart SteamVR
-
   
 ---
 # Trouble with tracking?
@@ -36,7 +34,6 @@ Spikes in performance quality and "lagging" behavior are usually caused by compu
   
 To check for spikes in performance, run SteamVR and navigate to menu > *Developer* > *Advanced frame timing*. For detailed information on how to use this feature, [check out this developer article](https://developer.valvesoftware.com/wiki/SteamVR/Frame_Timing).  
   
-
 ---
   
   
@@ -52,19 +49,16 @@ The Base Station has encountered an error. Please click "Contact Steam Support" 
 #### No LED
 The Base Station is not receiving power. Try swapping your other Base Station to the same power outlet to test whether the device or the outlet is at fault. If a Base Station will not power on and the outlet is not causing the problem, please click "Contact Steam Support" below to get help.  
   
-
 ---
 # Channel conflicts
 SteamVR will notify you if it detects a channel conflict in your Base Stations. Although Base Stations should arrive correctly configured, you can change their channel settings from the SteamVR status window if the *Base Station Setup Error* message appears. To do this:
 * Navigate to the SteamVR status window.
 * Select the menu, then *Devices* > *Base Station Settings* > *Configure Base Station Channels*
 * Wait for SteamVR to identify nearby base stations, then either select *Automatic Configuration* or manually change each channel by clicking on it.
-
   
   
 Base Stations packaged with VR Kits are configured to channels 1 and 2. Individually purchased Base Stations have their channels set between channels 3 and 16.   		If you're using a fourth Base Station or using VR in a place with more than one play area set up, you may need to update channel settings to avoid conflicts.  
   
-
 ---
 # Power Management issues
 SteamVR's Base Station Power Management  feature is turned OFF by default. Turning this feature ON ensures that your Base Stations power off when not in use to reduce power usage and extend their lifespan.  
@@ -73,25 +67,20 @@ Valve recommends turning this feature ON if you are not in a shared tracking spa
   
 You can turn this feature on/off at any time by navigating to SteamVR->Settings->Base Station->Power Management.  
   
-
 * When this feature is OFF, your Base Stations will remain powered and emitting whenever they are plugged in.
 * When this feature is ON, your Base Stations will go into standby when SteamVR is not in use and wake up when SteamVR starts.
-
   
   
 If you're having problems with your Power Management settings, please click [Contact Steam Support](https://help.steampowered.com/en/wizard/HelpWithValveIndex) to get help.  
   
 If you are using VR in a shared tracking space with multiple instances of SteamVR running, turn off Base Station Power Management to avoid power state conflicts.  
   
-
 ---
 # Other questions
 #### Base Station compatibility?
-
 * 1.0 (HTC-branded) and 2.0 (Valve-branded) Base Stations will not work with each other in the same VR setup.
 * Index will work with both 1.0 and 2.0 Base Stations.
 * 2.0 Base Stations will not work with the original Vive headset or Wand controllers, but will work with the Vive Pro product family.
-
  #### How many Base Stations do I need?
 We recommend two Base Stations for most room-scale play areas. If you're covering an area larger than 5 x 5 meters (~16 x 16 feet), you can add additional Base Stations for additional tracking and increased accuracy.  
   

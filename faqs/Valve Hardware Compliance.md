@@ -22,12 +22,10 @@ Version 5
 * [German](https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_GER.pdf)
 * [Italian](https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_ITA.pdf)
 * [Spanish](https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_SPA.pdf)
-
   
  UK Declaration of Conformity  
   
 * [English](https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_UK.pdf)
-
   
 [/td]  
  [/tr]  
@@ -43,12 +41,10 @@ Version 5
 * [German](https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_GER.pdf?v=20162709)
 * [Italian](https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_ITA.pdf?v=20162709)
 * [Spanish](https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_SPA.pdf?v=20162709)
-
   
  UK Declaration of Conformity  
   
 * [English](https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201007.pdf)
-
   
 #### RoHS
   
@@ -67,12 +63,10 @@ Version 5
 * [German](https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_GER.pdf?v=20162709)
 * [Italian](https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_ITA.pdf?v=20162709)
 * [Spanish](https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_SPA.pdf?v=20162709)
-
   
  UK Declaration of Conformity  
   
 * [English](https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201005.pdf)
-
   
 [/td]  
  [/tr]  
@@ -88,12 +82,10 @@ Version 5
 * [German](https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_GER.pdf?v=20162709)
 * [Italian](https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_ITA.pdf?v=20162709)
 * [Spanish](https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_SPA.pdf?v=20162709)
-
   
  UK Declaration of Conformity  
   
 * [English](https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201006.pdf)
-
   
 [/td]  
  [/tr]  
@@ -109,12 +101,10 @@ Version 5
 * [German](https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_GER.pdf?v=20162709)
 * [Italian](https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_ITA.pdf?v=20162709)
 * [Spanish](https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_SPA.pdf?v=20162709)
-
   
  UK Declaration of Conformity  
   
 * [English](https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201004.pdf)
-
   
 [/td]  
  [/tr]  

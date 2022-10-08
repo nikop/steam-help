@@ -5,7 +5,6 @@ Version 6
 ### I experience nausea or motion sickness when I play Source games.  What options are there?
   
   
-
 ---
   
   ### Motion Sickness Statement

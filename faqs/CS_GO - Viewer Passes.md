@@ -3,7 +3,6 @@ Updated 2021-10-27 23.30.11
 Version 6  
 
 ## Frequently Asked Questions
-
 * [What is a Viewer Pass?](#viewerpass)
 * [How do I get a Viewer Pass?](#getviewerpass)
 * [Can I activate more than one Viewer Pass on my account?](#multiplepasses)
@@ -12,32 +11,25 @@ Version 6
 * [I am a point short of my next Event Coin upgrade and the Major just ended! Can I earn additional points?](#upgradepoints)
 * [I did not receive a point for a challenge I completed! Who can help with this?](#gotv)
 * [I already purchased and redeemed a Viewer Pass. Can I refund this and purchase the Viewer Pass +3 Souvenirs instead?](#refund)
-
   ## Souvenir Packages
-
 * [Do I need a Viewer Pass to be eligible for Souvenir Packages?](#souvenirs)
 * [I purchased a Viewer Pass. How do I earn Souvenir Packages?](#earnsouvenir)
 * [I upgraded my Event Coin! How do I redeem a Souvenir Package?](#redeemsouvenir)
 * [Can I trade and market my redeemed Souvenir Package(s)?](#tradesouvenirs)
 * [Can I buy Souvenir Package redemptions?](#buysouvenir)
 * [How long do I have to redeem my Souvenir Package(s)?](#timelimit)
-
   ## Pick'Em Challenge
-
 * [Do I need a Viewer Pass to play the Pick'Em Challenge?](#pickem)
 * [Do I need to purchase team stickers to play the Pick'Em Challenge?](#needstickers)
 * [I purchased a Viewer Pass. How do I play the Pick'Em Challenge?](#howtopickem)
-
   
   ## What is a Viewer Pass?
 A CS:GO Viewer Pass is a purchasable in-game item which gives purchasers exclusive access to:  
-
 * An upgradeable Event Coin.
 * Souvenir Packages.
 * The Major Pick'Em Challenge.
 * Unlimited team graffiti for the duration of the Major﻿.
 * Steam chat flair for the duration of the Major.
-
       
   ## How do I get a Viewer Pass?
 Viewer Passes can be purchased in-game during CS:GO Majors. Viewer Passes can also be sent as gifts one week after purchase.    

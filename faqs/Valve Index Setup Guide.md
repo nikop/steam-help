@@ -13,20 +13,16 @@ Version 2
   
 Before you begin:  
   
-
 * Make sure your computer is VR-Ready by running the official [compatibility-testing app](https://store.steampowered.com/app/1070910/Are_you_ready_for_Valve_Index/) from the Steam Store.
 * Update your graphics drivers to the latest version. Refer to the [Updating Drivers article](https://help.steampowered.com/en/faqs/view/5799-495F-1F25-D15B) for more information.
 * Install [SteamVR.](https://store.steampowered.com/app/250820/SteamVR/)
-
  [/td]	  	[/tr]
 ---
 [tr]    		[td][/td]  		[td]#### Pick a Play Area
 Choose a play area that gives you enough room that your outstretched arms, including controllers, will not touch walls, ceiling, or objects around you. Make sure there are no stairs or windows within your space and that you have cleared any obstacles from the play area—including pets!  
   
-
 * For Room Scale VR, you will need at least 2m x 1.5m (6.5ft x 5ft) of free space.
 * Standing-only or seated setups require less space.
-
 [/td]  		[td]  			[video poster="https://support.steampowered.com/steamvr/FitGuide/Thumbnails/Pick_a_Play_Area.jpg" mp4="https://support.steampowered.com/steamvr/FitGuide/Setup/Pick_a_Play_Area_360x202.mp4" autoplay=0][/video]	  			  		[/td]  	[/tr]
 ---
  [tr]    		[td][/td]  		[td]#### Set up your Index Base Stations
@@ -41,11 +37,9 @@ For help mounting your Base Station, see the section below.
  [tr]    		[td][/td]  		[td]#### Connect your Valve Index Headset
 The Index Headset has three plugs:  
   
-
 * Plug the headset DisplayPort cord into your graphics card port (if you have a laptop you may need an [adapter.](https://store.steampowered.com/app/1072830/VirtualLink_USBC_Adapter_for_Valve_Index_Headset/)
 * Plug the headset USB cord into a USB 3.0 port on your computer.
 * Using the headset power adapter, plug your headset into a power outlet.
-
  [/td]  		[td]  			[video poster="https://support.steampowered.com/steamvr/FitGuide/Thumbnails/USB_DP_Cables.jpg" mp4="https://support.steampowered.com/steamvr/FitGuide/Setup/Setup_back_of_cpu_360x202_MP4.mp4" autoplay=0][/video]		  		[/td]  	[/tr]
 ---
 [tr]    		[td][/td]  		[td]#### Launch SteamVR
@@ -65,18 +59,14 @@ Make sure all of your devices turn green in the SteamVR monitor window, then fol
   
 Before you get started make sure you follow these mounting guidelines:  
   
-
 * Make sure your Base Station point directly at the center of the play area
 * Make sure nothing obstructs the Base Stations’ view of the headset
-
   
   
 Tools Needed:  
   
-
 * A Phillips-head screwdriver
 * A drill with 1/4 inch or 6mm size drill bit
-
   
   
 **The mounting kit can attach bases to drywall or to a stud. If your room does not have drywall, please seek information about the best wall mounting methods for the type of walls you have.*  

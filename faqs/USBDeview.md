@@ -13,7 +13,6 @@ Please note: USBDeview is a third-party application. This app was not developed 
   
 Get started:  
   
-
 * Download [USBDeview](http://www.nirsoft.net/utils/usb_devices_view.html) and unzip the archive
 * Unplug the HMD from your Link Box and PC. Make sure your controllers are not connected via USB
 * Launch USBDeview

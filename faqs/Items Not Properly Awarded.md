@@ -6,7 +6,6 @@ Version 3
 Steam Support does not modify these bans and restrictions, regardless of the circumstances under which an account became restricted.  
   
 # VAC Bans
-
 ---
 ### Team Fortress 2
   
@@ -19,7 +18,6 @@ If you receive a VAC ban (for any game) you will no longer have access to the CS
   
   
 # Low Priority, Cooldowns, or Overwatch Bans
-
 ---
 ### Dota 2
   
@@ -32,7 +30,6 @@ If you have received a cooldown or Overwatch ban your account, you will no longe
   
   
 # Promotional Items
-
 ---
 ### Steam Purchases
   

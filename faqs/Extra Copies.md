@@ -3,11 +3,9 @@ Updated 2021-07-22 19.06.33
 Version 4  
 
 ### How does the Extra Copy Special Offer work?
-
 * [How do I receive extra copies to share with friends? ](#how)
 * [Giving away extra copies ](#giving)
 * [Receiving extra copies ](#receiving)
-
   
   
  Extra copies of games are not given in most cases.  
@@ -16,25 +14,21 @@ Only titles purchased in special promotions as outlined below are eligible for g
 # How do I receive extra copies to share with friends?
   
 ### Extra copies will only be issued as a special promotion in the following specific cases:
-
 * Users who own "Half-Life 2" and go on to purchase "The Orange Box" will receive an extra copy of "Half-Life 2".
 * Users who own "Half-Life 2: Episode One" and then go on to purchase the "The Orange Box" will receive an extra copy of "Half-Life 2: Episode One".
 * Users who purchase the available four packs for specific Steam titles will receive three extra copies of that title to gift to friends.
 * Extra copies may apply as a part of some limited time promotions. In that case, information on what will be included with your purchase will be listed on the storefront's transaction page.
-
   
   
 These special promotions will allow you to send a gift pass for your extra copy to a friend who does not already own the game.  
   
 These promotion do not apply to any games other than those specifically listed.  
   
-
 ---
   
 # Do all duplicate purchases on Steam work this way?
 **No.** This special offer **only** applies to games or game packages listed above.  
   
-
 ---
   
 # Giving away extra copies
@@ -62,7 +56,6 @@ If you are positive that they do not have this game, you can send it to their em
 ### **May I Buy or Sell my extra copies?**
 No. This violates the [Steam Subscriber Agreement](http://store.steampowered.com/subscriber_agreement/) and may result in all involved Steam accounts becoming permanently disabled.  
   
-
 ---
   
 # Receiving Extra Copies

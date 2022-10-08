@@ -30,7 +30,6 @@ If the position of your virtual floor or the "front" of your virtual space is in
   
 You can also change orientation and other features through advanced setting in room setup.  
   
-
 ---
 # Common Issues
 #### Headset is not connecting or loses connection

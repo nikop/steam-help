@@ -32,10 +32,8 @@ Other applications using the wireless network can interfere with game streaming.
   
 #### Network Ports
 Remote Play uses the following ports:  
-
 * UDP ports 27031 and 27036
 * TCP ports 27036 and 27037
-
   
 Please ensure that Steam is allowed to listen to these ports in your host computer firewall software. We suggest contacting your network administrator or firewall software developer for more information.  
   
@@ -57,12 +55,10 @@ Steam Remote Play is compatible with most home networks. A wired network will pr
 For best performance we recommend using a router that supports the 802.11ac protocol.  A router that supports the 802.11n via a 5GHz signal will be the next best choice.  
   
 To optimize your network:  
-
 * Choose the 5 GHz WiFi band over the highly congested 2.4 GHz band. The 5 GHz band has a shorter range, but there is less interference from your neighbors and other wireless devices.
 * Choose a WiFi channel on the Access Point (AP) that isn't congested. One example of a program you can use see this is [NetSurveyor](http://nutsaboutnets.com/netsurveyor-wifi-scanner/). You lose over 50% of your data rate when there is channel interference with your neighbors.
 * Set the AP to use a 5GHz channel near the top of the band; the top end starts at channel 149.
 * Try to see if you can connect when the AP channel width is set to at 40 MHz, instead of a 20 MHz width for 11n and 11ac. If 40 MHz works, then try 80 MHz that is enabled with an 11ac capable router. Higher channel bandwidths can provide faster speeds but are more sensitive to distance and other sources of RF noise.
-
  #### Move your equipment for a better signal
 The strength of the wireless signal is affected by interference from other wireless networks, distance, and walls, floors, metal, and electronic equipment between your wireless router and the Steam Link. Sometimes moving your router to a better location or moving your Steam Link out in front of your TV can help dramatically. Also make sure that your PC and router are in open, well-ventilated areas, as their performance will be reduced when they are overheating.  
   

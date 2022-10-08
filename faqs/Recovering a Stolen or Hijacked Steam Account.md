@@ -8,11 +8,9 @@ You can use [the Help site to try to self-recover your account](https://help.ste
 If you are unable to complete the self recovery process, Steam Support will verify the account is yours and recover it for you.  
   
 When contacting Steam Support try to provide as much of the following as possible:  
-
 * [Providing Proof of Account Ownership](https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A)
 * Any possible Steam Account login names
 * Any possible email addresses used on the account
-
   
   
 ## I'm concerned I may not be able to recover my account

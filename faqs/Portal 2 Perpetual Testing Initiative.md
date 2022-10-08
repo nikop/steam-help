@@ -27,7 +27,6 @@ If you are having the following error message, you may have one of several issue
 [h5]Programs that interfere with building[/h5]If you are getting a build error message make sure that you aren't running any programs that interfere with Steam as listed [here](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748). Specifically, we have reports that running **Comodo** Anti-virus or **Threatfire** anti-virus will cause this to occur. Switching Comodo to "Game Mode" should correct the issue, as will temporarily disabling Threatfire.  
   
 #### If all else fails...
-
 * [Verify integrity of game files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) for Portal 2.
 * If the files were fixed on your machine, test your compile again.
 * Find the error.p2c file in: `...Steam\steamapps\common\Portal 2\portal2\puzzles\[randomly generated number]\error.p2c`

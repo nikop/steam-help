@@ -8,7 +8,6 @@ Version 3
 * [When will the authorizations be removed from my credit card statement?](#drop)
 * [In what currency do the charges need to be entered in and how do I get the original amounts?](#conversion)
 * [Are virtual online credit cards supported?](#virtual)
-
   
   
   

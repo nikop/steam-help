@@ -4,30 +4,24 @@ Version 5
 
 ### First steps
 **Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:**  
-
 * Install any available system updates (Steam > Settings > System > Software Updates).
 * Restart your Steam Deck (from the Software Updates section or via Steam > Power > Restart).
 * Make sure that any third party applications that you have installed via Desktop Mode are exited or disabled and retest your issue.
 * If your Steam Deck is powered on but unresponsive, you can force a restart by holding the power button down for three seconds. If it remains unresponsive, there may be an OS-level issue. In this case, try holding the power button down for a full 10 seconds.
-
    
-
 ---
    
 # Power and charging
   
 If it's your first time using your Steam Deck, you'll need to plug it in for a short time using the provided power supply in order to wake it from the battery-saving shipment mode. If you've used your Steam Deck before but it's currently not powering on, plug it in and check the LED next to the charging port.  
-
 * If the LED is lit, the unit is receiving charge. The LED will remain lit when the unit reaches full charge.
 * If the LED flashes after pressing the power button, the battery is currently depleted. Plug it in using the provided PSU, confirm the LED is on, and leave it to charge for at least 15 minutes before powering it on.
 * If your Steam Deck appears to be charging normally but the power button is unresponsive, you can try holding the Volume + button while powering it on, then selecting *Continue* to boot from the BIOS options.
-
   
 If your device has been left on the charger for long periods of time, it may report less than 100% charge. This is normal. We allow the battery to slowly discharge after long periods of time under charge to optimize long-term battery health.  
   
 Steam Deck uses USB Power Delivery and does not support Fast Charging or Quick Charge specifications.  
   
-
 ---
   
 # Input
@@ -42,21 +36,18 @@ Hold down the Steam button to see a list of all available shortcuts.
   
 To change your controls for an individual game, go to game details by highlighting a game in your Library and pressing the A button. Open the control settings by selecting the gamepad icon. Here, you can view and edit your current layout. You can also browse and apply configurations that have been shared by the community by selecting the current template and navigating to Community Layouts with R1.  
   
-
 ---
   
 # Software
   
 Check out our [software guide](https://help.steampowered.com/faqs/view/7DD4-C618-182E-0E49) for information and troubleshooting.  
   
-
 ---
   
 # Display
   
 You can learn more about the Steam Deck's display specifications [here](https://www.steamdeck.com/en/tech). Note that the display is capped at a 60Hz refresh rate. The cap can be lowered to 30Hz in the device settings, but individual application settings with refresh rates above 60Hz won't improve performance and may drain battery charge faster.  
   
-
 ---
   
 # Audio
@@ -75,7 +66,6 @@ Most 3.5mm and Bluetooth audio devices should work naturally with Steam Deck, bu
 The built-in microphone will be unavailable when using the 3.5mm audio plug. Be sure to use headphones with a built-in mic if you want to use voice while listening on 3.5mm audio.  
 The built-in microphone will still be available while using a Bluetooth audio device.  
   
-
 ---
   
 # Bluetooth
@@ -88,7 +78,6 @@ If you're not able to find your Bluetooth device, you can go to Settings > Bluet
   
 If you're experiencing latency or other performance issues with your Bluetooth device, start by disconnecting and reconnecting the device to refresh your connection. If the problem persists, you may want to forget and re-pair the device. If you're still having problems, you may want to change to a different A2DP codec such as SBC or AptXLL. You can do this from the Sound Settings in Desktop Mode (see below).  
   
-
 ---
   
 # Wi-Fi
@@ -97,7 +86,6 @@ If this is your first time using your Steam Deck, you'll be prompted to connect 
   
 If you've already set up your Steam Deck and would like to connect to a different network, go to Steam > Settings > Internet, select your network, and enter the password using the onscreen keyboard.  
   
-
 ---
   
 # Data storage
@@ -109,7 +97,6 @@ MicroSD cards will need to be formatted before they can be used with your Steam 
   
 Any UHS-I (class 3 or better) microSD card is supported. Steam Deck does not support UHS-II.  
   
-
 ---
   
 # Desktop Mode
@@ -120,7 +107,6 @@ While in Desktop Mode, Steam Deck functions like a normal PC - you can browse th
   
 For more information, check out our [Steam Deck Desktop FAQ](https://help.steampowered.com/faqs/view/671A-4453-E8D2-323C).  
   
-
 ---
   
 # Care and maintenance
@@ -130,40 +116,33 @@ For more information, check out our [Steam Deck Desktop FAQ](https://help.steamp
 We recommend using the provided case for both short-term and long-term storage to avoid dust ingress, drop damage, and other issues.  
 #### Cleaning
   
-
 * Use a dry microfiber cloth to clean the display.
 * Use a small amount of isopropyl alcohol with a dry cloth to clean external plastic surfaces.
 * Do not use isopropyl alcohol or other liquids when cleaning around heatsink and fan vents, input wells (around buttons, trackpads, and thumbsticks), speakers, or ports. Use a dry cloth only.
 * Avoid using compressed air devices to clean the heatsink and fan vents, as this may interfere with internal components.
-
   
 #### Environmental
   
 The Steam Deck's safe storage temperature range is between -20° - +60° C (-4° - +140° F).  
   
 The Steam Deck's safe operational ranges are:  
-
 * Temperature - 0° - +35° C (+32° - +95° F)
 * Humidity - up to 85% non-condensing relative humidity
 * Altitude - up to 3500m
-
   
 #### Long term storage
   
 If you won't be using your Steam Deck for a while and would like to place it back into storage mode to increase long term battery health, you can use the following steps to do so:  
-
 * Power the Steam Deck down normally (choose Shut Down from the Power menu)
 * Hold down the Volume+ button and press the power button. The Steam Deck should boot into the BIOS menu.
 * Using the D-Pad and A to select, navigate to "Setup Utility"
 * Navigate to the Power Menu
 * Choose Battery storage mode, and confirm.
-
   
 You should see the Steam Deck power off, and the power LED will blink three times to confirm battery storage mode has been activated.  
   
 To wake your Steam Deck from storage mode, plug in the provided power supply and power it on normally.  
   
-
 ---
   
 # Contact Steam Support
