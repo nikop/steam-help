@@ -2170,12 +2170,6 @@
       "LastUpdated": "2022-05-20T00:50:29+00:00",
       "Version": 5
     },
-    "6999135664717675176": {
-      "Slug": "6121-ECCD-D643-BAA8",
-      "FileName": "Steam Deck - Windows Resources",
-      "LastUpdated": "2022-06-17T00:08:24+00:00",
-      "Version": 10
-    },
     "1977623338980027315": {
       "Slug": "1B71-EDF2-EB6D-2BB3",
       "FileName": "Steam Deck Recovery Instructions",
@@ -2253,6 +2247,12 @@
       "FileName": "Docking the Steam Deck",
       "LastUpdated": "2022-10-06T16:30:15+00:00",
       "Version": 1
+    },
+    "6999135664717675176": {
+      "Slug": "6121-ECCD-D643-BAA8",
+      "FileName": "Steam Deck - Windows Resources",
+      "LastUpdated": "2022-10-10T18:17:48+00:00",
+      "Version": 13
     }
   }
 }

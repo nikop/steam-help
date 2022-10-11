@@ -1,6 +1,6 @@
 # Steam Deck - Windows Resources
-Updated 2022-06-17 00.08.24  
-Version 10  
+Updated 2022-10-10 18.17.48  
+Version 13  
 
 #### Windows Resources
   
@@ -18,7 +18,7 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 * **Bluetooth driver** - [download here](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/RTBlueR_FilterDriver_1041.3005_1201.2021_new_L.zip), run installdriver.cmd to install.
 * **SD Card reader driver** - [download here](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/BayHub_SD_STOR_installV3.4.01.89_W10W11_logoed_20220228.zip), run setup.exe to install.
 * **Audio drivers**    
-* [Download driver 1/2](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/cs35l41_062022.zip), right click **cs35l41.inf** and select Install. *(last updated June 13, 2022)*
+* [Download driver 1/2](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/cs35l41-V1.2.1.0.zip), right click **cs35l41.inf** and select Install. *(last updated October 10, 2022)*
 * [Download driver 2/2](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/NAU88L21_x64_1.0.6.0_WHQL%20-%20DUA_BIQ_WHQL.zip), right click **NAU88L21.inf** and select Install.
 *  These INF files will show up as 'Setup Information' type files in File Explorer.
 *  On Windows 11, right click and select 'Show More Options' to see the 'Install' option.

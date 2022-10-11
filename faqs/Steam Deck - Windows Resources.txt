@@ -1,7 +1,7 @@
 Steam Deck - Windows Resources
 ------------------------------
-Updated 2022-06-17 00.08.24
-Version 10
+Updated 2022-10-10 18.17.48
+Version 13
 
 [h4]Windows Resources[/h4]
 Steam Deck is a PC, and other applications and OSes can be installed. If you're installing Windows, you will need a few additional drivers to have the best experience. Links to these, along with notes for installing Windows on Steam Deck can be found below.
@@ -21,7 +21,7 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 [*][b]SD Card reader driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/BayHub_SD_STOR_installV3.4.01.89_W10W11_logoed_20220228.zip]download here[/url], run setup.exe to install.
 [*][b]Audio drivers[/b]
 [list]
-[*] [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/cs35l41_062022.zip]Download driver 1/2[/url], right click [b]cs35l41.inf[/b] and select Install. [i](last updated June 13, 2022)[/i]
+[*] [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/cs35l41-V1.2.1.0.zip]Download driver 1/2[/url], right click [b]cs35l41.inf[/b] and select Install. [i](last updated October 10, 2022)[/i]
 [*] [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/NAU88L21_x64_1.0.6.0_WHQL%20-%20DUA_BIQ_WHQL.zip]Download driver 2/2[/url], right click [b]NAU88L21.inf[/b] and select Install.
 [*] These INF files will show up as 'Setup Information' type files in File Explorer.
 [*] On Windows 11, right click and select 'Show More Options' to see the 'Install' option.
