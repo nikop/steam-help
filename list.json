@@ -832,12 +832,6 @@
       "LastUpdated": "2021-07-21T21:25:02+00:00",
       "Version": 4
     },
-    "5883611091460142765": {
-      "Slug": "51A6-C91D-6F07-B6AD",
-      "FileName": "Assistance with a Valve Store Order",
-      "LastUpdated": "2021-07-21T22:03:39+00:00",
-      "Version": 4
-    },
     "7586403624451082884": {
       "Slug": "6948-51E6-E624-8A84",
       "FileName": "Find Downloadable Content (DLC) for My Games",
@@ -2253,6 +2247,12 @@
       "FileName": "Steam Deck - Windows Resources",
       "LastUpdated": "2022-10-10T18:17:48+00:00",
       "Version": 13
+    },
+    "5883611091460142765": {
+      "Slug": "51A6-C91D-6F07-B6AD",
+      "FileName": "Assistance with a Valve Store Order",
+      "LastUpdated": "2022-10-13T21:29:15+00:00",
+      "Version": 5
     }
   }
 }
