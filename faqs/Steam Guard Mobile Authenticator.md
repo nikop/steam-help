@@ -1,6 +1,6 @@
 # Steam Guard Mobile Authenticator
-Updated 2021-10-20 21.51.37  
-Version 5  
+Updated 2022-10-15 00.07.26  
+Version 7  
 
 If you're having trouble logging in with the Steam Guard Mobile Authenticator, please use our help site ([help.steampowered.com](https://help.steampowered.com)) to recover your account.  
   
@@ -10,6 +10,7 @@ If you're having trouble logging in with the Steam Guard Mobile Authenticator, p
 * [How do I add a phone number to my Steam account? ](#addphone)
 * [How do I setup a Steam Guard Mobile Authenticator?](#enable)
 * [How do I log in using the authenticator?](#login)
+* [How do I log in using the QR code sign in?](#qrlogin)
 * [Where is my mobile authenticator code?](#where)
 * [I don't have a phone. Can I still use a mobile authenticator?](#nophone)
 * [What is the best way to use two factor authentication?](#bestway)
@@ -46,6 +47,8 @@ The Steam Guard Mobile Authenticator is a feature of the Steam Mobile App that p
   
 This system (commonly called two-factor authentication) is stronger than just your username and a password.  
   
+The Steam Mobile App also includes QR code sign in, a sign in method for Steam that allows you skip entering your user name and password. The process relies on the 2fa credentials stored in your phone app, securely identifying you through your mobile device to Steam.  
+  
 Valve also strongly recommends that you add a phone number to your account, which makes recovering your account quite a bit easier, should you lose access.  
   
 Your phone does not need to be connected to the Internet for the authenticator to work (however, your phone does need to know the correct time).  
@@ -74,12 +77,22 @@ Please note that only one phone number can be associated with a Steam account at
 ####  How do I log in using the authenticator?
   
 If your account has the authenticator enabled, you will be asked to enter your current code after you've entered your user name and password.  
-* Open the Steam Mobile App. If you are logged in on your phone, go to the Steam Guard menu (the top-most menu selection) to see the current code. (If you aren't logged in to Steam on your phone, your current code is displayed on the login page).
+* Open the Steam Mobile App. If you are logged in on your phone, go to the Steam Guard menu (the middle "shield" icon in the bottom navigation bar) to see the current code. (If you aren't logged in to Steam on your phone, your current code is displayed on the login page).
 * Enter the current code when you are asked to. Don't worry if the code on your phone turns red and changes, you still have a little bit of time left to enter the old code.
   
 You can't use a code more than once, and you can't use old codes. So if you just used a code, you should wait for the code to change before using another.  
   
 **Never** share your authenticator codes with anyone, and don't type them in to a web site that isn't run by Valve. Steam Support will **never** ask for any of your codes.  
+  
+![{STEAM_CLAN_IMAGE}/39983882/e2565c0aaf37bfeb129994bea45255e3f6b5ea66.jpg]({STEAM_CLAN_IMAGE}/39983882/e2565c0aaf37bfeb129994bea45255e3f6b5ea66.jpg)  
+  
+####  How do I log in using the QR code sign in?
+  
+The Steam Mobile App allows you to scan a QR code to sign in to Steam on your PC or in a browser. Instead of entering your account name, password, and a Steam code - you can use the mobile app to scan QR code presented on the sign in panel.  
+  
+* Open the Steam Mobile App. If you are logged in on your phone, go to the Steam Guard menu (the middle "shield" icon in the bottom navigation bar) for the "Scan a QR code" prompt.
+* Hold your phone up to the Steam sign in panel and use the mobile app to scan the QR code.
+* After scanning the QR code, the app will show you a confirmation page with details about the sign in attempt, including a map and the approximate geolocation of the device you’re signing in to. If this information looks correct, approve the request to complete your login.
   
 ####  Where is my mobile authenticator code?
   
