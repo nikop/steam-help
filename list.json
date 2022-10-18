@@ -1204,12 +1204,6 @@
       "LastUpdated": "2021-08-11T21:44:38+00:00",
       "Version": 4
     },
-    "8135358118725657467": {
-      "Slug": "70E6-991B-233B-A37B",
-      "FileName": "Scam FAQ (Confidence Scams and Trade Scams)",
-      "LastUpdated": "2021-08-11T21:49:59+00:00",
-      "Version": 10
-    },
     "5601042700399114322": {
       "Slug": "4DBA-E6A9-1115-7852",
       "FileName": "Soundtracks and Steam Music Player",
@@ -2251,8 +2245,14 @@
     "9150536737600248881": {
       "Slug": "7EFD-3CAE-64D3-1C31",
       "FileName": "Steam Guard Mobile Authenticator",
-      "LastUpdated": "2022-10-15T00:07:26+00:00",
-      "Version": 7
+      "LastUpdated": "2022-10-17T23:09:43+00:00",
+      "Version": 8
+    },
+    "8135358118725657467": {
+      "Slug": "70E6-991B-233B-A37B",
+      "FileName": "Scam FAQ (Confidence Scams and Trade Scams)",
+      "LastUpdated": "2022-10-18T01:35:36+00:00",
+      "Version": 15
     }
   }
 }

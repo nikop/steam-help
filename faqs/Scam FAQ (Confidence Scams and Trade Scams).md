@@ -1,10 +1,12 @@
 # Scam FAQ (Confidence Scams and Trade Scams)
-Updated 2021-08-11 21.49.59  
-Version 10  
+Updated 2022-10-18 01.35.36  
+Version 15  
 
-Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
+# Scam: I have been accidentally reported
   
-If someone claims they reported you accidentally or falsely, you do not need to do anything to protect your account. These claims are always fake and only meant scam you. If someone did report your account falsely, you can rest assured that Steam disregards false reports.   
+Any claim that you've been accidentally or falsely reported for fraud or any other infraction is always the introduction to a scam. If someone did report your account falsely, you can rest assured that Steam disregards false reports. Do not follow any instructions provided by anyone claiming to have accidentally reported your account.   
+  
+Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
   
 Anyone claiming to be a Valve employee, Steam Support representative, or asking to verify your items for an investigation should be immediately [ reported](#reportscammer).    
   
@@ -42,7 +44,7 @@ Trade scams are a scam whose goal involves obtaining a victim's Steam Inventory 
 ### What is a confidence scam?
 A confidence scam is a trick involving deceit with the goal of defrauding a victim in some way. A scammer may target a Steam user to hijack their account to use or sell, hijack their account to hold for ransom, or gather information from a victim to defraud them elsewhere.  
   
-Online confidence scams target Steam users because Steam accounts are valuable, and if taken over, can give the scammer a form of "power" to pressure the victim.  
+Though not unique to Steam, online confidence scams may target Steam users because Steam accounts are valuable, and if taken over, can give the scammer a way to pressure the victim and propagate the scam further.  
 ### What scam types might target Steam users?
 Most scams targeting Steam users (unrelated to Trade Scams) involve an attempt to gain control of a victim's account and then hold the account hostage for payment.   
   
