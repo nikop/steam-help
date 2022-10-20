@@ -1,10 +1,10 @@
 # Scam FAQ (Confidence Scams and Trade Scams)
-Updated 2022-10-18 01.35.36  
-Version 15  
+Updated 2022-10-19 18.55.42  
+Version 16  
 
 # Scam: I have been accidentally reported
   
-Any claim that you've been accidentally or falsely reported for fraud or any other infraction is always the introduction to a scam. If someone did report your account falsely, you can rest assured that Steam disregards false reports. Do not follow any instructions provided by anyone claiming to have accidentally reported your account.   
+Any claim that you've been accidentally or falsely reported for fraud or any other infraction is always the introduction to a scam. If someone did report your account falsely and you're concerned about being banned, you can rest assured that Steam disregards false reports. Do not follow any instructions provided by anyone claiming to have accidentally reported your account.   
   
 Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
   
