@@ -2212,12 +2212,6 @@
       "LastUpdated": "2022-09-22T18:20:07+00:00",
       "Version": 6
     },
-    "6607600367846018830": {
-      "Slug": "5BB2-E986-A733-CF0E",
-      "FileName": "Where to buy Steam Wallet Codes",
-      "LastUpdated": "2022-09-28T19:30:47+00:00",
-      "Version": 31
-    },
     "5483142123543411444": {
       "Slug": "4C18-08B5-DEC9-3AF4",
       "FileName": "Docking the Steam Deck",
@@ -2253,6 +2247,12 @@
       "FileName": "Scam FAQ (Confidence Scams and Trade Scams)",
       "LastUpdated": "2022-10-19T18:55:42+00:00",
       "Version": 16
+    },
+    "6607600367846018830": {
+      "Slug": "5BB2-E986-A733-CF0E",
+      "FileName": "Where to buy Steam Wallet Codes",
+      "LastUpdated": "2022-10-25T23:04:37+00:00",
+      "Version": 32
     }
   }
 }

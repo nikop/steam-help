@@ -1,7 +1,7 @@
 Where to buy Steam Wallet Codes
 -------------------------------
-Updated 2022-09-28 19.30.47
-Version 31
+Updated 2022-10-25 23.04.37
+Version 32
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 
@@ -171,6 +171,20 @@ France
 [*][url=https://www.micromania.fr/magasins?mode=viewAll]Micromania[/url] [/*]
 [/list]
 [h3]
+Denmark
+[/h3]
+[list]
+[*]
+[url=www.7-eleven.dk)/]7Eleven[/url] [/*]
+[/list]
+[h3]
+Finland
+[/h3]
+[list]
+[*]    
+[url=Home (kesko.fi)/]Kesko[/url] [/*]
+[/list]
+[h3]
 Germany
 [/h3]
 [list]
@@ -228,6 +242,12 @@ Netherlands
 [*][url=https://www.primera.nl/winkels/]Primera[/url] [/*]
 [/list]
 [h3]
+Norway
+[/h3]
+[list]
+[*][url=http://www.7-eleven.no//]7-Eleven[/url] [/*]
+[/list]
+[h3]
 Poland
 [/h3]
 [list]
@@ -250,6 +270,7 @@ Portugal
 Romania
 [/h3]
 [list]
+[*][url=https://altex.ro/]Altex[/url] [/*]
 [*][url=https://www.carrefour.ro]Carrefour[/url] [/*]
 [*][url=https://www.ecco-shoes.ro]Ecco[/url] [/*]
 [*][url=https://www.penny.ro]Rewe Penny[/url] [/*]

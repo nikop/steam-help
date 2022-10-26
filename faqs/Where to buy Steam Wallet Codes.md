@@ -1,6 +1,6 @@
 # Where to buy Steam Wallet Codes
-Updated 2022-09-28 19.30.47  
-Version 31  
+Updated 2022-10-25 23.04.37  
+Version 32  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
   
@@ -107,6 +107,12 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 * [Leclerc](https://www.e-leclerc.com/)
 * [Micromania](https://www.micromania.fr/magasins?mode=viewAll)
     
+### Denmark
+* [7Eleven](www.7-eleven.dk)/)
+    
+### Finland
+* [Kesko](Home (kesko.fi)/)
+  
 ### Germany
 * [Citti Markt](https://cittimarkt.de/)
 * [Combi](https://www.combi.de/UnsereMaerkte/Marktsuche)
@@ -139,7 +145,11 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 * [Game Mania](https://www.gamemania.nl/Winkels)
 * [Media Markt](https://www.mediamarkt.nl/nl/marketselection.html)
 * [Primera](https://www.primera.nl/winkels/)
- ### Poland
+    
+### Norway
+* [7-Eleven](http://www.7-eleven.no//)
+    
+### Poland
 * [Auchan](https://www.auchan.pl/pl/znajdz-sklep)
 * [Media Expert](https://sklepy.mediaexpert.pl)
 * [Media Markt](https://mediamarkt.pl/sklepy)
@@ -153,6 +163,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
    
 ### Romania
   
+* [Altex](https://altex.ro/)
 * [Carrefour](https://www.carrefour.ro)
 * [Ecco](https://www.ecco-shoes.ro)
 * [Rewe Penny](https://www.penny.ro)
@@ -255,7 +266,6 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 ### Myanmar
 * [PrepaidCard](https://www.prepaidcard.com.mm/allcardtypes)
     
-  
 ### Philippines
   
 * [ALLSERVE](https://www.allserve.ph)
@@ -263,7 +273,6 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 * [Meps-PH](https://touchpay.ph)
 * [Uniwiz Trade Sales, Inc.](http://loadcentral.com.ph/case-studies/games-steam/)
    
-  
 ### Thailand
   
 * [AORZEA](https://www.ggkeystore.com/product/1/steam-wallet-thb)
