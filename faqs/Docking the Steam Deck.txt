@@ -1,7 +1,7 @@
 Docking the Steam Deck
 ----------------------
-Updated 2022-10-06 16.30.15
-Version 1
+Updated 2022-10-28 21.36.45
+Version 2
 
 While Steam Deck is great in handheld mode, there may be times where you want to use different input devices, share your screen in a multiplayer game, or even get some work done - that's where docking comes in. Steam Deck works great with a variety of USB-C docks or hubs. Most users will be plugging in a USB-C charger for PD passthrough, as well as peripherals, controllers, and external displays. This article will cover basic operation and troubleshooting steps.
 [h2]
@@ -39,6 +39,20 @@ Troubleshooting
 [*]If your display output does not fit your display, the Gaming Mode UI has settings to help fine tune your experience. Under the Steam > Display menu, disable “Automatically Scale User Interface,” then tweak the slider to match display.
 [*]Your display may also have settings to adjust how the output image is displayed. In your TV/display settings, check for “Overscan” options. Due to the sheer number of display peripherals, no official support is provided.
 [/list]
+[h5]External display is blank[/h5]
+[b]External Display Safe Mode[/b]
+This mode will help if an external display is not lighting up when connected to your Steam Deck. When enabled, your Steam Deck will pick a low resolution and refresh rate for your external display to improve the chances of successfully lighting up the display. This may help in situations where the connection between the SteamDeck and the external display can't reach full transmission speeds, e.g. when using a very long HDMI/DP cable, or the cable is somehow damaged, or there is some interference from external devices in the signal.
+
+  The best process to enable this is:
+[list]
+[*]Unplug the Deck from the dock/hub
+[*]Set 'External display safe mode' to On in the developer settings
+[*]Plug the Deck to the dock
+[*]The display should now light up
+[/list]
+[section style=important][b]Developer settings:[/b]
+  To access this option, you will need to enable the developer menu.  To enables this: [code]click the 'Steam' button > System > turn on 'Enable Developer Mode'.[/code]  Once this is enabled: [code]Click the 'Steam' button > scroll to the bottom and select 'Developer' > scroll down to turn on 'External display safe mode'[/code]
+[/section]
 [h5]Graphics/Image quality[/h5]
 [list]
 [*] If you have issues with graphics/image quality or performance, you may require in-game tweaks to optimize performance.

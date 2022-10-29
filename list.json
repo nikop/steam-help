@@ -2212,12 +2212,6 @@
       "LastUpdated": "2022-09-22T18:20:07+00:00",
       "Version": 6
     },
-    "5483142123543411444": {
-      "Slug": "4C18-08B5-DEC9-3AF4",
-      "FileName": "Docking the Steam Deck",
-      "LastUpdated": "2022-10-06T16:30:15+00:00",
-      "Version": 1
-    },
     "6999135664717675176": {
       "Slug": "6121-ECCD-D643-BAA8",
       "FileName": "Steam Deck - Windows Resources",
@@ -2253,6 +2247,12 @@
       "FileName": "Where to buy Steam Wallet Codes",
       "LastUpdated": "2022-10-25T23:04:37+00:00",
       "Version": 32
+    },
+    "5483142123543411444": {
+      "Slug": "4C18-08B5-DEC9-3AF4",
+      "FileName": "Docking the Steam Deck",
+      "LastUpdated": "2022-10-28T21:36:45+00:00",
+      "Version": 2
     }
   }
 }
