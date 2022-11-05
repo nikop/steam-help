@@ -12,15 +12,17 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
 
-var dir = new DirectoryInfo(".");
-
-Console.WriteLine(dir.FullName);
-return;
-
 // Config
-var gitPath = @"D:\SteamDatamine\steam-help\git\";
+var gitPath = ".";
 var listFileName = Path.Combine(gitPath, "list.json");
 var faqsPath = Path.Combine(gitPath, "faqs");
+var dir = new DirectoryInfo(faqsPath);
+
+if (!dir.Exists)
+{
+    Console.WriteLine("fags directory doesn't exist.");
+    return;
+}
 
 Directory.CreateDirectory(faqsPath);
 
