@@ -131,6 +131,7 @@
     "3944-4D89-1B3E-27DE",
     "3978-072C-18DF-FBF9",
     "3A2A-BF2D-15FF-7963",
+    "3A43-94EF-4A78-44FD",
     "3B6E-B322-2400-8D24",
     "3B79-C13C-9214-0F8E",
     "3BB9-9B5B-3F81-7CBA",
@@ -244,6 +245,7 @@
     "61D8-A895-3212-09F4",
     "61F0-72B7-9A18-C70B",
     "6285-A36E-8728-FED0",
+    "628C-E332-BD8C-4D36",
     "62E9-AEDF-6B35-B865",
     "6396-C601-317C-8E54",
     "639B-6FC9-EBDF-5A03",
@@ -772,6 +774,18 @@
       "FileName": "Unrecognized Charges",
       "LastUpdated": "2021-07-10T19:49:55+00:00",
       "Version": 3
+    },
+    "7101300519524388150": {
+      "Slug": "628C-E332-BD8C-4D36",
+      "FileName": "Hidden or Removed Links",
+      "LastUpdated": "2021-07-10T19:49:55+00:00",
+      "Version": 3
+    },
+    "4198363033106924797": {
+      "Slug": "3A43-94EF-4A78-44FD",
+      "FileName": "Crosshair disappears when using a gamepad in Portal",
+      "LastUpdated": "2021-07-10T19:49:55+00:00",
+      "Version": 2
     },
     "5415491538769492073": {
       "Slug": "4B27-B0DC-AC7D-3869",

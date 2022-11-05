@@ -1,0 +1,30 @@
+# Hidden or Removed Links
+Updated 2021-07-10 19.49.55  
+Version 3  
+
+Due to the prevalence of spam and phishing throughout the Steam community, links (URLs) are sometimes hidden with the text:  
+  
+{LINK REMOVED}  
+  
+Steam will hide links for a variety of reasons outlined in this article. If your link is being filtered, make sure to check all the scenarios below.  
+  
+### Suspicious Content
+When community items are suspected of containing malicious content, all links attached to that content will temporarily be hidden. This content includes user reviews, screenshots, discussion posts, comment threads, etc.  
+  
+Steam automatically reviews all suspicious content to confirm whether or not it's malicious. Once we can make sure that it is not, the link will appear normally. This process should not take more than 24 hours.  
+  
+### Limited Account
+Limited Steam accounts have additional restrictions when sharing links throughout the Steam community. If a link you posted in the community or on your profile is being hidden, you'll want to make sure that your account is not being limited.  
+  
+Our [Limited Account](https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A) article explains this account status in more detail.  
+  
+### Link Shorteners
+Link shorteners and other tools to obscure links will typically result in the link being hidden. Avoid using link shorteners in the Steam community.  
+  
+### Uncommon Domains
+If you are posting a URL with a free or less common top level domain, it is possible that domain itself is being filtered. For these domains, you want to avoid having any parameters after the TLD within your link.  
+  
+For example if you want to link to your site at *yourwebsite.top*, make sure that nothing comes after the *.top* in the URL. For example, *yourwebsite.top/anything* would be filtered.  
+  
+### Banned Links
+If none of the above cases are responsible for your link being filtered, it is possible that the link itself has been blocked by Steam Support. These links include pornographic sites, referral promotions, some advertising, free web-hosting and others. If you think your link is being filtered mistakenly, please reach out to [Steam Support](https://help.steampowered.com/en/wizard/HelpWithCommunityContactSupport).
