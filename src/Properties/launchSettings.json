@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SteamHelpSync": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)/../"
+    }
+  }
+}
