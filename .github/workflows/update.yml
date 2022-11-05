@@ -15,8 +15,5 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: '6.0.x'
-        source-url: https://nuget.pkg.github.com/nikop/index.json
-        env:
-          NUGET_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: Run script
       run: ./update.sh
