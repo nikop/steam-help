@@ -7,6 +7,7 @@ using SteamHelpSync;
 
 using System;
 using System.Collections.Concurrent;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
@@ -242,11 +243,11 @@ while (queue.TryDequeue(out var slug))
 
 // Sorting
 faqsListing.UrlSlugs = faqsListing.UrlSlugs.OrderBy(x => x).ToHashSet();
-faqsListing.KnownFags = faqsListing.KnownFags.OrderBy(x => x.Value.LastUpdated).ToDictionary(x => x.Key, x => x.Value);
+faqsListing.KnownFags = faqsListing.KnownFags.OrderBy(x => x.Value.Slug).ToDictionary(x => x.Key, x => x.Value);
 
 await faqsListing.SaveAsync().ConfigureAwait(false);
 
-var git = ProcessHelper.GetExecutablePath("git.exe");
+var git = ProcessHelper.GetExecutablePath(RuntimeInformation.IsOSPlatform(OSPlatform.Windows) ? "git.exe" : "git");
 
 Console.WriteLine("Commiting git");
 await ProcessHelper.RunAsync(git, "add .", workingDirectory: gitPath);
