@@ -1,6 +1,6 @@
 Uninstall Steam
 ---------------
-Updated 2021-08-16 19.57.14
+Updated 2021-08-16 19:57:14
 Version 9
 
 How should I uninstall Steam?

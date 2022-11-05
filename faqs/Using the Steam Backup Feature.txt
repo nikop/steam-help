@@ -1,6 +1,6 @@
 Using the Steam Backup Feature
 ------------------------------
-Updated 2021-08-10 17.11.35
+Updated 2021-08-10 17:11:35
 Version 6
 
 How do I use the Steam backup feature to save copies of my game files and restore my game files from backup copies?

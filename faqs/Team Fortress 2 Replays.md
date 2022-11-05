@@ -1,5 +1,5 @@
 # Team Fortress 2 Replays
-Updated 2022-04-21 20.56.44  
+Updated 2022-04-21 20:56:44  
 Version 6  
 
 How to create a replay in Team Fortress 2:  

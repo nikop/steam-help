@@ -1,8 +1,9 @@
 # Steam Gifts
-Updated 2021-07-28 00.13.37  
+Updated 2021-07-28 00:13:37  
 Version 6  
 
 # Gifting Questions
+
 * [What is a Steam Gift?](#gifts-whatare)
 * [How can I purchase Steam Gifts for a different Steam user?](#gifts-purchase)
 * [Selecting your gift recipient](#gifts-recipient)
@@ -24,6 +25,7 @@ Version 6
 * [How do I share the Four Pack for [L4D, L4D2, Borderlands] with three friends?](#sharefourpack)
 * [How do I view my gift history?](#gifthistory)
 * [Can I refund my gift?](#giftrefund)
+
   
     
 ## What is a Steam Gift?
@@ -165,12 +167,14 @@ A refund may be issued for any gift that was purchased within fourteen days and 
 If the gift recipient has already redeemed the gift, you'll see the following message when you try to refund the gift: *This product was gifted to user (Account name). They'll have to use the Support site to request a refund for this product first.*    
 The gift recipient should follow these steps to approve the gift refund and removal:   
   
+
 * Navigate to the [Support Site](http://help.steampowered.com) and log in to Steam.
 * Click *Games, Software, etc.*
 * Find the gifted game in the list and click on it.
 * Select the problem that best represents the reason why you're not keeping the gift.
 * Click *I'd like to request a refund*.
 * Finish the request by selecting the box for *Allow the original purchases of this gift to request a refund*.
+
   
   
 You can proceed with the refund request once the recipient has initiated the refund and approved the removal of the gift from their account.

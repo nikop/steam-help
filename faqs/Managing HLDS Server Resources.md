@@ -1,5 +1,5 @@
 # Managing HLDS Server Resources
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 How can I control how my HLDS server resources are managed?  
@@ -7,11 +7,14 @@ How can I control how my HLDS server resources are managed?
 In all below descriptions, 1 = enabled, 0 = disabled  
   
 #### Client side:
+
 * *cl_allowdownload 1/0*  
 Allow/Prevent any download from the server to the client.
 * *cl_allowupload 1/0*  
 Allow/Prevent any content (including sprays) from being sent from the client to the server.
+
   #### Server side:
+
 * *sv_allowupload 1/0*  
 Allows/Prevents clients sending custom sprays to the server.  
   

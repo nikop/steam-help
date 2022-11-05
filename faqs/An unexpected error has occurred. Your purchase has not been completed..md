@@ -1,5 +1,5 @@
 # An unexpected error has occurred. Your purchase has not been completed.
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 What to do if you receive this error?  

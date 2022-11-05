@@ -1,25 +1,31 @@
 # CS:GO - Overwatch System
-Updated 2021-12-02 21.22.28  
+Updated 2021-12-02 21:22:28  
 Version 11  
 
 CS:GO Game bans issued by Overwatch Investigators are non-negotiable and cannot be removed by Steam Support.    
 ## CS:GO Overwatch basics:
+
 * [What is Overwatch?](#overwhat)
 * [How does Overwatch work?](#howwork)
 * [What are the charges and possible verdicts?](#verdicts)
 * [What happens at the end of a case?](#caseend)
 * [I've been found guilty by Overwatch Investigators. What does this mean?](#guilty)
 * [Can I earn XP for participating in Overwatch?](#xp)
+
   ## Investigator-related questions:
+
 * [How do I become an Investigator?](#investigator)
 * [How are Investigators selected?](#selection)
 * [How are Investigators scored?](#scores)
 * [Can one Investigator have more weight applied to their decision than another?](#weight)
 * [I am not an Overwatch Investigator. How can I help?](#wanthelp)
+
   ## General questions:
+
 * [The suspect is griefing a griefer in retribution. Is the suspect still guilty of griefing?](#griefing)
 * [Do griefers and cheaters receive the same penalty when they are convicted?](#cheatgrief)
 * [Why is the evidence replay sometimes jittery?](#jitters)
+
   
   ## What is Overwatch?
 Overwatch is an in-game replay review system that lets the CS:GO community regulate itself by allowing qualified and experienced members of the community, called 'Investigators' to review reports of disruptive behavior, determine whether those reports are valid, and apply bans if appropriate.    
@@ -43,11 +49,13 @@ Currently, the best way to become an Investigator is to play lots of matches in 
 **Note:** Steam Support cannot add players to the Investigator pool.   
   ## How are Investigators selected?
 New Overwatch Investigators are selected based on their CS:GO activity and account standing. Some factors include:  
+
 * Competitive wins
 * Account age
 * Hours played
 * Skill group
 * Low report count
+
 If applicable, prior Overwatch participation level and score (a function of an Investigator's accuracy) will be taken into account. Community members who maintain both a high level of activity and high Overwatch scores will receive more cases to participate in.  
   
 **Note:** You must maintain an active skill group in order to remain an Overwatch Investigator.    

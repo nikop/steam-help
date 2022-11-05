@@ -1,5 +1,5 @@
 # Rules and Guidelines For Steam: Discussions, Reviews, and User Generated Content
-Updated 2021-12-17 18.22.32  
+Updated 2021-12-17 18:22:32  
 Version 6  
 
 These guidelines apply to all places in the Steam Store and Community where users can post content. This includes, but is not limited to, discussions, comments, guides, product reviews, screenshots, artwork, videos, tags, and Steam Workshop.  
@@ -13,6 +13,7 @@ All users are subject to the [Steam Subscriber Agreement](https://store.steampow
 ### General Rules
 Do not do any of the following:  
   
+
 * Flame or insult other members
 * Bypass any filters
 * Abuse or encourage abuse of the Post Reporting System
@@ -24,9 +25,11 @@ Do not do any of the following:
 * Repetitively post in the incorrect forum (example: trade requests belong in trading forum)
 * Openly argue with a moderator
 * Manipulation of the User Review system or voting/rating systems
+
   ### Content Rules
 Do not post any content on Steam containing the following:  
   
+
 * Porn, inappropriate or offensive content, warez or leaked content or anything else not safe for work
 * Discussion of piracy including, but not limited to:
 * Cracks
@@ -40,6 +43,7 @@ Do not post any content on Steam containing the following:
 * Abusive language, including swearing
 * Drugs and alcohol
 * Religious, political, and other "prone to huge arguments" threads
+
   ### No Backseat Moderating
 Let the moderators do the moderating. Backseat moderating is when people who are not moderators try to enforce the forum rules. If you see a person breaking the rules, take advantage of the Report (![{STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png]({STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png)) button or simply **ignore** the offensive post(s), thread, or review.  
   

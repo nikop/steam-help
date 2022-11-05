@@ -1,11 +1,13 @@
 # Update & Installation Issues
-Updated 2021-08-12 19.57.54  
+Updated 2021-08-12 19:57:54  
 Version 7  
 
 When installing or updating a game, Steam displays an error message:  
   
+
 * An error occurred while updating *[game title]*
 * An error occurred while installing *[game title]*
+
   
 This is a common type of error that can occur any time a game is updated or installed on Steam.  
   

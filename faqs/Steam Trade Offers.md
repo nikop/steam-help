@@ -1,5 +1,5 @@
 # Steam Trade Offers
-Updated 2021-08-12 20.56.28  
+Updated 2021-08-12 20:56:28  
 Version 4  
 
 * [What is a trade offer?](#whatisoffer)
@@ -16,6 +16,7 @@ Version 4
 * [What if I’m unhappy about a trade I made?](#unhappyoffer)
 * [How long is an offer good for?](#expirationoffer)
 * [Where can I see my trade history?](#historyoffer)
+
   
 For more information on trading, refer to the [Steam Item Restoration Policy](https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24), the [Steam Trading FAQ](https://help.steampowered.com/en/faqs/view/46A2-2B3C-95CC-8878) and the [Recommended Trading Practices](https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0) article.  
   
@@ -26,6 +27,7 @@ For more information on trading, refer to the [Steam Item Restoration Policy](ht
 You can create and send a trade offer from two places: the Trade Offers page within your Inventory or from a friend’s profile.  
   
 To send an offer from your Trade Offers page:  
+
 * Open Steam (either the client or via the web)
 * Hover over your persona name at the top
 * Click on Inventory
@@ -35,8 +37,10 @@ To send an offer from your Trade Offers page:
 * Click and drag the items you wish to trade from both inventories into the trade boxes
 * Check the box to confirm the trade contents
 * Click on Make Offer.
+
   
 To send an offer from a friend's profile:  
+
 * Open Steam (either the client or via the web)
 * Hover over your persona name at the top
 * Click on Friends
@@ -46,6 +50,7 @@ To send an offer from a friend's profile:
 * Click and drag the items you wish to trade from both inventories into the trade boxes
 * Check the box to confirm the trade contents
 * Click on Make Offer.
+
   
 You'll then need to confirm the trade offer. If you're using a Mobile Authenticator through the Steam Mobile App on your smartphone to protect your account, you can confirm via the app. Otherwise you'll receive a confirmation request via email.  
   
@@ -75,6 +80,7 @@ Yes. You can send more than one offer containing the same items. When an offer i
 If a trade offer contains an item that is traded away or sold on the market, the trade becomes inactive and can no longer be accepted. It will automatically be moved into your Offer History.  
   
 ### How do I change or counter an offer?
+
 * From your Inventory, select Trade Offers
 * Select Incoming Offers
 * Select Respond to Offer
@@ -82,12 +88,15 @@ If a trade offer contains an item that is traded away or sold on the market, the
 * Add or remove items from either or both Inventories
 * Select Confirm trade contents
 * Select Send Counter Offer.
+
 The counter offer will be sent back as a new trade offer.  
   
 ### How do I cancel an offer I've sent?
+
 * From your Inventory, select Trade Offers
 * Select either Incoming Offers or Sent Offers and identify the trade you want to cancel
 * Select Cancel Trade Offer at the bottom, right-hand corner of the trade offer window.
+
 You can cancel a pending offer you've sent from the Sent Offers area of the Trade Offers page.  
   
 ### What if I’m unhappy about a trade I made?

@@ -1,5 +1,5 @@
 # Valve Hardware RMA Guide
-Updated 2022-02-24 22.44.18  
+Updated 2022-02-24 22:44:18  
 Version 8  
 
 ---
@@ -24,9 +24,11 @@ If your unit has experienced a hardware failure or other issue covered by the Wa
   
 If you are having issues with your Hardware, please follow the steps below for assistance:  
   
+
 * Go to the [Steam Support Site](https://help.steampowered.com/en/wizard/HelpWithSteamHardware).
 * Select your *Steam Hardware Device*.
 * Select your issue to review troubleshooting information and contact Steam Support if necessary.
+
   
 Once the replacement or repair process has been initiated, you will receive a pre-paid shipping label along with further instructions.  
   

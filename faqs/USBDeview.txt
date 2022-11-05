@@ -1,6 +1,6 @@
 USBDeview
 ---------
-Updated 2021-08-10 19.10.20
+Updated 2021-08-10 19:10:20
 Version 4
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]

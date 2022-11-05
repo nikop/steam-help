@@ -1,6 +1,6 @@
 CS:GO - Competitive cooldowns and bans
 --------------------------------------
-Updated 2021-09-30 22.13.21
+Updated 2021-09-30 22:13:21
 Version 16
 
 

@@ -1,5 +1,5 @@
 # Restoring SteamOS
-Updated 2021-10-28 02.00.20  
+Updated 2021-10-28 02:00:20  
 Version 4  
 
 If SteamOS is malfunctioning, you can restore a working version. The standard SteamOS installation includes a recovery partition on the hard drive. You can use this partition to restore the system drive to its original state. Your Steam installation, games, and any desktop changes you have made will be preserved. To use the recovery partition, you will need a keyboard attached to your SteamOS machine. Turn the machine off and back on. Press the ESC key repeatedly as the system starts and you will get the SteamOS boot menu. Select "Restore System Partition" from the menu. The system will start and prompt you for confirmation. After restoring your system disk, your system will boot back into SteamOS

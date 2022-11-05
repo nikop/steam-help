@@ -1,6 +1,6 @@
 Dota 2 Workshop - Item Troubleshooting
 --------------------------------------
-Updated 2021-10-28 01.50.11
+Updated 2021-10-28 01:50:11
 Version 4
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img]

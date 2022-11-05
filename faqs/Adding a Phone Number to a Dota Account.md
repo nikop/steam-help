@@ -1,8 +1,9 @@
 # Adding a Phone Number to a Dota Account
-Updated 2021-11-03 22.12.11  
+Updated 2021-11-03 22:12:11  
 Version 6  
 
 Players must associate a unique phone number to their accounts in order to queue for Ranked matches. If a phone number is removed from an account after association, a new number can be added, but there will be a three-month waiting period before that same number can be associated again.  
+
 * [How do I associate a number to my account?](#howto)
 * [Does my phone number qualify?](#qualnumber)
 * [Can I associate the same phone number to multiple Dota accounts?](#samenumber)
@@ -12,6 +13,7 @@ Players must associate a unique phone number to their accounts in order to queue
 [exclude_realm=china]
 * [Do I need the Steam Guard Mobile Authenticator to register my phone number?](#mobileauth)[/exclude_realm]
 * [I can't associate my phone because the Steam overlay is not working.](#overlay)
+
   
   
   

@@ -1,5 +1,5 @@
 # Your credit card information has been declined by your credit card company
-Updated 2021-08-28 00.49.47  
+Updated 2021-08-28 00:49:47  
 Version 6  
 
 When attempting to complete a purchase through Steam, I receive the following specific error message:  
@@ -20,12 +20,14 @@ Due to the nature of this error, the funds for the transaction may be set aside 
 ### Why has my credit card information been declined?
 There are several reasons that a card my be declined.  
   
+
 * Your bank may limit the number of transactions or total amount that can be spent online in a certain period of time.
 * You may have entered the incorrect CVV2 code
 * You may have entered your credit card information incorrectly
 * Your bank account may be flagged by your bank due to suspicious purchasing activity
 * Your stored credit card may have expired
 * Your bank may have rendered your card invalid due to fraudulent looking purchases elsewhere
+
   
   
 Double check the information that you are entering with this credit card and contact your bank if the issue persists.  

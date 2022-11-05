@@ -1,15 +1,18 @@
 # Raspberry Pi Steam Link App
-Updated 2021-08-12 18.02.10  
+Updated 2021-08-12 18:02:10  
 Version 8  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  # Steam Link App for Raspberry Pi
 The Steam Link app extends Steam Link functionality to the Raspberry Pi 3B and 3B+, running Raspbian Stretch. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your Raspberry Pi.  
   
 #### Required/Recommended Equipment
+
 * A computer running Steam, Windows 7 or newer, Mac OS X 10.10 (Yosemite) or newer, SteamOS, or Linux Ubuntu 12.04 or newer.
 * A wired network (5 GHz wireless may work, but is not recommended on the Raspberry Pi)
 * A Raspberry Pi 3B or 3B+ running Raspbian Stretch
+
  #### Supported Input/Controllers
+
 * [The Steam Controller](https://store.steampowered.com/app/353370/Steam_Controller/) (wired or using the included wireless dongle)
 * The official Microsoft Xbox One Wired Controller
 * The official Microsoft Xbox One S Controller (wired)
@@ -20,10 +23,12 @@ The Steam Link app extends Steam Link functionality to the Raspberry Pi 3B and 3
 * Razer Raiju, Sabertooth, Serval, and Wildcat controllers
 * SteelSeries Stratus Duo
 * Keyboard and mouse
+
   
 *Please note: other input devices may work even if they aren’t officially supported.*  
   
 #### Getting Started
+
 * Turn on your home PC, launch Steam, and log in.
 * Ensure your Pi is connected to the same network as your host PC.
 * Run the following in a terminal window to install:  
@@ -34,6 +39,7 @@ sudo apt install steamlink
   
 `
 * You can launch Steam Link from the Games menu, or run `steamlink` from a terminal window.
+
   
   
 If you have questions about the app or need help using it, just click the appropriate tab.  

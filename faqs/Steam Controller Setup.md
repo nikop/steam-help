@@ -1,5 +1,5 @@
 # Steam Controller Setup
-Updated 2021-08-12 18.56.56  
+Updated 2021-08-12 18:56:56  
 Version 4  
 
 ![https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png](https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png)  # Steam Controller Setup
@@ -24,6 +24,7 @@ After opting in, click on your ***Operating System*** for tailored instructions 
 * This menu will only display when a controller is connected
 * Edit the input manually, or select Browse to view what is available from the Community
 * Ensure only one type of input is applied - Xinput (gamepad), or keyboard/mouse since hybrid input is rarely accepted by a game
+
  [/expand][expand type=title title="Mac"]
 * Please remove the batteries and plug your Steam Controller into your host computer using the micro USB cable.
 * Open Steam in Big Picture mode to receive firmware updates for your Steam Controller (this should happen automatically).
@@ -40,6 +41,7 @@ After opting in, click on your ***Operating System*** for tailored instructions 
 * This menu will only display when a controller is connected
 * Edit the input manually, or select Browse to view what is available from the Community
 * Ensure only one type of input is applied - Xinput (gamepad), or keyboard/mouse since hybrid input is rarely accepted by a game
+
  [/expand][expand type=title title="Linux"]
 * Please remove the batteries and plug your Steam Controller into your host computer using the micro USB cable.
 * Open Steam in Big Picture mode to receive firmware updates for your Steam Controller (this should happen automatically).
@@ -56,4 +58,5 @@ After opting in, click on your ***Operating System*** for tailored instructions 
 * This menu will only display when a controller is connected
 * Edit the input manually, or select Browse to view what is available from the Community
 * Ensure only one type of input is applied - Xinput (gamepad), or keyboard/mouse since hybrid input is rarely accepted by a game
+
  [/expand]

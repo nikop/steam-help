@@ -1,5 +1,5 @@
 # Steam Item Restoration Policy
-Updated 2022-07-06 20.35.43  
+Updated 2022-07-06 20:35:43  
 Version 4  
 
 Steam Support does not restore items that have left accounts for any reason, including trades, market transactions, deletions, or gifting.  
@@ -14,6 +14,7 @@ You can read a more [ detailed explanation of account security related to tradin
   
 For more information on Steam Trades and the Community Market, please use the following resources:  
   
+
 * [Community Market FAQ](https://help.steampowered.com/en/faqs/view/61F0-72B7-9A18-C70B)
 * [Recommended Trading Practices](https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0)
 * [Scam FAQ](https://help.steampowered.com/en/faqs/view/70E6-991B-233B-A37B)

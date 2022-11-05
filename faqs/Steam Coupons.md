@@ -1,5 +1,5 @@
 # Steam Coupons
-Updated 2021-08-05 19.49.16  
+Updated 2021-08-05 19:49:16  
 Version 5  
 
 * [When can I use my coupons?](#use)
@@ -11,6 +11,7 @@ Version 5
 * [How do I know when my coupons will expire?](#expire)
 * [Can I trade Steam Coupons?](#trade)
 * [Can I give my coupon to another Steam user?](#give)
+
   
   
   
@@ -18,9 +19,11 @@ Version 5
 ### When can I use my coupons?
 Steam coupons are valid through the specified dates that are on each coupon. To access your coupon to see the dates please follow these steps:  
   
+
 * Log in to Steam
 * Hover your Steam profile/persona name and select "Inventory" from the drop-down menu
 * Click the "Steam" tab on the Inventory page to view your coupons
+
   
   
   

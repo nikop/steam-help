@@ -1,6 +1,6 @@
 Steam Client Troubleshooting
 ----------------------------
-Updated 2022-03-16 23.36.31
+Updated 2022-03-16 23:36:31
 Version 7
 
 What should I do if Steam is crashing, not opening correctly or closing immediately after launching?

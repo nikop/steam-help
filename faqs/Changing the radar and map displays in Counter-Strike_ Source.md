@@ -1,5 +1,5 @@
 # Changing the radar and map displays in Counter-Strike: Source
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 How can I change the radar display in Counter-Strike: Source?  
@@ -11,6 +11,7 @@ The options below will require you to use the Developer's Console in the game - 
 If you would like to disable the radar, please enter the following command into the developer's console: *cl_radar_alpha 0*  
   
 #### Radar display settings
+
 * *cl_radar_locked #* (where *#* is *0* or *1*) - locks the angle of the radar screen (off or on)
 * *cl_radaralpha #* (where *#* is *0* to *255*) - sets transparency of radar display (transparent to opaque)
 * *drawradar* - shows the location text under your radar screen

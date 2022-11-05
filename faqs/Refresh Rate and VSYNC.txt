@@ -1,6 +1,6 @@
 Refresh Rate and VSYNC
 ----------------------
-Updated 2021-10-27 21.50.34
+Updated 2021-10-27 21:50:34
 Version 6
 
 What are [b]refresh rate[/b] and [b]VSYNC[/b] and how do they affect gameplay?

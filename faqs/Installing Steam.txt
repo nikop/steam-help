@@ -1,6 +1,6 @@
 Installing Steam
 ----------------
-Updated 2021-08-09 16.23.42
+Updated 2021-08-09 16:23:42
 Version 7
 
 How do I install Steam?

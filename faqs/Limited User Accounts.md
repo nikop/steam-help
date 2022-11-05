@@ -1,5 +1,5 @@
 # Limited User Accounts
-Updated 2022-07-06 23.48.33  
+Updated 2022-07-06 23:48:33  
 Version 5  
 
 Steam prevents some accounts from accessing certain community and social features that are commonly used for spamming, phishing, and other abuse.  
@@ -13,12 +13,15 @@ Malicious users often operate using dummy accounts that have not purchased any g
 You will need to spend at least **$5.00 USD** within the Steam store. [Click here](https://help.steampowered.com) to view your current limited user spend.  
   
 Some examples of purchases that grant access to these features are:  
+
 * Adding the equivalent of $5 USD or more to your [Steam Wallet](https://help.steampowered.com/en/faqs/view/78E3-7431-1E88-AD59)
 * Purchasing game(s) that are equal to $5 USD or more from the [Steam store](http://store.steampowered.com/)
 * Adding a [Steam Wallet card](https://store.steampowered.com/account/redeemwalletcode) that is equal to $5 USD or more to your Steam account
 * Purchasing a[ Steam gift](https://help.steampowered.com/en/faqs/view/2C02-3563-B72F-F117) that is equal to $5 USD or more from the Steam store (Receiving a Steam gift or digital gift card from a friend **doesn't** count)
+
   
 The following actions **will not** remove limited user restrictions:  
+
 * Activating a retail game on Steam
 * Playing free demos
 * Adding a non-Steam game as a shortcut
@@ -26,12 +29,14 @@ The following actions **will not** remove limited user restrictions:
 * Adding/playing promotional trials like Free Weekends
 * Free to Play games (Examples: Alien Swarm, free versions of Portal and Team Fortress 2)
 * Activating promotional CD Keys from hardware or graphic card manufacturers
+
   
 Each Steam purchase total will be tracked in USD. If your Steam store's currency isn't in USD, it will be tracked and converted to USD automatically using daily exchange rates.  
   
 #### What features are unavailable?
 Limited user accounts are prevented from accessing several features on Steam, including but not limited to:   
   
+
 * Adding friends (limited accounts can still create quick invite codes)
 * Voting on Steam Reviews and Workshop items
 * Participating in the Steam Market
@@ -50,6 +55,7 @@ Limited user accounts are prevented from accessing several features on Steam, in
 * Counting towards Steam group membership
 * Following/adding curators
 * Posting hyperlinks in the Steam Community
+
     
 #### Frequently asked questions
   

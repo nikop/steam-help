@@ -1,5 +1,5 @@
 # Steam and macOS 10.15 Catalina
-Updated 2021-07-13 01.07.35  
+Updated 2021-07-13 01:07:35  
 Version 6  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
@@ -32,6 +32,7 @@ Yes. You will still have access to your 32-bit Mac games in your Steam Library. 
 There are several options that will allow you to keep playing your 32-bit Mac apps. The good news is we have Steam Play, which means that when you purchased your game on Steam you get a copy of this game on each OS that game supports. You will still be able to play these games on macOS 10.14 Mojave and earlier, Windows and in many cases Linux as well.  
   
 Options to keep 32-bit Mac games playable on a Mac computer:  
+
 * Consider not upgrading to macOS 10.15 or above. By staying on macOS 10.14 Mojave or older you will ensure that your 32-bit apps are still playable on your Mac computer.
 * After upgrading to macOS 10.15 Catalina, consider installing macOS 10.14 Mojave on a separate APFS volume on your computer along with Steam. This will allow you to flip over to macOS 10.14 on restart of your computer where you can continue to play all of your 32-bit Mac games. More information [here](https://support.apple.com/en-us/HT208891).
 * Use Boot Camp on Mac to launch your games in Windows on your Mac computer. More information about Boot Camp can be found [here](https://support.apple.com/boot-camp).

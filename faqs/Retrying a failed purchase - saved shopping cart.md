@@ -1,5 +1,5 @@
 # Retrying a failed purchase - saved shopping cart
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 * [My purchase failed, can I try again? ](#summary)
@@ -7,6 +7,7 @@ Version 3
 * [How do I try my purchase again? ](#howtotryagain)
 * [Why was my cart not saved? ](#whynotsaved)
 * [I need more time, can Steam Support extend the 3 days (72 hours) period? ](#extend)
+
   
   
   

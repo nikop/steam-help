@@ -1,6 +1,6 @@
 SteamVR Troubleshooting (Index)
 -------------------------------
-Updated 2021-08-12 18.09.18
+Updated 2021-08-12 18:09:18
 Version 4
 
 [img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	        	[h1]General troubleshooting[/h1]The following steps solve the majority of issues. Before following any of the additional instructions below, please be sure to:

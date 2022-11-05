@@ -1,6 +1,6 @@
 Samsung TV Steam Link App
 -------------------------
-Updated 2022-09-22 18.20.07
+Updated 2022-09-22 18:20:07
 Version 6
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]     [h1]Steam Link App for Samsung TVs[/h1]Samsung Smart TVs now have built in Steam Link functionality. Just head to the Samsung Smart Hub to download the free app. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.

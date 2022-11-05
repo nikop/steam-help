@@ -1,5 +1,5 @@
 # Installing custom maps on a Half-Life or Source Dedicated Server
-Updated 2021-10-06 23.46.35  
+Updated 2021-10-06 23:46:35  
 Version 6  
 
 For Dedicated Servers, you must install any custom maps in your server directory to run them as part of your map cycle.  
@@ -13,12 +13,14 @@ There are several folders for the custom content that you will need to copy over
 `C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike`  
   
 Copy over the following folders:  
+
 * maps
 * sound
 * sprites
 * gfx
 * overviews
 * models
+
   
   
 If there are any custom WAD files (*.wad) in the cstrike folder, copy those over to the server cstrike folder as well.  

@@ -1,5 +1,5 @@
 # Hidden or Removed Links
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 Due to the prevalence of spam and phishing throughout the Steam community, links (URLs) are sometimes hidden with the text:  

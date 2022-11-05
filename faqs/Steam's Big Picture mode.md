@@ -1,5 +1,5 @@
 # Steam's Big Picture mode
-Updated 2021-12-17 18.43.24  
+Updated 2021-12-17 18:43:24  
 Version 6  
 
 * [What is Big Picture mode?](#what)
@@ -8,6 +8,7 @@ Version 6
 * [How to Launch Big Picture mode](#how)
 * [Big Picture Menu](#menu)
 * [Controller Support Levels](#controller)
+
   
   
   
@@ -25,9 +26,11 @@ On the Mac, a third-party driver must be used to enable the Xbox 360 controller.
   
 ### **How to Connect Your Computer to Your TV**
 The method of connecting your computer to your TV depends upon your computer's hardware. Please follow the link below for the appropriate video card you are using:  
+
 * [AMD Cards](https://www.amd.com/en/support/contact) (You may also wish to check their [support forums](https://community.amd.com/t5/support-forums/ct-p/supprtforums) for more information.)
 * [Intel Cards](https://www.intel.com/content/www/us/en/support.html)
 * [NVIDIA Cards](http://nvidia.custhelp.com/app/answers/detail/a_id/2593/session/L3RpbWUvMTM1NDczMTM3My9zaWQvX2Vsc2dfY2w%3D)
+
   
   
   
@@ -53,6 +56,7 @@ To exit this mode, click or press your controller’s "A" button while focused o
   
 ### **Controller Support levels**
 Any Steam game can be played while in Big Picture mode, though not all Steam games support the use of a controller. Currently, Big Picture supports the following controllers:  
+
 *  The Steam Controller
 *  The official Microsoft Xbox One Wired Controller
 *  The official Microsoft Xbox One S Controller (wired or wirelessly using Bluetooth)
@@ -63,6 +67,7 @@ Any Steam game can be played while in Big Picture mode, though not all Steam gam
 *  The official Nintendo Switch Pro Controller (wired)
 *  Logitech Wireless Gamepad F310, F510, and F710
 *  SteelSeries Stratus Duo
+
   
 To determine whether a game is controller-enabled, please refer to the following tags:  
   

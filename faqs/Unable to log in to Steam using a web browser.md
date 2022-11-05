@@ -1,5 +1,5 @@
 # Unable to log in to Steam using a web browser
-Updated 2021-08-05 18.59.16  
+Updated 2021-08-05 18:59:16  
 Version 5  
 
 # Disable Extensions that may interfere with the login process

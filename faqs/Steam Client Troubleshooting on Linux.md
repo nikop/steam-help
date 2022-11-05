@@ -1,5 +1,5 @@
 # Steam Client Troubleshooting on Linux
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 4  
 
 What should I do if Steam is crashing, not opening correctly or closing immediately after launching?  

@@ -1,5 +1,5 @@
 # Windows Mixed Reality Setup
-Updated 2021-07-15 21.50.44  
+Updated 2021-07-15 21:50:44  
 Version 4  
 
 ![https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png](https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png)  
@@ -19,8 +19,10 @@ If your PC does not meet these specs you won't be blocked from running Windows M
 You can also use the [SteamVR performance test](http://store.steampowered.com/app/323910/SteamVR_Performance_Test/) to see if your system is SteamVR ready.  
   
 #### [Download the installer](https://steamcdn-a.akamaihd.net/client/installer/SteamWindowsMRInstaller.exe) for SteamVR and Windows Mixed Reality
+
 * Run the installer and create an account.
 * Launch [SteamVR](steam://run/250820) when ready to begin the tutorial.
+
   #### Button Mapping
 For some quick button mapping information, see our diagram below. Otherwise head over [Windows Mixed Reality controllers page](https://support.microsoft.com/en-us/help/4040517/windows-10-controllers-windows-mixed-reality) for more information.  
   

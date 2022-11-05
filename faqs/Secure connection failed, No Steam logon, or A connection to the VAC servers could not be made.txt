@@ -1,6 +1,6 @@
 Secure connection failed, No Steam logon, or A connection to the VAC servers could not be made
 ----------------------------------------------------------------------------------------------
-Updated 2021-07-21 23.44.52
+Updated 2021-07-21 23:44:52
 Version 4
 
 I am trying to connect to a secure game server, but I received the error message 'SECURE CONNECTION FAILED'.

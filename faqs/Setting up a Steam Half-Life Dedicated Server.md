@@ -1,8 +1,9 @@
 # Setting up a Steam Half-Life Dedicated Server
-Updated 2021-12-16 21.50.15  
+Updated 2021-12-16 21:50:15  
 Version 14  
 
 How do I setup a Half-Life Dedicated Server?  
+
 * [Setting up a Steam Half-Life Dedicated Server Account](#account)
 * [Starting the Steam Half-Life Dedicated Server](#start)
 * [Steam Half-Life Dedicated Server Main Options](#options)
@@ -11,6 +12,7 @@ How do I setup a Half-Life Dedicated Server?
 * [Kicking or Banning Players from the Server](#kick)
 * [Managing Steam Half-Life Dedicated Server Bans](#manageban)
 * [Steam Half-life Dedicated Server Console](#console)
+
   
 #### Setting up a Steam Half-Life Dedicated Server Account
 To run the Steam Half-Life Dedicated Server you must first install Steam. To install Steam click the link below: [Download Steam](http://steampowered.com/v/index.php?area=getsteamnow)  
@@ -24,7 +26,9 @@ You do not need to register any games to your server account in order to host ga
 ![{STEAM_CLAN_IMAGE}/1976/3ee25cf941ca1d269836531636e97734dceb657f.png]({STEAM_CLAN_IMAGE}/1976/3ee25cf941ca1d269836531636e97734dceb657f.png)  
   
 [h5]Menu Options[/h5]  
+
 * Game:  
+
 * Counter-Strike
 * Team Fortress Classic
 * Day of Defeat
@@ -39,19 +43,23 @@ You do not need to register any games to your server account in order to host ga
 * UDP Port: Specifies the port you would like your server to use. **Default: 27015**
 * RCON Password: Set a password for remote access to the server.
 * Secure (Valve Anti-Cheat):  
+
 * **Checked** : VAC enabled on the server
 * **Unchecked** : VAC disabled on the server
+
 After adjusting the server to your liking, press the **Start Server** button.  
 #### Steam Half-Life Dedicated Server Main Options
 ![{STEAM_CLAN_IMAGE}/1976/813420f5ef306b2420abcfed4636af0dc5a4a5f2.png]({STEAM_CLAN_IMAGE}/1976/813420f5ef306b2420abcfed4636af0dc5a4a5f2.png)  
   
 You can change all of the following values without restarting the server (to edit a value, double-click on its name):  
+
 * Server Name
 * Map
 * Network
 * RCON Password
 * Player Password: Specifies a password players must enter in order to play on your server. This is a good option to implement if you wish to play only with your friends.
 * Map Cycle: Specifies the maps you wish to play and the order in which they appear. The maps will cycle according to either your *Map time limit* or *Max win* settings available from the **Configure** tab.
+
   
 #### Steam Half-Life Dedicated Server Configuration
 ![{STEAM_CLAN_IMAGE}/1976/10c32c7a51118f30cbcb8b003c2cfc08f816bfb8.png]({STEAM_CLAN_IMAGE}/1976/10c32c7a51118f30cbcb8b003c2cfc08f816bfb8.png)  
@@ -59,6 +67,7 @@ You can change all of the following values without restarting the server (to edi
 From the **Configure** tab, you may specify how your server runs and implement various server rules.  
   
 [h5]Menu Settings[/h5]  
+
 * Time limit: Specifies a time limit on each map. **Default** no limit
 * Win limit(rounds): Specifies a limit on wins one team can have before a map change. **Default** no limit
 * Round limit(rounds): Specifies a limit for the number of rounds you play on each map. **Default** no limit
@@ -69,6 +78,7 @@ From the **Configure** tab, you may specify how your server runs and implement v
 * Footsteps: Specifies whether players can hear footsteps of other players. **Default** enabled
 * Death camera type Specifies players' Camera view after dying.  
 Values:  
+
 * Spectate Anyone: A player can watch any other player in the game.
 * Spectate team only A player can watch only his own team players in the game.
 * Only First Person A player can only move the camera to look in different locations while bound to where the player died. The player cannot follow other players, or move about the map freely.
@@ -80,6 +90,7 @@ Values:
 * Kick players who team kill at this early in the round (seconds) Specifies the amount of time that the server will kick a player for killing a team member at the beginning of a round. **Default** 5
 * Kick hostage killers (kills allowed, 0 is off) Specifies the number of hostages a player can kill before being kicked from the server. **Default** 13
 * Allow Flashlight Flashlight can be used by players. **Default** disabled
+
   
 #### Viewing Steam Half-Life Dedicated Server Statistics
 ![{STEAM_CLAN_IMAGE}/1976/08f036593680b2487ff07a190d50e6d131c1d475.png]({STEAM_CLAN_IMAGE}/1976/08f036593680b2487ff07a190d50e6d131c1d475.png)  
@@ -89,12 +100,14 @@ The Steam Half-Life Dedicated Server offers a variety of viewable statistics. Yo
 You can change the **Vertical Units** to display the range of any one of these stats.  
   
 [h5]Display Options[/h5]**Checkboxes**   
+
 * Players: Display player number statistics
 * Ping: Display server ping
 * In: Display ping in
 * Out: Display ping out
 * CPU: Display CPU usage
 * FPS: Display frames per second
+
   #### Kicking or Banning Players from the Server
 ![{STEAM_CLAN_IMAGE}/1976/9f520fb0ea719cdef77604017cc76bb5fe795b44.png]({STEAM_CLAN_IMAGE}/1976/9f520fb0ea719cdef77604017cc76bb5fe795b44.png)  
   

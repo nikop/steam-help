@@ -1,5 +1,5 @@
 # Crosshair disappears when using a gamepad in Portal
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 2  
 
 When I'm using a gamepad in Portal, my crosshair disappears. What's wrong?  

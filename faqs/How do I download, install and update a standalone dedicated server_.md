@@ -1,5 +1,5 @@
 # How do I download, install and update a standalone dedicated server?
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 ### What happened to the HLDSUpdateTool? Why can't I download or update servers from it?
@@ -14,8 +14,10 @@ For a list of dedicated servers and games that SteamCMD supports on Steam, pleas
 You can also post questions and search for help in [Steam Discussions](http://steamcommunity.com/discussions/#tools).  
   
 #### Third Party Dedicated Server Resources
+
 * [AlliedMods.Net](https://forums.alliedmods.net/forumdisplay.php?f=129)
 * [SRCDS.com](http://www.srcds.com/)
+
   
   
   ### Note:

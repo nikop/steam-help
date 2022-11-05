@@ -1,5 +1,5 @@
 # CS:GO - Prime Status and Free to Play
-Updated 2021-08-11 00.14.06  
+Updated 2021-08-11 00:14:06  
 Version 4  
 
 * [What is included with the free version of CS:GO?](#freecsgo)
@@ -10,6 +10,7 @@ Version 4
 * [Will I receive XP if I do not have Prime Status?](#freexp)
 * [Will I receive a Competitive Skill Group if I do not have Prime Status?](#freesg)
 * [Will I receive weekly weapon case and graffiti drops if I do not have Prime Status?](#freedrops)
+
   
   ## What is included with the free version of CS:GO?
 The free download of CS:GO includes the full game. Free CS:GO players receive access to all game modes and matchmaking types with the exception of Ranked Matchmaking, which requires Prime Status to participate in.    

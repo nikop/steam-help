@@ -1,5 +1,5 @@
 # Half-Life: Alyx - Streaming/Spectating Guide
-Updated 2021-08-17 18.01.44  
+Updated 2021-08-17 18:01:44  
 Version 4  
 
 ![https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png](https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png)    

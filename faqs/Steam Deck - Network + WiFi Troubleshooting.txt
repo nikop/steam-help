@@ -1,6 +1,6 @@
 Steam Deck - Network + WiFi Troubleshooting
 -------------------------------------------
-Updated 2022-06-16 22.45.15
+Updated 2022-06-16 22:45:15
 Version 1
 
 

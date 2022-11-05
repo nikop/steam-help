@@ -1,10 +1,11 @@
 # SteamID, Steam Account Names, Merging Accounts and Deleting Accounts
-Updated 2021-08-10 20.53.34  
+Updated 2021-08-10 20:53:34  
 Version 4  
 
 ## How can I find my SteamID?
 The term **SteamID** refers to a unique identifier for a specific Steam account. It can be formatted in a few different ways, but the most commonly used is the account's 64 bit ID which is a 17 digit number. The instructions below will help you find your SteamID.  
   
+
 * [exclude_realm=china]
 * Open your Steam Community Profile
 * [/exclude_realm][exclude_realm=global]
@@ -13,6 +14,7 @@ The term **SteamID** refers to a unique identifier for a specific Steam account.
 * Click **Edit Profile**
 * If you've never set a custom Steam Community URL for your account, your 64 bit ID will will be shown in the URL under the CUSTOM URL box in the format 76561198#########
 * If you have set a custom URL for your account, you can delete the text in the CUSTOM URL box to see your account's 64 bit ID in the URL listed below.
+
   
   
   

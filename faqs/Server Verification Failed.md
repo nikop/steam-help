@@ -1,5 +1,5 @@
 # Server Verification Failed
-Updated 2021-08-04 18.25.01  
+Updated 2021-08-04 18:25:01  
 Version 5  
 
 I get this error: 'Error: Server Verification Failed.' when I connect to some servers  
@@ -7,6 +7,7 @@ I get this error: 'Error: Server Verification Failed.' when I connect to some se
 This error message indicates that the game server which you are attempting to connect to is unable to contact the Steam Authentication Servers.  
   
 Please observe the following process to determine whether the error is a result of a Steam outage, issues with the game server connecting to the Steam Authentication Servers, or an issue with your internet connection.  
+
 * Try joining several different game servers - if you are able to connect to a different game server, there is an issue with the game server which reported the Server Verification Failed error
 * If you are not able to connect to any game servers, check the [Steam Status page](http://www.steampowered.com/status/status.html) - if the **Concurrent Steam Users** graph shows a very sharp decline in users, there may be a temporary Steam outage
 * If there does not appear to be an outage, check your connection to the Steam Authentication Servers through the Steam client: 

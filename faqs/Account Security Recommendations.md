@@ -1,5 +1,5 @@
 # Account Security Recommendations
-Updated 2021-08-28 00.48.12  
+Updated 2021-08-28 00:48:12  
 Version 5  
 
 * [Enable Steam Guard two-factor authentication](#steamguard)
@@ -7,13 +7,16 @@ Version 5
 * [Steam Friends](#friends)
 * [Things to watch out for](#beware)
 * [General security recommendations](#general)
+
   
   
         ## Watch out for Account Hijacking:
+
 * NEVER give out your password to anyone.
 * NEVER click unknown links from untrusted sources.
 * NEVER follow instructions to speak with someone claiming to represent Steam Support through Discord or any other chat system, even if they come from a friend's account.
 * There's no such thing as a false report that you need to take steps to solve. This is a scam.
+
         
   
 ![https://support.steampowered.com/images/faq/account_security/shield.png](https://support.steampowered.com/images/faq/account_security/shield.png)  # Enable Steam Guard two-factor authentication
@@ -68,10 +71,12 @@ It is a good idea to maintain the security of your system in the following ways:
 ## Select a Strong Password
 A strong password is a necessary first step toward ensuring the security of your account. Your password should meet all of the minimum requirements listed below:  
   
+
 * Use at least 6 characters
 * Use a combination of uppercase and lowercase letters.
 * Include at least one number within the password
 * Do not use a name, a word that could be found in the dictionary, or a series of letters as it appears on the keyboard ("qwerty" and "12345" are not secure passwords)
+
   ## Use unique passwords
 Make sure you are using a different password for your Steam account and your contact e-mail address.  
   
