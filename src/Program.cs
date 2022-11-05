@@ -178,12 +178,8 @@ while (queue.TryDequeue(out var slug))
                 Queue(match.Value);
             }
 
-            var versionText = JsonSerializer.Serialize(item, new JsonSerializerOptions
-            {
-                WriteIndented = true,
-            });
-
-            await File.WriteAllTextAsync(jsonFileName, versionText).ConfigureAwait(false);
+            if (File.Exists(jsonFileName))
+                File.Delete(jsonFileName);
 
             var trimmedContent = item.Content.Trim();
 
