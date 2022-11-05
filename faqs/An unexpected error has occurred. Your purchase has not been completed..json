@@ -1,8 +1,0 @@
-{
-  "faq_id": 2059425740868674023,
-  "language": 0,
-  "version": 3,
-  "content": "What to do if you receive this error?\n\nTest the issue once or twice more, ensuring that you are entering the correct billing information. Avoid spamming failed purchase attempts more than a few times.\n\nIf you continue to encounter this error, please use [url=https://help.steampowered.com/]the Help site to select your failed purchase[/url] and contact Steam Support for further support.\n\n[section style=important]If the specific error message that you receive is one of the following, click the link to the correct support page for that issue.\n\n[url=https://help.steampowered.com/en/faqs/view/002F-D14F-9E51-937B]\u0022Your purchase has not been completed. Your credit card information has been declined by your credit card company due to an incorrect address being entered.\u0022[/url]\n\n[url=https://help.steampowered.com/en/faqs/view/4CEF-A17B-388F-2A24]\u0022Your credit card information has been declined by your credit card company.\u0022[/url][/section]\n[section style=warning]  [h3]VPN/Proxies[/h3]Disable or completely remove any IP proxy or VPN software that you may be using, restart your computer, and test your purchase again. All transactions that are initiated through anonymous proxies will be declined by Steam.[/section]\n\n",
-  "title": "An unexpected error has occurred. Your purchase has not been completed.",
-  "timestamp": "2021-07-10T19:49:55+00:00"
-}

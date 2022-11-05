@@ -1,8 +1,0 @@
-{
-  "faq_id": 4449523428990370888,
-  "language": 0,
-  "version": 2,
-  "content": "Source games rely on the operating system to identify the audio device for them. If your surround setup is not properly configured in Windows or is configured through a proprietary control panel, it may not be properly recognized by Source games.\n\n[list]      [*]Ensure that your audio device is setup appropriately in your Windows Control Panel.[*]Launch the game and adjust your settings in the [b]Options \u003E Audio[/b] menu.[/list]\nIf the issue persists, close any proprietary audio control applications and repeat the process.\n\nYou can also use one of the following launch options to test the issue:\n\n[code]\u002Bsnd_legacy_surround 1[/code]\n[code]\u002Bsnd_digital_surround 1[/code]\n\n",
-  "title": "Surround Sound does not Function in Source Games",
-  "timestamp": "2021-07-10T19:49:55+00:00"
-}

@@ -1,8 +1,0 @@
-{
-  "faq_id": 6522916455231425610,
-  "language": 0,
-  "version": 5,
-  "content": "CS:GO Beta depots allow the game\u0027s developers (and users) to test changes not yet available in the Public version of the game.\n\nWhen opting into a beta depot players will be required to download updated files. The download size will vary based on the number of changes. Please note official Valve-matchmaking is not available in beta depots.\n\nTo opt into beta depots:\n[olist]  \t[*]Open the Steam client and navigate to your [b]Library[/b].[/*]  [*]From the CS:GO page, open the [b]Properties[/b] window from the [b]Manage menu[/b].  [*]Select the [b]Betas[/b] tab.  [*]Select the beta you would like to opt into.  [*]Launch CS:GO to play the game with its Beta changes.[/*]  [/olist]To opt out of the beta and resume playing the current version of the game, select \u0027None\u0027 in the drop down on the betas tab. This will require you to re-download the current public files.",
-  "title": "CS:GO - Opting into Beta depots",
-  "timestamp": "2021-08-12T20:26:42+00:00"
-}
