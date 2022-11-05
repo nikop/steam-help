@@ -7,17 +7,20 @@ using SteamHelpSync;
 
 using System;
 using System.Collections.Concurrent;
+using System.Globalization;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
 
+
 // Config
 var gitPath = ".";
 var listFileName = Path.Combine(gitPath, "list.json");
 var faqsPath = Path.Combine(gitPath, "faqs");
 var dir = new DirectoryInfo(faqsPath);
+CultureInfo.CurrentCulture = new CultureInfo("en-US");
 
 if (!dir.Exists)
 {
@@ -250,7 +253,7 @@ await faqsListing.SaveAsync().ConfigureAwait(false);
 var git = ProcessHelper.GetExecutablePath(RuntimeInformation.IsOSPlatform(OSPlatform.Windows) ? "git.exe" : "git");
 
 Console.WriteLine("Commiting git");
-await ProcessHelper.RunAsync(git, "add .", workingDirectory: gitPath);
-await ProcessHelper.RunAsync(git, $"commit -m {ProcessHelper.Quote($"Updated")}", workingDirectory: gitPath);
-await ProcessHelper.RunAsync(git, "push", workingDirectory: gitPath);
+await ProcessHelper.RunAsync(git, "add .", workingDirectory: gitPath, errorDataHandler: (_, err) => Console.Error.WriteLine(err.Data), (_, l) => Console.WriteLine(l.Data));
+await ProcessHelper.RunAsync(git, $"commit -m {ProcessHelper.Quote($"Updated")}", workingDirectory: gitPath, errorDataHandler: (_, err) => Console.Error.WriteLine(err.Data), (_, l) => Console.WriteLine(l.Data));
+await ProcessHelper.RunAsync(git, "push", workingDirectory: gitPath, errorDataHandler: (_, err) => Console.Error.WriteLine(err.Data), (_, l) => Console.WriteLine(l.Data));
 Console.WriteLine("Commiting git done!");
