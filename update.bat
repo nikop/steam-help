@@ -1,1 +1,1 @@
-dotnet run --project src
+dotnet run --configuration Release --project src

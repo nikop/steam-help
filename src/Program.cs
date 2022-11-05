@@ -40,6 +40,9 @@ var searched = new HashSet<string>();
 Regex slugFormat = new("(?:[A-Z0-9]{4})-(?:[A-Z0-9]{4})-(?:[A-Z0-9]{4})-(?:[A-Z0-9]{4})", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 Regex removeMultipleLines = new("(\r\n){2,}", RegexOptions.IgnoreCase);
 
+var countTotal = 0;
+var countLoaded = 0;
+
 if (File.Exists("links.txt"))
 {
     var links = await File.ReadAllTextAsync("links.txt");
@@ -50,7 +53,6 @@ foreach (var item in faqsListing.UrlSlugs)
 {
     Queue(item);
 }
-
 
 static string ToFileNameSafe(string filename)
 {
@@ -68,6 +70,7 @@ void Queue(string slug)
     if (!searched.Add(slug))
         return;
 
+    countTotal++;
     queue?.Enqueue(slug);
 }
 
@@ -91,10 +94,11 @@ options.Converters.Add(new UnixEpochDateTimeConverter());
 while (queue.TryDequeue(out var slug))
 {
     faqsListing.UrlSlugs.Add(slug);
+    countLoaded++;
 
     try
     {
-        Console.WriteLine($"Updating {slug}");
+        Console.WriteLine($"[{countLoaded} / {countTotal}] Updating {slug}");
 
         var response = await httpClient.GetAsync($"https://help.steampowered.com/en/faqs/view/{slug}").ConfigureAwait(false);
 
