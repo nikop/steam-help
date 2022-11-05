@@ -1,6 +1,6 @@
 Bots in Valve games
 -------------------
-Updated 2021-12-02 23.07.43
+Updated 2021-12-02 23:07:43
 Version 8
 
 What are bots and how do I add and use them?

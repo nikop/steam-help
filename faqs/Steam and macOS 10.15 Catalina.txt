@@ -1,6 +1,6 @@
 Steam and macOS 10.15 Catalina
 ------------------------------
-Updated 2021-07-13 01.07.35
+Updated 2021-07-13 01:07:35
 Version 6
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]

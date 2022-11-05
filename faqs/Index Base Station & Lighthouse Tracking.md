@@ -1,13 +1,15 @@
 # Index Base Station & Lighthouse Tracking
-Updated 2021-07-26 22.06.18  
+Updated 2021-07-26 22:06:18  
 Version 4  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) # General troubleshooting
 Before reading further, be sure to:  
   
+
 * Check power connections for all Base Stations
 * Make sure your Base Stations are pointed at your play area and are visible to you.
 * Restart SteamVR
+
   
 ---
 # Trouble with tracking?
@@ -55,6 +57,7 @@ SteamVR will notify you if it detects a channel conflict in your Base Stations. 
 * Navigate to the SteamVR status window.
 * Select the menu, then *Devices* > *Base Station Settings* > *Configure Base Station Channels*
 * Wait for SteamVR to identify nearby base stations, then either select *Automatic Configuration* or manually change each channel by clicking on it.
+
   
   
 Base Stations packaged with VR Kits are configured to channels 1 and 2. Individually purchased Base Stations have their channels set between channels 3 and 16.   		If you're using a fourth Base Station or using VR in a place with more than one play area set up, you may need to update channel settings to avoid conflicts.  
@@ -67,8 +70,10 @@ Valve recommends turning this feature ON if you are not in a shared tracking spa
   
 You can turn this feature on/off at any time by navigating to SteamVR->Settings->Base Station->Power Management.  
   
+
 * When this feature is OFF, your Base Stations will remain powered and emitting whenever they are plugged in.
 * When this feature is ON, your Base Stations will go into standby when SteamVR is not in use and wake up when SteamVR starts.
+
   
   
 If you're having problems with your Power Management settings, please click [Contact Steam Support](https://help.steampowered.com/en/wizard/HelpWithValveIndex) to get help.  
@@ -78,9 +83,11 @@ If you are using VR in a shared tracking space with multiple instances of SteamV
 ---
 # Other questions
 #### Base Station compatibility?
+
 * 1.0 (HTC-branded) and 2.0 (Valve-branded) Base Stations will not work with each other in the same VR setup.
 * Index will work with both 1.0 and 2.0 Base Stations.
 * 2.0 Base Stations will not work with the original Vive headset or Wand controllers, but will work with the Vive Pro product family.
+
  #### How many Base Stations do I need?
 We recommend two Base Stations for most room-scale play areas. If you're covering an area larger than 5 x 5 meters (~16 x 16 feet), you can add additional Base Stations for additional tracking and increased accuracy.  
   

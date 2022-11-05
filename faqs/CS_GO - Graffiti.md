@@ -1,5 +1,5 @@
 # CS:GO - Graffiti
-Updated 2021-08-06 20.55.25  
+Updated 2021-08-06 20:55:25  
 Version 4  
 
 * [How do I get in-game graffiti?](#howgraffiti)
@@ -12,12 +12,15 @@ Version 4
 * [How do I see my available graffiti?](#graffiticheck)
 * [Can I sell and trade my graffiti?](#graffitimarket)
 * [Can I delete graffiti from my Inventory?](#graffitidelete)
+
   
   ## How do I get in-game graffiti?
 There are three ways players can get in-game graffiti:  
+
 *  Players have a chance to receive graffiti as a free weekly drop for ranking up.
 *  Graffiti Boxes featuring art created by Steam Community Artists can be purchased. A portion of the proceeds from sales of Community Graffiti Boxes is shared among the community artists.
 *  Individual graffiti patterns can be purchased from the Steam Community Market.
+
     
   ## How many different types of graffiti are there?
 There are two different types of graffiti patterns; monochrome and multi-colored. Monochrome (one color) patterns are received as rank up drops and multi-colored patterns are received when purchasing a graffiti box. Both types of graffiti can be traded and sold on the Steam Community Market.    

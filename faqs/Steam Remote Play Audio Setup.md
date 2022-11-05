@@ -1,5 +1,5 @@
 # Steam Remote Play Audio Setup
-Updated 2021-10-27 23.50.40  
+Updated 2021-10-27 23:50:40  
 Version 6  
 
 * [Steam Remote Play Audio Support](#supportedformats)
@@ -8,6 +8,7 @@ Version 6
 * [Is 5.1 audio supported when streaming to a Linux or macOS client?](#51audiolinux)
 * [Requirements for 5.1 audio on TV](#51tv)
 * [Need additional support?](#additionalsupport)
+
   
   
 ### Steam Remote Play Audio Support
@@ -17,8 +18,10 @@ Steam supports streaming stereo (2 channel) audio from all streaming host operat
 ### Speaker Configuration
 Steam will try to automatically detect how many speakers are connected to the streaming client's computer or TV. You can view how many speakers Steam detected and choose a different configuration by:  
   
+
 * **Steam Link**: Before connecting to your host machine, select Settings -> Streaming -> Audio -> Speaker Configuration
 * **Steam Client**: Select Steam menu -> Remote Play -> Advanced Client Options -> Speaker Configuration
+
   
 ### What 5.1 audio can Steam record?
 Steam currently only records 5.1 audio from processes launched through Steam on Windows. Other host system audio will be mixed with audio recorded from the game process as stereo audio.  

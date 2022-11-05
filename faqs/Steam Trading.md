@@ -1,5 +1,5 @@
 # Steam Trading
-Updated 2021-08-24 22.41.51  
+Updated 2021-08-24 22:41:51  
 Version 6  
 
 * #### Trading Basics
@@ -27,6 +27,7 @@ Version 6
 * [I can't trade! Why not?](#icanttrade)
 * #### Feedback
 * [I have ideas for other things in Steam that can be traded. How do I give that feedback?](#feedback)
+
   
   
 For more information on trading, refer to the [Steam Item Restoration Policy](https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24) and the [Recommended Trading Practices](https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0) article.  
@@ -35,6 +36,7 @@ For more information on trading, refer to the [Steam Item Restoration Policy](ht
 You can create and send a trade offer from two places: the Trade Offers page within your Inventory or from a friend’s profile.  
   
 To send an offer from your Trade Offers page:  
+
 * Open Steam (either the client or via the web)
 * Hover over your persona name at the top
 * Click on Inventory
@@ -44,9 +46,11 @@ To send an offer from your Trade Offers page:
 * Click and drag the items you wish to trade from both inventories into the trade boxes
 * Check the box to confirm the trade contents
 * Click on Make Offer.
+
   
   
 To send an offer from a friend's profile:  
+
 * Open Steam (either the client or via the web)
 * Hover over your persona name at the top
 * Click on Friends
@@ -56,6 +60,7 @@ To send an offer from a friend's profile:
 * Click and drag the items you wish to trade from both inventories into the trade boxes
 * Check the box to confirm the trade contents
 * Click on Make Offer.
+
   
   
 You'll then need to confirm the trade offer. If you're using a Mobile Authenticator through the Steam Mobile App on your smartphone to protect your account, you can confirm via the app. Otherwise you'll receive a confirmation request via email.  
@@ -109,11 +114,13 @@ If evidence exists that the Steam user is a scammer, Steam Support will ban the 
 In some cases, scammers will hijack an account and use it to commit scams, fraud or more hijackings. In these cases, we lock the account until the rightful owner contacts us about the hijacking.  
   
 ### What are the best ways to avoid getting scammed?
+
 * Ignore pressure and do not rush the trade. A common tactic by scammers is to force you to trade quickly so they can change items/gifts in the trade without you noticing.
 * Ignore the pressure to trust the other user. If you are trading with a user who insists that you trust them, they are probably attempting to scam you. Please note that +Rep comments can be generated easily by malicious groups.
 * Mouse over every item to ensure that the item/gift's properties are correct. Information about the item/gift will be stated here including the quality, name, description and any effects.
 * Pay attention to the trade log while making the trade. All changes, additions, removals and actions will be recorded in this box. You may also use it to communicate with the trader.
 * Ensure that you are trading with the correct user. Scammers may try to impersonate your friends and other trusted traders. It is your responsibility to know who you are trading with.
+
   
   
 ### What trades should I avoid?
@@ -121,14 +128,17 @@ Do not trade for anything that cannot be added into the trade offer itself. The 
 * Trading items/gifts for money outside of the Steam Community market. You cannot add Wallet credit, PayPal, gift cards or any form of money into the trade offer.
 * Trading items/gifts for CD Keys. You cannot add a CD Key into the trade offer. CD Keys that are offered can be for a different game, fake, used or region restricted.
 * Trading items/gifts for nothing in return in the first trade and expecting to get an item or gift in a later trade. There is no reason to not trade everything in one trade. You may add unlimited items/gifts to a single trade. A common example of this is using a middleman to facilitate a one sided trade.
+
   
   
 ### What do I do if I was scammed?
 If you are scammed, please use the Report feature built into Steam:  
+
 * Go to the profile of the offending user
 * Click the '...' drop-down located at the top right of the page
 * Choose "Report Player"
 * Select the violation, and follow the prompts to submit the report
+
   
   
 ### Why will Steam not return items that were scammed?

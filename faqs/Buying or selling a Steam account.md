@@ -1,5 +1,5 @@
 # Buying or selling a Steam account
-Updated 2021-08-05 19.56.13  
+Updated 2021-08-05 19:56:13  
 Version 4  
 
 ## Can I buy or sell my Steam account?
@@ -15,6 +15,7 @@ If you buy and use an account, you risk losing access to the account at any time
 * Rank, playtime, and stats
 * Purchases or activated games
 * Inventory items purchased or acquired through gameplay
+
   
   
 ## I've been using a purchased account and just learned I shouldn't. What should I do?

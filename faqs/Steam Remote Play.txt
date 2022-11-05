@@ -1,6 +1,6 @@
 Steam Remote Play
 -----------------
-Updated 2022-01-28 21.46.06
+Updated 2022-01-28 21:46:06
 Version 7
 
 Steam Remote Play allows games to be launched on one computer, while being played from other devices connected to Steam. With Remote Play Together, you can invite your Steam Friends to join your local co-op sessions remotely, without having to own or launch the game themselves.

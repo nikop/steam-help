@@ -1,10 +1,11 @@
 # CS:GO - Competitive cooldowns and bans
-Updated 2021-09-30 22.13.21  
+Updated 2021-09-30 22:13:21  
 Version 16  
 
 Counter-Strike: Global Offensive cooldowns and bans are non-negotiable and cannot be removed or reduced by Steam Support.  
   
 If an automated cooldown or ban is determined to have been issued incorrectly, it will automatically be rolled back by our servers. If you wish to discuss this system with the community, you may do so [here](http://steamcommunity.com/app/730/discussions/).  ## Competitive cooldowns:
+
 * [Why are Competitive cooldowns issued?](#whycool)
 * 
 * [Failing to stay connected to the server](#server)
@@ -17,11 +18,14 @@ If an automated cooldown or ban is determined to have been issued incorrectly, i
 * [Can my Competitive cooldown be removed?](#removecool)
 * [How long will my Competitive cooldown last?](#length)
 * [How do I determine my current cooldown level?](#level)
+
   ## Ban information:
+
 * [VAC bans](#vacbans)
 * [Game bans](#gameban)
 * [GSLT bans](#gslt)
 * [Bans through Steam Family Sharing](#familyban)
+
   
   ## Why are Competitive cooldowns issued?
 Competitive cooldowns exist to ensure that Counter-Strike matches are enjoyable for all players on the server. When a player commits actions which negatively impact the match and players in the match, they may receive a Competitive cooldown which keeps them from playing Ranked and Unranked matchmaking for a set period of time.  
@@ -55,19 +59,23 @@ Players receiving an excessive number of in-game reports for griefing may receiv
 No. Regardless of the reason a Competitive cooldown was issued they cannot be removed from an account. You will need to wait for the cooldown to expire before you can again queue for Competitive matches.    
   ## How long will my Competitive cooldown last?
 Competitive cooldowns in CS:GO have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking:  
+
 * First cooldown (level 1) - lasts 30 minutes.
 * Second cooldown (level 2) - lasts 2 hours.
 * Third cooldown (level 3) - lasts 24 hours.
 * Fourth cooldown (level 4) - lasts 1 week.
+
 A week of clean play will reduce an account's cooldown level by one. An account whose cooldown level has been reduced to level 2 through clean play would receive a level 3 (24 hour) cooldown on their next infraction.  
   
 Please note that cooldown levels can exceed level 4. Players whose cooldown level exceeds level 4 will need an extended period of clean play to have their cooldown level reduce beneath level 3.    
   ## How do I determine my current cooldown level?
 Your current cooldown level can be determined by the length of the last cooldown you have received:  
+
 * My last cooldown lasted 30 minutes - you are currently at level 1.
 * My last cooldown lasted 2 hours - you are currently at level 2.
 * My last cooldown lasted 24 hours - you are currently at level 3.
 * My last cooldown lasted one week - you are currently at level 4 (or above).
+
       
   ## VAC bans
 Players who have been VAC banned can find information in the [I've been VAC banned](https://help.steampowered.com/en/faqs/view/647C-5CC1-7EA9-3C29) help article. Additional information regarding VAC can be found in the [Valve Anti-Cheat System (VAC)](https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74) help article.    

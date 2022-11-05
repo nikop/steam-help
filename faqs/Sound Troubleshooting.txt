@@ -1,6 +1,6 @@
 Sound Troubleshooting
 ---------------------
-Updated 2021-10-28 00.08.55
+Updated 2021-10-28 00:08:55
 Version 5
 
 Sounds are not being played or are being played on only one speaker when I play Source games - what should I do?

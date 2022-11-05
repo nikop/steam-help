@@ -1,6 +1,6 @@
 My computer crashes or stops at a blue or gray screen and I am forced to restart or it restarts itself
 ------------------------------------------------------------------------------------------------------
-Updated 2021-12-02 21.12.48
+Updated 2021-12-02 21:12:48
 Version 6
 
 Your computer restarts without warning or you see any of the following errors:

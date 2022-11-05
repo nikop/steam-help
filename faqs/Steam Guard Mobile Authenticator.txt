@@ -1,6 +1,6 @@
 Steam Guard Mobile Authenticator
 --------------------------------
-Updated 2022-10-17 23.09.43
+Updated 2022-10-17 23:09:43
 Version 8
 
 

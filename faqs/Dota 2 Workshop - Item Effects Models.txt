@@ -1,6 +1,6 @@
 Dota 2 Workshop - Item Effects Models
 -------------------------------------
-Updated 2021-10-28 02.13.44
+Updated 2021-10-28 02:13:44
 Version 4
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/01_effects_weapon_in_game3.jpg[/img]

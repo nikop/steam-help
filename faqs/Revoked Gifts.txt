@@ -1,6 +1,6 @@
 Revoked Gifts
 -------------
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19:49:55
 Version 3
 
 [h4]Where is my gift, and why was it removed?[/h4]When a gift is refunded due to fraud or a payment dispute, the gift is removed from Steam. The account which redeemed the gift receives a notification that the game is no longer available to play in his or her Steam library.

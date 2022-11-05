@@ -1,6 +1,6 @@
 Failed to start game (app already running)
 ------------------------------------------
-Updated 2021-07-10 19.49.55
+Updated 2021-07-10 19:49:55
 Version 2
 
 When attempting to launch a game, Steam displays an error message:

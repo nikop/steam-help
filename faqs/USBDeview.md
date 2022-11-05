@@ -1,5 +1,5 @@
 # USBDeview
-Updated 2021-08-10 19.10.20  
+Updated 2021-08-10 19:10:20  
 Version 4  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
@@ -13,6 +13,7 @@ Please note: USBDeview is a third-party application. This app was not developed 
   
 Get started:  
   
+
 * Download [USBDeview](http://www.nirsoft.net/utils/usb_devices_view.html) and unzip the archive
 * Unplug the HMD from your Link Box and PC. Make sure your controllers are not connected via USB
 * Launch USBDeview

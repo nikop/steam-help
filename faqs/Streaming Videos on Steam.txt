@@ -1,6 +1,6 @@
 Streaming Videos on Steam
 -------------------------
-Updated 2021-12-02 22.56.52
+Updated 2021-12-02 22:56:52
 Version 7
 
 Streaming Videos on Steam is a new feature that enables watching a video on Steam without the need to first download the video locally.

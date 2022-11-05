@@ -1,15 +1,17 @@
 # Troubleshooting Network Connectivity
-Updated 2021-08-12 01.54.58  
+Updated 2021-08-12 01:54:58  
 Version 5  
 
 * [Troubleshooting Network Connectivity Issues](#trouble)
 * [Required Ports for Steam](#ports)
 * [Known Issues with Internet Service Providers (ISPs)](#isp)
+
   
   
 ### Troubleshooting Network Connectivity Issues
 Please follow the steps below to diagnose network connectivity issues within Steam:  
   
+
 * **Check Steam Server Status**  
 Please check the [Steam Server Status page](https://store.steampowered.com/stats/) to ensure the issue which you are encountering is **not** related to system-wide downtime. If you encounter any timeout errors when attempting to access Steam sites, it is very likely that there is a system-wide issue and Steam will not be accessible until the issue is resolved.
 * **Test Your Router**  
@@ -24,6 +26,7 @@ See the [Using a Firewall with Steam](https://help.steampowered.com/en/faqs/view
 Review the [Programs Which May Interfere With Steam](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and reconfigure, disable or uninstall any programs which may be preventing Steam and Valve games from connecting.
 * **Viruses, Trojans, Adware and Spyware**  
 Scan your computer for [Spyware, Malware, Adware, or Virus Interfering with Steam](https://help.steampowered.com/en/faqs/view/70D4-67C8-784D-692A).
+
   
   
   
@@ -38,6 +41,7 @@ Many university networks and proxies block required ports for Steam operation - 
   ### Important:
 If you notice that your Steam connection only has issues during certain hours of the day (for example in the evenings between 5pm and 11pm), it is possible that your ISP is blocking or "shaping" your connection.  Please test your connection at other hours of the day and contact your ISP directly if you believe this is causing the connection issue.  
 Some ISPs have been found to block ports required for the proper operation of Steam and Steam games:  
+
 * **012.net** (Steam traffic blocked)
 * **Bluewin** (Firewall blocks Steam from provider side - must be disabled through provider's service portal)
 * **Dutch Telecom** (Steam traffic blocked)

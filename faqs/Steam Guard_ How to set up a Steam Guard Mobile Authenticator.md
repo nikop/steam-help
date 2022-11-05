@@ -1,5 +1,5 @@
 # Steam Guard: How to set up a Steam Guard Mobile Authenticator
-Updated 2022-10-14 22.00.12  
+Updated 2022-10-14 22:00:12  
 Version 6  
 
 ## For Android and iOS devices, and Windows Phone

@@ -1,6 +1,6 @@
 Dota - Low Priority Matchmaking
 -------------------------------
-Updated 2021-12-02 23.54.26
+Updated 2021-12-02 23:54:26
 Version 5
 
 Low Priority is a temporary matchmaking penalty that is applied to accounts that have engaged in behaviors that are detrimental to the community. An account with a Low Priority penalty will be restricted to the Single Draft game mode for a specified number of games. Winning the specified number of games is the only way to remove the Low Priority penalty.

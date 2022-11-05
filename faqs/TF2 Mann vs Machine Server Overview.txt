@@ -1,6 +1,6 @@
 TF2 Mann vs Machine Server Overview
 -----------------------------------
-Updated 2021-10-27 22.48.17
+Updated 2021-10-27 22:48:17
 Version 3
 
 How do I setup a Mann vs Machine server?

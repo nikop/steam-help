@@ -1,5 +1,5 @@
 # SteamVR Troubleshooting (Index)
-Updated 2021-08-12 18.09.18  
+Updated 2021-08-12 18:09:18  
 Version 4  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png) # General troubleshooting

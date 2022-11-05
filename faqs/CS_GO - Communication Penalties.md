@@ -1,5 +1,5 @@
 # CS:GO - Communication Penalties
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 * [I received an abusive communication warning. What does this mean?](#whywarning)
@@ -9,6 +9,7 @@ Version 3
 * [Can I appeal my communication warning or penalty?](#falsepenalty)
 * [Is it possible to receive false reports which result in a communication warning or penalty?](#falsereports)
 * [I have reported a user for abusive communication in-game. When will action be taken on their account?](#actonreports)
+
   
   ## I received a communication warning. What does this mean?
 Abusive communication warnings are issued to accounts that receive an excessive number of in-game reports for abusive communication.  

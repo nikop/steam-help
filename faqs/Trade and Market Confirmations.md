@@ -1,5 +1,5 @@
 # Trade and Market Confirmations
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 * [What are trade and market confirmations?](#whatis)
@@ -8,6 +8,7 @@ Version 3
 * [How do I opt out?](#optout)
 * [What do I do if I receive a confirmation for a trade or listing I didn't create?](#notrecognized)
 * [How do I get confirmations via phone?](#phone)
+
   
   
 ### What are trade and Market confirmations?

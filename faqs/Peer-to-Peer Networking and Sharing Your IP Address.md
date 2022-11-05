@@ -1,5 +1,5 @@
 # Peer-to-Peer Networking and Sharing Your IP Address
-Updated 2021-08-12 21.02.02  
+Updated 2021-08-12 21:02:02  
 Version 4  
 
 When is my IP Address shared with other players?  What are the downsides?  How can I control when this happens?  
@@ -25,10 +25,12 @@ Steam doesn't share your IP address with other players.  Whenever peer-to-peer n
 #### What about games that use Steam Networking APIs?
 If a game uses our newest networking APIs (ISteamNetworkingSockets and ISteamNetworkingMessages), the traffic can be relayed using Steam Datagram Relay (SDR), Valve's worldwide backbone and network of relays, and you can decide when to allow an app to share your IP address.  Under Steam / Settings / In-Game / Steam Networking, there is an option that controls when your IP address is revealed:  
   
+
 * **Never**.  Never share your IP with any player.  Always relay peer-to-peer traffic.
 * **Always**.  Always allow the app to share your IP with any player.  If the other player also shares their IP address, a direct connection may be established.  If not, it will be relayed.
 * **Default**.  This will not share your IP address, unless it appears necessary to avoid excessive ping times.
 * **Friends Only**. Share your IP only with users in your Friends List.
+
   
   
 We recommend that most players leave the setting on default.  If you experience high ping times and would prefer to risk sharing your IP address to attempt to get a faster connection, you might try changing the value to "Always".  Remember that just because you share your IP address does not mean a direct connection will be made.  The other player must share their IP address, and NAT traversal must succeed in negotiating the firewalls.  

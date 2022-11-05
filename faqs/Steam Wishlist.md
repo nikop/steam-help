@@ -1,13 +1,15 @@
 # Steam Wishlist
-Updated 2021-10-27 22.58.59  
+Updated 2021-10-27 22:58:59  
 Version 7  
 
 How do I use the Steam Wishlist feature?  
   
+
 * [How do I add a game to my Wishlist?](#wl-add)
 * [How do I edit my Wishlist?](#wl-edit)
 * [How do I remove an item from my Wishlist?](#wl-remove)
 * [Who can see my Wishlist?](#wl-whosee)
+
   
   
   

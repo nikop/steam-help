@@ -1,6 +1,6 @@
 Dota 2 Workshop - Hero Wearable Items
 -------------------------------------
-Updated 2021-08-12 21.02.53
+Updated 2021-08-12 21:02:53
 Version 4
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/hero_wearables/luna_sets.jpg[/img]

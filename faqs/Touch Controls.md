@@ -1,5 +1,5 @@
 # Touch Controls
-Updated 2021-07-21 20.53.56  
+Updated 2021-07-21 20:53:56  
 Version 3  
 
 ![https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png](https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png)  
@@ -34,9 +34,11 @@ The controls vanish after a few seconds of being idle. They will reappear when y
   
 The touch controller can emulate mouse functionality in three different ways:  
   
+
 * **Trackpad** - The screen acts as a trackpad where moving your finger pushes the cursor, tapping with 1 finger is a left click, tap and hold and then move for left click drag, tapping with 2 fingers is a right click, and tapping with 3 fingers toggles the on-screen keyboard. You can also move with one finger and then tap with another finger while moving to quickly left click and drag (e.g. 2 thumb mode). You can use pinch and zoom to zoom in on hard to read areas of the screen.
 * **Trackpad Cursor** - This works like the trackpad mode, but if you are zoomed in the view will be centered around the cursor.
 * **Direct Cursor** - Tapping the screen generates a left click at the location that was touched, for direct interaction. If you need to be able to move the mouse independently of the touch location, you should use trackpad mode.
+
   
   
 You can quickly change mouse mode by tapping the [...] button and tapping the mouse button on the right.  
@@ -45,9 +47,11 @@ You can quickly change mouse mode by tapping the [...] button and tapping the mo
   
 The editing window has a tray in the center, which appears when you select Layout Controls by clicking the […] button. Drag controls out of the tray to adjust them with these options:  
   
+
 * Select **Edit Layout** to move/scale/remove existing controls.
 * Select **Cancel** to clear all changes since you last saved.
 * Select **Done** to save your changes.
+
  ![https://support.steampowered.com/images/faq/steam_link/Touch Controls/TouchConfig.png?v=20190509](https://support.steampowered.com/images/faq/steam_link/Touch Controls/TouchConfig.png?v=20190509)  
   
 To place a control, simply touch it and begin dragging it. The tray will close, and you can place the control where you want. Certain button sets are grouped as a single item for quick placement.  

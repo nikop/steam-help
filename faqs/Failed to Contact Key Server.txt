@@ -1,6 +1,6 @@
 Failed to Contact Key Server
 ----------------------------
-Updated 2021-08-11 22.09.32
+Updated 2021-08-11 22:09:32
 Version 6
 
 I receive Game Error: Failed to Contact Key Server when launching a game from Steam.

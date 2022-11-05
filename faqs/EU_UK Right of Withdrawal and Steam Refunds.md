@@ -1,5 +1,5 @@
 # EU/UK Right of Withdrawal and Steam Refunds
-Updated 2022-02-03 14.06.57  
+Updated 2022-02-03 14:06:57  
 Version 6  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
@@ -41,6 +41,7 @@ The statutory right of withdrawal is not applicable as regards the following:
 * the supply of goods which are, after delivery, according to their nature, inseparably mixed with other items;
 * the supply of sealed audio or sealed video recordings or sealed computer software which were unsealed after delivery;
 * the supply of digital content which is not supplied on a tangible medium if the performance has begun with the consumer’s prior express consent and his acknowledgment that he thereby loses his right of withdrawal.
+
   
   
 **WITHDRAWAL FORM:**  

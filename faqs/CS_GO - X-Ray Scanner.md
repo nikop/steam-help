@@ -1,5 +1,5 @@
 # CS:GO - X-Ray Scanner
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 2  
 
 * [I scanned a container and it is no longer in my Inventory. Where did it go?](#wherecontainer)
@@ -8,6 +8,7 @@ Version 2
 * [Can I reset a container’s contents or scan the same container more than once?](#resetcontainer)
 * [Can I scan multiple containers if they are different types?](#diffcontainers)
 * [Can I scan Souvenir Packages?](#scansouv)
+
   
   ## I scanned a container and it is no longer in my Inventory. Where did it go?
 Scanned containers are consumed, meaning they will no longer appear in your CS:GO or Steam Inventories. Scanned containers cannot be traded or sold on the Steam Community Market.    

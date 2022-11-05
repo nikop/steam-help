@@ -1,16 +1,18 @@
 # SteamVR Developers
-Updated 2021-09-21 23.59.38  
+Updated 2021-09-21 23:59:38  
 Version 7  
 
 ![https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png](https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png)  # SteamVR Developers
 Are you a developer with questions about VR development on the Steam Platform? Click one of the links or scroll down for answers to some of the most commonly asked questions:  
   
+
 * [Distribute your product on Steam](#distribute)
 * [Access the OpenVR SDK](#sdk)
 * [Join the developer conversation](#conversation)
 * [Share your VR project with others for feedback](#share)
 * [How do I get my game to show up as Rift of or Vive compatible in the Steam store?](#compat)
 * [Where can I define my title’s VR-specific settings?](#settings)
+
   
   
  #### Distribute your product on Steam
@@ -37,9 +39,11 @@ In addition, our team would love to check out what you are working on! [Email us
 To configure an app with VR support, go to your app landing page and select **Edit Steamworks Settings** then navigate to the **Installation tab** and then select **General Installation**.  
   
 You will need to change your **Launch Options** to one of the three types below:  
+
 * **Launch SteamVR App** - Use this for VR apps that use SteamVR.
 * **Launch SteamVR Overlay** - Use this for apps that supply a SteamVR dashboard overlay.
 * **Launch in Other VR** - Use this for apps that provide a VR mode other than SteamVR, for example those implemented using the Oculus SDK.
+
   
 Picking one of these three options will either present the launch option to the user or it will be applied automatically at the appropriate times when the user launches the app from their Library.  
  #### Where can I define my title’s VR-specific settings?

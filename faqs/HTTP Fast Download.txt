@@ -1,6 +1,6 @@
 HTTP Fast Download
 ------------------
-Updated 2021-10-27 20.57.27
+Updated 2021-10-27 20:57:27
 Version 5
 
 How do I Get HTTP Fast Download working for my Server?

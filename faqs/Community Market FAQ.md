@@ -1,8 +1,9 @@
 # Community Market FAQ
-Updated 2021-08-16 18.35.10  
+Updated 2021-08-16 18:35:10  
 Version 6  
 
 #### General Questions
+
 * [How do I put an item up for sale?](#howtosell)
 * [How do I buy an item?](#howtobuy)
 * [How do I remove a listing?](#removelisting)
@@ -12,7 +13,9 @@ Version 6
 * [Why don't I see all of my items when I try to sell something?](#allitems)
 * [How are cross-currency transactions handled in the Community Market?](#currency)
 * [Where can I see my Community Market transactions?](#viewtransactions)
+
   #### Restrictions
+
 * [What kind of Steam Wallet and item listing restrictions apply?](#restrictions)
 * [Are there minimum or maximum sales prices for items in the Community Market?](#prices)
 * [Why is Steam Guard required?](#steamguard)
@@ -20,18 +23,24 @@ Version 6
 * [Why are some of my items not eligible?](#eligibleitems)
 * [Why aren't all games on the Community Market?](#limited)
 * [Where can I see all of the restrictions that can block me from using the Community Market?](#whererestrictions)
+
   #### Fees
+
 * [What is the "Steam Transaction Fee"?](#steamfee)
 * [Who pays the "Steam Transaction Fee"?](#whopayssteamfee)
 * [What is the "Team Fortress 2 Fee"?](#tf2fee)
 * [What is the "Dota 2 Fee"?](#dota2fee)
 * [What is the "Counter-Strike: Global Offensive Fee"?](#csgofee)
 * [What is the "Artifact Fee"?](#artifactfee)
+
   #### Taxes and 200 Item Sale Limit
+
 * [Will you be asking me to provide tax information to you, and/or will you be providing 1099’s based on my transactions in the Community Market?](#providing1099s)
 * [Do I have to pay income taxes on the proceeds of sales I make in the Community Market?](#incometaxes)
 * [Do I have any obligation to collect or pay sales, VAT, or other transaction taxes based on transactions I engage in in the Community Market?](#VATtaxes)
+
   #### Buy Orders
+
 * [What is a commodity item?](#commodity)
 * [What is a buy order?](#buyorder)
 * [How many buy orders can I have active?](#buyordersactive)
@@ -40,7 +49,9 @@ Version 6
 * [How do buy orders help me?](#buyordershelp)
 * [How do buy orders choose which listing to buy?](#buyordersinfo)
 * [If multiple buy orders satisfy a new market listing, which buy order gets processed?](#buyordersnewlistings)
+
   #### Credit Card Verification
+
 * [What is credit card verification?](#whatisit)
 * [How do I verify my recently used credit card?](#howtoverify)
 * [What happens if I use all three attempts to verify my credit card?](#failattempts)
@@ -55,6 +66,7 @@ Version 6
 * [Why do I keep triggering this three day payment restriction when adding funds to my Wallet?](#keephittingit)
 * [Will my credit card and/or PayPal account become 'verified' once the three day restriction ends?](#whatifIwait)
 * [How do I verify a gift card that has a limited amount of funds?](#giftcards)
+
   
   
 # **General Questions**
@@ -228,11 +240,13 @@ You can see the list of all buy orders you have active on the front page of the 
 ### How long do buy orders stay active?
 Buy orders may be cancelled by the system at any time including but not limited to the following reasons:  
   
+
 * if something about the item changes
 * if there are any issues with your wallet balance
 * if there are issues with trying to complete a purchase
 * if something changes about your Steam Account
 * if the buy order results in a purchase
+
   
   
 You can check on the status of your buy orders at any time by visiting [https://steamcommunity.com/market/](https://steamcommunity.com/market/).  

@@ -1,5 +1,5 @@
 # Sound Troubleshooting
-Updated 2021-10-28 00.08.55  
+Updated 2021-10-28 00:08:55  
 Version 5  
 
 Sounds are not being played or are being played on only one speaker when I play Source games - what should I do?  
@@ -14,8 +14,10 @@ See your sound card manufacturer's support page for more information on availabl
 If sound issues persist after you have disabled your onboard sound card and updated your sound card drivers, please check your system for any USB-enabled audio devices which may be causing interference. (This includes any USB headphones, microphones, or other audio playback or recording devices)  
   
 #### Windows Users
+
 * Launch the game and type the following into your [console](https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD): `snd_legacy_surround 1`.
 * Check the Windows Volume Mixer to ensure that the individual game has not been muted. If your Volume Mixer is not display in the System Tray, right-click the Taskbar, click Properties, and ensure that the Volume checkbox is marked.
+
   
 #### Surround Sound not working in Source games
   

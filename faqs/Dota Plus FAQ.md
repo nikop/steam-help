@@ -1,14 +1,16 @@
 # Dota Plus FAQ
-Updated 2021-10-28 01.08.15  
+Updated 2021-10-28 01:08:15  
 Version 4  
 
 Enhance your daily Dota experience with Dota Plus, a new monthly subscription service designed to help you get the most out of every match you play. Complete details and features are available on the [Dota Plus](https://www.dota2.com/plus) feature page.  
   
+
 * [Does Dota Plus work in every game mode?](#mode)
 * [What happens if I cancel my subscription?](#cancelsub)
 * [What happens when Dota Plus is no longer active on my account?](#inactive)
 * [Is it possible to stack subscription / membership time?](#stack)
 * [Can I gift a friend Dota Plus?](#gift)
+
   
   
   ### Does Dota Plus work in every game mode?

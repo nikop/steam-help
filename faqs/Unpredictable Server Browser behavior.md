@@ -1,5 +1,5 @@
 # Unpredictable Server Browser behavior
-Updated 2021-08-10 17.04.58  
+Updated 2021-08-10 17:04:58  
 Version 4  
 
 #### Steam Rates

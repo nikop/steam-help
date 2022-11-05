@@ -1,5 +1,5 @@
 # Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 When attempting to complete a purchase through Steam, I receive the following specific error message:  

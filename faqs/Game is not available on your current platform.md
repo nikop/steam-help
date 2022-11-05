@@ -1,9 +1,11 @@
 # Game is not available on your current platform
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 4  
 
 When installing or launching a game, Steam displays the error:  
+
 * Game is not available on your current platform.
+
     
 This error message means that the game is not supported on the operating system that you are currently using.  
   

@@ -1,5 +1,5 @@
 # SteamVR Chaperone FAQ
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 2  
 
 ![https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png](https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png)  #### What is Chaperone?

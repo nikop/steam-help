@@ -1,6 +1,6 @@
 Troubleshooting Game Performance Issues - Hardware
 --------------------------------------------------
-Updated 2022-03-02 17.20.55
+Updated 2022-03-02 17:20:55
 Version 6
 
 What can I do to make sure that my hardware is running optimally?

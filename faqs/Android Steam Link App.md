@@ -1,5 +1,5 @@
 # Android Steam Link App
-Updated 2021-08-09 16.05.40  
+Updated 2021-08-09 16:05:40  
 Version 10  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)    
@@ -9,24 +9,30 @@ The Steam Link app on Android extends Steam Link functionality to many Android p
   
 ## Required/Recommended Equipment
   
+
 * A computer running Steam
 * Supported operating system
 * Wireless router 5GHz
+
    
 ## Supported Input/Controllers
   
+
 * [The Steam Controller](https://store.steampowered.com/app/353370/Steam_Controller/)
 * Microsoft Xbox One S Controller
 * Sony DualShock 4 (on Android 9.0 and higher)
 * Razer Kishi and Raiju Mobile
+
   
 *Please note: other input devices may work even if they aren’t officially supported.*  
   
 ## Getting Started
   
+
 * Turn on your home PC, launch Steam, and log in.
 * Ensure your phone is connected to the same network as your host PC.
 * Download the app from the Play Store and follow the on screen instructions.
+
   
   
 If you have questions about the app or need help using it, just click the appropriate tab.  

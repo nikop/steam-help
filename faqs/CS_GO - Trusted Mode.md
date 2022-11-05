@@ -1,5 +1,5 @@
 # CS:GO - Trusted Mode
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 * [What is Trusted mode?](#trust)
@@ -11,6 +11,7 @@ Version 3
 * [Why are some players noticing performance issues in Trusted mode?](#perf)
 * [Why are some players crashing when launching CS:GO in Trusted mode?](#crash)
 * [What happens if I start incompatible software after the game has launched in Trusted mode?](#loaded)
+
   
   ## What is Trusted mode?
 Trusted mode in CS:GO blocks third-party files from interacting with the game and is enabled by default for all CS:GO players.    
@@ -18,8 +19,10 @@ Trusted mode in CS:GO blocks third-party files from interacting with the game an
 Some applications interact with CS:GO by injecting directly into the game process. This method is used by common applications as well as cheats.  
   
 We can vastly improve cheat prevention by restricting injections altogether — as opposed to determining whether an injection is a cheat or not. The solution is to:  
+
 * Provide a way to play without foreign application injections and then...
 * Update our policy to include VAC banning for any targeted process tampering.
+
 Trusted mode gives players a way to launch CS:GO and ensure that they do not accidentally run software that injects into the game. While in Trusted mode, software that normally would inject into the CS:GO process is rejected. Because CS:GO has protected itself, any injections that occur are not accidental and therefore subject to a VAC ban.    
   ## Does Trusted mode prevent cheats from working?
 No. Trusted mode is a minimal barrier to cheat development, however, we expect that cheats will be detected more quickly. The goal of Trusted mode is to create a barrier that can’t accidentally be crossed, and to be able to easily identify any application that does.    

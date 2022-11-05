@@ -1,5 +1,5 @@
 # Regaining Access to Areas After Losing Saved Games
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 2  
 
 ## What do I do if I deleted my saved games in Half-Life 2?  

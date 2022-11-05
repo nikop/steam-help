@@ -1,6 +1,6 @@
 Console
 -------
-Updated 2021-08-12 21.14.25
+Updated 2021-08-12 21:14:25
 Version 10
 
 What is the Developer Console and how can I use it to change game settings?

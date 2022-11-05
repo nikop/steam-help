@@ -1,5 +1,5 @@
 # Recovering a Lost or Forgotten Steam Account
-Updated 2021-07-10 19.49.55  
+Updated 2021-07-10 19:49:55  
 Version 3  
 
 ### Try to self-recover your account or contact Steam Support:
