@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,7 +25,7 @@ namespace SteamHelpSync
         {
             var path = Environment
                 .GetEnvironmentVariable("PATH")!
-                .Split(';')
+                .Split(RuntimeInformation.IsOSPlatform(OSPlatform.Windows) ? ';' : ':')
                 .Select(s => Path.Combine(s, executableFileName))
                 .FirstOrDefault(x => File.Exists(x));
             if (path == null)
