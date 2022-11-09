@@ -1,7 +1,7 @@
 Steam Deck - Windows Resources
 ------------------------------
-Updated 2022-10-10 18:17:48
-Version 13
+Updated 2022-11-08 19:45:32
+Version 14
 
 [h4]Windows Resources[/h4]
 Steam Deck is a PC, and other applications and OSes can be installed. If you're installing Windows, you will need a few additional drivers to have the best experience. Links to these, along with notes for installing Windows on Steam Deck can be found below.
@@ -10,10 +10,10 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 [hr][/hr]
 [h4]Windows Drivers[/h4]
 [list]
-[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/APU_220520a-377788E-2206021014.zip]download here[/url], run setup.exe to install.
+[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith%20Windows%20Driver_2209130944.zip]download here[/url], run setup.exe to install.
 [i]
 [list]
-[*] This driver is updated as of June 16, 2022.
+[*] This driver is updated as of November 8th, 2022.
 [/list]
 [/i]
 [*][b]Wi-Fi driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/RTLWlanE_WindowsDriver_2024.0.10.137_Drv_3.00.0039_Win11.L.zip]download here[/url], run install.bat to install.

@@ -1,6 +1,6 @@
 # Steam Deck - Windows Resources
-Updated 2022-10-10 18:17:48  
-Version 13  
+Updated 2022-11-08 19:45:32  
+Version 14  
 
 #### Windows Resources
   
@@ -13,9 +13,9 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 #### Windows Drivers
   
 
-* **APU driver** - [download here](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/APU_220520a-377788E-2206021014.zip), run setup.exe to install.  
+* **APU driver** - [download here](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith%20Windows%20Driver_2209130944.zip), run setup.exe to install.  
 
-*  *This driver is updated as of June 16, 2022.*
+*  *This driver is updated as of November 8th, 2022.*
 * **Wi-Fi driver** - [download here](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/RTLWlanE_WindowsDriver_2024.0.10.137_Drv_3.00.0039_Win11.L.zip), run install.bat to install.
 * **Bluetooth driver** - [download here](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/RTBlueR_FilterDriver_1041.3005_1201.2021_new_L.zip), run installdriver.cmd to install.
 * **SD Card reader driver** - [download here](https://steamdeck-packages.steamos.cloud/misc/windows/drivers/BayHub_SD_STOR_installV3.4.01.89_W10W11_logoed_20220228.zip), run setup.exe to install.
