@@ -13,7 +13,6 @@ Anyone claiming to be a Valve employee, Steam Support representative, or asking 
 # Confidence Scams
   
 Some confidence scammers (scammers, cons, con artists) target Steam users by threatening their accounts or claiming to represent Steam Support, Valve, or a trusted individual or service.  
-
 * [What is a confidence scam?](#scamsteam)
 * [What scam types might target Steam users?](#scamtypes)
 * [How do I protect myself from scams?](#avoidscams)
@@ -21,14 +20,12 @@ Some confidence scammers (scammers, cons, con artists) target Steam users by thr
 * [My account has been accidently or falsely reported. What do I need to do?](#falsereport)
 * [What should I do if I receive a suspicious message from a friend?](#friendscam)
 * [How do I report a scammer?](#reportcon)
-
   
   
   
 # Trade Scams
   
 Trade scams are a scam whose goal involves obtaining a victim's Steam Inventory items.   
-
 * [What is a trade scam?](#whatisascam)
 * [What are the best ways to avoid getting scammed?](#bestways)
 * [What kind of trades should I avoid?](#whattrades)
@@ -38,7 +35,6 @@ Trade scams are a scam whose goal involves obtaining a victim's Steam Inventory 
 * [What action is taken when a scammer is found?](#whathappens)
 * [Why doesn't Steam return scammed items?](#noreturn)
 * [Why won’t Steam Support provide information on why an account was trade banned or locked?](#whynoinfo)
-
   
   
   
@@ -76,28 +72,23 @@ A trade scam is when a Steam user convinces another user to make a deal (trade, 
   
 For more information on scams please read below and view our [Recommended Trading Practices](https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0) article and the [Steam Item Restoration Policy](https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24).    
   ### What are the best ways to avoid getting scammed?
-
 * You don't need to rush to complete a trade. If you receive an offer, take your time to thoroughly review the contents. Once you confirm a trade offer, there is no way to reverse it.
 * Ignore pressure to trust the other user. If you are trading with a user who insists that you trust them, they are probably attempting to scam you. Please note that +rep comments can be generated easily by malicious groups.
 * Mouse over every item to ensure that the item/gift properties are correct. Information about the item/gift will be shown in the tooltip, including the quality, name, description and any effects.
 * Do not trade items in separate or future trades. If another user requests that you do multiple trades, they could be scamming you. Always insist to complete the entire trade in one single offer.
 * Ensure that you are trading with the correct user. Scammers may try to impersonate your friends and other trusted traders. It is your responsibility to know who you are trading with.
-
         
 ### What kind of trades should I avoid?
 Do *not* trade for anything that cannot be added into the Steam trading window. The most common examples of these types of trades include:  
-
 * Trading items/gifts for money outside of the Steam Community market. You cannot add Wallet credit, PayPal, gift cards or any form of money to trade offers.
 * Trading items/gifts for CD Keys. You cannot add a CD Key into the trade window. CD Keys that are offered can be for a different game, fake, used or region restricted.
 * Trading items/gifts for nothing in return and expecting to get an item or gift in a later trade. There is no reason to not trade everything in one trade. You may add unlimited items/gifts to a single trade.
-
   
 For more information, please see our [Steam Trading FAQ](https://help.steampowered.com/en/faqs/view/46A2-2B3C-95CC-8878) and [Recommended Trading Practices](https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0) articles.    
 ### What specific scams should I be aware of?
 Users should always double check the contents of a proposed trade before accepting, even if that means inspecting each item in a multiple-item trade. Be sure to verify the item and its quality before confirming any trade.  
   
 There are a number of common scams users may attempt to deceive you out of your items:  
-
 * **Item switching -** You discuss a trade offer with another user beforehand, and the item they put into the trade offer looks like the item, but isn't as valuable as the original offer.
 * **CS:GO quality switch -** A user offers you a specific quality CS:GO item (Factory New), but the item in the offer is of a lower quality (Field-Tested). Often the item switch is made in a counter-offer.
 * **Hidden item -** A user offers a trade that includes a lot of your low value items (cards, crates, etc.), but also includes a high value item hidden somewhere in the middle.
@@ -112,7 +103,6 @@ There are a number of common scams users may attempt to deceive you out of your 
 * **Fund transfer via the Steam Market -** A user offers to send you Steam Wallet funds by buying one of your low value items at a high price in the market. Most of these offers are done using fraudulent funds.
 * **Voice comm software/join our tournament team (malware) -** A user convinces you to install malware hidden in a voice communication, anti-cheat, or other type of software by claiming that they need you to install it so that you can play in a tournament.
 * **Offering fraudulent items for resale -** Malicious users will sometimes acquire unusual items (often with fraudulent credit cards) and then attempt to trade them to you for more well known items with established value. Prior to doing this they may also manipulate the Steam Community Market price of these unusual items by using stolen credit cards. Watch out for claims that they will *overpay* or that you can *quicksell (qs)* the items for an immediate profit. Consider why the user would be willing to take a loss by trading the items to you instead of selling them themselves. As an excuse, these users will sometimes say they need *tradeable keys* or other tradeable items. Do not accept these trades as the value of the unusual items has been falsified and the subsequent Market transactions may be reversed due to fraudulent activity.
-
   
   ### What is the difference between a scam and a hijack?
 A scam is when a user deceives another user into willingly (at the time) completing a trade, market transaction, or sending a gift. After the trade is completed, the person who was scammed either doesn't receive what was promised, or the items involved are not what was agreed upon.  
@@ -122,12 +112,10 @@ A hijacking is when an account or a computer is taken over by someone else witho
 Additional information about hijacked accounts can be found in our [Reclaiming a Stolen Steam Account](https://help.steampowered.com/en/faqs/view/0A94-F308-34A5-1988) article.      
 ### How do I report a scammer?
 If you've been scammed or another user has attempted to scam you, please use the Report feature built into Steam. This is the best way to bring scammers to our attention so we may take action:  
-
 * Go to the profile of the offending user
 * Click the '...' drop-down located at the top right of the page
 * Choose 'Report Player'
 * Select the violation, and follow the prompts to submit the report
-
   
 If a user you've reported for scamming has had action taken on their account, you'll be notified with a message in Steam. See the [How to Report a Scammer](https://help.steampowered.com/en/faqs/view/4D07-D139-587C-2080) article for more detailed information.    
   ### What action is taken when a scammer is found?

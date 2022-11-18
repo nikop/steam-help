@@ -7,7 +7,6 @@ Version 7
 * [How do I add/remove administrators for my league?](#admin)
 * [I made a mistake with my sign-up! How can I change information about my league?](#edit)
 * [When will I know my league has been accepted or not?](#release)
-
   
   
   
@@ -22,24 +21,20 @@ Any league ticket sign-ups need to sign-up 15 days before the event. League tick
 ## How do I add/remove administrators for my league?
 If you would like to add or remove admins for your league do the following steps:  
   
-
 * Login [here](http://www.dota2.com/leagues).
 * Click on the ellipses (...) next to the league you want to edit.
 * Click the Admin tab in the league management screen
 * ADDING: under the League Administrators portion of the page enter the Steam Community URL for the user you want to add and click ADD.  
 REMOVING: Under the League Administrators portion of the page click REMOVE next to the administrator your want removed.
-
   
   
   
 ## I made a mistake with my sign-up! How can I change information about my league?
 If you need to modify your league information do the following steps:  
   
-
 * Login [here](http://www.dota2.com/leagues).
 * Click on the ellipses (...) next to the league you want to edit.
 * Edit any information here and once finished click SUBMIT.
-
   
   
   

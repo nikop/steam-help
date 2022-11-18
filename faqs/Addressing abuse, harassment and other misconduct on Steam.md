@@ -11,7 +11,6 @@ If you are ever experiencing abuse outside of Steam, or if you ever feel that yo
   
 There are different ways to address problematic behavior from other players. You'll want to use the options that make the most sense for your situation. We are always interested in hearing about your experience, so if an option is missing, let us know.  
   
-
 * ### Reporting Content
   
 If another player is hosting content that is being used in an abusive or inappropriate manner, we encourage players to utilize our reporting system. Reports are reviewed and typically resolved within 24 hours of submission. You will receive a notification if action is taken.  
@@ -26,11 +25,9 @@ To unfriend someone, navigate to their profile and select the *unfriend* option 
   
 Blocking another player on Steam will prevent them from interacting with you in the following ways:  
   
-
 * Sending you friend or group invites
 * Sending messages to you through Steam chat
 * Commenting on your profile or community items that you've created
-
   
   
 To block another player, navigate to their profile and select the *block all communication* option under the *...* dropdown. Alternatively, you can block players from your friends list, or from your pending invites list.
@@ -58,14 +55,12 @@ Many games feature in-game reporting systems designed to mitigate player abuse w
 * ### Contact Your Local Authorities
   
 You can use all of these features to manage negative behavior within the community, but if you ever feel that you are in danger, we strongly encourage you to contact law enforcement in your area.
-
     
   
 ## Best Practices
   
 We always recommend that players engage in responsible behavior while using Steam. Doing so will decrease the likelihood of your account being the target of malicious activities.  
   
-
 * ### Keep Your Personal Info Safe
   
 Malicious activity often relies on access to your personal information. Never post personally identifiable information on Steam, even in private chats or other areas that you might think are safe. Someone else can always decide to make this content public.  

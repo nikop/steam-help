@@ -5,33 +5,22 @@ Version 4
 Any CS:GO item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [Steam Community Market](https://steamcommunity.com/market/search?appid=730).  
   
 Detailed information on this restriction can be found on the [CS:GO blog](https://blog.counter-strike.net/index.php/2018/03/20308/).  ## Trade Up Contracts
-
 * [What are Trade Up Contracts?](#whataretuc)
 * [Which weapon skins can be used in Trade Up Contracts?](#whatitemstuc)
 * [The skin I received isn't the weapon wear I'd like. Why is this?](#weaponwear)
-
   ## Name Tags
-
 * [What are Name Tags?](#whatarent)
 * [What characters can I use on a Name Tag?](#characters)
 * [Can I change the position of the Name Tag on a weapon?](#tagposition)
-
   ## Stickers
-
 * [What are Stickers?](#whatarestick)
 * [I have applied a Sticker and would like to move it. Can I do this?](#movesticker)
 * [Stickers on my weapon are not visible when I inspect in-game. Why is this?](#stickergone)
-
   ## StatTrak Swap Tool
-
 * [What is a StatTrak Swap Tool?](#swaptool)
-
   ## Graffiti
-
 * [Graffiti information](#graffiti)
-
  ## Storage Units
-
 * [What are Storage Units?](#whatissu)
 * [How do I get a Storage Unit?](#howdoisu)
 * [Who needs a Storage Unit?](#whoneedssu)
@@ -41,13 +30,10 @@ Detailed information on this restriction can be found on the [CS:GO blog](https:
 * [How can I interact with items placed in a Storage Unit?](#interactsu)
 * [Can I trade or market items in a Storage Unit?](#tradesu)
 * [How often can I rename a Storage Unit?](#renamesu)
-
   ## Patches
-
 * [What are Patches?](#whatarepatches)
 * [I have applied a Patch and would like to move it. Can I do this?](#movepatch)
 * [Which Agents can I apply Patches to?](#whichagents)
-
   
   ## What are Trade Up Contracts?
 Trade Up Contracts allow players to trade 10 normal or StatTrak weapon skins of the same weapon grade (Mil-Spec to Classified) for one weapon skin of the next highest weapon grade from one of the weapon collections used in the trade up.  
@@ -69,12 +55,10 @@ To remove a Name Tag on an existing weapon, left-click on the weapon, select 'Re
 Name Tags can be purchased for $1.99 USD in-game or from the [Community Market](https://steamcommunity.com/market/).    
   ## What characters can I use on a Name Tag?
 The following characters can be used on Name Tags:  
-
 * a b c d e f g h i j k l m n o p q r s t u v w x y z
 * A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 * 0 1 2 3 4 5 6 7 8 9
 * `!@#$%^&*-+=(){}[]/|\,.?:;'_ (and "space", but Name Tags can't start with spaces)
-
 **Note:** Any characters not listed here are not supported on Name Tags and may not display properly.    
   ## Can I change the position of the Name Tag on a weapon?
 No. Name Tags have a pre-determined location on each weapon which cannot be changed.    
@@ -109,17 +93,13 @@ Storage Units can be purchased in-game for $1.99.
 Any user who wants to hold more than 1,000 items in their CS:GO Inventory will need a Storage Unit. Even if you have not reached the 1,000 item Inventory limit, Storage Units can be labeled and used as a way to more effectively organize your CS:GO Inventory.    
   ## How do I deposit items to a Storage Unit?
 There are two ways to deposit items into a Storage Unit:  
-
 * Click on an item in your Inventory, select 'Move to Storage Unit', and select the Storage Unit you would like to move the item to.
 * Click on the Storage Unit in your Inventory and select 'Deposit Items', then select which items you would like to add to the Storage Unit.
-
   **Note:** default weapons, agents, gloves, and Music Kits cannot be added to Storage Units, and any item in a Storage Unit will not appear in your Steam Community Inventory until it is retrieved.     
   ## How do I retrieve items from a Storage Unit?
 There are two ways to retrieve items from a Storage Unit:  
-
 * Click on a Storage Unit in your Inventory and select 'Retrieve Items', then click on the item(s) you would like to retrieve.
 * Click on a Storage Unit in your Inventory and select 'Inspect', then select the item(s) you would like to retrieve and click RETRIEVE at the bottom of the screen.
-
       
   ## I retrieved an item but can not find it in my Inventory. Where did it go?
 When items are retrieved from a Storage Unit they are added back to your CS:GO Inventory in the same location they were prior to being deposited. Retrieved items will not appear at the top of your CS:GO Inventory.  

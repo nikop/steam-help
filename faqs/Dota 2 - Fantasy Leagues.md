@@ -7,7 +7,6 @@ Version 3
 * [Player Rosters](#rosters)
 * [Trading and Free Agents](#trading)
 * [Scoring](#scoring)
-
   
   
 ## **General**
@@ -42,7 +41,6 @@ Each player has been assigned a role, based on the role they generally play in p
 No, all players are scored based on the same criteria.  
   
 ### How are players scored?
-
 * 0.3 points per kill
 * -0.3 points per death
 * 0.15 points per assist
@@ -53,7 +51,6 @@ No, all players are scored based on the same criteria.
 * 0.0004 points per allied healing done
 * 1 point per tower kill
 * 1 point per Roshan kill
-
   
   
 ## **Player Rosters**
@@ -63,16 +60,12 @@ No, all players are scored based on the same criteria.
 You can have 8 players on your team. These 8 slots are divided into types.  
   
 Active Roster:  
-
 * 2 Core
 * 2 Support
 * 1 Any
-
   
 Bench:  
-
 * 3 players of any type
-
   
 ### What players can I put in each slot type?
 Core and Support players can only go into "Core" and "Support" slots. "Any" or "Bench" slots can contain players of any role. Note that a player in a Bench slot will not score points for their team.  

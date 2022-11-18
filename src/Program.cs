@@ -5,7 +5,6 @@ using Madjoki.BBCParser;
 
 using SteamHelpSync;
 
-using System;
 using System.Collections.Concurrent;
 using System.Globalization;
 using System.Runtime.InteropServices;

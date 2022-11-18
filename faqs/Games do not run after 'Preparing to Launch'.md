@@ -5,20 +5,16 @@ Version 6
 My game isn't launching. How can I resolve this?  
   
 ### For Windows users:
-
 * [Update your Windows install](#updatewin)
 * [Update drivers for your computer](#updatedrivers)
 * [Verify integrity of game files](#verifycache)
 * [Disable non-essential software](#interfere)
 * [Check the game's system requirements](#sysreq)
-
   ### For Mac users:
-
 * [Update macOS](#updatemacos)
 * [Verify integrity of game files](#vcachemac)
 * [Disable non-essential Mac applications](#macinterfere)
 * [Check the game's system requirements](#sysreqmac)
-
     
 Games may not launch for a number of reasons, most of which are hard to diagnose due to the number of unique hardware and software configurations users have. When it appears games aren't launching this is because they're crashing immediately after launching for various reasons, many of which can be self-solved.  
   
@@ -36,11 +32,9 @@ Games may not launch if your machine is *just* at or below the game's system req
 # Mac users
     ### Update macOS
 If you're running an older version of macOS there may be conflicts with the game you're trying to run. To update macOS:  
-
 * Click on the **Apple** in the corner of your screen, then choose **System Preferences**
 * Select **Software Update**
 * Click **Update Now** or **Upgrade Now** to proceed with updating
-
       ### Verify integrity of game files
 As with Windows, if a game won't launch this is often caused by corruption in your extracted game files. Please see our [Verify Integrity of Game Files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) article for instructions on verifying the integrity of your game files.    ### Disable non-essential Mac applications
 Please disable non-essential background applications that may interfere with Steam.  

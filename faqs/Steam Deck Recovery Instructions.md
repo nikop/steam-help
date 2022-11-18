@@ -9,10 +9,8 @@ For all the tinkerers out there, please note that this system image is not quite
   
 ## Steam Deck Recovery Instructions
   
-
 *  Download the recovery image [here (click)](https://store.steampowered.com/steamos/download/?ver=steamdeck).
 *  Prepare a USB key (8GB minimum) with the recovery image:  
-
 *  On **Windows** we recommend using the [Rufus utility](https://rufus.ie/en/). Select the recovery file and write it to your USB drive (this will format the contents of your USB drive). When it's done, select 'Close' and eject the drive.
 *  On **MacOS** you can use [Balena Etcher](https://www.balena.io/etcher/) to write the recovery file to your USB drive.
 *  On **Linux** you can also use [Balena Etcher](https://www.balena.io/etcher/) to write the recovery file to your USB drive - or if you prefer you can do this directly from the command line:  
@@ -22,12 +20,10 @@ For all the tinkerers out there, please note that this system image is not quite
 *  In the Boot Manager, boot from the 'EFI USB Device' (your USB key)
 *  The screen will go dark while it's booting - give it a minute.
 *  Once booted you will be in a desktop environment, you can navigate using the trackpad and trigger.
-
   
 ## Recovery options
   
 In the recovery environment, there are four different options to choose from.  
-
 * **Re-image Steam Deck** - This performs a full factory reset - all user info, installed games, applications, or operating systems will be wiped and replaced with stock SteamOS.
 * **Clear local user data** - This reformats the home partitions on your Steam Deck, which will remove downloaded games and all personal content stored on this Deck, including system configuration.
 * **Reinstall Steam OS** - This will reinstall SteamOS on the Steam Deck, while attempting to preserve your games and personal content.

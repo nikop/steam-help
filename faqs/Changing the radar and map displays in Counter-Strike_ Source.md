@@ -11,7 +11,6 @@ The options below will require you to use the Developer's Console in the game - 
 If you would like to disable the radar, please enter the following command into the developer's console: *cl_radar_alpha 0*  
   
 #### Radar display settings
-
 * *cl_radar_locked #* (where *#* is *0* or *1*) - locks the angle of the radar screen (off or on)
 * *cl_radaralpha #* (where *#* is *0* to *255*) - sets transparency of radar display (transparent to opaque)
 * *drawradar* - shows the location text under your radar screen

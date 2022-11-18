@@ -5,20 +5,16 @@ Version 7
 Steam Remote Play allows games to be launched on one computer, while being played from other devices connected to Steam. With Remote Play Together, you can invite your Steam Friends to join your local co-op sessions remotely, without having to own or launch the game themselves.  
   
 By utilizing the [Steam Link app](https://store.steampowered.com/steamlink/about), Remote Play access can be extended to any supported device with the app installed.  
-
 * [How does Remote Play work?](#how)
 * [How can I tell if a game supports Remote Play?](#support)
 * [How do I use Remote Play?](#howdoiuseit)
 * [How do I disable Remote Play?](#howdoidisableit)
 * [How do I improve my streaming experience?](#improvement)
 * [Is there a community group?](#communitygroup)
-
   
 Troubleshooting:  
-
 * [Basic Troubleshooting](#basic)
 * [Known issues](#knownissues)
-
   
   
 # How does Remote Play work?
@@ -39,21 +35,17 @@ All Steam games can be played streaming between your own computers. If a game su
 # How do I use Remote Play?
   
 **Remote Play Anywhere**  
-
 * Log in to the Steam client on the computer with the installed game you wish to play.
 * Now, Log into Steam on another computer or a supported device with [Steam Link app](https://store.steampowered.com/steamlink/about/) installed.
 * From there, you can launch and play the game remotely from the Steam Library.
-
   
   
 **Remote Play Together**  
-
 * Launch your game.
 * Make sure your friend is logged in to Steam from a supported device.
 * Open your Steam Overlay in-game (Shift+Tab).
 * From your friends list, right-click your friend and select 'Remote Play Together'.
 * Once your friend accepts the invite, they will be in-game with you.
-
   
   
   
@@ -85,7 +77,6 @@ Yes, you can join the [Steam Remote Play](http://steamcommunity.com/groups/homes
 # Issues & Troubleshooting
 Steam Remote Play is designed to require minimal setup, provided the game you are trying to play is already launching correctly on the primary PC. If you are experiencing a problem, try resolving it by following the troubleshooting info in this article. If you continue to experience the problem, or are encountering an issue that isn't covered here, you can always reach out and submit a detailed report to [Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamLinkApp).  
   
-
 * [Known issues](#knownissues)
 * [What network ports does streaming use?](#networkports)
 * [The computers don't see each other](#broadcastfailed)
@@ -103,18 +94,15 @@ Steam Remote Play is designed to require minimal setup, provided the game you ar
 * [My mouse and keyboard input don't affect the game](#nomousekeyboardinput)
 * [My mouse cursor is invisible on Windows 8 or Windows 10](#invisiblemouse)
 * [How do I diagnose streaming performance problems?](#advancedtroubleshooting)
-
     
 ## Basic Troubleshooting
 Before you get too far down the troubleshooting path, it's a good idea to complete the entire setup process to ensure you are ready to use Remote Play.  
   
-
 * First, you'll want to make sure that Steam is up to date on both PCs. If you are using the Steam Link app, follow the appropriate setup guide [here](https://help.steampowered.com/en/faqs/view/7E9D-27C8-EB08-21D9).
 * Now, from the machine that will be hosting the Remote Play session, you'll want to launch the game at least once to ensure it's up to date and working correctly.
 * If you are using Remote Play Anywhere, make sure you are logged in to the same Steam account on the remote device. From that Library, you should see the game listed as installed, with the option to 'Stream' instead of 'Play'
 * If you are using Remote Play Together, your friend should see that you are in-game in their friends list. You should see them as online.
 * If the game supports Remote Play Together, you can open the overlay in-game (Shift+Tab) and invite your friend from the friends list.
-
   
   
 If Remote Play still isn't working correctly, you'll want to have a look at the known issues below for more information. If that fails, you can always reach out and submit a ticket to [Steam Support](https://help.steampowered.com/en/wizard/HelpWithSteamLinkApp). We ask that you provide a detailed report including the exact steps that you take to reproduce the behavior, so that we can isolate the issue and better provide a solution.  
@@ -123,7 +111,6 @@ If Remote Play still isn't working correctly, you'll want to have a look at the 
 # Known issues
   
 General:  
-
 * There is currently no indication of whether Steam is able to bind the discovery port 27036, but if that fails no other computers will show up in the remote computer list in the Remote Play settings.
 * If a game takes a long time to launch, it will time out on the client but will start anyway. Retrying the launch will connect to the running game. If this happens consistently for any particular game, please report it on the [bug discussion group](http://steamcommunity.com/groups/homestream/discussions/1).
 * If your game loses focus, Steam will start streaming the desktop so that you can get back to it. This is a feature of Steam Remote Play.
@@ -133,24 +120,17 @@ General:
 * Streaming may not perform well when streaming to older systems with a single or dual core CPU and no hardware accelerated H264 decoding.
 * DirectInput controllers other than gamepad style controllers (wheels, flight controllers, etc.) are not currently supported. Other controllers using XInput are fully supported.
 * Certain games like "Rome: Total War" use older DirectX technology which is not currently supported.
-
   
 Windows:  
-
 * Streaming from a Windows XP host is not supported.
 * UAC dialogs prevent streaming. If you're a game developer, please avoid requiring elevated permissions to run your game.
-
   
 macOS:  
-
 * Streaming from a macOS host is supported on macOS 10.8 and newer.
-
   
 SteamOS / Linux:  
-
 * In order to support streaming game controllers on a Linux host computer, /dev/uinput or /dev/input/uinput needs to be readable and writable by Steam.
 * Currently, there is no rumble support for Linux machines.
-
   
   
   
@@ -187,11 +167,9 @@ If it's a specific game that is having the issue, please report which game is ha
   
 If all games are having the issue, please try the following:  
   
-
 * Update your video drivers on both computers, if you haven't already
 * Try disabling hardware encoding in the advanced host settings on the remote computer. If this works, please report your host video card and driver version to the [bug discussion group](http://steamcommunity.com/groups/homestream/discussions/1)
 * Try disabling hardware decoding in the advanced client settings. If this works, please report your client video card and driver version to the [bug discussion group](http://steamcommunity.com/groups/homestream/discussions/1)
-
   
   
   
@@ -216,11 +194,9 @@ This is a known incompatibility between NVIDIA hardware encoding and the hardwar
   
   
 ### I don't hear any audio when streaming a game
-
 * See if there is an audio error listed in logs\streaming_log.txt on the remote computer
 * See if audio or the Steam application is muted on the remote computer
 * See if audio is muted on the local computer
-
   
   
   
@@ -237,11 +213,9 @@ Some games run with elevated permissions and Windows prevents remote input from 
   
 The following is a list of known games with this limitation:  
   
-
 * Age of Empires 3
 * The Bard's Tale
 * Nether
-
   
   
 If you have a mouse and keyboard input problem with games not listed here, please report it on the [bug discussion group](http://steamcommunity.com/groups/homestream/discussions/1).  
