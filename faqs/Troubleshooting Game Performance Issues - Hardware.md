@@ -18,10 +18,14 @@ In some situations your CPU may slow down while you are playing a game. This can
 Most Valve games have a built-in command for monitoring your CPU speed. If you add "+cpu_frequency_monitoring 2" to your CS:GO command line then the CPU's speed will be measured every two seconds. The measured frequency is compared to how fast Windows says that the CPU is running and this percentage is displayed in the [cl_showfps](https://developer.valvesoftware.com/wiki/Cl_showfps) and net_graph displays. Under normal circumstances this percentage should be 90% or higher. If it is 80% or lower then it suggests that your CPU may be overheating and being thermally throttled. If these CPU slowdowns happen when your game is running slowly then it is reasonable to assume that they are the cause and that your CPU is overheating. Since this is a hardware problem (a properly designed PC should never overheat) the only solutions are hardware fixes, such as a better heat sink, better ventilation, etc. If this percentage is above 100% this means that your CPU is overclocking itself (Turbo Core or Turbo Boost) and is running well.  
   
 There are also some third-party tools that can be used to diagnose these problems.  
+
 * CPU-Z  ([http://www.cpuid.com/softwares/cpu-z.html](http://www.cpuid.com/softwares/cpu-z.html)) is a free tool that shows your CPU’s speed in real-time. If you run the game in a window and run CPU-Z beside it then you can monitor the CPU speed and see if it is dropping when the game slows down. Unfortunately, some types of thermal throttling are not correctly measured by CPU-Z.
+
 Since the main cause of CPU slowdowns is overheating, monitoring your CPU temperature is another way to diagnose what is happening.   
+
 * Real Temp ([http://www.techpowerup.com/realtemp/](http://www.techpowerup.com/realtemp/)) supports Intel processors only.
 * Core Temp ([http://alcpu.com/CoreTemp/](http://alcpu.com/CoreTemp/)) supports both Intel and AMD processors. Note that the maximum temperature allowed may vary considerably between manufacturers and models.
+
  Temperature monitoring will generally never show your CPU above its limits because modern CPUs slow down to avoid overheating. Anytime that the CPU temperature approaches the limits you should treat that as a likely problem. If your CPU is overheating then it usually means that the cooling system is not working correctly. This can be caused by poor design (too small a heat sink, or poor ventilation), by poor placement (a PC in a stereo cabinet may not get enough fresh air), or by dust accumulating on the vents, fans, and heat sinks. Make sure that your PC is getting enough cool room air, be careful that vents aren’t being blocked by carpet, and perhaps open up your PC and remove clumps of dust, or blow them away with compressed air.  
   
 ### Insufficient memory

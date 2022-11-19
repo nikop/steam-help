@@ -14,9 +14,11 @@ To verify that Primus is available on your system, run the following command: **
 There are two methods for using Primus with Steam. The first method involves running Steam on the Intel GPU and only selected graphically intensive games on the discrete GPU.  
   
 To make a game run using the discrete GPU, use these simple steps:  
+
 * Select a game - that you want to run using your discrete Nvidia card - from the **Library** page of the Steam client, right-click, and select **Properties...**.
 * On the **General** tab go to the section **LAUNCH OPTIONS** and enter the command: **primusrun %command%** for the command line.
 * Close the window. This method allows you to pick when the discrete NVidia GPU should be used on a per-game basis.
+
   
 The second method is not as efficient (in terms of power consumption) but quicker by running the Steam client and all games using Primus. From the command line, enter **primusrun steam** instead of **steam**. This is inefficient because all games do not require the power of an NVidia card and power consumption is greatly increased during a Steam client/game session.  
   

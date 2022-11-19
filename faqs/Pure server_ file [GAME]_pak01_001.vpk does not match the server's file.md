@@ -11,6 +11,7 @@ We highly recommend completing all the steps below before attempting to play Com
 * [Remove third party files from your install directory](#3pfiles)
 * [Reinstall the game](#reinstall)
 * [Replace faulting memory module(s)](#memory)
+
   
   ## What causes .vpk errors?
 VPK errors most often occur when third party files are added to your CS:GO install directory that are not included with the game’s default install. These files may be added when joining third party or community servers that download additional content (like sounds or images) unique to the server.  
@@ -19,12 +20,14 @@ VPK errors may also be caused by hard drive corruption or faulting memory module
   ## How do I fix .vpk errors?
   ### Remove third party files from your install directory
 A good first step to resolve .vpk errors is to remove files from your CS:GO directory that are not included with the game’s default install, then verify your game files. To do this:  
+
 * Open Steam and navigate to your LIBRARY.
 * Right click on CS:GO and select ‘Manage’ > ‘Browse Local Files’.
 * Browse to the following folders and delete all content inside: 
 * \Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
 * \Steam\steamapps\common\Counter-Strike Global Offensive\csgo\models
 * Once these folders are empty, [verify your game files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB). This will reacquire the game’s default files in these folders.
+
 Now that you have replaced any modified files with default files, re-test the issue.    
   ## Reinstall the game
 If removing third party files did not solve your vpk issues, try completely uninstalling CS:GO from your computer and re-downloading the game.  

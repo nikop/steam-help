@@ -7,21 +7,26 @@ Version 4
 # Bluetooth Low Energy Firmware FAQ
 You can now add Bluetooth Low Energy (BLE) functionality to your Steam Controller. This feature is required to enjoy the [Steam Link app](https://store.steampowered.com/steamlink/about), but may provide benefit in other use cases as well. This FAQ describes what this BLE connection can and cannot do compared to the original wireless solution, steps to update your controller to add BLE support, and how to switch between wireless modes once the update is installed.  
   
+
 * ### [When to use Bluetooth?](#use)
 * ### [How do I install this Firmware?](#how)
 * ### [How do I switch modes?](#switch)
 * ### [Troubleshooting](#recover)
+
   
   
  #### When is it a good idea to use Bluetooth?
 You'll want to use BLE mode when:  
+
 * Streaming games to your iOS and Android devices with the Steam Link app.
 * Connecting your Steam Controller to a tablet or laptop without a USB port.
 * You just can't find your Steam Controller Wireless Receiver.
+
   
 Otherwise we suggesting sticking with the original protocol. It provides the fastest connection, with low-latency support for up to four controllers per receiver, and works across all major operating systems. The BLE connection is excellent, but the native wireless protocol was designed from the ground up to provide the best experience for a Steam Controller.  #### How do I install this firmware?
 Be aware that the original wireless mode will still be available after adding Bluetooth support. However, the update process will clear all pairings, so you will need to reconnect your wireless receiver to your controller. The steps below guide you through the update and pairing process.  
   
+
 * [Opt into the latest Steam Client Beta](https://help.steampowered.com/en/faqs/view/276C-85A0-C531-AFA3)
 * Plug in your Steam Controller.
 * [Click here to start the firmware update flow](steam://UpdateFirmware), or follow the directions below
@@ -35,6 +40,7 @@ Be aware that the original wireless mode will still be available after adding Bl
 * Unplug your controller.
 * Select the **Add a Steam Controller** button on the Controller Settings page. This option only appears if a Wireless Receiver is currently plugged in.
 * Press **X + Steam Button** on your controller and **enter the 4 character Validation Code** that appears on the screen.
+
   
   
 Congrats! You have reconnected your controller to the Wireless Receiver. Next, connect over BLE by navigating to the **Add Bluetooth** option of your device. When prompted, press **Y + Steam Button** on your Steam Controller to make it discoverable.   #### How do I switch between modes?
@@ -64,10 +70,12 @@ Powering up with the Steam button only will connect you to the most recently use
 ### **Supported Operating Systems**
 Bluetooth connectivity is supported in:  
   
+
 * Windows 10
 * macOS
 * Ubuntu
 * SteamOS
+
     
   
  #### Troubleshooting
@@ -75,6 +83,7 @@ If something isn't working quite right, you can revert back to the previous firm
   
 A more detailed version of this process is as follows:  
   
+
 * Plug in your Steam Controller.
 * Navigate to the Controller Settings page. The **Bluetooth FW** button now appears as a **Rollback FW** button. Click it.
 * ![https://support.steampowered.com/images/faq/steam_link/_0004_5---rollback-landing.png](https://support.steampowered.com/images/faq/steam_link/_0004_5---rollback-landing.png)

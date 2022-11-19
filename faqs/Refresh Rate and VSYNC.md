@@ -13,6 +13,7 @@ Please follow these steps if you would like to change the refresh rate for your 
   
 # In Windows 10:
   
+
 * Select the **Start** button then **Settings** from the menu
 * From the window that appears select **System** and then **Display** from menu on the left side
 * At the bottom click the **Advanced display settings** link
@@ -20,15 +21,18 @@ Please follow these steps if you would like to change the refresh rate for your 
 * Click the link below the display's information **Display adapter properties for [Display #]**
 * Navigate to the **Monitor** tab and then pick a **Screen refresh rate** from the drop-down menu
 * Click **OK** to test your settings
+
   
   
 # Using the Nvidia Control Panel:
   
 *Specific steps may vary depending on the control software or model of your GPU. Please consult the documentation associated with your GPU.*  
+
 * Right-click on the Windows desktop and select **NVidia Control Panel**
 * Click on **Change Resolution**
 * Check the refresh rate and select the appropriate **Screen refresh rate** from the drop-down menu
 * Click **OK** to test your settings
+
   
   
 # Using AMD Radeon Software:

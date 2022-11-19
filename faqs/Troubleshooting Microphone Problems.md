@@ -39,6 +39,7 @@ Note: Your microphone will not work while you are in Spectator mode.
 # Bad Voice Quality
   
 Bad voice quality can stem from a few different causes. Below are some examples of situations where the quality is affecting the voice chat in-game:  
+
 * ### Feedback/Echoing
   
 Normally feedback will occur if you have your speakers cranked while using the mic. It is recommended that you use a headset with earphones so that your communication is clear to other players. Certain low-grade microphones are omni-directional, meaning they will pick up sounds from all directions - including your stereo/surround speakers. Turn your audio devices down and see if your voice quality improves.
@@ -50,14 +51,17 @@ Certain microphones need a boost. This can be configured by checking the operati
 Many times bad voice quality is due to a faulty cable or a bad connection. Check the connection of your mic to your PC. If the connection is loose, it may be the reason why your voice quality is not clear. If you experience the same issue in other applications, you may want to consider getting a different mic to test with. Inexpensive, low-grade mics have often times been shunned on quality to keep the price low.  
   
 Also, make sure the mic is not too close to your mouth. If it is touching your face or lips as you use it, put it away so that it is about 1 inch away from your mouth. If there's no windscreen on the mic itself, try moving it even further away.
+
   
   
   
 # Effective Troubleshooting
   
 To effectively troubleshoot any technical issue, it's good to have a plan to consistently narrow down the potential cause with each step taken. A system that should be applicable to many cases follows, but make sure that you tailor it to your specific problem and setup:  
+
 * Take steps to determine if the problem is hardware or software.
 * Determine if the problem is universal, or unique to a specific situation.
 * Check to make sure that all settings are inherited correctly. Is your operating system using the correct device? If applicable (if the game uses Steam Voice systems) is Steam using the correct device? Do the game's settings reflect the correct device?
+
   
 As a basic starting place, answering these questions should help direct your troubleshooting efforts.

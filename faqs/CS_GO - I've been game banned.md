@@ -13,6 +13,7 @@ CS:GO game bans are permanent, non-negotiable, and cannot be removed by Steam Su
 * [/exclude_realm]  	[exclude_realm=china]
 * [Can I vote on CS:GO Steam Workshop content with a CS:GO game ban?](#voting)
 * [/exclude_realm]
+
   
   ## Why are game bans issued?
 Game bans in CS:GO are issued when a player attempts to circumvent or interfere with game systems to the detriment of others.  
@@ -22,6 +23,7 @@ Examples include:
 * Manipulation of matchmaking rank by deranking or falsely increasing your Skill Group.
 * Botting and/or automation.
 * Intentionally interfering with the normal operation of game servers or other players.
+
 Game Bans for all of the above are not removed by Steam Support.  
   ## Can you tell me why I was game banned?
 No. We do not disclose the reason for your game ban.   

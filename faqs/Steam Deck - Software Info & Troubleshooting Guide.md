@@ -4,10 +4,12 @@ Version 2
 
 ### First steps
 **Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:**  
+
 * To address issues with system instability, install any available system updates (Steam > Settings > System > Software Updates) and restart your Steam Deck (from the Software Updates section or via Steam > Power > Restart).
 * To address issues with instability in applications running through Steam, exit or disable any third party applications that you have installed via Desktop Mode and restart your Steam Deck (Steam > Power > Restart).
 * For non-Steam application instability, exit or disable any other third party applications that you have installed via Desktop Mode and restart your Steam Deck (Steam > Power > Restart). You should also contact the application's product support team if your issue persists.
 * Found a bug? You can submit bug reports to the forum [here](https://steamcommunity.com/app/1675200/discussions/1/).
+
    
 ---
   

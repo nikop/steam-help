@@ -4,6 +4,7 @@ Version 6
 
 There are a few different reasons why you may be unable to trade or use the Community Market. The reason is typically shown when you try to initiate a trade or perform an action on the Community Market.  
   
+
 * [Trade or Market Hold](#itemhold)
 * [Recently Cancelled An Accepted Trade](#cancelled)
 * [Limited User Accounts](#limited)
@@ -18,6 +19,7 @@ There are a few different reasons why you may be unable to trade or use the Comm
 * [Current Trade or Community Ban](#ban)
 * [VAC Ban](#vac)
 * [Additionally](#games)
+
   
 **Important:** Steam Support cannot modify trading or Community Market restrictions, regardless of the circumstances under which your account became restricted.  
   
@@ -111,6 +113,7 @@ See the [VAC FAQ](https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74
   
 ### Additionally
   
+
 * Items purchased in-game or on the Community Market will not be tradable or marketable until after the date indicated on the item [in your Inventory](http://steamcommunity.com/my/inventory).
 * Dota 2 - Timed drops are not tradable or marketable.
 * Rarely, accepting a Steam digital gift card may incur a market restriction. You will be notified prior to accepting the digital gift card if such a restriction will be applied, and when it will expire. More information regarding digital gift cards can be found in the [Digital Gift Card FAQ](https://store.steampowered.com/digitalgiftcards/selectgiftcard).

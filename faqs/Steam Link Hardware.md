@@ -13,6 +13,7 @@ Steam Link technology is also available for [Android Devices](https://help.steam
 [*]A computer running Steam, Windows 7 or newer, Mac OS X 10.10 (Yosemite) or newer, SteamOS, or Linux Ubuntu 12.04 or newer.[/*]  			[*]A TV or display capable of running at 720p or 1080p resolution[/*]  			[*]Home network connectivity to both Steam Link and host computer. Wired network strongly recommended.[/*]  			[*]Any of the input devices listed below[/*]  
   
 #### Supported Input/Controllers
+
 * [The Steam Controller](https://store.steampowered.com/app/353370/Steam_Controller/)
 * The official Microsoft Xbox One Wired Controller
 * The official Microsoft Xbox One S Controller (wired or wirelessly using Bluetooth)
@@ -25,15 +26,18 @@ Steam Link technology is also available for [Android Devices](https://help.steam
 * Razer Kishi and Raiju controllers
 * SteelSeries Stratus Duo
 * Keyboard and mouse
+
   
   
 *Please note: other input devices may work even if they aren’t officially supported.*  
   
 #### Getting Started
+
 * Turn on your home PC, launch [Steam](https://store.steampowered.com/about/), and log in.
 * Power your Steam Link with the power adapter, plug in to a display device (HDMI), and connect to your home network.
 * Plug a controller, mouse, or keyboard into one of the USB ports on your Link. Follow the on-screen instructions to locate computers running Steam on your home network, then choose one and start streaming games to your TV!
 * Once you’ve gotten everything running, you can pair the Steam Controller directly to the Link, without using a wireless USB receiver.
+
   
   
 If you have questions about the app or need help using it, just click the appropriate tab.  
@@ -41,9 +45,11 @@ If you have questions about the app or need help using it, just click the approp
 [expand type=title title="Frequently Asked Questions"] #### Why is my Steam Link unable to find my host computer?
 There are a number of factors that can cause this issue, please try the following steps:  
   
+
 * Make sure you are on the same home network and that Steam is running
 * Enable streaming from the Remote Play settings menu in the Steam client
 * If possible, connect all devices directly to the router with an Ethernet cable
+
   
   
 #### Why can’t I connect to my host computer?

@@ -9,26 +9,32 @@ Version 3
 The Vive comes with a headset, 2 base stations, 2 controllers, cables and adapters, base station mounting kit, alternate shape face cushion, and earbuds.  
   
 ### **What do I need to install my Vive?**
+
 * A VR Ready computer ([run the performance test here](http://store.steampowered.com/app/323910/)) with 1 free HDMI port on your graphics card and 1 free USB port
 * A monitor, keyboard and mouse
 * An internet connection
 * You may need a drill if you choose to mount your base stations using the included mounting brackets.
+
   
   
 ### **What if I don't have a spare HDMI port?**
 If you don’t have a free HDMI port, you can use a DisplayPort to Mini DisplayPort cord (not included) to connect your Vive to your PC.  
   
 ### **What should I do to get ready for my Vive?**
+
 * [Make sure your PC is VR ready](http://store.steampowered.com/app/323910/)
 * [Download Steam and create a Steam account](http://www.steampowered.com)
 * Update your graphics drivers - [NVIDIA](http://www.nvidia.com/Download/index.aspx?lang=en-us), [AMD](http://support.amd.com/en-us/download)
 * Pick a room for your VR area
+
   
   
 ### **What should I think about when picking a VR area?**
+
 * Make sure your room has enough space (see below for space requirements).
 * Your headset will be tethered to your PC - make sure your play area is nearby.
 * Your base stations will each need a power outlet, and an unobstructed view of the other base station, plan their location with this in mind.
+
   
   
 ### **Room Examples**
@@ -42,10 +48,12 @@ In addition to room scale VR, Vive supports seated and standing VR experiences, 
 ### **Do I have to drill holes in my walls to mount my base stations?**
 In addition to the included mounting brackets there are plenty of other options:  
   
+
 * Tripods and light stands (Base stations use a standard ¼” UNC threaded mount)
 * Braced floor to ceiling pole with clamp mounts
 * Placing base stations at the edges of high bookshelves can also work in a pinch, though you may lose some tracking when standing beneath them.
 * Note: For the best experience, your base stations should be above head height, stable, pointed down 30-45 degrees, and have an unobstructed view of each other.
+
   
   
 ### **I have glasses, should I use contacts instead?**

@@ -11,18 +11,22 @@ First, we suggest that you check with the members of your household, family or f
 We strongly suggest that you contact us before filing a dispute with your bank or with PayPal as we can return the funds to you without any paperwork or claim forms. We will also ban your payment account from our system so that it cannot be used again. As part of this process, we can also investigate the fraudulent individual's Steam account(s) and take appropriate action against them.  
   
 ### Information to submit for unrecognized Credit Card charges:
+
 * The approximate date of the charge
 * The exact amount of the charge as it appears on your statement
 * The type of card that was used (Visa, MasterCard, American Express, Discover, etc.)
 * The last 4 digits of the credit card
 * A phone number that we can use to reach you if necessary
+
     ### Important:
 Many bank accounts have multiple cards attached to them. If a family member also has a card with a different number that is attached to the bank account that was charged, you may need to provide the requested information for that card as well.  ###   
 ### Information to submit for unrecognized PayPal charges:
+
 * The approximate date of the charge
 * The exact amount of the charge as it appears on your statement
 * The Order Description and Invoice ID from your PayPal billing statement for this charge
 * A phone number that we can use to reach you if necessary
+
   
   
   ### Warning:

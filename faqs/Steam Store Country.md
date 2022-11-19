@@ -7,6 +7,7 @@ Version 4
 * [What do I do if I’m a new user that is currently traveling?](#newuser)
 * [What if I spend time in more than one country?](#multiple)
 * [What if I use an APO address?](#apo)
+
   
   
 Your store region is set based on the location of your first Steam purchase. Your region can be found under [Account Details](https://store.steampowered.com/account/) seen below. While traveling, the Steam store will show your region's prices and you will be able to make purchases as you would from home.  

@@ -7,6 +7,7 @@ Version 3
 * [Why are trade holds necessary?](#3)
 * [How does it work?](#4)
 * [How can I remove the need for a trade or market hold?](#5)
+
   
   
 If you are not able to protect your account with a [Steam Guard Mobile Authenticator](https://help.steampowered.com/en/faqs/view/7EFD-3CAE-64D3-1C31), a hold will temporarily be placed on items moving away from your account. Trade and market holds protect items if a user's account is compromised. These holds also give users a way to recover items before they are lost. Even if a hijacker manages to access your account, you can prevent them from stealing your items by canceling any transactions that are on hold.  

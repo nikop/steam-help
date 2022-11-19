@@ -7,6 +7,7 @@ Version 3
 * [I never received the verification email message from Steam Support. What should I do?](#noemail)
 * [What do I do if I no longer have access to the contact email account on record with Steam?](#lostemail)
 * [What can I expect to change once my email address has been verified?](#change)[
+
   
   
 ## Why should I verify my email address?
@@ -23,18 +24,22 @@ Verifying your email address with Steam is a simple process:
   
 #### On Windows
   
+
 * Right-click on the Steam icon in the System Tray and select **Settings** or press click **Settings** in the Steam option in the upper left corner of the client.
 * Click on the **Verify email address** button.
 * Follow the on-screen instructions.
 * You should then receive an email message from Steam Support.
 * Click the unique link provided in this email message to finish verifying your email address. The web page which then launches will confirm your success.
+
   #### On Mac
   
+
 * Open Steam and click on **Steam > Preferences**
 * Click on the **Verify email address** button.
 * Follow the on-screen instructions.
 * You should then receive an email message from Steam Support.
 * Click the unique link provided in this email message to finish verifying your email address. The web page which then launches will confirm your success.
+
   
   
 ## I never received the verification email message from Steam Support. What should I do?

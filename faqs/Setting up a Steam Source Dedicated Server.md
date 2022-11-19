@@ -4,6 +4,7 @@ Version 9
 
 How do I set up a Source Dedicated Server?  
   
+
 * [Setting up a Steam Dedicated Server Account](#account)
 * [Starting the Steam Source Dedicated Server](#start)
 * [Steam Source Dedicated Server Options](#options)
@@ -12,6 +13,7 @@ How do I set up a Source Dedicated Server?
 * [Kicking or Banning Players from the Server](#kick)
 * [Managing Steam Source Dedicated Server Bans](#manageban)
 * [Steam Source Dedicated Server Console](#console)
+
   
   
 #### Setting up a Steam Dedicated Server Account
@@ -35,6 +37,7 @@ You do not need to register any games to your server account in order to host ga
 * UDP Port: Specifies the port you would like your server to use. **Default: 27015**
 * RCON Password: Set a password for remote access to the server.
 * Secure (Valve Anti-Cheat) **Checked** : VAC enabled on the server **Unchecked** : VAC disabled on the server
+
 After adjusting the server to your liking, press the **Start Server** button.  
   
 #### Steam Source Dedicated Server Options
@@ -42,12 +45,14 @@ After adjusting the server to your liking, press the **Start Server** button.
 ![{STEAM_CLAN_IMAGE}/1976/17dd8eaf66978360cfc8143ecb22bccb6ae06a59.jpg]({STEAM_CLAN_IMAGE}/1976/17dd8eaf66978360cfc8143ecb22bccb6ae06a59.jpg)  
   
 You can change all of the following values without restarting the server (To edit a value, double-click on its name):  
+
 * Server Name
 * Map
 * Network
 * RCON Password
 * Player Password: Specifies a password players must enter in order to play on your server. This is a good option to implement if you wish to play only with your friends.
 * Map Cycle: Specifies the maps you wish to play and the order in which they appear. The maps will cycle according to either your **Map time limit** or **Max win** settings available from the **Configure** tab.
+
   
   
 #### Steam Source Dedicated Server Configuration
@@ -57,6 +62,7 @@ You can change all of the following values without restarting the server (To edi
 From the **Configure** tab, you may specify how your server runs and implement various server rules.  
   
 [h5]Menu Settings[/h5]  
+
 * Time limit: Specifies a time limit on each map. **Default** no limit
 * Win limit(rounds): Specifies a limit on wins one team can have before a map change. **Default** no limit
 * Round limit(rounds): Specifies a limit for the number of rounds you play on each map. **Default** no limit
@@ -67,6 +73,7 @@ From the **Configure** tab, you may specify how your server runs and implement v
 * Footsteps: Specifies whether players can hear footsteps of other players. **Default** enabled
 * Death camera type: Specifies players’ Camera view after dying.  
 Values:  
+
 * Spectate Anyone: A player can watch any other player in the game.
 * Spectate team only: A player can watch only his own team players in the game.
 * Only First Person: A player can only move the camera to look in different locations while bound to where the player died. The player cannot follow other players, or move about the map freely.
@@ -78,6 +85,7 @@ Values:
 * Kick players who team kill at this early in the round (seconds): Specifies the amount of time that the server will kick a player for killing a team member at the beginning of a round. **Default** 5
 * Kick hostage killers (kills allowed, 0 is off): Specifies the number of hostages a player can kill before being kicked from the server. **Default** 13
 * Allow Flashlight: Flashlight can be used by players. **Default** disabled
+
   
 #### Viewing Steam Dedicated Server Statistics
   
@@ -88,12 +96,14 @@ The Steam Dedicated Server offers a variety of viewable statistics. You can view
 You can change the **Vertical Units** to display the range of any one of these stats.  
   
 [h5]Display Options[/h5]Checkboxes:  
+
 * Players Display player number statistics
 * Ping Display server ping
 * In Display ping in
 * Out Display ping out
 * CPU Display CPU usage
 * FPS Display frames per second
+
   
   
 #### Kicking or Banning Players from the Server

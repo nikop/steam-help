@@ -9,15 +9,20 @@ Unfortunately, Steam Support is unable to provide assistance with API, Source SD
   
 ### Web APIs
   
+
 * [Steam Web API Documentation](http://steamcommunity.com/dev)
 * [Community Data](https://partner.steamgames.com/documentation/community_data)
+
      ### Dedicated Servers
+
 * [Source Dedicated Server (Windows)](https://steamcommunity.com/discussions/forum/13/)
 * [Source Dedicated Server (Linux)](https://steamcommunity.com/discussions/forum/14/)
 * [Half-Life Dedicated Server (Windows)](https://steamcommunity.com/discussions/forum/15/)
 * [Half-Life Dedicated Server (Linux)](https://steamcommunity.com/discussions/forum/16/)
+
       
  ### SDK
+
 * [Valve Developer Community Wiki](https://developer.valvesoftware.com/wiki/Main_Page)
 * [Source SDK General Discussion](https://steamcommunity.com/discussions/forum/17/)
 * [Source Level Design](https://steamcommunity.com/discussions/forum/18/)

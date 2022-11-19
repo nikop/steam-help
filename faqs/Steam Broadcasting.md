@@ -5,24 +5,30 @@ Version 5
 Steam Broadcasting allows you to watch your friends play their favorite games. You can also set up Broadcasting to allow others to watch you play.  
   
 Read more about this feature from the [official update](https://steamcommunity.com/updates/broadcasting).  
+
 * [Watching a Broadcast](#watch)
 * [Setting up a Broadcast](#setup)
 * [Frequently Asked Questions](#faq)
 * [Troubleshooting Broadcasting Issues](#issues)
+
   
   
  #### Watching a Broadcast
 There are a number of ways to watch broadcasts throughout the Steam Community:  
+
 * Find public broadcasts on the community [Broadcast](https://steamcommunity.com/?subsection=broadcasts) home page. Broadcasts are also available within each product's Community Hub.
 * You can watch your friends play by selecting *Watch Game* from the drop down next to friend's name in your friends list.
+
  [url id=setup][/url] #### Setting up a Broadcast
 As soon as you start playing a game, your friends will be able to send you a request to watch.  
   
 [h5]Broadcast Settings[/h5]The first time a friend requests to watch your game, you'll be presented with Broadcasting settings. You can access these settings at any time from the broadcast tab of your *Steam > Settings* inside the client:  
+
 * Broadcast is disabled
 * Friends can request to watch my games (default)
 * Friends can watch my games
 * Anyone can watch my games (public broadcast, can be found in the associated game hub)
+
  [h5]Ending a Broadcast[/h5]Exiting the game will end your broadcast. Alternatively, at any time you can press *Stop* from the Broadcast panel in the Steam Overlay (shift+tab).  
   
 [h5]Inviting Friends[/h5]You can invite friends to watch your game by selecting *Invite to Watch* from the drop down next to their name in the Friends List.  
@@ -43,18 +49,22 @@ By default, Steam will only record audio from the game you are currently playing
   
   
 [h5]What are the browser requirements for watching?[/h5]Steam Broadcasting is currently supported by the following browsers:  
+
 * Steam Client
 * Google Chrome (version 39+)
 * Apple Safari (version 8+ on macOS)
 * Internet Explorer (version 11 on Windows 8; not supported on other versions of Windows)
 * Mozilla Firefox (version 42+)
+
   
 The above do not apply for mobile devices. Steam broadcasts are not currently supported on iOS devices.  
   
   
 [h5]What are the account requirements for broadcasting?[/h5]Accounts that meet the following requirements are able to broadcast games:  
+
 * Have made a purchase on Steam and are therefore [non-limited accounts](https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A)
 * Are not currently Community Banned
+
   
   
   
@@ -79,9 +89,11 @@ The above do not apply for mobile devices. Steam broadcasts are not currently su
   
   
 [h5]How do I change the bit rate, video dimensions, microphone, and desktop settings?[/h5]For advanced Broadcast settings:  
+
 * Go to the upper left in the Steam client and select *Steam* and then *Settings*
 * Select the *Broadcasting* tab on the left  
 ![{STEAM_CLAN_IMAGE}/1976/1670e5f1d3da769927d4b03ed757d612e27e934d.png]({STEAM_CLAN_IMAGE}/1976/1670e5f1d3da769927d4b03ed757d612e27e934d.png)
+
   
   
 [h5]What operating systems can I broadcast from?[/h5]Steam Broadcasting is currently supported through the Steam Client on Windows 7, 8, and 10. Linux and macOS will be supported in the future.  

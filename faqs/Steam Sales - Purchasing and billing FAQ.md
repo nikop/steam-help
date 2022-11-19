@@ -3,6 +3,7 @@ Updated 2021-08-12 22:19:41
 Version 8  
 
 # Common Questions
+
 * [Where did my Steam Wallet funds go?](#misswal)
 * [Do I get an extra copy to gift if I own a game twice?](#xtrac)
 * [The "Purchase as a gift" option is not available on checkout. Why?](#giftpur)
@@ -11,6 +12,7 @@ Version 8
 * [I have a coupon that I wish to use. Does it stack with a Steam Sale?](#coupons)
 * [How can I avoid missing sales for the games that I want?](#wishlist)
 * [What other resources are there for billing issues?](#other)
+
     
   
 # Common Questions
@@ -36,9 +38,11 @@ We are unable to refund the difference in price; however, you [may request a ref
 #### I cannot find the content that the Steam Store says that I own. Why?
   
 Due to current technical limitations, The Steam Store may show that you own a special edition of a game when you actually only own the base version. You can check your purchase/activation history to determine which version of this game you own using the following method:  
+
 * Log in to your Steam account through the Steam application.
 * In the upper right hand corner, click your profile name and select "Account Details" from the drop down list.
 * Click on "View purchase history" to list your Steam Store transactions, Market purchases, and in-game items or currency purchases. The details include the date of purchase, name of the game or item(s) purchased, and the transaction amount.
+
   
 #### I have a coupon that I wish to use. Does it stack with a Steam Sale?
   
@@ -47,8 +51,10 @@ Unless clearly stated otherwise, promotions such as coupons or loyalty discounts
 #### How can I avoid missing sales for the games that I want?
   
 Steam's Wishlist feature can be used to receive a notification when a game that you want goes on sale. You can find more information on how to use the Steam Wishlist feature here:  
+
 * [The Steam Wishlist Feature](https://help.steampowered.com/en/faqs/view/0CAD-3B4D-B874-A065)
 * [Email Preferences](https://store.steampowered.com/account/emailoptout)
+
   
 #### What other resources are there for billing issues?
   

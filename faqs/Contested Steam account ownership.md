@@ -11,8 +11,10 @@ Buying, selling, trading, or gifting a Steam account is a violation of the [Stea
   
 ## What does it mean?
 An account is considered contested only if **both** of the following two requirements are met:  
+
 * Two or more different users are trying to claim ownership of the Steam account
 * Two or more of the users that are attempting to contest ownership are able to provide roughly equal levels of proof of ownership for that Steam account
+
   
 When two separate users are able to provide proof of ownership for an account, Steam Support must ask for escalated forms of proof of ownership to determine the rightful owner.  
   
@@ -27,14 +29,17 @@ Steam Support can usually restore an account to the contesting individual that p
 For more information about providing proof of ownership, check out the [Providing Proof of Ownership](https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A) article  
   
 Contested accounts take significant time to investigate, and Steam Support may request additional information from you to verify ownership.  
+
 * Secure your computer and email accounts
 * Provide the oldest proof of ownership for your account that you can
 * Wait for further instructions from Steam Support
+
   
   
   
 ## How can I prevent my account from becoming contested?
   
+
 * Do not purchase Steam accounts from other users
 * Do not share your account
 * Do not use account creation services
@@ -42,6 +47,7 @@ Contested accounts take significant time to investigate, and Steam Support may r
 * Keep your Steam account's attached email account secure
 * Do not activate CD Keys from untrusted sources
 * Never allow anyone else to log in to your account to add funds to your Wallet as part of a sale or trade
+
   
   
 Avoid granting others access to your account. In addition to being incredibly risky, it's also a violation of the SSA. Even a trusted friend could attempt to take full control of your account, or make a mistake with your credentials and give your account to a hijacker.   

@@ -13,6 +13,7 @@ General information on the Overwatch System can be found [here](https://help.ste
 * [Can I appeal my Overwatch ban?](#appeal)
 * [I believe I was reported by low skill players for cheating which resulted in my Overwatch ban. Can the ban be removed?](#lowskill)
 * [Can I move my CS:GO items to a different Steam account?](#items)
+
   
   ## How are Overwatch bans issued?
 Overwatch bans are issued when selected members of the CS:GO Community, called 'Investigators', watch a replay from a reported player's match and vote on one or many offenses they believe the player, known as the 'Suspect', committed.  

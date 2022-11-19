@@ -20,6 +20,7 @@ VAC bans are permanent, non-negotiable, and cannot be removed by Steam Support. 
 * [Can I vote on Steam Workshop content in the game I have been VAC banned from?](#voting)
 * [/exclude_realm]
 * [Does my VAC ban affect my ability to send games as gifts?](#gifts)
+
   
   ## Why was I VAC banned?
 VAC bans are applied when an account, or an account using the phone number tied to other accounts, connects to a VAC-secured server while running cheat software.  
@@ -47,7 +48,9 @@ Cheating in one of the following Source games or a Source mod will result in a V
 * Half-Life 2: Deathmatch
 * Day of Defeat: Source
 * Team Fortress 2
+
 Similarly, cheating in one of the following Gold Source games will result in a VAC ban for all games in the list below:  
+
 * Counter-Strike
 * Counter-Strike: Condition Zero
 * Ricochet
@@ -55,6 +58,7 @@ Similarly, cheating in one of the following Gold Source games will result in a V
 * Team Fortress Classic
 * Half-Life: Deathmatch
 * Deathmatch Classic
+
       
   ## How do VAC bans relate to phone numbers?
 VAC bans are applied to all accounts sharing a phone number at the time of the infraction. For this (and many other) reasons we do not recommend sharing your phone number or using another user's phone number on your Steam account. Accounts sharing the phone number that do not own the game the VAC ban is for will still receive a VAC ban and will not be able to purchase the game moving forward.  

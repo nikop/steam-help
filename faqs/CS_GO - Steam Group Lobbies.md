@@ -9,6 +9,7 @@ Version 3
 * [Can I prevent members of a Steam Group from joining my lobby?](#preventmember)
 * [Why don't I see Steam Group Lobbies for all of the groups I've joined on Steam?](#nolobbies)
 * [Where can I find groups to join?](#findgroups)
+
   
   ### What is a Steam Group Lobby?
 A Steam Group Lobby is a 'Play With Friends' lobby that can be joined by any member of a selected Steam Group. The Steam Group is specified by the lobby leader.  

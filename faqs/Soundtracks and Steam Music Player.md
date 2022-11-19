@@ -11,6 +11,7 @@ With the Steam Music Player, you can access all of your soundtracks as well as a
 Soundtracks are automatically added to your Library when purchased, but you'll still need to install them.  
   
 The method for installing a soundtrack depends on what type of app it is. All new soundtracks are delivered as *music apps*. For some older soundtracks, you'll need to install the game they are associated with in order to access them as DLC. We're in the process of converting all pre-exisiting DLC sountracks to music apps  
+
 * ### From the Steam Store tab:
   
 On the soundtrack storepage, select the *Play Now* button. This will bring up an installation dialog where you can specify installation options. Once finished, your soundtrack will be included in your Steam Music Library.
@@ -20,6 +21,7 @@ Select the dropdown below the *Home* button in the upper left corner and check t
 * ### From the game installation folder:
   
 In very rare cases, the soundtrack is included with the game as bonus content. In these cases, the music files are included when the game is installed. You'll need to browse to the installation folder to look for them. You can right-click the game in your Library and select *Manage > Browse local files*.
+
     
   
 ## How do I access the music player?

@@ -4,6 +4,7 @@ Version 3
 
 * [Why would a Steam account be restricted?](#whyrestrict)
 * [What types of restrictions can be applied to a Steam account?](#restrictiontypes)
+
     
 Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
   
@@ -17,6 +18,7 @@ Steam Support does not contact the owners of restricted accounts by email in mos
   
 **All accounts** owned by an individual may be restricted for any violation of the [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/) or [Steam Community Guidelines](https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B) including but not limited to:  
   
+
 * ### Piracy or Hacking
 This includes using an unauthorized ("hacked") Steam client to access Steam, attempting to register fake CD Keys or attempting to register a CD Key which has been published on the internet.
 * ### Payment Fraud
@@ -33,6 +35,7 @@ Accounts which have been bought, sold or traded will be restricted.
 This includes any type of scam targeting a Steam user over Steam Chat or other systems outside of Steam, or deliberately submitting false information to Steam Support.
 * ### Abuse and Harassment
 An account used to abuse or harass others will be blocked from using Steam Community features.
+
   
   
   

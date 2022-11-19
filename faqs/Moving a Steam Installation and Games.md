@@ -5,6 +5,7 @@ Version 10
 * [How do I change the default installation path for my games?](#default)
 * [How do I move a game's installation folder?](#move)
 * [How do I move my existing Steam Installation?](#exist)
+
   
 #### How do I change the default installation path for my games?
 Games are installed to the following folder by default:  
@@ -13,15 +14,18 @@ Games are installed to the following folder by default:
   
 You can create an alternate location on any drive, which you can choose in the future when installing games.  
   
+
 * Navigate to your Steam client 'Settings' menu.
 * Select 'Steam Library Folders' from the 'Downloads' tab.![https://support.steampowered.com/images/faq/client/add_library1.jpg](https://support.steampowered.com/images/faq/client/add_library1.jpg)
 * From here, you can view your default installation path, as well as creating a new path by selecting '+' button.![https://support.steampowered.com/images/faq/client/add_library2.jpg](https://support.steampowered.com/images/faq/client/add_library2.jpg)
 * Once you have created the new path, all future installations can be installed there.
 * You can click the '...' button and select 'Make Default' to set it as a default.
 * If you wish to move existing games without having to uninstall them, please see the instructions below.
+
   
 #### How do I move a game's installation folder?
 To move a game's installation folder on your computer to a different location on that same computer you can use Steam's "Move install folder..." feature. To use this option do the following:  
+
 * Make sure you have a different Steam Library folder created to move to (see the instructions in [how to add a Steam Library folder](#default) above)
 * Go to your Steam Library
 * Find the game in your Library you want to move
@@ -29,6 +33,7 @@ To move a game's installation folder on your computer to a different location on
 * Select the "Local Files" tab and then select "Move install folder..."  
 ![{STEAM_CLAN_IMAGE}/1976/389503c9e4ebfeeaf15f4ae9ec7b5e3ba14eb36b.png]({STEAM_CLAN_IMAGE}/1976/389503c9e4ebfeeaf15f4ae9ec7b5e3ba14eb36b.png)
 * From the drop down menu you can then select the Steam Library folder location you want to move the game's installation to.
+
   
 #### How do I move my existing Steam Installation?
   ### Important:
@@ -39,17 +44,20 @@ It is **highly** recommended that you create a backup of your steamapps folder b
   
 The following instructions are a simple way to move your Steam installation along with your games:  
   
+
 * Exit the Steam client application.
 * Navigate to the Steam installation folder. The default installation location is: `C:\Program Files (x86)\Steam`
 * Delete all of the files and folders except the *steamapps* and *userdata* folders and *steam.exe*
 * Cut and paste the whole Steam folder to the new location, for example: `D:\Games\Steam\ `
 * Launch Steam and log into your account.
+
   
   
 Steam will briefly update and then you will be logged into your account. For installed games, [verify integrity of game files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) and you will be ready to play. All future game content will be downloaded to the new folder (D:\Games\Steam\steamapps\ in this example)  
   
 If you encounter any errors during the move process or when Steam is launched from the new location, it may be necessary to perform a more thorough process:  
   
+
 * Exit the Steam client application.
 * Navigate to the new Steam installation folder. Continuing from the last section's example, the new location would be: `D:\Games\Steam\ `
 * Move the *steamapps* folder from the Steam installation folder to your desktop.

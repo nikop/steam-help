@@ -12,10 +12,12 @@ Timed drops are awarded to players simply for completing matchmaking games; win 
 ### Item Drop Restrictions
 Steam and Dota accounts that are currently in any of the following states do not qualify for item drops or achievements:  
   
+
 * [Locked or suspended accounts.](https://help.steampowered.com/en/faqs/view/4F62-35F9-F395-5C23)
 * [Accounts with a VAC ban in Dota.](https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74)
 * [Accounts that are currently placed in Dota's Low Priority Matchmaking pool.](https://help.steampowered.com/en/faqs/view/0438-BAAC-F9CE-BA22)
 * An account that has been marked as an abandoner in the current game will not qualify for any drops or achievements. This is the case even if they reconnect and finish the game after being flagged for abandoning.
+
 Note: Items received as a drop cannot be sold on the Market, but can be gifted to an eligible friend.   
   
 ### Missing Rewards
