@@ -1,7 +1,7 @@
 Where to buy Steam Wallet Codes
 -------------------------------
-Updated 2022-10-25 23:04:37
-Version 32
+Updated 2022-11-24 01:15:18
+Version 33
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 
@@ -274,6 +274,7 @@ Romania
 [*][url=https://www.carrefour.ro]Carrefour[/url] [/*]
 [*][url=https://www.ecco-shoes.ro]Ecco[/url] [/*]
 [*][url=https://www.penny.ro]Rewe Penny[/url] [/*]
+[*][url=https://selfpay.ro/]SelfPay[/url] [/*]
 [/list]
 [h3]
 Slovakia
@@ -328,9 +329,10 @@ Saudi Arabia
 Turkey
 [/h3]
 [list]
+[*] [url=https://www.gamesultan.com/Oyun/steam-cuzdan-kodu]Game Sultan[/url] [/*]
 [*][url=https://www.oyunfor.com/steam-wallet-card/steam-cuzdan-kodu]Oyunfor[/url] [/*]
+[*] [url=https://oyuneks.com]Oyuneks[/url]
 [*] [url=https://www.perdigital.com/online-oyun/steam/steam-cuzdan-kodu-tl]Perdigital[/url] [/*]
-[*][url=https://www.gamesultan.com/Oyun/steam-cuzdan-kodu]Game Sultan[/url] [/*]
 [/list]
 [/expand][expand type=title title="Africa"]
 [h3]
