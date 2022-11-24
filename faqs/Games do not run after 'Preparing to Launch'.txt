@@ -24,7 +24,6 @@ For Mac users:
 [*][url=#sysreqmac]Check the game's system requirements[/url] [/*]
 [/list]
 [section style=important]Games may not launch for a number of reasons, most of which are hard to diagnose due to the number of unique hardware and software configurations users have. When it appears games aren't launching this is because they're crashing immediately after launching for various reasons, many of which can be self-solved.
-
 The information in this article is written as a general guide to help rule out common issues and should be followed after a fresh restart of your machine. If the information here does [i]not[/i] help we recommend reaching out to the game's developer for in-depth support. It may also be necessary to see a local PC technician for help with your individual configuration.
 [/section]
 [h1]Windows users[/h1]
@@ -51,7 +50,6 @@ If a game won't launch, this is often caused by corruption in your extracted gam
 Disable non-essential software
 [/h3]
 Games may not launch if you're running software which interferes with Steam. Please see our [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere with Steam[/url] article for detailed information on software conflicts you may be experiencing.
-
 While the article may be long, the information included is helpful in eliminating common software conflicts which may prevent games from launching.
 [/section]
 [section id=sysreq]
@@ -83,9 +81,7 @@ As with Windows, if a game won't launch this is often caused by corruption in yo
 Disable non-essential Mac applications
 [/h3]
 Please disable non-essential background applications that may interfere with Steam.
-
 Some common Mac software that is known to interfere with Steam includes [b]Little Snitch[/b], [b]Peer Guardian[/b] and [b]Norton/Symantec Internet Security[/b].
-
 If you have enabled the internal Mac firewall, this may also interfere.
 [/section]
 [section id=sysreqmac]

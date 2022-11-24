@@ -12,8 +12,7 @@ For most graphics cards, you will be able to easily download and install the lat
 [*]NVIDIA - [url=https://www.nvidia.com/Download/index.aspx]https://www.nvidia.com/Download/index.aspx[/url]
 [*]AMD - [url=https://www.amd.com/support]https://www.amd.com/support[/url]
 [/list]
-Use your Operating System, video card name & manufacturer, and driver version information to search your video card or computer manufacturer's site for updated drivers which will be compatible with your system. 
-
+Use your Operating System, video card name & manufacturer, and driver version information to search your video card or computer manufacturer's site for updated drivers which will be compatible with your system.
 [url id=versions][/url]
 [h2]
 How To Check Your Card Model and Current Driver Versions

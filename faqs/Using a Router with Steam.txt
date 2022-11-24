@@ -4,9 +4,7 @@ Updated 2021-07-10 19:49:55
 Version 3
 
 How do I determine if my router is causing a Steam connection issue?  How do I configure my router to work with Steam?
-
 [h4]Basic Router Troubleshooting[/h4]It may seem obvious, but it's worth rebooting your modem, router, or modem/router combination device before trying anything else.
-
 If your modem and router (or wireless access point) are separate devices, test with a direct connection to your modem:
 [olist]
 [*]Close the Steam client application. [/*]
@@ -14,7 +12,6 @@ If your modem and router (or wireless access point) are separate devices, test w
 [*]Test that your internet connection is working, then restart Steam and check connectivity. [/*]
 [/olist]
 If you are able to connect to Steam after bypassing your router, it indicates a router configuration or compatibility issue.
-
 [h4]Router Configuration[/h4]Certain router services can cause problems with Steam. If any of the following services are enabled on your router or access point, try disabling them:
 [list]
 [*]Stateful inspection [/*]

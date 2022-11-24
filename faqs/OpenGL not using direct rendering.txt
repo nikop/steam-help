@@ -4,7 +4,6 @@ Updated 2021-07-10 19:49:55
 Version 3
 
 What do I do if OpenGL is not using direct rendering?
-
 OpenGL allows for different methods of handling sending rendering commands.  Direct rendering is often faster and more desirable, so the Linux Steam client checks to see which mode OpenGL is running in when it starts.  If it sees that OpenGL is running indirectly it will display a warning to let you know that you may want to change your configuration to allow it to run directly and thus usually with better performance.  There are a few reasons why OpenGL may not be able to use direct rendering:
 [olist]
 [*]If you are running over a remote connection.  In this case it is required to use indirect rendering. [/*]

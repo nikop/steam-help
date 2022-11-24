@@ -5,7 +5,6 @@ Version 4
 
 
 [section style=warning]Any CS:GO item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [url=https://steamcommunity.com/market/search?appid=730]Steam Community Market[/url].
-
 Detailed information on this restriction can be found on the [url=https://blog.counter-strike.net/index.php/2018/03/20308/]CS:GO blog[/url].
 [/section]
 [h2]
@@ -71,7 +70,6 @@ Patches
 What are Trade Up Contracts?
 [/h2]
 Trade Up Contracts allow players to trade 10 normal or StatTrak weapon skins of the same weapon grade (Mil-Spec to Classified) for one weapon skin of the next highest weapon grade from one of the weapon collections used in the trade up.
-
 To use a Trade Up Contract, left-click on an eligible weapon and select 'Use With Trade Up Contract'.
 [/section]
 [section id=whatitemstuc]
@@ -79,9 +77,7 @@ To use a Trade Up Contract, left-click on an eligible weapon and select 'Use Wit
 Which weapon skins can be used in Trade Up Contracts?
 [/h2]
 A Trade Up Contract requires all ten weapons to be the same weapon grade (Mil-Spec, Restricted, or Classified) and either normal or StatTrak. Normal weapon skins cannot be used in a Trade Up Contract with StatTrak weapon skins and vice versa.
-
 To verify if a weapon can be used in a Trade Up Contract, hover over the weapon in your CS:GO Inventory and look for the Collection it's included in. If the weapon's grade is the highest in its Collection it can [i]not[/i] be used in a Trade Up Contract.
-
 [b]Note:[/b] Covert (red) weapon skins can not be used in Trade Up Contracts.
 [/section]
 [section id=weaponwear]
@@ -95,9 +91,7 @@ Regardless of the weapon wear on the skins you're trading up, the weapon wear on
 What are Name Tags?
 [/h2]
 Name Tags in CS:GO are single use in-game items which allow players to nickname their weapons. Name Tags cannot be modified once they've been applied to a weapon.
-
 To remove a Name Tag on an existing weapon, left-click on the weapon, select 'Rename', then 'Remove Name'.
-
 Name Tags can be purchased for $1.99 USD in-game or from the [url=https://steamcommunity.com/market/]Community Market[/url].
 [/section]
 [section id=characters]
@@ -124,11 +118,8 @@ No. Name Tags have a pre-determined location on each weapon which cannot be chan
 What are Stickers?
 [/h2]
 Stickers in CS:GO are single use in-game items that can be applied to one of four locations on each weapon.
-
 Stickers can be scraped once they've been applied to a weapon to change their appearance. To do this, left-click on a weapon in your CS:GO Inventory which has Stickers, select 'Scrape Sticker', and click on the Sticker you'd like to scrape.
-
 Stickers can be purchased through in-game offers or from the [url=https://steamcommunity.com/market/]Community Market[/url].
-
 [b]Note:[/b] Scraping a Sticker cannot be undone - once you have clicked on a Sticker to scrape it the results are permanent.
 [/section]
 [section id=movesticker]
@@ -136,7 +127,6 @@ Stickers can be purchased through in-game offers or from the [url=https://steamc
 I have applied a Sticker and would like to move it. Can I do this?
 [/h2]
 No. Once a Sticker has been placed on a weapon it cannot be moved. If you'd like to remove the Sticker you will need to scrape it in-game until the 'Remove Sticker' option appears.
-
 [b]Note:[/b] Removing a Sticker from a weapon is permanent and the Sticker will not be returned to your Inventory.
 [/section]
 [section id=stickergone]
@@ -144,7 +134,6 @@ No. Once a Sticker has been placed on a weapon it cannot be moved. If you'd like
 Stickers on my weapon are not visible when I inspect in-game. Why is this?
 [/h2]
 Stickers on your weapon may not be visible because they've been heavily scraped. When Stickers are scraped they lose their vibrance and eventually won't be visible on the weapon when inspecting it. Stickers that have been heavily scraped will only leave an outline of the original sticker.
-
 You're free to completely remove the sticker by scraping it further using the in-game UI.
 [/section]
 [section id=swaptool]
@@ -152,7 +141,6 @@ You're free to completely remove the sticker by scraping it further using the in
 What is a StatTrak Swap Tool?
 [/h2]
 StatTrak Swap Tools are single use items which allow players to transfer kill counts from one StatTrak weapon skin to another so long as the weapon is the same. Kills from a StatTrak M4A1-S can only be transferred to another StatTrak M4A1-S using a Swap Tool, [i]not[/i] to another weapon.
-
 StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [url=https://steamcommunity.com/market/]Community Market[/url].
 [/section]
 [h2]
@@ -204,7 +192,6 @@ There are two ways to retrieve items from a Storage Unit:
 I retrieved an item but can not find it in my Inventory. Where did it go?
 [/h2]
 When items are retrieved from a Storage Unit they are added back to your CS:GO Inventory in the same location they were prior to being deposited. Retrieved items will not appear at the top of your CS:GO Inventory.
-
 If you can not find the retrieved item we suggest scrolling through your Inventory or searching for the item using 'Search Items'. It is not possible to lose items you are depositing or retrieving from Storage Units because they never leave your account.
 [/section]
 [section id=interactsu]
@@ -230,7 +217,6 @@ Storage Units can be renamed as often as you would like. To rename a Storage Uni
 What are Patches?
 [/h2]
 Patches in CS:GO are single use in-game items that can be applied to any Agent you own.
-
 Once applied, a Patch’s location cannot be changed; the Patch can only be removed from the Agent. Like Stickers on a weapon, any Patches applied to an Agent will remain if it is bought or sold on the Steam Community Market.
 [/section]
 [section id=movepatch]
@@ -238,7 +224,6 @@ Once applied, a Patch’s location cannot be changed; the Patch can only be remo
 I have applied a Patch and would like to move it. Can I do this?
 [/h2]
 No. Once a Patch has been applied it cannot be moved. If you would like to remove a Patch you will need to click ‘REMOVE PATCH’ in-game.
-
 [b]Note:[/b] Removing a Patch from an Agent is permanent and the Patch will not be returned to your Inventory.
 [/section]
 [section id=whichagents]
@@ -246,6 +231,5 @@ No. Once a Patch has been applied it cannot be moved. If you would like to remov
 Which Agents can I apply Patches to?
 [/h2]
 Patches can be applied to any Agent you own but cannot be applied to default (local) agents.
-
 A link to Community Market listings for Agents that Patches can be applied to can be found [url=https://steamcommunity.com/market/search?appid=730&q=Agent]here[/url].
 [/section]

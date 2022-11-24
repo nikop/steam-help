@@ -8,13 +8,11 @@ When attempting to launch a game, Steam displays an error message:
 [*] Failed to start game (app already running)
 [/list]
 This error is most commonly seen when launching a game that has closed improperly with a silent crash, or that is failing to launch properly.
-
 Sometimes, the game may already be running under a different user account within your operating system.
 [h2]
 Verifying your Game Files
 [/h2]
 In some cases, this error message will appear when there is an issue with the installation of a game. Complete the instructions as they are shown in the following link:
-
 [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]Verifying your Game Cache Files (GCF)[/url]
 [h2]
 Forcing a silently crashed or hanging game to close
@@ -30,9 +28,7 @@ Try the following to close any hung game processes that may be preventing the ga
 [*]If Windows asks you to confirm that you wish to quit this game, click the "End Process" button to confirm. [/*]
 [/olist]
 The game should now be closed. You can try launching the title again, or proceed to other troubleshooting options.
-
 If this fails, or Windows is having trouble closing the game with this method, try restarting your computer.
-
 [b]Other operating systems (macOS, Linux):[/b]
 Try restarting your computer. Once your computer restarts, perform any troubleshooting operations that you intend before attempting to launch the game again.
 [h2]

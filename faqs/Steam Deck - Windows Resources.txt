@@ -5,7 +5,6 @@ Version 14
 
 [h4]Windows Resources[/h4]
 Steam Deck is a PC, and other applications and OSes can be installed. If you're installing Windows, you will need a few additional drivers to have the best experience. Links to these, along with notes for installing Windows on Steam Deck can be found below.
-
 We are providing these resources as is and are unfortunately unable to offer 'Windows on Deck' support. If you get stuck and need a way back to the default Steam Deck OS, please follow [url=https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3]these recovery instructions[/url].
 [hr][/hr]
 [h4]Windows Drivers[/h4]

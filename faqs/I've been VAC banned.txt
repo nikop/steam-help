@@ -31,7 +31,6 @@ Version 8
 Why was I VAC banned?
 [/h2]
 VAC bans are applied when an account, or an account using the phone number tied to other accounts, connects to a VAC-secured server while running cheat software.
-
 Valve Anti-Cheat regularly checks the game files of all users connected to Valve's servers to ensure third party software is not being used which gives players an advantage. If software of this kind is detected a VAC ban will be issued.
 [/section]
 [section id=reason]
@@ -50,8 +49,7 @@ No. VAC bans cannot be appealed. If a VAC ban is issued incorrectly it will be a
 [h2]
 I was not using my account when it was VAC banned. Can the ban be removed?
 [/h2]
-No. Any bans added to an account will remain regardless of who was using the account at the time the infraction occurred. Ultimately, the use and security of your Steam account are your responsibility. 
-
+No. Any bans added to an account will remain regardless of who was using the account at the time the infraction occurred. Ultimately, the use and security of your Steam account are your responsibility.
 While we understand this can be frustrating, we must maintain a zero tolerance policy for cheating to foster a fair game that all players will enjoy.
 [/section]
 [section id=othergame]
@@ -71,7 +69,6 @@ To see which games your VAC ban affects, please launch Steam and go to [i]Steam[
 What games can I play if I have been VAC banned?
 [/h2]
 VAC banned accounts can still play single-player games, local LAN games, and multiplayer on non VAC-secured game servers. To find non VAC-secured servers, from the Steam main menu click on [i]View[/i], select [i]Servers[/i], then select the [i]Change Filters[/i] button in the bottom left and [i]Not secure[/i] in the Anti-cheat dropdown.
-
 Cheating in one of the following Source games or a Source mod will result in a VAC ban for all games in the list below:
 [list]
 [*]Counter-Strike: Source [/*]
@@ -95,9 +92,7 @@ Similarly, cheating in one of the following Gold Source games will result in a V
 How do VAC bans relate to phone numbers?
 [/h2]
 VAC bans are applied to all accounts sharing a phone number at the time of the infraction. For this (and many other) reasons we do not recommend sharing your phone number or using another user's phone number on your Steam account. Accounts sharing the phone number that do not own the game the VAC ban is for will still receive a VAC ban and will not be able to purchase the game moving forward.
-
 There are no restrictions placed on phone numbers that were on an account when the account was VAC banned; phone numbers can immediately be used on new accounts.
-
 [b]Note:[/b] This feature is not enabled for all games and is used at the discretion of the developer.
 [/section]
 [section id=items]
@@ -105,7 +100,6 @@ There are no restrictions placed on phone numbers that were on an account when t
 Can I move my items and games to a different Steam account?
 [/h2]
 No. Items and games cannot be moved from a VAC banned account to a different account, however, new games can still be purchased and registered on a VAC banned account and the account can still receive items, but not send them.
-
 To prevent additional bans on your account, please remove all cheat software from your computer before playing on VAC-secured servers. If you do not know how or where the cheats were installed, you may want to consider reformatting your hard drive(s) and starting over with a fresh installation of your operating system.
 [/section]
 [exclude_realm=china]

@@ -46,5 +46,4 @@ INSTRUCTIONS FOR SUBMISSION
 EXAMPLE CURSOR PACK
 [/h2]
 Download the [url=http://media.steampowered.com/apps/dota2/images/workshop/guidelines/cursors/example_valve_cursor_pack.zip]Valve Example Cursor Pack[/url]
-
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]

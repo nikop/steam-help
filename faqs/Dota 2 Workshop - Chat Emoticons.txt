@@ -4,7 +4,6 @@ Updated 2021-08-28 00:50:56
 Version 4
 
 [img]http://cdn.dota2.com/apps/dota2/images/international2015/compendium/stretch_goals/emoticons.jpg[/img]
-
 Emoticons play brief animations within in-game chat.
 [list]
 [*][url=#requirements]EMOTICON TECHNICAL REQUIREMENTS[/url] [/*]
@@ -56,17 +55,10 @@ EXAMPLE CHAT EMOTICONS
 [*]These examples show the different numbers of frames used for various actions and expressions. Notice that some use "pauses" in the action that consist of repeats of the same frames or several blank frames. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/blush.png[/img]
-
-   [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/disappear.png[/img]
-
-  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/fire.png[/img]
-
-   [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/laugh.png[/img]  
-
- [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/smile.png[/img]
-
- [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/snot.png[/img]
-
-     [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/yolo.png[/img]
-
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/disappear.png[/img]
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/fire.png[/img]
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/laugh.png[/img]
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/smile.png[/img]
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/snot.png[/img]
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/emoticons/yolo.png[/img]
 [url=http://www.dota2.com/workshop/]Dota 2 Workshop Items Submission Guidelines Homepage[/url]

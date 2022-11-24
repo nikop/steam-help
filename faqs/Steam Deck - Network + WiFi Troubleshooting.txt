@@ -13,7 +13,6 @@ Version 1
 General Troubleshooting
 [/h3]
 Please see the sections below to help diagnose network issues on your Steam Deck:
-
 [h4]Network Connectivity[/h4]
 [list]
 [*][b]Authentication protocols[/b] - We're aware of potential issues with connectivity on Steam Deck when using PEAP or WEP authentication. We recommend testing with a different protocol if possible.

@@ -28,9 +28,7 @@ WARD CONCEPT CONSIDERATIONS
 [*]For more information about general item design concepts, please see our [url=https://support.steampowered.com/kb/9334-YDXV-8590/dota-2-workshop-character-art-guide]Character Art Guide.[/url] [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_default.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/megagreevil_ward.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/watcher_below_ward.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/f2p_ward.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_default_game3.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_greevil_game.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_watcher_game3.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_f2p_game.jpg[/img]
-
 ​​[url id=model][/url]
 [h2]
 WARD MODEL REQUIREMENTS
@@ -91,7 +89,6 @@ ATTACHMENT POINTS
 [*]Detailed instructions about designating and editing attaches in the workshop tool can be found on the [url=https://help.steampowered.com/en/faqs/view/3E00-D38F-B793-7384]Submitting Items[/url] page. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_attach.JPG[/img]
-
 ​[url id=portrait][/url]
 [h2]
 WARD PORTRAIT

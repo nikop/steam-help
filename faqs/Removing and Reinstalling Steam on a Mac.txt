@@ -29,9 +29,7 @@ With the Steam application active, click the [b]Steam[/b] menu and [b]Quit Steam
 [*]Click [b]Go[/b] in the menu bar, hold down the option key until you see the Library folder, and open that folder from the drop-down.
 [*]Navigate to Library/Application Support/Steam
 [*] Delete Steam data from your computer with one of the following options:
-
 [b]If you don't want to lose any game data:[/b] delete all files and folders in /Steam EXCEPT FOR the /SteamApps folder (this contains your game downloads and any local save files.)
-
 [b]If you're removing all Steam data from your computer:[/b] delete the entire Steam folder.
 [*]Empty the Trash by selecting Finder -> Empty Trash
 [/olist]

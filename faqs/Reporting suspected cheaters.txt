@@ -12,7 +12,6 @@ Please do not post SteamIDs, cheats, or links to websites offering cheats anywhe
 [/section]
 [h1]How do I report players I believe are cheating on VAC-secured servers?[/h1]
 If you believe a player is cheating in-game you may report them via the Steam Community or in-game. To report a player through Steam Community you first will need to visit their Steam profile.
-
 To reach a user's Steam Community profile while in-game:
 [olist]
 [*]Press Shift+Tab (by default) to bring up the Steam Overlay.

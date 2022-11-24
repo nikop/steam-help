@@ -4,7 +4,6 @@ Updated 2021-07-10 19:49:55
 Version 3
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img]
-
 Contract Only submissions are only intended for partners working with Valve who need to establish a Steam Workshop item ID number and accept the Steam Workshop Agreements. This category cannot be used for the submission of item files.
 [list]
 [*][url=#newusers]CONTRACT ONLY SUBMISSIONS FOR NEW USERS[/url] [/*]
@@ -48,7 +47,6 @@ INSTRUCTIONS
 [*]If the item involved needs to be confidential, you will have the option to mark your submission "Hidden" at the end of the process. Valve admins are still able to see hidden submissions. You will be able to make the item public later when you are ready to publicize it and get votes from the Dota 2 community. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/hidden_submission.jpg?v=1577836800[/img]
-
 [url id=failures][/url]
 [h2]
 SUBMISSION FAILURES

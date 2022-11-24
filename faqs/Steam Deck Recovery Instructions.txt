@@ -4,7 +4,6 @@ Updated 2022-06-27 21:11:58
 Version 7
 
 These are instructions to recover, repair, or re-image your Steam Deck. You might need to do this if you are unable to boot, have installed another OS and would like to get back to standard Deck SteamOS, or are experiencing other breaking issues.
-
 For all the tinkerers out there, please note that this system image is not quite SteamOS 3 yet. Depending on what you try to install it on (desktop, another handheld, refrigerator, toaster), it may not work properly. SteamOS 3 proper will come out sometime after launch (and even then it may not work on your toaster).
 [h2]
 Steam Deck Recovery Instructions

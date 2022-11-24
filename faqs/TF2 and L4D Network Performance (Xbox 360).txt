@@ -12,5 +12,4 @@ Common causes:
 [*]      [h5]The Client (your connection)[/h5]The client connection to the game is downloading files from the internet on the same internet connection as they are using to connect to a game. This is almost the same scenario, but the issue is originating with the client connecting to the server. Please ensure that you are not running anything like BitTorrent or other download managers from an active PC while attempting to connect to a TF2 or L4D server on your Xbox 360. [/*]
 [/list]
 The most common reason for losing connection to the host is that the host closed the server or disconnected. There is no way around this in TF2.  In L4D, you can try connecting to an available Dedicated Server which will allow all players to continue through the match even if the Lobby host were to leave.
-
 If performance issues persist, you may need to contact [url=http://support.xbox.com]XBox Live Support[/url] to troubleshoot further.

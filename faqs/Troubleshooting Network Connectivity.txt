@@ -18,11 +18,9 @@ Please follow the steps below to diagnose network connectivity issues within Ste
 Please check the [url=https://store.steampowered.com/stats/]Steam Server Status page[/url] to ensure the issue which you are encountering is [b]not[/b] related to system-wide downtime. If you encounter any timeout errors when attempting to access Steam sites, it is very likely that there is a system-wide issue and Steam will not be accessible until the issue is resolved. [/*]
 [*][b]Test Your Router[/b]
 The [url=https://help.steampowered.com/en/faqs/view/46D2-B5B1-F0B9-B867]Using a Router with Steam[/url] topic includes steps to isolate problems if they occur at the router.
-
 Wireless and powerline connections can cause intermittent failures due to interference. If possible, test Steam with a direct wired connection to determine if this is a problem. An Internet speed test may also help you identify problems related to local link quality. [/*]
 [*][b]Troubleshoot all Firewalls[/b]
 See the [url=https://help.steampowered.com/en/faqs/view/66C8-4FF1-8470-B666]Using a Firewall with Steam[/url] topic for instructions to test and configure your firewall for Steam.
-
 [b]Note:[/b] If you are installing Steam for the first time or Steam has recently been updated, a firewall may be preventing Steam from connecting to the Steam Network - even if Steam worked correctly before the update was applied. [/*]
 [*][b]Disable Background Applications[/b]
 Review the [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere With Steam[/url] and reconfigure, disable or uninstall any programs which may be preventing Steam and Valve games from connecting. [/*]

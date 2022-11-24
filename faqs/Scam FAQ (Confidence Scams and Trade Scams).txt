@@ -1,13 +1,11 @@
 Scam FAQ (Confidence Scams and Trade Scams)
 -------------------------------------------
-Updated 2022-10-19 18:55:42
-Version 16
+Updated 2022-11-21 18:34:59
+Version 17
 
 [h1]Scam: I have been accidentally reported[/h1]
-[section style=warning]Any claim that you've been accidentally or falsely reported for fraud or any other infraction is always the introduction to a scam. If someone did report your account falsely and you're concerned about being banned, you can rest assured that Steam disregards false reports. Do not follow any instructions provided by anyone claiming to have accidentally reported your account. 
-
-Valve employees will [i]never[/i] communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [url=help.steampowered.com]Steam Support Help Site[/url]. There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.
-
+[section style=warning]Any claim that you've been accidentally or falsely reported for fraud or any other infraction is always the introduction to a scam. If someone did report your account falsely and you're concerned about being banned, you can rest assured that Steam disregards false reports. Do not follow any instructions provided by anyone claiming to have accidentally reported your account.
+Valve employees will [i]never[/i] communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [url=https://help.steampowered.com]Steam Support Help Site[/url]. There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.
 Anyone claiming to be a Valve employee, Steam Support representative, or asking to verify your items for an investigation should be immediately [url=#reportscammer] reported[/url].
 [/section]
 [h1]Confidence Scams[/h1]
@@ -40,15 +38,13 @@ Trade scams are a scam whose goal involves obtaining a victim's Steam Inventory 
 What is a confidence scam?
 [/h3]
 A confidence scam is a trick involving deceit with the goal of defrauding a victim in some way. A scammer may target a Steam user to hijack their account to use or sell, hijack their account to hold for ransom, or gather information from a victim to defraud them elsewhere.
-
 Though not unique to Steam, online confidence scams may target Steam users because Steam accounts are valuable, and if taken over, can give the scammer a way to pressure the victim and propagate the scam further.
 [/section]
 [section id=scamtypes]
 [h3]
 What scam types might target Steam users?
 [/h3]
-Most scams targeting Steam users (unrelated to Trade Scams) involve an attempt to gain control of a victim's account and then hold the account hostage for payment. 
-
+Most scams targeting Steam users (unrelated to Trade Scams) involve an attempt to gain control of a victim's account and then hold the account hostage for payment.
 You should never pay a scammer even if they've gained full control of your account. You can recover your account from a scammer any time using Steam Support, and a scammer who is already defrauding you is not likely to actually return the account even if you pay. Instead, they would likely just demand additional payments.
 [/section]
 [section id=avoidscams]
@@ -56,7 +52,6 @@ You should never pay a scammer even if they've gained full control of your accou
 How do I protect myself from scams?
 [/h3]
 You can avoid scams by always remaining skeptical in online interactions, especially those involving pressure, threats, demands, or claims that come from a position of authority.
-
 You should be mindful of unexpected claims made even by a trusted friend, as you can't be sure they haven't fallen for a scam themselves and thus turned control of their account over to a scammer.
 [/section]
 [section id=fallenscam]
@@ -89,7 +84,6 @@ Most confidence scams take place largely outside of Steam. To report the scammer
 What is a trade scam?
 [/h3]
 A trade scam is when a Steam user convinces another user to make a deal (trade, gift or market transaction) under false pretenses. Scams usually involve deception in order to convince a user that they are getting a good or fair deal when in fact they are not.
-
 For more information on scams please read below and view our [url=https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0]Recommended Trading Practices[/url] article and the [url=https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24]Steam Item Restoration Policy[/url].
 [/section]
 [section id=bestways]
@@ -145,9 +139,7 @@ There are a number of common scams users may attempt to deceive you out of your 
 What is the difference between a scam and a hijack?
 [/h3]
 A scam is when a user deceives another user into willingly (at the time) completing a trade, market transaction, or sending a gift. After the trade is completed, the person who was scammed either doesn't receive what was promised, or the items involved are not what was agreed upon.
-
 A hijacking is when an account or a computer is taken over by someone else without the account owner's permission. This is often done with malware or a virus. In some cases the hijacker will convince a user to hand over their login information by providing a fake Steam or a third-party trading site. Hijackers most commonly steal accounts to gain items or games, and sometimes commit fraud. Hijackers often use stolen accounts to commit more hijackings. In these cases, we lock the account until the rightful owner contacts us about the hijacking.
-
 Additional information about hijacked accounts can be found in our [url=https://help.steampowered.com/en/faqs/view/0A94-F308-34A5-1988]Reclaiming a Stolen Steam Account[/url] article.
 [/section]
 [section id=reportscammer]
@@ -168,7 +160,6 @@ If a user you've reported for scamming has had action taken on their account, yo
 What action is taken when a scammer is found?
 [/h3]
 If evidence exists that a Steam user is scamming, Steam Support will ban the account from using the Steam Community, including trading and using the Steam Market. The length of the ban is dependent on the severity and quantity of the scams. In some cases, scammers will be banned permanently. If a scammer has multiple accounts, all of their accounts may be subject to the ban as well.
-
 In rare cases, scammers will hijack an account and use it to commit scams, fraud, or other hijackings. In these cases, we lock the account until the rightful owner contacts us and we will take appropriate action.
 [/section]
 [section id=noreturn]
@@ -176,12 +167,10 @@ In rare cases, scammers will hijack an account and use it to commit scams, fraud
 Why doesn't Steam return scammed items?
 [/h3]
 Our community assigns an item a value that is at least partially determined by that item's scarcity. If more copies of the item are added to the economy through inventory rollbacks, the value of every other instance of that item would be reduced.
-
 We sympathize with people who fall victim to scams, but we provide enough information on our website and within our trading system to help users make good trading decisions. For more information on this, please see [url=http://store.steampowered.com/news/20631/]this post[/url] on our store blog.
 [/section]
 [h3]
 Why won't Steam Support provide information on why an account was trade banned or locked?
 [/h3]
 By limiting the provided data, Steam Support prevents malicious users from learning how to avoid getting caught in the future. Steam Support relies on several data points to arrive at a decision to ban or lock an account. Users intent on committing malicious activity, most often done to other users, are constantly trying to gain this data to use in future scams, fraud and hijackings.
-
 While most trade bans are permanent, in some circumstances a user may receive a temporary trade ban. In these cases, when the ban is automatically lifted the offending account also gets placed into trade probation. Probationary status allows other users to know that a user has recently committed a trading related offense so they can make better decisions about whether or not they want to trade with that user. Please note, probationary status does [i]not[/i] prevent users from trading.

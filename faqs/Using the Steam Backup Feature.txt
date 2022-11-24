@@ -28,11 +28,9 @@ Backups for [b]Valve [/b]created games will not include saved games, custom mult
 [*][b]\SAVE\[/b] - Single-player saved games [/*]
 [/list]
 For [b]third party[/b] created games; the location of game saves can vary by game as the location is determined by the game's developer. To find the location you can: check the game's Community forum on Steam to see if other users know it and have posted the information already, visit their website for specific file location information for their game, or reach out to the developer to ask.
-
 These files will need to be copied to the corresponding folders after restoring with the Steam backup feature.
 [/section]
 [h4]Backing up all of your games[/h4]It is recommended that you use the method outlined in [url=https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327][b]Moving a Steam Installation[/b][/url] as this will save time and simplify the backup and restore process.
-
 [h4]Creating Backup Files[/h4]
 [olist]
 [*]Open your Steam Library [/*]

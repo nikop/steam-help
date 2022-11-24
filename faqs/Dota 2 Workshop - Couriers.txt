@@ -32,7 +32,6 @@ COURIER CONCEPT CONSIDERATIONS
 [*]Make sure your courier can't be confused with a hero or ability model because it has too many design, size, proportion, or animation similarities. Our demi hero couriers have enough differences from the actual heroes to avoid this problem. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/couriers/skippy_parrot_large.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/couriers/smeevil_mammoth_large.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/couriers/seekling_large.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/couriers/mega_greevil_courier_large.jpg[/img]   [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/couriers/mechjaw_large.jpg[/img]   [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/couriers/octopus_large.jpg[/img]
 [list]
 [*]For more information about important general item design concepts, such as harmonious colors, values and areas of detail and rest, please see our [url=https://help.steampowered.com/en/faqs/view/0688-7692-4D5A-1935]Character Art Guide.[/url] [/*]

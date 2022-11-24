@@ -4,7 +4,6 @@ Updated 2021-07-26 21:59:50
 Version 4
 
 [img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
-
 [h1]Bluetooth Low Energy Firmware FAQ[/h1]You can now add Bluetooth Low Energy (BLE) functionality to your Steam Controller. This feature is required to enjoy the [url=https://store.steampowered.com/steamlink/about]Steam Link app[/url], but may provide benefit in other use cases as well. This FAQ describes what this BLE connection can and cannot do compared to the original wireless solution, steps to update your controller to add BLE support, and how to switch between wireless modes once the update is installed.
 [list]
 [*]
@@ -55,39 +54,32 @@ Otherwise we suggesting sticking with the original protocol. It provides the fas
 Congrats! You have reconnected your controller to the Wireless Receiver. Next, connect over BLE by navigating to the [b]Add Bluetooth[/b] option of your device. When prompted, press [b]Y + Steam Button[/b] on your Steam Controller to make it discoverable.
 [/section]
 [section id=switch]  	[h4]How do I switch between modes?[/h4]If you have already followed the instructions above, you are paired via the Steam Controller Wireless Receiver and BLE. Use the commands below to start your controller in the mode of your choice.
-
 [tr]  		[td]  			  			[img]https://support.steampowered.com/images/faq/steam_link/y_steam.png[/img]  				  		[/td]	  			  		[td]
 [h3]
 Bluetooth LE Pairing Mode
 [/h3]
 You’ll need to do this in order to use the Steam Link app
-
 [/td]	  	[/tr]		  	  	[tr]  		[td]  			  			[img]https://support.steampowered.com/images/faq/steam_link/b_steam.png[/img]  				  		[/td]	  			  		[td]
 [h3]
 Switch to Bluetooth LE mode
 [/h3]
 Launches controller in BLE mode
-
 [/td]	  	[/tr]			  				  		[tr]  		[td]  			  			[img]https://support.steampowered.com/images/faq/steam_link/x_steam.png[/img]  				  		[/td]	  			  		[td]
 [h3]
 Receiver Pairing Mode
 [/h3]
 Pair your controller to a new receiver
-
 [/td]	  	[/tr]		  	  [tr]  		[td]  			[img]https://support.steampowered.com/images/faq/steam_link/a_steam.png[/img]  		[/td]	  			  		[td]
 [h3]
 Switch to dongle mode
 [/h3]
 Use your controller in Original Receiver Mode
-
 [/td]	  [/tr]
 [h3]
 Pairing to Multiple Devices
 [/h3]
 The Steam Controller BLE firmware can store two Bluetooth connections. Connect to the most recently used Bluetooth device by pressing [b]Steam+B[/b]. Connect to the second stored Bluetooth connection by pressing [b]Steam+Start.[/b]
-
 The firmware can also store multiple wireless receiver connections. Connect to the most recently used wireless receiver by pressing [b]Steam+A[/b]. Connect to a different stored wireless receiver by pressing [b]Steam+Back.[/b]
-
 Powering up with the Steam button only will connect you to the most recently used device and pairing mode
 [h3]
 [b]Supported Operating Systems[/b]
@@ -101,7 +93,6 @@ Bluetooth connectivity is supported in:
 [/list]
 [/section]
 [section id=recover]  	[h4]Troubleshooting[/h4]If something isn't working quite right, you can revert back to the previous firmware. Navigate to the same spot in the Controller Settings page where you found the [b]Bluetooth FW[/b] button. Now you will see a [b]Rollback FW[/b] button in its place. Click that, wait a few minutes, and you should be running the previous version.
-
 A more detailed version of this process is as follows:
 [olist]
 [*]Plug in your Steam Controller. [/*]

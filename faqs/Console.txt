@@ -6,12 +6,9 @@ Version 10
 What is the Developer Console and how can I use it to change game settings?
 [section style=important]  [h1]Important:[/h1]
 The [b]~[/b] key will bring up the console for English/US keyboard configurations - for more information on changing the key used to open the developer's console please see the article linked below:
-
 [url=https://help.steampowered.com/en/faqs/view/57A7-0501-FCB4-E242]Console disappears[/url]
 [/section]
 [h1]What is the developer console?[/h1]The console is a text-based input/output interface to execute commands or change global settings in a game.
-
-
 [h1]How do I enable the console?[/h1]
 [h4]Most Valve titles[/h4]
 [olist]
@@ -39,7 +36,7 @@ The [b]~[/b] key will bring up the console for English/US keyboard configuration
 [*]Launch Steam and go to your Library
 [*]Right-click Half-Life: Alyx in the Library and select [b]Properties...[/b]
 [*]In the [b]General tab[/b] go to the [b]Launch Options[/b] section and enter: [b]-console -vconsole[/b]
-[*]Exit the window and launch the game 
+[*]Exit the window and launch the game
 [b]Note:[/b] the console will only appear on your desktop screen and not in the headset display
 [/olist]
 [h1]What can I type into the developer console?[/h1]

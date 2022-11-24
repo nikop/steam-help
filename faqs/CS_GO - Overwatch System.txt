@@ -46,7 +46,6 @@ Overwatch is an in-game replay review system that lets the CS:GO community regul
 How does Overwatch work?
 [/h2]
 Prospective Overwatch Investigators are presented with a shield icon with a '+' option in the main menu, which indicates that there is a pending Overwatch case for them to evaluate. The Investigators can then choose to participate by watching a replay (eight rounds worth, or roughly 10 minutes) and selecting a verdict.
-
 If the Investigators collectively agree that an offense has occurred they may vote to issue a Game ban.
 [/section]
 [section id=verdicts]
@@ -72,7 +71,6 @@ If you have been found guilty of cheating by Overwatch Investigators you may be 
 Can I earn XP for participating in Overwatch?
 [/h2]
 Yes, you can earn XP by submitting accurate verdicts in your cases. After several of your cases have been resolved, you will receive an XP reward based on the overall accuracy of your recent verdicts, scaled by your Overwatch Investigator score.
-
 You can collect your reward by completing matches and earning XP in any official game mode.
 [/section]
 [section id=Investigator]
@@ -80,7 +78,6 @@ You can collect your reward by completing matches and earning XP in any official
 How do I become an Investigator?
 [/h2]
 Currently, the best way to become an Investigator is to play lots of matches in our official Competitive Matchmaking. We are slowly adding players to the pool of Investigators, and randomly pick them with consideration to their playtime and skill level. The goal is to invite as many skilled reviewers as possible.
-
 [b]Note:[/b] Steam Support cannot add players to the Investigator pool.
 [/section]
 [section id=selection]
@@ -96,7 +93,6 @@ New Overwatch Investigators are selected based on their CS:GO activity and accou
 [*]Low report count [/*]
 [/list]
 If applicable, prior Overwatch participation level and score (a function of an Investigator's accuracy) will be taken into account. Community members who maintain both a high level of activity and high Overwatch scores will receive more cases to participate in.
-
 [b]Note:[/b] You must maintain an active skill group in order to remain an Overwatch Investigator.
 [/section]
 [section id=scores]
@@ -104,7 +100,6 @@ If applicable, prior Overwatch participation level and score (a function of an I
 How are Investigators scored?
 [/h2]
 An Overwatch score represents an Investigator's ability to consistently and accurately judge the evidence they review, per charge, in both real and test cases.
-
 Investigators score positively for agreeing with the majority of other Investigators' verdicts for the same replay, and score negatively for being in the minority. The resulting change in score is larger when most Investigators are in agreement, and smaller when they disagree. Because of the occasional test case inserted into the case load, the only way to improve an Overwatch score is to carefully watch the entire replay and make an informed and accurate judgment of the evidence provided.
 [/section]
 [section id=weight]
@@ -118,7 +113,6 @@ Yes. A higher-scoring Investigator's verdict will carry more weight than a lower
 I am not an Overwatch Investigator. How can I help?
 [/h2]
 All players can help by reporting disruptive behavior. Reports feed the pool of cases that get reviewed, and good reports result in efficient case reviews.
-
 To file a report, open the scoreboard, right-click to activate the cursor and then left-click on the player's name to open their player panel and select the report button (an exclamation mark inside a triangle).
 [/section]
 [section id=griefing]
@@ -126,7 +120,6 @@ To file a report, open the scoreboard, right-click to activate the cursor and th
 The Suspect is griefing a griefer in retribution. Is the Suspect still guilty of griefing?
 [/h2]
 Unequivocally, yes!
-
 Griefing in revenge either escalates an innocent mistake or generates the reaction that the griefer was intending. Additionally, it puts the griefed player in danger of being convicted for the retribution. There is no excuse for poor sportsmanship and your duty as an Investigator is to enforce the highest standards.
 [/section]
 [section id=cheatgrief]
@@ -134,7 +127,6 @@ Griefing in revenge either escalates an innocent mistake or generates the reacti
 Do griefers and cheaters receive the same penalty when they are convicted?
 [/h2]
 No. The penalty assigned to a Suspect is proportional to their behavior. Suspects who are convicted of griefing are given a moderate cooldown, whereas cheaters are removed from the game entirely.
-
 As always, the best way to improve player behavior is to report griefers and cheaters whenever you encounter them.
 [/section]
 [section id=jitters]

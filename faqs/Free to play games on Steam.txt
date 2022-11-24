@@ -31,7 +31,6 @@ Will I need to fund my Steam Wallet?
 Will my free to play account have limitations or restrictions?
 [/h3]
 [section id=limitations]Any Steam Account that does not own a purchased game or have a funded Steam Wallet is considered a "Limited User." We have chosen to limit access to some community features as a means of protecting our customers from those who abuse Steam merely for purposes such as spamming and phishing. For more information, [url=https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A]click here[/url].
-
 Individual free to play games may choose to place limitations on accounts. Please see the respective games Steam Store page for more information.
 [/section]
 [h3]

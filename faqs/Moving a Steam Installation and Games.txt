@@ -12,9 +12,7 @@ Version 10
 [section id=default][h4]How do I change the default installation path for my games?[/h4]
 [/section]
 Games are installed to the following folder by default:
-
 [code]C:\Program Files (x86)\Steam\steamapps\common[/code]
-
 You can create an alternate location on any drive, which you can choose in the future when installing games.
 [olist]
 [*]Navigate to your Steam client 'Settings' menu. [/*]
@@ -43,7 +41,6 @@ To move a game's installation folder on your computer to a different location on
 Important:
 [/h3]
 Please ensure that you have your Steam login name and password before following this procedure. Also ensure that your account is linked to your current email address, so that you can reset your password if necessary.
-
 It is [b]not[/b] recommended that you install Steam to an external hard drive, due to potential performance issues.
 [/section]
 [section style=warning]
@@ -61,7 +58,6 @@ The following instructions are a simple way to move your Steam installation alon
 [*]Launch Steam and log into your account. [/*]
 [/olist]
 Steam will briefly update and then you will be logged into your account. For installed games, [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]verify integrity of game files[/url] and you will be ready to play. All future game content will be downloaded to the new folder (D:\Games\Steam\steamapps\ in this example)
-
 If you encounter any errors during the move process or when Steam is launched from the new location, it may be necessary to perform a more thorough process:
 [olist]
 [*]Exit the Steam client application. [/*]

@@ -26,7 +26,7 @@ Streaming Videos on Steam is a new feature that enables watching a video on Stea
 [*][url=#known]Known Issues[/url]
 [*][url=#20]How Can I Get My Film/Video on Steam?[/url]
 [/list]
-[url=#360]  
+[url=#360]
 [h1]Steam 360 Video FAQ[/h1][/url]
 [list]
 [*][url=#360_install]Installing the Steam 360 Video Player[/url]
@@ -157,11 +157,8 @@ On some system configurations the combination of video hardware, video drivers a
 What are the "additional components" required for playback?
 [/h2]
 When the Steam Client starts up, a set of components required to playback DRM encrypted content is downloaded. If you receive a message indicating the additional components failed to download, you can attempt to download and install the components manually. This may be necessary if your ISP restricts access to certain domains or URLs.
-
 If you have issues completing the steps below, please create a support ticket at [url=https://help.steampowered.com]https://help.steampowered.com[/url] and we'll be happy to assist you step by step.    Please visit this FAQ outside of the Steam Client before completing any of the following steps.
-
 You can find this FAQ by visiting the Steam store page for the video you are attempting to watch and then clicking on the Streaming Videos on Steam FAQ link in the Steam Video section.
-
 [u][b]Windows 7 and above[/b][/u]
 [olist]
 [*]Quit Steam. And I repeat, you must quit Steam, completely.
@@ -246,7 +243,6 @@ We know every Steam user is unique and some users are not interested in video co
 How do I download the video instead of streaming it?
 [/h2]
 At this time there is no option to download a streaming video.
-
 The streaming solution allows rapid development and Steam to support features such as:
 [list]
 [*]A consistent video playback experience across Windows, MacOSX, Linux and Steam Machine and Steam Link
@@ -290,7 +286,6 @@ Installing the Steam 360 Video Player
 What's available to watch now?
 [/h2]
 To get started, take a look at this page to see what's on offer today: [url=http://store.steampowered.com/search/?tags=776177&category1=992]Steam 360 Videos[/url]
-
 Once a 360 video has been added to your Steam Library, you’ll find it by searching the name of the video in your Library. Look for videos that have a [360] suffix added to their name. 360 videos will also appear in a VR category of the Library.
 [url id=360_sysreqs][/url]
 [h2]

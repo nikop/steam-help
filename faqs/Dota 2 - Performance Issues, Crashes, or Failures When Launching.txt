@@ -8,13 +8,11 @@ If you are encountering performance issues, game crashes, or Dota 2 is failing t
 Crashes or failures to launch with specific error messges
 [/h3]
 Check to see if there is an article related to the error message that you are seeing in the [url=https://support.steampowered.com/kb_cat.php?id=59]Specific Error Messages category.[/url]
-
 If there is no article related to the message that you are seeing, continue through this article to troubleshoot the issue.
 [h3]
 Troubleshooting performance issues and crashes
 [/h3]
 Please read and complete all applicable troubleshooting steps in the [url=http://dev.dota2.com/showthread.php?t=15261]Common Dota 2 Technical Issues and Solutions[/url] guide provided by the Dota 2 developers.
-
 Refer to our articles regarding Hardware and Software based performance issues. Complete all steps exactly as they are presented.
 [list]
 [*][url=https://help.steampowered.com/en/faqs/view/7289-6080-C6E3-AE81]Troubleshooting Game Performance Issues - Hardware [/url]
@@ -70,7 +68,6 @@ Using the -safe launch option
 Reacquiring all Dota 2 files
 [/h3]
 This should be done if you think some of the game's files may be corrupt, or if you have overwritten any game files with custom assets or mods and you wish to restore the game to its original state. If your game was working previously but is now crashing or freezing and you have completed the above instructions under the [url=#verify]Verifying your game files[/url] section with no results, try this next.
-
 [b]For Windows computers:[/b]
 [olist]
 [*]Exit Steam entirely.
@@ -115,5 +112,4 @@ You should see the Library folder available through the Go menu on the menu bar 
 Reporting a bug, crash, or other issue
 [/h3]
 If you are still encountering this issue within Dota 2, please create or join an existing thread regarding that issue on the [url=http://dev.dota2.com/]Dota 2 Development Forums[/url].
-
 Widespread crashes or other issues will often be fixed by the Dota 2 development team within days of the issue appearing.

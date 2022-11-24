@@ -8,7 +8,6 @@ Version 3
 [b]SteamVR + Oculus Rift Instructions[/b]
 [/h3]
 SteamVR supports the Oculus Rift. When using the Rift with SteamVR, use the Back button on an Xbox controller to bring up and dismiss the SteamVR Dashboard.
-
 To enable this, follow the instructions below.
 [olist]
 [*]Start the Oculus App on your computer and select the gear icon in the upper right. [/*]

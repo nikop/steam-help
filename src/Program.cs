@@ -182,7 +182,7 @@ while (queue.TryDequeue(out var slug))
 
             var trimmedContent = item.Content.Trim();
 
-            trimmedContent = string.Join("\r\n", trimmedContent
+            trimmedContent = string.Join(Environment.NewLine, trimmedContent
                 .Replace("[section", "\r\n[section")
                 .Replace("[/section]", "\r\n[/section]\r\n")
                 .Replace("[exclude_realm", "\r\n[exclude_realm")
@@ -199,11 +199,11 @@ while (queue.TryDequeue(out var slug))
                 .Replace("[/h2]", "\r\n[/h2]\r\n")
                 .Replace("[h3]", "\r\n[h3]\r\n")
                 .Replace("[/h3]", "\r\n[/h3]\r\n")
-                .Split("\r\n")
+                .Split("\n")
                 .Select(x => x.Trim()));
 
 
-            trimmedContent = removeMultipleLines.Replace(trimmedContent, "\r\n");
+            trimmedContent = removeMultipleLines.Replace(trimmedContent, Environment.NewLine);
 
             var sb = new StringBuilder();
             sb.AppendLine(item.Title);
@@ -226,7 +226,7 @@ while (queue.TryDequeue(out var slug))
             var bbcTree = BBCParser.Parse(item.Content);
             var mdConverted = bbcTree.ToMarkdown().Trim();
 
-            mdConverted = removeMultipleLines.Replace(mdConverted, "\r\n");
+            mdConverted = removeMultipleLines.Replace(mdConverted, Environment.NewLine);
 
             sb.Append(mdConverted);
 

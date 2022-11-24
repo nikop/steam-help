@@ -4,9 +4,7 @@ Updated 2021-08-05 19:57:40
 Version 8
 
 When I attempt to launch Steam or a game, I get an error message saying that Steam is already running.  How can I resolve the problem?
-
 This error message indicates that Steam is not loading properly. The process is running in the background and is visible in Task Manager's Processes tab, but is not launching the user interface.
-
 [h4]Compatibility Mode[/h4]Please ensure that Steam is not set to use Compatibility features:
 [olist]
 [*]Browse to your Steam installation (Usually C:\Program Files (x86)\Steam\) [/*]
@@ -25,5 +23,4 @@ This error message indicates that Steam is not loading properly. The process is 
 [*]Then, you will need to launch steam.exe from within the Steam installation folder, and not from a pre-existing shortcut. [/*]
 [/olist]
 [h4]Interfering Applications and Malware[/h4]To test if there are interfering applications, please review the information provided in [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere with Steam[/url].
-
 In some cases, malware may be to blame for this issue. Please ensure your computer is free from any possibly malicious software.

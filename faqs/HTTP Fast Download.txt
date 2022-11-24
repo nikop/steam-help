@@ -4,9 +4,7 @@ Updated 2021-10-27 20:57:27
 Version 5
 
 How do I Get HTTP Fast Download working for my Server?
-
 Source supports the download of custom content (maps, skins, sounds, and so on) from a HTTP server (ie: webserver) when connecting, instead of downloading directly from the game server itself.
-
 HTTP downloading has three major benefits:
 [olist]
 [*]There is no impact on the game server when downloading custom content, as a completely separate HTTP content server does the transfer. [/*]
@@ -30,7 +28,6 @@ If any of the custom content is not present on the HTTP content server or the ca
 [*]Put those files on a HTTP server (ie: webserver), keeping the folder layout intact. [/*]
 [*][b]Optional:[/b] To display a [b]banner image[/b] to players that download content, place a [b]340x56[/b] pixel image in the [b]file (custom content directory)/gfx/banner.gif[/b]. [/*]
 [*]Set the [i]sv_downloadurl[/i] cvar to [b]http://yourserver/custom_content_directory/[/b].
-
 [b]Example:[/b]
 [expand style=details]Your server uses the non-standard map [b]de_generic[/b], which requires the following files:
 [list]
@@ -59,7 +56,6 @@ You have web space (perhaps through your ISP) with the URL [b]http://www.turtler
 [list]
 [*]The maximum length of the [b]sv_downloadurl[/b] is 127 characters. [/*]
 [*]A username and password can be specified for the HTTP server by embedding them in the [b]sv_downloadurl[/b] like so:
-
 [b]http://username:password@www.somewhere.com/[/b] [/*]
 [*]If a connecting player has an existing file of the same name, it will not be overwritten. The download file will be skipped. [/*]
 [*]Certain game-crtical and/or dangerous files cannot be downloaded (ie: *.exe, *.vbs, etc) [/*]
@@ -67,17 +63,13 @@ You have web space (perhaps through your ISP) with the URL [b]http://www.turtler
 [h4]Summary[/h4]The command you enter into the server is:
 [code]sv_downloadurl "http://(your URL)/valve/"[/code]
 use quotemarks on either side of the string and include the final "[b]/[/b]".
-
 (valve = hldm, cstrike = counterstrike, etc.)
-
 Then you create folders for gfx/env, maps, overviews, sound, sprites and models and populate them with the respective resource and in the "valve" directory exactly the way you would populate your server normally, including the WAD files.
-
 If the client has ANY of the files already (including the WAD) it will not be overwritten, there is no way to do that, the client must delete the out of date or offending resource themself.
 [section style=note]
 [h3]
 Note:
 [/h3]
 [b]You must make .res files for all the maps[/b] and make sure all resource names listed (and placed at the http) are spelled exactly the same.
-
 If the bsp has all lower-case letters for the entity then the .res file must be all lower-case and the file name itself must be all lower-case.
 [/section]

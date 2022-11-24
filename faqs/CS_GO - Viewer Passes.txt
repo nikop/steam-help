@@ -96,7 +96,6 @@ No. Viewer Passes cannot be refunded after redemption.
 Do I need a Viewer Pass to be eligible for Souvenir Packages?
 [/h2]
 Yes. To be eligible for Souvenir Packages you must first redeem a Viewer Pass on your account, then complete challenges to upgrade your Event Coin. Viewer Pass holders can also purchase Souvenir Package redemptions in-game.
-
 Souvenir packages no longer drop at random for users watching the Major; the only time a Souvenir Package is generated is when a user upgrades their Event Coin or purchases a Souvenir Package redemption.
 [/section]
 [section id=earnsouvenir]

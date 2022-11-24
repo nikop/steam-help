@@ -8,7 +8,6 @@ How do I install custom subtitles for any Source game?
 Compiled (.DAT) Files
 [/h2]
 If you already have a compiled [i][i]closecaption_[i]<language>[/i].dat[/i][/i] file, simply copy the file to the following location:
-
 [i][b]NOTE:[/b] The [i]\Steam\[/i] folder is located in [i]C:\Program Files\[/i] or [i]C:\Program Files (x86)\[/i] by default.[/i]
 [list]
 [*]  		[i]\Steam\steamapps\common\[game name]\[modname]\resource\[/i]  	 [/*]
@@ -18,7 +17,6 @@ For example, for Half-Life 2, the path would be:
 [*]  		[i]\Steam\steamapps\common\Half-Life 2\hl2\resource\[/i]  	 [/*]
 [/list]
 Then, start the game and ensure closed captioning is enabled in the Options > Audio menu.
-
 To change to the custom language, open the [url=https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD]console[/url] and enter the following command:
 [list]
 [*]  		cc_lang [i]<language>[/i]  	 [/*]
@@ -45,5 +43,4 @@ Text files must be compiled before they will work with Source games. If you have
 Creating Translations
 [/h2]
 If you would like to translate closed captions into your own language, please see the following Valve Developer Wiki article on this topic:
-
 [url=http://developer.valvesoftware.com/wiki/Closed_Captions][b]Closed Captions[/b][/url]

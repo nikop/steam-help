@@ -4,11 +4,10 @@ Updated 2021-08-13 18:55:49
 Version 9
 
 [img]https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png[/img]
-
 [h1]SteamVR Troubleshooting[/h1]
 [table noborder=1]
-    [tr]
-        [td]
+[tr]
+[td]
 [list]
 [*][url=#steamvr-ts]SteamVR + HTC Vive[/url]
 [*][url=#gen-pc]General PC Troubleshooting[/url]
@@ -17,7 +16,7 @@ Version 9
 [*][url=#base-stations]Base Stations[/url]
 [/list]
 [/td]
-        [td]
+[td]
 [list]
 [*][url=#tracking-issues]Tracking Issues[/url]
 [*][url=#steamvr-issues]SteamVR Issues[/url]
@@ -26,16 +25,14 @@ Version 9
 [*][url=#last-resort]Still Need Help?[/url]
 [/list]
 [/td]
-    [/tr]
+[/tr]
 [/table]
 [section id=steamvr-ts]
 [h2]
 SteamVR + HTC Vive Troubleshooting
 [/h2]
 Welcome to the troubleshooting guide for the HTC Vive + SteamVR. Troubleshooting for the first generation development kit can be found [url=https://developer.valvesoftware.com/wiki/SteamVR/TroubleshootingFirstGen]here[/url].
-
 If you have a Vive Pre Developer kit, the troubleshooting instructions below will also apply to you. The only difference is the Vive Pre uses white LEDs instead of green LEDs to signify that a device is ready to be used.
-
 For a guided troubleshooting experience, please visit the [url=https://help.steampowered.com/en/wizard/HelpWithGame/?appid=250820]SteamVR help site[/url].
 [/section]
 [section id=gen-pc]
@@ -52,7 +49,6 @@ Please ensure that you have optimized your PC Settings for SteamVR by completing
 [/list]
 [expand type=title title="Static Electricity"]
 In some environments, the audio extension cable of the Vive headset can build up static electricity and deliver a small static shock when touched or when used with certain earbuds. This does not necessarily indicate an issue with your Vive - it happens for the same reason that shuffling your feet across carpet and touching a door knob causes a static shock.
-
 Some things to try if this happens regularly:
 [list]
 [*]Use a humidifier – dry environments are conducive for static buildup [/*]
@@ -67,11 +63,8 @@ Some things to try if this happens regularly:
 Headset
 [/h2]
 If you are experiencing issues with the Headset, please see the topics below for troubleshooting suggestions:
-
 [expand type=title title="Error 108 (Headset not found)"]
-
 This error may be a USB driver issue. Please try the following troubleshooting steps:
-
 Restart your headset:
 [olist]
 [*]Right click on the headset icon in SteamVR. [/*]
@@ -86,7 +79,6 @@ Power cycle your Link Box:
 [*]Repeat steps if needed [/*]
 [/olist]
 Restart your computer (Quit SteamVR before shutting down your PC)
-
 Plug your Link Box into a different USB port on your PC:
 [olist]
 [*]Try plugging your Link Box into a USB 2.0 port, as some USB 3.0 and 3.1 chipsets can cause issues. [/*]
@@ -94,15 +86,10 @@ Plug your Link Box into a different USB port on your PC:
 [*]If this problem persists, try resetting your USB devices. [/*]
 [/olist]
 [/expand][expand type=title title="Error 109 / Error 400"]
-
 You may see one of these errors if you are not connected to your machine's dedicated graphics card.
-
 Please make sure that both the Vive's Link Box and your primary display are connected to the same GPU. If you are using a laptop, make sure that you are connected to the machine’s discrete GPU. You may need to set your machine to "prefer maximum performance."
-
 Additionally, if you have multiple graphics cards in a desktop PC, make sure that the Vive and your primary display are connected to the same card. Some users have reported that connecting their primary monitor over DVI causes issues next to the Vive. Try using a DisplayPort or HDMI connection.
-
 [/expand][expand type=title title="Resetting USB Devices"]
-
 As a last resort for headset detection issues, you can reset your SteamVR USB devices.
 [olist]
 [*]Unplug all Link Box cables from your PC. [/*]
@@ -111,13 +98,9 @@ As a last resort for headset detection issues, you can reset your SteamVR USB de
 [*]Once this is complete, quit SteamVR, plug your Link Box in (USB, HDMI, Power), and re-launch SteamVR. [/*]
 [/olist]
 [/expand][expand type=title title="New USB PCI-Express Card"]
-
 If you've tried all of the above and continue to have issues, your USB chipset may be at fault.
-
 Our testing has shown that the Inateck 2-Port USB3.0 PCI-Express Card (Serial: KTU3FR-2O2I) works reliably with the HTC Vive and can overcome these kinds of USB issues.
-
 [/expand][expand type=title title="Error 208 (HMD detected over USB, but monitor not found)"]
-
 Error 208 is a generic HMD error message. This error can have a number of solutions, so please work from the list below to make sure you've attempted all available solutions:
 [list]
 [*]Make sure that your Vive’s Link Box and the monitor or TV you use as a primary display are plugged into the same graphics card. If you are connected to your onboard display adapter, you will see an Intel HD Graphics device listed in your SteamVR system report. Onboard cards, such as those connected to a PC’s motherboard, will not be powerful enough to use the Vive. Reconnect your Vive to your PC’s dedicated graphics card. [/*]
@@ -145,11 +128,8 @@ Error 208 is a generic HMD error message. This error can have a number of soluti
 [*]Off: Not plugged in [/*]
 [/list]
 [/expand][expand type=title title="Camera does not work"]
-
 We’ve found that most users who are not able to use their cameras are running on preview builds of Windows 10 (Windows Insider program).
-
 We’re not able to guarantee SteamVR related features will function correctly on early release builds. If you are running on a Windows Insider preview version, please roll back to the current available consumer version.
-
 [/expand]
 [/section]
 [section id=controllers]
@@ -157,8 +137,7 @@ We’re not able to guarantee SteamVR related features will function correctly o
 Controllers
 [/h2]
 If you are experiencing issues with the Controller, please see the topics below for troubleshooting suggestions:
-
-  [expand type=title title="Controller not connected"]
+[expand type=title title="Controller not connected"]
 [list]
 [*]Make sure the controller is charged and on. Turn on the controller by pressing the system button (lowest button on the controller). [/*]
 [*]Charge controllers by plugging them into an outlet with the included micro-USB cord and power adapter. While plugged in, orange indicates charging. While plugged in, the LED color when fully charged is different depending on if the controller is on:
@@ -178,7 +157,6 @@ If you are experiencing issues with the Controller, please see the topics below 
 [/*]
 [/list]
 [/expand][expand type=title title="Controller Trackpad Issues"]
-
 If your controller's trackpad is twitchy and/or oversensitive, it needs to be calibrated.
 [olist]
 [*]Make sure you have the latest Controller firmware. You can check by going to SteamVR > Devices > Update Device. [/*]
@@ -202,9 +180,7 @@ If your controller's trackpad is twitchy and/or oversensitive, it needs to be ca
 Base Stations
 [/h2]
 If you are experiencing issues with the Base Stations, please see the topics below for troubleshooting suggestions:
-
 [expand type=title title="Base Station LED States"]
-
 If both base station LEDs don't turn green, something may be wrong.
 [list]
 [*]If the LED is green, the base station is operating normally. [/*]
@@ -215,7 +191,6 @@ If both base station LEDs don't turn green, something may be wrong.
 [*]White: Ready state [Vive Pre development kit only] [/*]
 [/list]
 [/expand][expand type=title title="Optical Sync"]
-
 If your base stations aren't working correctly, make sure they are properly set up for optical sync.
 [list]
 [*]Check SteamVR to see if your base stations need a firmware update. [/*]
@@ -225,7 +200,6 @@ If your base stations aren't working correctly, make sure they are properly set 
 [*]The base station lights should now turn solid green. [/*]
 [/list]
 [/expand][expand type=title title="Cabled Sync"]
-
 If your room makes it impossible for the bases to see each other (and the LED is purple), there is another way to sync.
 [olist]
 [*]In the box you'll find a very long cable – this is the sync cable. Connect the base stations with the sync cable. [/*]
@@ -239,7 +213,6 @@ If your room makes it impossible for the bases to see each other (and the LED is
 Tracking Issues
 [/h2]
 Tracking issues commonly manifest as a drifting or floating movement. Open your Frame Timing graph (from the SteamVR menu, choose Developer > Advanced Frame Timing) and look for frame timing spikes. If you see spikes, the issue is most likely with CPU performance, and not with tracking.
-
 If a device's icon in SteamVR Status is pulsing green, it means it is not tracking. The in-headset displays go grey when your headset loses tracking. Check the following if you are having tracking issues:
 [list]
 [*]Make sure your base stations are set up correctly. They should be above head height (at least 6.5 feet), angled down 30-45 degrees, and no further than 5 meters, or 16 feet, apart. [/*]
@@ -261,9 +234,7 @@ If you are experiencing problems with missing or corrupt files in SteamVR or you
 [*]Click Verify integrity of tool files. [/*]
 [/olist]
 If that doesn't work, try deleting the local files. Right click SteamVR and select Manage > Uninstall. Double click SteamVR in the tools library to reinstall.
-
-  [expand type=title title="Remove or Disable Conflicting Software"]
-
+[expand type=title title="Remove or Disable Conflicting Software"]
 Some software has been found to conflict with SteamVR or SteamVR driver installations. If you have any of the following software installed, try uninstalling it and re-testing:
 [list]
 [*]Asus AI Suite [/*]
@@ -283,11 +254,8 @@ Some software has been found to conflict with SteamVR or SteamVR driver installa
 Audio Issues
 [/h2]
 [expand type=title title="I can’t hear what my friend is hearing in VR"]
-
 It’s possible to duplicate the audio signal being sent to the Vive so you can listen in to what your friend is hearing in VR through another pair of headphones or speakers. You can also record audio being sent to the Vive.
-
 To do this, right click within SteamVR, select Settings, and then select Audio. Under "Audio mirroring" switch to On and choose the audio device from the drop down list where you want to send additional audio.
-
 [/expand][expand type=title title="No sound when using the Vive's headphone extension cable"]
 [list]
 [*]Move the headset to wake it from standby mode. [/*]
@@ -321,7 +289,6 @@ To do this, right click within SteamVR, select Settings, and then select Audio. 
 [*]Note: Sending audio via USB may add extra latency to sound playback. We recommend using HTC-VIVE-0 HDMI audio device for highest quality audio. [/*]
 [/list]
 [/expand][expand type=title title="Vive Pre specific issues"]
-
 [h4]Low quality sound/quiet high pitched ringing when headphones are plugged into the Vive Pre[/h4]
 Try turning off exclusive mode within Vive audio device properties:
 [olist]
@@ -345,9 +312,7 @@ Try turning off exclusive mode within Vive audio device properties:
 Wireless Receivers
 [/h2]
 There are two wireless receivers built into the Vive headset, used to communicate with the controllers. If you are experiencing issues with the wireless receivers, or if you are encountering "Wireless Receiver Not Detected" or "USB Device Not Recognized" errors, please see the topics below for troubleshooting suggestions:
-
 [expand type=title title="Resetting USB Devices"]
-
 As a last resort for headset detection issues, you can reset your SteamVR USB devices.
 [olist]
 [*]Unplug all Link Box cables from your PC. [/*]
@@ -356,9 +321,7 @@ As a last resort for headset detection issues, you can reset your SteamVR USB de
 [*]Once this is complete, quit SteamVR, plug your Link Box in (USB, HDMI, Power), and re-launch SteamVR. [/*]
 [/olist]
 [/expand][expand type=title title="USB Device Not Recognized"]
-
 If Windows is displaying a "USB Device Not Recognized" error after the Vive USB cable is plugged in, and one or both wireless receivers are missing from the USB page in SteamVR settings, the receiver may have been damaged. Contact [url=https://help.steampowered.com/wizard/HelpWithGameIssue/?appid=250820&issueid=374&nodeid=44&return_nodeid=109]Steam Support[/url] and attach a copy of your System Report.
-
 [/expand]
 [/section]
 [section id=last-resort]

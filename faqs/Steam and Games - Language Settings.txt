@@ -4,7 +4,6 @@ Updated 2021-08-10 16:32:49
 Version 4
 
 How can I change the language for Steam and my games?
-
 [h4]Changing the language of the Steam client[/h4]The Steam language setting determines which language the Steam client application displays, as well as the language which games are presented in. (Third-party titles may have their own language settings - these settings will generally be independent of the Steam language setting)
 [olist]
 [*]Log into your Steam account [/*]

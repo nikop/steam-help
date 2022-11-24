@@ -14,9 +14,7 @@ The information in this article also applies to cases where a game's download is
 Begin the installation process to cause Steam to recognize existing files
 [/h2]
 Games may appear uninstalled when Steam no longer recognizes the installation files. As long as the affected game's folder is still in the proper location, attempting to launch the game will prompt a download. This will allow Steam to recognize the installation files during the download process.
-
 You can ensure that the game folders are in the proper location by navigating to your default Steam installation:
-
 [code]C:\Program Files (x86)\Steam\steamapps\common[/code]
 [h2]
 [/h2]
@@ -43,7 +41,5 @@ External Hard Drives
 External hard drives are not recommended for use with Steam or Steam's games. Aside from many potential performance issues, external hard drives may connect or disconnect from the computer at inopportune times as part of their normal operations. If you encounter this issue with an external drive, install Steam and your games to an internal drive instead.
 [/section]
 To ensure that you do not encounter this issue, always allow Steam to close properly when shutting down your computer. Allowing Windows to force Steam to close when it is writing to a hard drive may cause Steam library and installation information to become corrupted.
-
 Additionally, third party applications can prevent Steam from writing essential information. Ensure that none of your installed applications are interfering with Steam:
-
 [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs which may interfere with Steam[/url]

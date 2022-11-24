@@ -4,7 +4,6 @@ Updated 2021-10-27 22:50:31
 Version 8
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img]
-
 Follow the steps in the sections below to submit in-game items for the Dota Workshop:
 [list]
 [*][url=#preparations]PREPARATIONS BEFORE SUBMITTING ITEMS[/url] [/*]
@@ -76,8 +75,7 @@ SELECT ITEM TYPE
 [*]"Hero Item..." will contain drop-down lists where you can choose a hero and an item slot (including ability models) [/*]
 [*]"Images..." will contain a drop down list where you can choose Loading Screen, Team Logo, Emoticons, or Cursor Pack. [/*]
 [*]"Contract Only" is used if Valve has contacted you or if you are submitting a [url=https://support.steampowered.com/kb/1719-OPHL-1139/dota-2-league-tickets]League ticket[/url]. It is not used for submitting items.
-
- [/*]
+[/*]
 [/list]
 [/*]
 [/list]
@@ -93,7 +91,6 @@ SELECT INPUTS
 [*]To fill most of these fields you'll browse to your model, texture, animation, image, or music files.  [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/select_inputs.JPG?[/img]​
-
 [h1][url id=inputattach][/url][/h1][h1]INPUT ATTACHMENTS[/h1]
 [list]
 [*]Details about typical creature attachments can be found on the [url=https://support.steampowered.com/kb/7823-RUAZ-5739/dota-2-workshop-ability-models-summoned-units#attachments]Ability Model[/url] and [url=https://support.steampowered.com/kb/8986-WRAZ-1046/dota-2-workshop-couriers#attachments]Courier[/url] pages. [/*]
@@ -147,7 +144,6 @@ PREVIEW MODEL
 [*]Ensure that models for some hero items that become projectiles during abilities, such as thrown weapons for Pudge, Huskar and Enchantress, match the bind pose orientation of the hero's default weapon. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/pudge_hook_orientation.jpg[/img]
-
 [h1]PREVIEW SETTINGS[/h1]
 [olist]
 [*]You can click the gear icon to hide the model viewer's grid or change the background colors if you wish to use this pane for image captures. [/*]
@@ -155,7 +151,6 @@ PREVIEW MODEL
 [*]Select "Show Low-Res Model" to test the LOD 1 mesh as well as the LOD 0 mesh against important animations.  [/*]
 [/olist]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/preview_model.JPG[/img]
-
 [h1][url id=editattach][/url][/h1][h1]EDIT ATTACHMENTS[/h1]
 [list]
 [*]To edit the position and orientation of attachments:
@@ -168,7 +163,6 @@ PREVIEW MODEL
 [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/attach_edit.jpg?[/img]
-
 [h1]MODEL TROUBLESHOOTING[/h1]
 [list]
 [*]If your model's mesh is disconnected or the weighting is distorted, please see [url=https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205#refmodel]this section[/url] of our Item Troubleshooting page. [/*]

@@ -4,9 +4,7 @@ Updated 2022-07-06 20:36:00
 Version 7
 
 You can access your Friends & Chat interface in the lower right corner of your Steam Client or through your favorite [url=https://steamcommunity.com/chat/]web browser[/url].
-
 Through your Friends & Chat interface you can manage your friends, send IMs, organize voice & group chats and control your online presence.
-
 Most of these features are designed to be intuitive and easy to use, so don't be afraid to drag and drop and right-click. If you have trouble with anything, check out the information in this FAQ. If you are still unable to get something working right, don't hesitate to reach out to [url=https://help.steampowered.com/]Steam Support[/url].
 [list]
 [*][url=#online]Profile & Online Status[/url] [/*]
@@ -17,7 +15,6 @@ Most of these features are designed to be intuitive and easy to use, so don't be
 [/list]
 [section id=online]  [h1]Profile & Online Presence[/h1]
 In the top left corner of your Friends & Chat interface, you'll see your familiar Steam avatar. You can access your Steam profile directly from this link.
-
 Next to your avatar there is a dropdown menu. From here, you can set your online presence:
 [list]
 [*][b]Online[/b] - The default status. Your friends will see when you are online and playing a game will show you as in-game. [/*]
@@ -67,7 +64,6 @@ How to create a group chat
 Saving a group chat
 [/h3]
 Once you've added some friends to the group chat, you'll want to save it for future access. With the group chat window open, select the gear icon in the upper right corner of the chat window. From here, you'll be able to set a name and avatar and permanently save the group.
-
 [video poster="" mp4="https://steamcdn-a.akamaihd.net/steamcommunity/public/assets/friends_announce/video/clubhouse.webm" autoplay=0][/video]
 [h3]
 Settings & Notifications
@@ -95,5 +91,4 @@ The gear next to your profile name at the top of your friends list will take you
 Troubleshooting
 [/h3]
 Steam voice chat is designed to require minimal setup provided your default system devices are already working properly. If you are experiencing an issue, check out the support article below for detailed info:
-
 [url=https://help.steampowered.com/en/faqs/view/1E45-57ED-9153-7EF4]Voice Chat Connection and Quality Issues  [/url]

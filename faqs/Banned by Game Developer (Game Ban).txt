@@ -4,21 +4,17 @@ Updated 2022-01-18 21:41:56
 Version 6
 
 Playing games should be fun. In order to ensure the best possible online multiplayer experience, Valve allows developers to implement their own systems that detect and permanently ban any disruptive players, such as those using cheats.
-
 Game developers inform Valve when a disruptive player has been detected in their game, and Valve applies the game ban to the account. The game developer is solely responsible for the decision to apply a game ban. Valve only enforces the game ban as instructed by the game developer.
-
 For more information about a game ban in a specific game, please contact the developer of that game.
 [h2]
 Why was this introduced?
 [/h2]
 Game bans were originally introduced to give third-party developers the ability to implement their own anti-cheat system to be used in concert with the Valve Anti-Cheat (VAC) system. CS:GO also uses game bans in its Overwatch system. Game bans allow developers to utilize Valve’s banning infrastructure rather than implement their own ban tracking system.
-
 More recently, game bans were added to users’ Steam profile pages. This was done for two reasons. The first reason was to help banned users know why they cannot join a protected matchmaking server. Many users were confused when they received an error trying to connect to a matchmaking server and yet did not see any bans on their account. The second reason was to allow other users to see whether accounts they had suspected of cheating were, in fact, banned. It can be frustrating to play a game with a cheater, and it helps to know when such a user is removed from the matchmaking system.
 [h2]
 If a developer communicates a ban request to Valve, is the offending player banned from launching that game – or from using Steam entirely? And, for how long?
 [/h2]
 The effects of the game ban are determined by the developer, and must be consistent with a VAC ban, such as being prevented from playing online with other players and/or trading items for that game. It cannot prevent the user from launching and playing the game offline. It cannot prevent the user from using Steam.
-
 The duration of the game ban is determined by the developer. Only permanent game bans are displayed on the user’s profile. Temporary game bans, or suspensions, are not displayed.
 [h2]
 Does this mean developers can take my games away from me?

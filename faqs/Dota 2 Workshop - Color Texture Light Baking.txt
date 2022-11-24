@@ -4,7 +4,6 @@ Updated 2021-08-28 00:52:48
 Version 4
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_01-DefiningColor_notext_01.jpg[/img]
-
 This guide describes a method for quickly creating a consistent color texture from a high resolution sculpted source and applying it to the low resolution in-game asset.
 [list]
 [*][url=#define]DEFINING COLOR[/url]
@@ -28,15 +27,12 @@ DEFINING COLOR
 AMBIENT OCCLUSION
 [/h2]
 Start with the predominant color of the character
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_01-DefiningColor_notext_02.jpg[/img]
 [hr][/hr]
 Bake an ambient occlusion map (AO Map) of the model.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_02-AmbientOcclusion_notext_01.jpg[/img]
 [hr][/hr]
 Multiply the ambient occlusion layer on top of the base color at an 80% opacity.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_02-AmbientOcclusion_notext_02.jpg[/img]
 [hr][/hr]
 [url id=pointlight][/url]
@@ -78,11 +74,9 @@ POINT LIGHT MAP
 COLOR MAP
 [/h2]
 The majority of the painting is done in the color layers.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_05-ColorMap_notext_01.jpg[/img]
 [hr][/hr]
 The color group is blended on top of other layers in overlay mode at 80% opacity.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_05-ColorMap_notext_02.jpg[/img]
 [hr][/hr]
 [list]
@@ -92,7 +86,6 @@ The color group is blended on top of other layers in overlay mode at 80% opacity
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_06-ColorMapClamped_notext_01.jpg[/img]
 [hr][/hr]
 The color layer group was duplicated again and given a blending mode of darken at 50% opacity. This allows the shadows and highlights to be controlled independently.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_06-ColorMapClamped_notext_02.jpg[/img]
 [hr][/hr]
 [url id=patterns][/url]
@@ -108,7 +101,6 @@ GRAPHIC PATTERNS
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_07-GraphicPatterns_notext_01.jpg[/img]
 [hr][/hr]
 Color is loosely painted inside the layer mask to preserve a sharp edge to the design. The blending mode is set to normal at 80% opacity.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_07-GraphicPatterns_notext_02.jpg[/img]
 [hr][/hr]
 [url id=final][/url]
@@ -116,11 +108,8 @@ Color is loosely painted inside the layer mask to preserve a sharp edge to the d
 FINAL ADJUSTMENTS
 [/h2]
 Make final adjustments to details like the eye highlights, improve the value gradient overall, and adjust the saturation.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_08-FinalAdjustments_notext_01.jpg[/img]
 [hr][/hr]
 This color texture is now perfectly synched to all of the details in the normal map.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_01-DefiningColor_notext_01.jpg[/img][img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/color_texture_light_baking/590_08-FinalAdjustments_notext_02.jpg[/img]
-
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]

@@ -4,7 +4,6 @@ Updated 2022-02-11 21:10:21
 Version 8
 
 Several options are available to address abusive or inappropriate behaviors encountered while using Steam. There are also practices to keep in mind that can help you avoid these types of behaviors altogether.
-
 If you are ever experiencing abuse outside of Steam, or if you ever feel that your safety is being threatened, we strongly encourage contacting local emergency or law enforcement services in your area.
 [h2]
 What Options Are Available?
@@ -16,14 +15,12 @@ There are different ways to address problematic behavior from other players. You
 Reporting Content
 [/h3]
 If another player is hosting content that is being used in an abusive or inappropriate manner, we encourage players to utilize our reporting system. Reports are reviewed and typically resolved within 24 hours of submission. You will receive a notification if action is taken.
-
 [url=https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD]Reporting content within the Steam Community[/url]
 [*]
 [h3]
 Remove Friend
 [/h3]
 If you are Steam friends with the other player, you always have the option of ending that relationship. Unfriending will remove the ability for the other player to contact you via Steam, It will also prevent them from viewing any content that you have set to private, or friends only.
-
 To unfriend someone, navigate to their profile and select the [i]unfriend[/i] option under the [i]...[/i] button's dropdown. Alternatively, you can use the dropdown next to their profile name in your friends list, selecting the [i]manage[/i] option.
 [*]
 [h3]
@@ -41,14 +38,12 @@ To block another player, navigate to their profile and select the [i]block all c
 Enable Chat Filtering
 [/h3]
 Steam Chat Filtering allows you to control the type of content that can be seen in Steam and in-game chats. You can also customize the filtration in a number of ways.
-
 To learn more about this feature and opt-in, visit your [url=https://store.steampowered.com/account/preferences/#CommunityContentPreferences]account preferences[/url] page.
 [*]
 [h3]
 Adjusting Privacy Options
 [/h3]
 You can adjust privacy options to manage who can view specific components of your profile, who can comment on it, as well as who can view your inventory.
-
 [url=https://steamcommunity.com/my/edit/settings]View Your Privacy Options[/url]
 [*]
 [h3]
@@ -60,7 +55,6 @@ You can set your Steam status to Invisible, which will cause you to appear offli
 Claiming Copyright Infringement
 [/h3]
 Anyone who believes that their work has been reproduced in one of our internet sites or services in a way that constitutes copyright infringement may notify Valve's copyright agent using the form below.
-
 [url=https://steamcommunity.com/dmca/create/]Notice of Copyright Infringement[/url]
 [*]
 [h3]
@@ -83,14 +77,12 @@ We always recommend that players engage in responsible behavior while using Stea
 Keep Your Personal Info Safe
 [/h3]
 Malicious activity often relies on access to your personal information. Never post personally identifiable information on Steam, even in private chats or other areas that you might think are safe. Someone else can always decide to make this content public.
-
 You should also review your Steam [url=https://steamcommunity.com/my/edit/settings]privacy options[/url] and be aware of what components of your profile are public.
 [*]
 [h3]
 Protect Your Account
 [/h3]
 Account security is something that you can control. Take advantage of Steam's security features and never let anyone access or borrow your account, regardless of the reason.
-
 You can find more information and resources in our dedicated [url=https://help.steampowered.com/en/faqs/view/6639-EB3C-EC79-FF60]Account Security Recommendations[/url] article.
 [*]
 [h3]

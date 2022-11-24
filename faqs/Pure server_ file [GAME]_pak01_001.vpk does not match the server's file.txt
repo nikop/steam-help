@@ -5,7 +5,6 @@ Version 4
 
 
 [section style=warning]Counter-Strike: Global Offensive cooldowns caused by [i]pak01_001.vpk[/i] errors are non-negotiable and cannot be removed or reduced by Steam Support.
-
 We highly recommend completing all the steps below before attempting to play Competitive to ensure you are not kicked from games moving forward.
 [/section]
 [list]
@@ -22,7 +21,6 @@ We highly recommend completing all the steps below before attempting to play Com
 What causes .vpk errors?
 [/h2]
 VPK errors most often occur when third party files are added to your CS:GO install directory that are not included with the game’s default install. These files may be added when joining third party or community servers that download additional content (like sounds or images) unique to the server.
-
 VPK errors may also be caused by hard drive corruption or faulting memory modules.
 [/section]
 [section id=vpkfix]
@@ -53,7 +51,6 @@ Now that you have replaced any modified files with default files, re-test the is
 Reinstall the game
 [/h2]
 If removing third party files did not solve your vpk issues, try completely uninstalling CS:GO from your computer and re-downloading the game.
-
 To uninstall, right click on CS:GO in your Steam Library and select ‘Manage’ > ‘Uninstall’, then re-download the game and re-test the issue.
 [/section]
 [section id=memory]
@@ -61,8 +58,6 @@ To uninstall, right click on CS:GO in your Steam Library and select ‘Manage’
 Replace faulting memory module(s)
 [/h2]
 If you continue to experience .vpk errors this likely means that one or more of your computer's memory modules is bad or failing. You can test your memory with third party programs like Memtest, available [url=https://www.memtest86.com/]here[/url].
-
 [b]Note:[/b] Please ensure that you use Memtest version 4.2 or later, as earlier versions cannot test more than 4GB of memory.
-
 If a memory module is bad or failing, we suggest that you contact the manufacturer's warranty department for an exchange or replace the faulting module.
 [/section]

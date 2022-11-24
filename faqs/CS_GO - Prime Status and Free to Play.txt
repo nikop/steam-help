@@ -44,7 +44,6 @@ No. Currently there is no way to remove Prime Status from your account.
 Can Prime and non-Prime users matchmake together?
 [/h2]
 Yes, but only if these users matchmake from a pre-made lobby. When a Prime and non-Prime user matchmake together the lobby is considered non-Prime and the resulting match would be with and against non-Prime users.
-
 It is not possible for a non-Prime user to play in a Prime-only match.
 [/section]
 [section id=freexp]

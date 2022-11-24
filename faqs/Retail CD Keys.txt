@@ -24,7 +24,6 @@ Many products are sold by retailers other than Steam. If these products are mean
 [section id=proof]  [h4]What is a CD Key used for after it is registered?[/h4]After the key is registered to your Steam account, it acts as proof of purchase for the game as well as proof of ownership for your Steam account. Steam Support may ask for it if you need to establish your ownership of an account. Please note that digital keys that are not part of a game's physical packaging cannot be used as proof of account ownership. It is recommended that you keep your key in a safe place to ensure the security of your account.
 [/section]
 [section id=invalid]  [h4]Why am I receiving the "Invalid Product Code" error when attempting registration?[/h4]If your key is not recognized by Steam, make sure that the key is intended for Steam registration. If a retail or digital game is meant to be registered through Steam, the retail packaging or the email where the key was delivered will mention it.
-
 Once you have made sure that the product is intended for Steam registration, check the combinations below to ensure that numbers and letters are entered correctly:
 [list]
 [*]The number [b]0[/b] (try entering the letter [b]Q[/b], [b]D[/b] or [b]O[/b] instead) [/*]
@@ -36,9 +35,7 @@ Once you have made sure that the product is intended for Steam registration, che
 If you are still receiving an invalid error, we encourage you to contact the retailer for further assistance.
 [/section]
 [section id=duplicate]  [h4]Why am I receiving a duplicate product code error when attempting to register the key?[/h4]This error indicates that the key you are registering has already been tied to a Steam account. It cannot be registered again.
-
 If you think that you have previously registered this key to a Steam account, please use [url=https://help.steampowered.com/wizard/HelpWithLogin]Steam Help Site[/url] to retrieve your lost Steam account.
-
 If you are sure that you have never registered this key successfully, you will want to contact the retailer where the game was purchased to obtain a new copy of the game.
 [/section]
 [section id=nonsteam]  [h4]How do I add a non-Steam game to my Library?[/h4]If your key is not meant to be registered on Steam, the game may still be added to your Library for convenience - please see the [url=https://help.steampowered.com/en/faqs/view/4B8B-9697-2338-40EC]Add Non-Steam Games to a Library[/url] topic for more information on this process.

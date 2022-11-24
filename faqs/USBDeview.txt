@@ -4,10 +4,7 @@ Updated 2021-08-10 19:10:20
 Version 4
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
-
-    
-
-      	[h1]USBDeview[/h1][url=http://www.nirsoft.net/utils/usb_devices_view.html]USBDeview[/url] is a tool that removes old USB device records from Windows. Removing these records can help with corrupt or incorrectly installed USB drivers.
+[h1]USBDeview[/h1][url=http://www.nirsoft.net/utils/usb_devices_view.html]USBDeview[/url] is a tool that removes old USB device records from Windows. Removing these records can help with corrupt or incorrectly installed USB drivers.
 [section style=note]Please note: USBDeview is a third-party application. This app was not developed by Valve and we cannot provide support for it. Please do not attempt these steps unless you have exhausted our other troubleshooting options.
 [/section]
 Get started:

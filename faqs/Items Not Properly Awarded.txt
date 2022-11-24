@@ -20,9 +20,6 @@ If you receive a VAC ban in Team Fortress 2, Counter-Strike: Source, or Half-Lif
 Counter-Strike: Global Offensive
 [/h3]
 If you receive a VAC ban (for any game) you will no longer have access to the CS:GO Store, receive CS:GO item drops, or be able to trade CS:GO items.
-
-
-
 [h1]Low Priority, Cooldowns, or Overwatch Bans[/h1]
 [hr][/hr]
 [h3]
@@ -33,9 +30,6 @@ If you are in low priority or your account is locked, you will no longer receive
 Counter-Strike: Global Offensive
 [/h3]
 If you have received a cooldown or Overwatch ban your account, you will no longer have access to the CS:GO Store, receive CS:GO item drops, or be able to trade CS:GO items.
-
-
-
 [h1]Promotional Items[/h1]
 [hr][/hr]
 [h3]

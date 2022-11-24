@@ -4,11 +4,8 @@ Updated 2021-08-24 20:05:54
 Version 6
 
 How can I set game launch options?
-
 Game launch options can be used to change game settings before running the game. Launch options allow the user to supersede internal settings of the game. This is an effective means to recover from incompatible video settings as well as troubleshooting a wide range of issues.
-
 This topic covers setting game launch options from Steam's [b]Library[/b]. Launch options may also be set by creating a game shortcut and [url=https://help.steampowered.com/en/faqs/view/0188-6BB7-D467-08E1]Setting Steam Launch Options[/url] for the shortcut.
-
 [h4]Set Launch Options[/h4]
 [olist]
 [*]Open your Steam Library [/*]
@@ -19,7 +16,6 @@ This topic covers setting game launch options from Steam's [b]Library[/b]. Launc
 [/olist]
 [h4]Common Launch Options[/h4]
 [section style=note]These launch options apply to GoldSrc and Source engine games only. They do not apply to most third party games.
-
 Please refer to [url=https://store.steampowered.com/search/?category1=998&developer=Valve]this list of Valve titles[/url] for titles that support these launch options
 [/section]
 Many [url=http://developer.valvesoftware.com/wiki/Console_Command_List]Console Commands[/url] can function as a launch option by adding a "+" in front of the console command, but some cannot be used in this fashion. The most common launch options are listed below.

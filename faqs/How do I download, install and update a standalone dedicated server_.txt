@@ -16,9 +16,7 @@ For more information on installing and using SteamCMD, please see the [url=https
 Where can I find a list of supported games?
 [/h3]
 For a list of dedicated servers and games that SteamCMD supports on Steam, please see the [url=https://developer.valvesoftware.com/wiki/Dedicated_Servers_List]Dedicated Servers List[/url].
-
 You can also post questions and search for help in [url=http://steamcommunity.com/discussions/#tools]Steam Discussions[/url].
-
 [h4]Third Party Dedicated Server Resources[/h4]
 [list]
 [*][url=https://forums.alliedmods.net/forumdisplay.php?f=129]AlliedMods.Net[/url] [/*]

@@ -4,11 +4,8 @@ Updated 2021-10-28 00:24:06
 Version 5
 
 Steam uses cookies, some of which are technically required for the website to work (e.g. a cookie that stores what you have added to your shopping cart). Others are not required but help us identify how you use Steam or improve your user experience.
-
 You can find a list of the cookies we use as well as controls for approving or denying them [url=http://store.steampowered.com/account/cookiepreferences]here[/url].
-
 As an alternative, it is possible to control the access of cookies through your browser’s settings. Please be aware that doing so may cause cookies to fail that are necessary for Steam to work. Furthermore, please note that the information below may vary depending on the browser version.
-
 [h4]How to manage the use of cookies in [b]Microsoft Edge[/b][/h4]
 [olist]
 [*]Click the "..." button in the top-right, or press Alt + F;

@@ -4,9 +4,7 @@ Updated 2022-07-14 00:25:27
 Version 7
 
 [img]https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png[/img]
-
 [h1]Updating the Steam Link[/h1]Need to update your Steam Link or load a specific build on it? Click on the scenario that best describes your setup for detailed instructions.
-
 [expand type=title title="Loading Specific Steam Link Builds"]
 You may need to load specific Steam Link builds to better troubleshoot issues. To do this, follow the steps below:
 [olist]

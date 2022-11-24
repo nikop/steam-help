@@ -4,7 +4,6 @@ Updated 2021-10-28 00:18:13
 Version 10
 
 I see the error "[b]This game is currently unavailable"[/b] when launching a game through Steam.  What can I do?
-
 [h1]Windows Troubleshooting Steps[/h1]
 After each step, please re-test the issue:
 [olist]
@@ -44,9 +43,7 @@ After each step, please re-test the issue.
 [/exclude_realm]
 [h1]Secondary Installers[/h1]
 Many Steam games include installers for features and services required by the game. These include installers for DirectX, PhysX, Games for Windows Live, C++ components, or Windows updates required by the game.
-
 Steam is designed to run these installers when the game is first launched. If an installer is canceled by a user or prevented from running by another application on your system, the game may not launch correctly.  If this occurs, these installers will need to be launched manually.
-
 These installers are found in the game's installation folder, or a subfolder, found in the following location by default: [b]C:\Program Files (x86)\Steam\steamapps\common\<Game Title>\[/b].
 [section style=note]Note: Your installation path may differ from the above location.
 [/section]

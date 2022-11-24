@@ -8,7 +8,6 @@ Version 4
 How do I request a refund?
 [/h2]
 All refund requests are handled through [url=https://help.steampowered.com]help.steampowered.com[/url].
-
 For a step-by-step guide, please see our [url=https://help.steampowered.com/en/faqs/view/784C-923B-A4A1-C825]How To Request A Refund[/url] FAQ.
 [h2]
 What can I request a refund for?
@@ -33,7 +32,6 @@ If you feel that there has been an error in the handling of your refund inquiry,
 I bought a game right before it went on sale. Can I get a refund and repurchase it at the sale price?
 [/h2]
 Yes; if you have not already requested a refund [url=http://store.steampowered.com/steam_refunds/] make sure the purchase is eligible[/url] and submit a request [url=http://help.steampowered.com]here[/url].
-
 Please note that approved refunds may take up to 7 days to process.
 [h2]
 Is there a limit to how many purchases I can request a refund for?

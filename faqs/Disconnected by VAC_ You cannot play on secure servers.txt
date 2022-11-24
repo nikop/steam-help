@@ -5,7 +5,6 @@ Version 6
 
 
 [section style=warning]Modifying game files and/or in-game textures may cause this error.
-
 Please remove any custom textures, skin changers, or software that modifies game files and restart your computer. We also recommend [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB] verifying your game files[/url] after making these changes.
 [/section]
 [h2]

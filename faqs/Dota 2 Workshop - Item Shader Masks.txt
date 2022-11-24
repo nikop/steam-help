@@ -38,13 +38,11 @@ OVERVIEW
 Ogre Magi textures and shader masks:
 [/h2]
 Base Model, Color, Normal, Self Illumination, Specular, Rimlight, Base Tint, and Specular Exponent
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_base_all_masks_s2.jpg?v=1459382400[/img]
 [h2]
 Ogre Magi Weapon textures and shader masks:
 [/h2]
 Model, Color, Normal, Metalness, Self Illumination, Specular, Rimlight, Base Tint, and Specular Exponent
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_weapon_all_masks_s2.jpg?v=1459382400[/img]
 [hr][/hr]
 [url id=source1][/url]
@@ -72,7 +70,6 @@ Color Map
 [*]The color map can be 24 or 32 bit.  [/*]
 [/list]
 Color Maps for Ogre Magi, Disruptor, and Razor
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_color.jpg?v=1459382400[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/disruptor_color.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/razor_color.jpg?v=1459382400[/img]​
 [list]
 [*]We will soon be adding a control to the workshop demo mode that will allow you to see your items with desaturated colors in order to assess the readability of color map values. You can also use the console command r_hero_debug_render_mode 5 to enable desaturated display. [/*]
@@ -80,7 +77,6 @@ Color Maps for Ogre Magi, Disruptor, and Razor
 [list]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/values_color_crop.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/values_greyscale_crop.jpg[/img]
 [hr][/hr]
 [url id=transparency][/url]
@@ -94,9 +90,7 @@ Transparency
 [*]Transparency is now a separate texture file in Source 2 but you can leave the transparent file input blank in the submission tool if your item doesn't need this. [/*]
 [/list]
 ​
-
 The mesh, Color Map, Transparency, and game model for Abaddon's default cape
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/abaddon_cape_model_grey2.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/abaddon_cape_color.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/abaddon_cape_trans.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/abaddon_cape_color_model.jpg?v=1459382400[/img]
 [hr][/hr]
 [url id=normal][/url]
@@ -114,11 +108,8 @@ Normal Map
 [*]You can find resources and tutorials about making normal maps through community links on our [url=http://www.dota2.com/workshop/]Dota Workshop Submission Guidelines Homepage[/url] [/*]
 [/list]
 The Normal Map and Specular Mask for Ogre Magi's default weapon
-
-  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_weapon_normal_s2.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_weapon_specmask.jpg?v=1459382400[/img]
-
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_weapon_normal_s2.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_weapon_specmask.jpg?v=1459382400[/img]
 The model mesh without Normal Map, with Normal Map, and with all final textures including Specular and Metalness
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_ingame_2.JPG?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_ingame_3.JPG?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_magi_ingame_0.JPG?v=1459382400[/img]
 [hr][/hr]
 [url id=detail][/url]
@@ -133,17 +124,11 @@ Detail Mask
 [*]The material for the hero's default item controls the blending mode for the detail map. In the example below, the default material for Razor is using an additive blend mode. [/*]
 [/list]
 ​
-
-The Color Map, Detail Mask, and Detail Map of electrical arcs used on Razor's body. 
-
+The Color Map, Detail Mask, and Detail Map of electrical arcs used on Razor's body.
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/razor_color.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/razor_detailmask.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/razor_electric_detail.jpg?v=1459382400[/img]
-
 Razor's arm without the Detail Mask
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/razor_arm_no_detailmask_cropped.jpg?v=1459382400[/img]
-
 Razor's arm with the Detail Mask
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/razor_arm_with_detailmask_cropped.jpg?v=1459382400[/img]
 [hr][/hr]
 [url id=metalness][/url]
@@ -160,7 +145,6 @@ Metalness Mask
 [*]All maps combined, including Metalness, Base Tint, Exponent, and Rimlight [/*]
 [/olist]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_weapon_metalness.jpg?v=1459382400[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/nyx_metalness.jpg?v=1459382400[/img]
 [hr][/hr]
 [url id=selfillum][/url]
@@ -172,13 +156,9 @@ Self Illumination Mask
 [*]This mask can make the pixels of the surface full-bright with the coloring from the color texture.  [/*]
 [/list]
 ​
-
 Self Illumination is used to create glowing areas, such as the mouth of Ogre Magi's weapon
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_weapon_self_illum.jpg?v=1459382400[/img]
-
 A more subtle mask is used for the glow within Earth Spirit's arms.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/earth_spirit_self_illum_example.jpg[/img]
 [list]
 [*]The default values are black. Lighter values will make a surface ignore lighting and just show color texture. Self illuminated areas in-game will also have a bloom (or glow) effect to them.  [/*]
@@ -197,17 +177,11 @@ Specular Mask
 [*]Specular intensity values from the mask are multiplied by the specular scale value from the material. Custom items will use the value in the material for the default item. In most cases specular scale is a number higher than 1, which results in exaggerated highlights.  [/*]
 [/list]
 ​
-
 No Specular
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_weapon_no_specular.jpg?v=1459382400[/img]
-
 Full Specular
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_weapon_full_specular.jpg?v=1459382400[/img]
-
 Authored Specular
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_weapon_authored_specular.jpg?v=1459382400[/img]
 [hr][/hr]
 [url id=rimlight][/url]
@@ -219,22 +193,16 @@ Rimlight
 [*]Rimlight intensity values from the mask are multiplied by the rimlight scale value from the material. Custom items will use the value in the material for the default item. In most cases, rimlight scale is a number higher than 1, which results in an exaggerated rimlight. [/*]
 [/list]
 ​
-
 No Rimlight
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_body_no_rimlight.jpg?v=1459382400[/img]
-
 With Authored Rimlight
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_body_with_rimlight.jpg?v=1459382400[/img]
 [list]
 [*]Dark values can be used for metals and lighter values for skin, leather, and wood. This may not be the case for all items.  [/*]
 [*]There are darker values in the crevices, which can be achieved by creating an [url=https://support.steampowered.com/kb/8700-SJKN-4322/dota-2-character-texture-guide]Ambient Occlusion[/url] map. [/*]
 [/list]
 ​
-
 Ogre Magi's weapon rimlight mask is light for leather and dark for metal
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_weapon_rimlight_example.jpg?v=1459382400[/img]
 [hr][/hr]
 [url id=basetint][/url]
@@ -248,11 +216,8 @@ Base Tint Mask
 [*]Light values will keep specular highlights the color of the light affecting the surface.  [/*]
 [/list]
 ​
-
 Ogre Magi's bracer and Disruptor's base model without and with a Base Tint Mask
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/ogre_bracer_basetint_demo.jpg?v=1459382400[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/disruptor_basetint_demo.jpg?v=1465171200[/img]
 [hr][/hr]
 [url id=exponent][/url]
@@ -273,27 +238,12 @@ Specular Exponent
 [*]Values in this mask act as a scale for the specular exponent value from the material. If the entire channel is white, then the entire surface will inherit specular exponent values from the material. [/*]
 [/list]
 Specular Highlight
-
-
-
- [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/spec_exponent_highlights.jpg?v=1459382400[/img]
-
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/spec_exponent_highlights.jpg?v=1459382400[/img]
 Matching Specular Exponent Values
-
-
-
- [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/spec_exponent_values.jpg?v=1459382400[/img]
-
-
-
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/spec_exponent_values.jpg?v=1459382400[/img]
 Full Specular Exponent
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/spec_exponent_weapon_full_specular.jpg?v=1459382400[/img]
-
-
-
 Authored Specular Exponent
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/spec_exponent_authored_specular.jpg?v=1459382400[/img]
 [hr][/hr]
 [url id=diffuse][/url]
@@ -306,7 +256,6 @@ Diffuse Mask (rarely used)
 [*]The Diffuse Mask can apply a color transformation, like a hue shift or a contrast adjustment to the original color. This color transformation is encoded into a 3D texture called a colorwarp. This effect is then applied using a fresnel term, meaning it only appears around the edges of the character.​ [/*]
 [/list]
 Puck without (left) and with (right) a Custom Fresnel Color Warp applied to different extents by a light body diffuse mask (upper) and dark wings diffuse mask (lower)
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/puck_no_diffuse.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/puck_with_diffuse.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/puck_rainbow_fresnel.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/shaders/puck_combined_diffusemasks.jpg?v=1459382400[/img]​
 [hr][/hr]
 [url id=budgets][/url]

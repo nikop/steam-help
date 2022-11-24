@@ -5,9 +5,7 @@ Version 3
 
 When creating an account, I get the message:
 [h5]Looks like your email address is already associated with another Steam account.
-
 You can use your existing account or recover it if you've forgotten your login.[/h5]
-
 This means the email address you've entered when trying to create your Steam account is already in use by another Steam account.
 [section style=important]
 [h3]

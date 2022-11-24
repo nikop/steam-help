@@ -18,7 +18,6 @@ Version 3
 What is a Steam Group Lobby?
 [/h3]
 A Steam Group Lobby is a 'Play With Friends' lobby that can be joined by any member of a selected Steam Group. The Steam Group is specified by the lobby leader.
-
 To join a Steam Group Lobby, select the Steam Groups tab in the Main Menu and join any of the lobbies that are listed by clicking the '+' icon. You can always invite your Steam friends to join your lobby, even if they are not members of the Steam Group.
 [/section]
 [section id=createlobby]
@@ -26,7 +25,6 @@ To join a Steam Group Lobby, select the Steam Groups tab in the Main Menu and jo
 How do I create a Steam Group Lobby?
 [/h3]
 Users who have set a Steam Group Clan Tag will have their lobbies listed by default for the Group they've selected. If you haven't set a Clan Tag, click 'Play' and select 'Play With Friends'. From there, click on 'Change Permissions' and select 'Public Steam Group Lobby...' where you can choose the Steam Group you'd like to play with.
-
 To change the Steam Group your lobby is listed for, click 'Change Permissions' and select a different Steam Group. Members of the newly selected group will now see your lobby listed at the main menu.
 [/section]
 [section id=lobbylimits]
@@ -58,7 +56,6 @@ If members of certain Steam Groups have not created a group lobby there may not 
 Where can I find groups to join?
 [/h3]
 You can find Steam Groups to join through both the Steam client and a web browser.
-While logged in, click on your persona (next to 'COMMUNITY') and select 'GROUPS'. From here you can browse existing Steam Groups, create a new group, and change your primary group. 
-
+While logged in, click on your persona (next to 'COMMUNITY') and select 'GROUPS'. From here you can browse existing Steam Groups, create a new group, and change your primary group.
 There are thousands of Steam Groups representing a wide variety of communities, countries, languages, and common interests.
 [/section]

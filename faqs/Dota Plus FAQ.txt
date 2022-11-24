@@ -16,7 +16,6 @@ Enhance your daily Dota experience with Dota Plus, a new monthly subscription se
 Does Dota Plus work in every game mode?
 [/h3]
 Dota Plus counts activity for Relics, Challenges, Hero Leveling, and Weekly Victories for any matches that have the same Hero picking rules as All Pick. For example, Random Draft mode counts, but Ability Draft, bot matches, and custom games do not.
-
 Turbo games grant half the normal hero xp for wins/losses.
 [/section]
 [section id=cancelsub]

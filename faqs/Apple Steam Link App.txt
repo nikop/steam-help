@@ -4,8 +4,6 @@ Updated 2021-08-12 21:15:15
 Version 8
 
 The Steam Link app for iOS extends Steam Link functionality to many iOS phones, tablets, and Apple TVs. Head to [url=https://www.apple.com/app-store/]App Store[/url] to download the free app. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.
-
-
 [h1]Required/Recommended Equipment[/h1]
 [list]
 [*]A computer running Steam, Windows 7 or newer, Mac OS X 10.10 (Yosemite) or newer, SteamOS, or Linux Ubuntu 12.04 or newer. [/*]
@@ -26,7 +24,6 @@ The Steam Link app for iOS extends Steam Link functionality to many iOS phones, 
 [*]Download the app from the App Store and follow the on screen instructions. [/*]
 [/olist]
 If you have questions about the app or need help using it, just click the appropriate tab.
-
 [expand type=title title="Frequently Asked Questions"]
 [h3]
 How can I make the text on the screen bigger?
@@ -36,7 +33,6 @@ The app supports pinch gestures to change the zoom level. Alternatively, you can
 The game is choppy and unresponsive. How can I improve the experience?
 [/h3]
 The majority of people have found that switching to a 5GHz network significantly improves the gaming experience.
-
 Also, you can switch to the ‘Fast’ streaming quality option from the Streaming settings in the Steam Link.
 [h3]
 Do I need a controller to use the Steam Link app?
@@ -46,7 +42,6 @@ You can use the Steam Link app without a controller using your touchscreen, howe
 Can I use the Steam Link app with my cellular network?
 [/h3]
 Using Remote Play Anywhere with your cellular network may work, depending on the policies of your cellular provider.
-
 [/expand][expand type=title title="Troubleshooting"]
 [h3]
 Experiencing Performance Issues?
@@ -56,7 +51,5 @@ If you are experiencing performance issues please ensure that your [url=https://
 Contacting Steam Support
 [/h3]
 If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] and [i][b]streaming_log.txt[/b][/i] files to your ticket.
-
 The default location for these files is [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
-
 [/expand]

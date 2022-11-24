@@ -35,11 +35,8 @@ ASPECT RATIOS
 [*]During the submission process you will have a preview with buttons that will allow you to see how the image will display in 3 aspect ratios - 16:9 (full authored image), 16:10, and 4:3.  [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_16_9.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_16-10.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_4-3.jpg[/img]
-
 [url id=notes][/url]
 [h2]
 OTHER NOTES

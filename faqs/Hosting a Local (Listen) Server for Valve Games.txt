@@ -4,7 +4,6 @@ Updated 2021-08-12 17:36:59
 Version 4
 
 I want to host a server on my computer to play with my friends over the Internet. What do I need to do to allow my friends to connect to me?
-
 In order for users outside your local network to connect to a server hosted on your computer, you must properly configure your network, security software, and the game so that connection requests can reach your computer.
 [section style=important]
 [h3]
@@ -13,14 +12,12 @@ Important
 You must have administrative access to your network hardware (e.g. router) and on the computer in order to make some of the required changes. If you are not the owner of the network or computer, you will need to contact your network or computer administrator to request these changes.
 [/section]
 [h4]Setting Up Your Connection[/h4]Some of the following steps may not apply to you, for example if you do not have a router and your computer is connected directly to your modem—if the step does not apply, skip the step and continue with the next one.
-
 You will need your public Internet IP address. This can be viewed quickly by visiting a site like [url=http://www.whatismyip.com/]whatismyip.com[/url]. This address identifies your connection to the Internet, similar to how a street address identifies your house.
 [olist]
 [*][b]Configure your firewall[/b]
 You will need to set your firewall to allow unsolicited incoming connections for the game you intend to host. If you are unsure how to do this, please refer to the manual or contact the support provider for your firewall software, or temporarily disable your firewall for the duration that you host the server. [/*]
 [*][b]Configure your router[/b]
 Forward port [b]27015[/b] on both TCP and UDP protocols. If you specify an alternate port when creating the server, forward that port [i]instead[/i] of port [b]27015[/b].
-
 For guided instructions on forwarding a port for a large selection of home routers, please visit [url=http://www.portforward.com/]portforward.com[/url] and select the router model you have, or that best matches the one you have. Select "Half-Life 2 Steam Server" when you reach the list of applications. [/*]
 [*][b]Start the game and create a local server[/b]
 [i]NOTE: some of the following steps require that you enter commands into the console. If you require assistance with enabling and/or using the console, please see the [url=https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD]Console[/url] article.[/i]

@@ -4,7 +4,6 @@ Updated 2021-08-26 21:40:11
 Version 4
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img]
-
 Guidelines for submitting branded items and logos to the Dota 2 Workshop
 [list]
 [*][url=#feedback]BRANDED ITEM FEEDBACK[/url] [/*]
@@ -83,7 +82,6 @@ BRAND LOGO SUBMISSIONS TO THE DOTA WORKSHOP
 [*] On the next page, under the "Images" category, click "Select Images Template" and choose "Team Logo" from the drop-down menu and follow the submission instructions. This submission will work for individual brands as well as teams. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/team_logo_template_cropped.jpg?v=1459382400[/img]
-
 [url id=tags][/url]
 [h2]
 BRANDING TAGS AND TITLES

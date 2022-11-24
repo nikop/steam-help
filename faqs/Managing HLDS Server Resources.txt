@@ -4,9 +4,7 @@ Updated 2021-07-10 19:49:55
 Version 3
 
 How can I control how my HLDS server resources are managed?
-
 In all below descriptions, 1 = enabled, 0 = disabled
-
 [h4]Client side:[/h4]
 [list]
 [*][i]cl_allowdownload 1/0[/i]
@@ -18,9 +16,7 @@ Allow/Prevent any content (including sprays) from being sent from the client to 
 [list]
 [*][i]sv_allowupload 1/0[/i]
 Allows/Prevents clients sending custom sprays to the server.
-
 NOTE: sv_allowupload 0 will cause the message:
-
 "ignoring custom decal from xxxxxx" on the server console. [/*]
 [*][i]sv_send_logos 1/0[/i]
 Enables/Prevents the server from sending custom sprays to the clients. [/*]

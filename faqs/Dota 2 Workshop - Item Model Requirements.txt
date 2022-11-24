@@ -160,7 +160,6 @@ SKELETON
 [*]If you are submitting an ability model with a custom skeleton and custom animations, be sure to mark the 'Model Uses a Custom Skeleton' checkbox to ensure that Valve's default animations for that item type are not accidentally applied to your skeleton. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/models/custom_model_checkbox.jpg?[/img]​
-
 [url id=backfaces][/url]
 [h2]
 BACKFACES
@@ -176,7 +175,6 @@ BACKFACES
 [*]Where necessary, attachments are designated and edited within the item workshop tool. More details are on the [url=https://help.steampowered.com/en/faqs/view/3E00-D38F-B793-7384]Item Submission[/url] page. [/*]
 [/list]
 ​[url id=troubleshooting][/url]
-
 [h1]ITEM TROUBLESHOOTING[/h1]
 [list]
 [*]If you have problems compiling, testing or submitting your model, see our [url=https://help.steampowered.com/en/faqs/view/5D5F-A5BD-C25B-7205#refmodel]Item Troubleshooting[/url] checklist. [/*]

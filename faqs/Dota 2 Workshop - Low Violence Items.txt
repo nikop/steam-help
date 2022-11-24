@@ -30,7 +30,6 @@ Life Stealer, Bane and Clinkz
 [*]These heroes have a different model and different textures [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_life_stealer.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_life_stealer_face.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_life_stealer_back.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_bane.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_clinkz_head.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_clinkz.jpg[/img]
 [h2]
 [/h2]
@@ -59,5 +58,4 @@ Doom, Pugna, Lich, and Shadow Demon
 [*]The skull-like lower faces of these heroes are covered for low-violence: [/*]
 [/list]
 [img]{STEAM_CLAN_IMAGE}/1976/eaaa23c0514ddb3ff7ad0ff88b88f97b1e2a9834.png[/img]
-
 [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]

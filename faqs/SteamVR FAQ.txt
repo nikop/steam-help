@@ -46,7 +46,6 @@ If you don’t have a free HDMI port, you can use a DisplayPort to Mini DisplayP
 [b]What are the space requirements of the Vive?[/b]
 [/h3]
 For room scale VR you will need a minimum of 2 meters by 1.5 meters of free space (6.5ft x 5ft), and the maximum distance between base stations is 5 meters (16ft).
-
 In addition to room scale VR, Vive supports seated and standing VR experiences, both of which do not have a minimum space requirement.
 [h3]
 [b]Do I have to drill holes in my walls to mount my base stations?[/b]
@@ -66,15 +65,12 @@ The Vive accommodates most glasses by default, and if needed there are eye relie
 [b]How do I find my IPD?[/b]
 [/h3]
 You can ask your optometrist to give you an exact measurement of your IPD (interpupillary distance). In addition, there are several tools online that can approximate your IPD via webcam.
-
 The average adult male IPD is ~65mm, and the average adult female IPD is ~63mm. When others are playing your Vive, make sure you set the IPD to something closer to these means.
 [h3]
 [b]What if my IPD is not set correctly, or is out of the adjustable range of the HTC Vive?[/b]
 [/h3]
 The HTC Vive headset's can be adjusted to fit customer IPDs across a broad range of values. That being said, we have tested with IPDs that are 5mm off, and things still look good. There will be a bit of softer focus on the extreme edge of the image on one side, but the lenses will still produce a clear image with rock solid geometry (no warping).
-
 In our demo setups we usually set the IPD near the median IPD ~64mm and use that IPD for everyone who gets a demo.  The difference in performance is not dramatic, but if you know what to look for you can see a slight difference.  Even an IPD offset of 8-10mm still looks quite good.
-
 What you will see if the lens is not centered is an increase in stray light. The worst case scenario is looking at white text on a dark background.  In that case, you will see stray light halos in the dark area around the white text.  In games without sharp contrast boundaries the stray light will be difficult to see.
 [h3]
 [b]I have a question about my HTC Vive order / shipping / billing.[/b]

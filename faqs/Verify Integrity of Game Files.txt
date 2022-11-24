@@ -24,6 +24,5 @@ This is normal for most Steam games. The files that fail to verify are local con
 Warning:
 [/h3]
 Do not run the verification process while performing other system-intensive processes, such as defragmenting your hard drive or scanning for viruses.
-
 Do not run this process for multiple games at the same time.
 [/section]

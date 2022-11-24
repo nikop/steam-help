@@ -4,7 +4,6 @@ Updated 2021-08-10 22:10:10
 Version 5
 
 I'm having trouble running Steam or playing my games, what can I do to fix it?
-
 Often, disk permissions become inconsistent over time. Some of these problems have a negative impact on Steam. If Steam does not start, or games do not launch, please try this first:
 [list]
 [*]Click on [b]Applications > Utilities > Disk Utility[/b] [/*]

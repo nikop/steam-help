@@ -16,7 +16,6 @@ Version 5
 Who can level up their Steam Community profile?
 [/h3]
 Anyone who is not a [url=https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A]limited user[/url] will earn a Steam level based on their account's current badges and games. You must create your Steam Community profile to view your Steam level. [url=https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A]Limited users[/url] do not qualify for Steam levels and will remain at level 0.
-
 [url id=increase][/url]
 [h3]
 How do I increase XP on my profile to level up?
@@ -29,7 +28,6 @@ There are a number of ways to increase your profile level on Steam. These includ
 [*]Upgrading badges [/*]
 [/list]
 For more information about your Steam level and how to increase it, please see the [url=http://steamcommunity.com/tradingcards/faq]Trading Cards FAQ.[/url]
-
 [url id=reward][/url]
 [h3]
 What does having Steam Levels give you?
@@ -43,7 +41,6 @@ What does having Steam Levels give you?
 I have badges, but my XP is stuck at 100 on level 0. What is wrong?
 [/h3]
 [url=https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A]Limited users[/url] do not qualify for Steam levels. If you are a [url=https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A]limited user[/url], your XP will not increase and your level with remain at 0. For more information on limited users and how to become unlimited, please see the [url=https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A]Limited Users FAQ[/url].
-
 [url id=more][/url]
 [h3]
 I bought a game, but my XP only increased by x amount. Shouldn't it be more?

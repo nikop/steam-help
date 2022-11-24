@@ -4,7 +4,6 @@ Updated 2021-10-27 22:48:17
 Version 3
 
 How do I setup a Mann vs Machine server?
-
 [h4]MvM General Server Requirements:[/h4]
 [list]
 [*]Your server hardware must be able to run at least a single 32 slot TF2 server. [/*]

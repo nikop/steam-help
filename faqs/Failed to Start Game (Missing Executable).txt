@@ -14,7 +14,6 @@ Troubleshooting Steps
 [olist]
 [*][b]Check your anti-virus software[/b]
 This error is most commonly seen when your anti-virus software mistakenly reports game files as malicious and quarantines them.
-
 There are a couple of ways to resolve this:
 [list]
 [*]within the anti-virus software look for game files that have been reported and mark them as safe [/*]
@@ -26,7 +25,6 @@ You should also temporarily uninstall any applications listed in our [url=https:
 If it's not caused by anti-virus software, the issue could be a corrupted file or failed download. To make sure you have all the files needed, restart your PC and then verify your game files. [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]You can easily do that from the game properties panel[/url].
 [*][b]Submit a Steam Support ticket[/b]
 If you've completed steps 1 and 2 and are still seeing this error, please [url=https://help.steampowered.com]submit a ticket to Steam Support[/url].
-
 We'll ask you for the following, so go ahead and include them with your ticket:
 [list]
 [*]An uncropped screenshot of the error [/*]

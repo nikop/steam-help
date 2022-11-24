@@ -8,7 +8,6 @@ Trading is a community feature that allows you to make deals with other players 
 What is a Scam?
 [/h2]
 A scam is when a player convinces someone to make a deal (trade, gift or market transaction) under false pretenses. Scams usually involve deception in order to convince a player that they are getting a good or fair deal when in fact they are not.
-
 Please view our [url=https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24]Steam Item Restoration Policy[/url] for more information.
 [h2]
 Trades to Never Accept
@@ -40,7 +39,6 @@ Things to Watch Out For
 Ensure that you are trading with the correct person
 [/h3]
 Scammers often try to impersonate friends and trusted traders. Make sure to review the information in the trade offer to ensure you’re trading with the correct person. It is your responsibility to verify who you are trading with.
-
 Steam provides plenty of information within the trade offer, including how long you’ve been friends, Steam level, how old the account is, and what groups they are moderators of.
 [h3]
 Trades involving purchasing an item in order to trade the item to another person

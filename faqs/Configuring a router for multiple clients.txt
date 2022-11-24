@@ -12,8 +12,6 @@ To configure multiple clients to play from behind the same router, you may need 
 [*]Your Firewall and router must have the [url=https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC]required ports for Steam open[/url].
 [/list]
 The default clientport is [b]27005[/b] and you can only have one game with that port active on the same lan.
-
-
 [h1]Specifying a Clientport as a Launch Option[/h1]
 To specify a client port, please perform the following steps for each computer on the LAN
 [list]
@@ -27,10 +25,7 @@ To specify a client port, please perform the following steps for each computer o
 [*]Leave the menu and launch the game
 [/list]
 [b]NOTE:[/b] This solution only works if you launch the game through the Steam client.
-
 If you have already set other launch options, leave a space between the last character of your previous launch option and the [b]+[/b] of your clientport setting.
-
-
 [h1]Specifying a Clientport in the userconfig.cfg[/h1]
 The benefit of this method is that the clientport will remain set whether you are launching the game from the [b]My games[/b] menu or from a shortcut to the game.
 [list]

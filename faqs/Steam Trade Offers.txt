@@ -21,8 +21,6 @@ Version 4
 [*][url=#historyoffer]Where can I see my trade history?[/url] [/*]
 [/list]
 For more information on trading, refer to the [url=https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24]Steam Item Restoration Policy[/url], the [url=https://help.steampowered.com/en/faqs/view/46A2-2B3C-95CC-8878]Steam Trading FAQ[/url] and the [url=https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0]Recommended Trading Practices[/url] article.
-
-
 [h3=whatisoffer]What is a trade offer?
 [/h3]
 A trade offer is a prepackaged trade that you can send to a friend. You select the items to trade from your inventory and the items you’d like to receive from your friend's inventory, and send the trade offer. Your friend can then choose to accept, decline, or make a counter offer. Unlike regular Steam Trading, you don't need to both be online at the same time. Plus, trade offers can be sent and received using a web browser.
@@ -30,7 +28,6 @@ A trade offer is a prepackaged trade that you can send to a friend. You select t
 [url id=howtosendoffer][/url]How do I send a trade offer?
 [/h3]
 You can create and send a trade offer from two places: the Trade Offers page within your Inventory or from a friend’s profile.
-
 To send an offer from your Trade Offers page:
 [olist]
 [*]Open Steam (either the client or via the web)
@@ -56,7 +53,6 @@ To send an offer from a friend's profile:
 [*]Click on Make Offer. [/*]
 [/olist]
 You'll then need to confirm the trade offer. If you're using a Mobile Authenticator through the Steam Mobile App on your smartphone to protect your account, you can confirm via the app. Otherwise you'll receive a confirmation request via email.
-
 Once you confirm the trade, the offer will be sent.
 [h3]
 [url id=optout][/url]How can I opt-out of confirmations?
@@ -70,7 +66,6 @@ You can send trade offers to any of your friends with an Inventory that you can 
 [url id=whatoffer][/url]What can I put in a trade offer?
 [/h3]
 Any tradable items in your inventory.
-
 Note that you cannot include Steam Wallet funds in a trade or trade offer. If someone sends you a trade offer claiming to include Steam Wallet funds it may be a scam. You can report scammers using the "Report Player" link on their profile.
 [h3]
 [url id=howreceiveoffer][/url]How do I view my trade offer?

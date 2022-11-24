@@ -47,20 +47,17 @@ ABILITY MODEL TYPES
 [*]Hero wards tend to stay in one place and attack enemies. Juggernaut's Healing Ward is an exception - it can move about and can heal. These wards are not to be confused with  [url=https://support.steampowered.com/kb/8799-WLXN-3860/dota-2-workshop-wards]sentry/observer wards[/url] that serve very different functions and can be used by any hero. [/*]
 [/list]
 Wards for Venomancer, Witch Doctor, Juggernaut, and Pugna
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/venomancer_ward_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/witchdoctor_ward_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/jugg_healing_ward_npc_dota_juggernaut_healing_ward_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/draining_wight_npc_dota_pugna_nether_ward_1_large.jpg?v=1459382400[/img]
 [list]
 [*]True Forms/Ultimates/Shapeshifts are creatures the human hero temporarily transforms into. [/*]
 [/list]
 ​Hero transforms for Lycan, Dragon Knight, Lone Druid, and Terrorblade
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/lycan_wolf_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/dragon_knight_dragon_large.jpg?v=1459382400[/img]   [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/true_form_large.jpg?v=1459382400[/img]  ​ [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/demon_large.jpg?v=1459382400[/img]
 [list]
 [*]Summoned Units are usually creatures that can travel and attack enemies in order to assist the hero but also include Death Prophet's Exorcism ghosts and Clockwerk's Power Cogs. [/*]
 [/list]
 ​Summoned Units for Lone Druid, Warlock, Broodmother, and Invoker
-
-  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/spirit_bear_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/warlock_golem_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/broodmother_spiderling_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/invoker_forged_spirit_large.jpg?v=1459382400[/img]
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/spirit_bear_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/warlock_golem_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/broodmother_spiderling_large.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/ability_models/invoker_forged_spirit_large.jpg?v=1459382400[/img]
 [hr][/hr]
 [h2]
 [/h2]

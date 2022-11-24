@@ -9,7 +9,6 @@ How should I configure my firewall to work with Steam?
 Important:
 [/h3]
 If you are installing Steam for the first time or if there has been a recent Steam update, a firewall may be preventing Steam from connecting to the Steam Network.
-
 You may be asked to re-authorize Steam after a client update. Some Steam games may also prompt for firewall authorization after a game update.
 [/section]
 [h4]Troubleshooting Steps[/h4]
@@ -30,7 +29,6 @@ You may be asked to re-authorize Steam after a client update. Some Steam games m
 [/list]
 [/*]
 [*]Start Steam. Your firewall should prompt you to set new permissions for steam.exe. If it does not, the security settings may be too strict - you will need to change these settings so you will be prompted to set permissions.
-
 Give the Steam executables permission for all TCP and UDP ports when prompted. [/*]
 [*]Restart your computer and start Steam. [/*]
 [/olist]
@@ -42,5 +40,4 @@ Give the Steam executables permission for all TCP and UDP ports when prompted. [
 [*]Re-enable your firewall. [/*]
 [/list]
 If Steam operates normally only when your firewall is disabled, please recheck your firewall configuration. You may wish to contact the provider of your firewall for configuration help. [b]We do not recommend leaving your firewall disabled.[/b]
-
 If you still experience problems with the firewall disabled, please see the [url=https://help.steampowered.com/en/faqs/view/669A-2F68-D1D1-A5EC]Troubleshooting Network Connectivity[/url] topic for further troubleshooting recommendations.

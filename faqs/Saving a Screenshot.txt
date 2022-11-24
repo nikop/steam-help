@@ -4,7 +4,6 @@ Updated 2021-08-02 23:36:41
 Version 8
 
 Troubleshooting issues may require providing a screen shot to Steam Support
-
 Select your Operating System below to learn how to save a screenshot:
 [section id=windows]  [expand type=title title="Windows"][h4]Screenshots of Steam Issues[/h4]
 [olist]
@@ -26,7 +25,6 @@ Select your Operating System below to learn how to save a screenshot:
 [*]Once it's been added, you'll see the name and size of the attachment [/*]
 [/olist]
 Multiple attachments may be added.
-
 Make sure to submit your message once you have finished attaching the file(s).[/expand]
 [/section]
 [section id=mac][expand type=title title="macOS"] [h4]Screenshots of Steam Issues[/h4]
@@ -51,7 +49,6 @@ Make sure to submit your message once you have finished attaching the file(s).[/
 [*]Once it's been added, you'll see the name and size of the attachment [/*]
 [/olist]
 Multiple attachments may be added.
-
 Make sure to submit your message once you have finished attaching the file(s).[/expand]
 [/section]
 [section id=linux] [expand type=title title="Linux"] [h4]Screenshots of Steam Issues[/h4]
@@ -73,7 +70,6 @@ Make sure to submit your message once you have finished attaching the file(s).[/
 [*]Once it's been added, you'll see the name and size of the attachment [/*]
 [/olist]
 Multiple attachments may be added.
-
 Make sure to submit your message once you have finished attaching the file(s).[/expand]
 [/section]
 [section id=ios] [expand type=title title="iOS"] [h4]Screenshots of Steam Mobile Issues[/h4]

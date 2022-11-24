@@ -4,13 +4,9 @@ Updated 2022-02-17 20:32:43
 Version 4
 
 Steam allows users to interact with each other and share content throughout the community. When posting any content on Steam, we require that users follow our [url=https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B]Rules and Guidelines[/url] as well as our [url=http://store.steampowered.com/online_conduct]Online Conduct Agreement[/url].
-
 Users are encouraged to report any content that is in violation of these rules, so that it can be reviewed.
-
 You can also learn more on how to address abuse, harassment and other misconduct on Steam:
 [url=https://help.steampowered.com/en/faqs/view/4F8E-AE41-B6B1-F836]What options are available?[/url]
-
-
 [h1]How to report inappropriate content[/h1]
 [h3]
 User Profiles/Avatars

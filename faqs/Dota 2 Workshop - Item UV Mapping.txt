@@ -4,9 +4,7 @@ Updated 2021-07-10 19:49:55
 Version 3
 
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/uvs/luna_mount_uvs2.JPG[/img]
-
- UV Mapping is the process of  unwrapping the surface of a 3D model to create a 2D image onto which the model's texture can be painted. 
-
+UV Mapping is the process of  unwrapping the surface of a 3D model to create a 2D image onto which the model's texture can be painted.
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/uvs/15_art_UVs_brewmaster.jpg[/img]
 [list]
 [*]To achieve better texture details you can overlap UVs on symmetrical or repeating parts of the model but do not weld them through. Internally we offset overlapping UVs +1 in U direction. [/*]

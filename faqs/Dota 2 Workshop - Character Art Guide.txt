@@ -27,7 +27,6 @@ Version 5
 INTRODUCTION
 [/h2]
 Designing first-class items for Dota 2 requires more than just ability and a great idea. The aesthetics of Dota 2 are built from a set of principles that help keep each hero immediately and uniquely identifiable from above during gameplay. We’re going to go over exactly what these principles are, how we used them to design the heroes and how you can apply them to custom items.
-
 Be aware that the principles on this page are important general design concepts that apply to the readability and quality execution of all items, including inventive items that thoughtfully differ from the default colors and silhouettes. New insights have been added to this updated guide so please have another look even if you've read previous versions.
 [hr][/hr]
 [h2]
@@ -89,15 +88,12 @@ VALUE GRADIENT - BEGINNING THE HIERARCHY
 [*]You can view values of heroes and their items in the workshop item tool by using the Hero Display Mode button to cycle through different render options or by entering convar r_hero_debug_render_mode 5 in the console.
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/workshop_hero_display.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/art_game_values.jpg?v=1459382400[/img]​
 [list]
 [*]Absolute white and black should not be used in our game, since those colors don’t react well to lighting, becoming flattened or overblown and losing detail.
 [/list]
 Note how dark and light areas on the heroes below are handled to preserve detail and form
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/shadow_black.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/od_black.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/zeus_white_small.jpg?v=1459382400[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/kotl_white2.jpg?v=1459382400[/img]
-
 ​
 [hr][/hr]
 [h2]
@@ -139,25 +135,21 @@ Color schemes can be inventive but still harmonious if they are created using st
 Complementary Color Schemes
 [/h2]
 Complimentary hues are on opposite sides of the color wheel. These opposing colors are more intense and "vibrate" when placed next to each other as they compete for your attention.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/5_comp_schemes.jpg?v=1459382400[/img]
 [h2]
 Split Complementary Color Schemes
 [/h2]
 One of the complementary colors is split off into a pair of neighboring hues.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/5_split_comp_schemes.jpg?v=1459382400[/img]
 [h2]
 Analogous Color Schemes
 [/h2]
 Analogous colors are next to one another on the color wheel. These colors appear to "push" at each other, creating an optical illusion where each zone appears larger when it has your attention.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/5_analagous_schemes.jpg?v=1459382400[/img]
 [h2]
 Triad Color Schemes
 [/h2]
 Triad hues are equidistant on the color wheel
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/5_triad_schemes.jpg[/img]
 [hr][/hr]
 [h2]
@@ -169,13 +161,9 @@ Triad hues are equidistant on the color wheel
 COLOR MIXING
 [/h2]
 Once you've picked your source colors, mix, tint, and shade them in order to derive your full palette.
-
 This example shows muted colors created by mixing complementary colors. The pure, saturated opposing colors become a desaturated grey tone as they are mixed together.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/6a_color_saturation.jpg?v=1459382400[/img]
-
 This example shows using black shade and white tint to adjust color values
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/6b_color_tint_shade.jpg?v=1459382400[/img]
 [hr][/hr]
 [h2]
@@ -191,15 +179,10 @@ CHARACTER COLOR KEY PALETTES​
 [*]The palettes on the bottom are modified using only colors blended from the starting palettes.
 [/list]
 ​​Doom and Lion are examples of Analogous palettes
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/7A_art_character_color_new_lion.jpg?v=1459382400[/img]
-
 Kunkka and Lycan are examples of Split Complementary palettes
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/7B_art_character_color.jpg?v=1459382400[/img]
-
 Beastmaster is an example of a Complementary palette.
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/7C_art_character_color.jpg?v=1459382400[/img]
 [hr][/hr]
 [h2]
@@ -291,7 +274,6 @@ COLOR ADJUSTMENTS
 APPLICATION OF CONCEPTS - LION
 [/h2]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/11-Example-New_Lion.jpg?v=1459382400[/img]
-
 VALUE ADJUSTMENTS
 [list]
 [*]Created a more diffuse lighting scheme by taking away heavy painted-in shadows, such as under shoulder pads and in cloth.

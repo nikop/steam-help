@@ -89,7 +89,6 @@ ADDING THE EFFECTS MESH IN THE WORKSHOP TOOL
 [*]Heroes that have effects model requirements for their items will have an "Effects Mesh" entry between the "Meshes" and "Materials" entries on the workshop tool's "Select Inputs" page. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/09_fx_mesh_workshop_tool.jpg?[/img]
-
 [url id=previewing][/url]
 [h2]
 EFFECTS MODEL PREVIEWING
@@ -98,7 +97,6 @@ EFFECTS MODEL PREVIEWING
 [*]Loading the effects model along with the model meshes into the Dota 2 Workshop item submission tool should show you a preview of the default ambient particles on the model and in the demo mode loadout only if they are supposed to display all the time for that hero. [/*]
 [/list]
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/07_effects_weapon_preview2.jpg[/img]
-
 [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/effectsmeshes/08_effects_weapon_preview_loadout2.jpg?v=1459382400[/img]
 [list]
 [*]If you don't see the effects model particles in the preview or loadout, they may only appear at a certain hero level or in a certain context which will require testing in game using demo mode. [/*]

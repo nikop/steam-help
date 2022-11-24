@@ -5,7 +5,6 @@ Version 5
 
 
 [section style=warning]GSLT bans are non-negotiable and cannot be removed or reduced by Steam Support.
-
 If an automated cooldown or ban is determined to have been issued incorrectly, it will automatically be rolled back by our servers. If you wish to discuss this system with the community, you may do so [url=http://steamcommunity.com/app/730/discussions/]here[/url].
 [/section]
 [h2]
@@ -42,7 +41,6 @@ Server operators receiving a GSLT ban will receive the following in-game message
 [*][i]A server using your game server login token has been banned. Your account is now permanently banned from operating game servers, and you have a cooldown from connecting to game servers.[/i] [/*]
 [/list]
 Players receiving this message are permanently banned from operating community servers in CS:GO and will receive a matchmaking cooldown. The matchmaking cooldown for GSLT bans restricts users from playing CS:GO competitive matches and trading in-game items for the duration of the cooldown. For more information about cooldowns, please see our [url=https://help.steampowered.com/en/faqs/view/7580-7BDB-1C9A-AC67]competitive cooldowns and bans help article[/url].
-
 Players wanting to host servers in the future will need to use a Steam account that has never shared a phone number with a GSLT banned account.
 [/section]
 [section id=dontoffer]
@@ -91,6 +89,5 @@ Yes, it’s fine to offer a mod that modifies scores or player names in the scor
 My server allows users to "remove all weapons"/"hide knife", as well as "knife drop"/"knife switch". Is this OK?
 [/h2]
 As long as the mod is not granting an item that a player does not own, these mods are OK to offer. There are some game modes where it makes sense to have unarmed players, like surfing and trading servers where players give items to each other to inspect.
-
 [b]Note:[/b] If a game server is allowing players to drop their knives, no additional plugins should be required if the server runs with a built-in "mp_drop_knife_enable 1" setting.
 [/section]

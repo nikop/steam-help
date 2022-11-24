@@ -6,11 +6,8 @@ Version 5
 I'm having video and display problems in a Valve/Source game, how do I change my video and display settings during launch?
 [section style=important][h5]Check Drivers are recently Updated[/h5]
 If you have not recently changed your video settings and you are experiencing video and display problems, please ensure your video drivers and DirectX are updated before proceeding:
-
 [url=https://help.steampowered.com/en/faqs/view/5799-495F-1F25-D15B]Updating Drivers[/url]
-
 If that does not resolve the issue you can try using the launch options below to try and troubleshoot the issue.
-
 [b]Note:[/b] The following processes are suggested only for Valve games. These options will have no effect when launching other Steam games.
 [/section]
 [list]
@@ -45,7 +42,6 @@ The [i]-safe[/i] launch option will cause the game to launch with minimal video 
 [section id=#force][h1]How do I force a working DirectX level and video mode?[/h1]
 [/section]
 If the Valve/Source game fails to load with the default settings, you will need to test for a working DirectX level and video mode.
-
 [h4]Force a DirectX level[/h4]This process may help with some older video cards - some users report the game will run faster, as well:
 [olist]
 [*]Open Steam [/*]

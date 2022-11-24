@@ -18,7 +18,6 @@ Version 3
 I received a communication warning. What does this mean?
 [/h2]
 Abusive communication warnings are issued to accounts that receive an excessive number of in-game reports for abusive communication.
-
 If you continue to receive in-game reports for abusive communication after the warning you may receive a communication penalty, but there are no effects on your account as the result of a warning.
 [/section]
 [section id=whypenalty]
@@ -26,7 +25,6 @@ If you continue to receive in-game reports for abusive communication after the w
 I received a communication penalty in-game. How does this affect my account?
 [/h2]
 Communication penalties are issued to accounts that continue to receive excessive reports for abusive communication after being warned.
-
 Accounts with communication penalties are muted by default on all servers they join and cannot communicate with other users via voice or text chat unless they are manually unmuted from the scoreboard.
 [/section]
 [section id=removepenalty]
@@ -58,6 +56,5 @@ No. Communication warnings and penalties were designed with checks in place to e
 I have reported a user for abusive communication in-game. When will action be taken on their account?
 [/h2]
 A number of factors are taken into account before communication penalties are issued. If you have reported a user and no action has been taken on their account, it is because we are not able to corroborate your report or the data we have confirms no action should be taken at this time.
-
 Reporting a user for abusive communication will mute them by default and you should no longer see their in-game text chat or hear their voice chat. These actions were put in place to reduce the effect users have on your in-game experience, and we regularly evaluate reports from the community in an effort to appropriately issue communication penalties.
 [/section]

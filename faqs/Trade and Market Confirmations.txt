@@ -36,5 +36,4 @@ Open the confirmation request and cancel the trade or listing. It's possible tha
 [url id=phone][/url]How do I get confirmation requests via phone?
 [/h3]
 You can get confirmation requests through the Steam Mobile App on your smartphone if you're using it to protect your account. Set up the app to act as a Mobile Authenticator and you'll automatically receive confirmations in the app.
-
 Here's where you can [url=http://store.steampowered.com/mobile]download and learn more about the Steam Mobile App[/url].

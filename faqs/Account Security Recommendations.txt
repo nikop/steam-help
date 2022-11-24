@@ -27,32 +27,26 @@ Watch out for Account Hijacking:
 [/section]
 [/section]
 [section id=steamguard_div][url id=steamguard][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/shield.png[/img]  [h1]Enable Steam Guard two-factor authentication[/h1]Steam Guard is an additional level of security that can be applied to your Steam account. When Steam Guard is enabled on your account, anyone attempting to login to your Steam account from an unrecognized computer must provide additional authorization. A special access code will be sent to your contact email address, and this code must be entered into Steam before your login is complete.
 [exclude_realm=china][b]Steam Guard security is also available through the Steam app on your smartphone, by using the Steam Guard Mobile Authenticator.[/b]
 [/exclude_realm]
 [exclude_realm=china][url=https://help.steampowered.com/en/faqs/view/6891-E071-C9D9-0134]Steam Guard: How to set up a Steam Guard Mobile Authenticator[/url]
 [/exclude_realm]
 [url id=verify][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/envelope.png[/img]  [h1]Verify your contact email address with Steam[/h1]Verifying your email address with Steam improves the security of your Steam account. Once you've verified your email address with Steam, both your Steam Account password and access to your email account are required in order to make any changes to your Steam Account credentials, such as your password and contact email address. This helps further protect your Steam Account from being stolen.
-
 [url=https://help.steampowered.com/en/faqs/view/1F1B-BE53-E7CA-A76F#verify]How to verify your contact email address with Steam[/url].
 [/section]
 [section id=friends_div][url id=friends][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/friends.png[/img]  [h1]Steam Friends[/h1]
 [h2]
 Anyone can attempt to add you
 [/h2]
-It's good to keep in mind that the users who add you may not be people you have chatted with before. Users can add you to their Friends list if they find your profile by searching for your in-game name or your account's contact e-mail address. 
-
+It's good to keep in mind that the users who add you may not be people you have chatted with before. Users can add you to their Friends list if they find your profile by searching for your in-game name or your account's contact e-mail address.
 Be aware that users can change their profile name displayed in Friends at any time.
 [h2]
 Account Phishing
 [/h2]
 Attempting to trick other users into providing password information is commonly called "phishing" - unfortunately, some individuals are using deceptive Steam Friends names to request password information from other users. Steam Support does not use the Friends network to contact users, nor will we request CD Key or credit card purchase information unless you have contacted us for assistance by using the [url=https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E]Steam Support System[/url].
-
 If you receive a link from another user, especially one claiming free access to Steam content, use extreme caution! All official Steam logins are directed to the [b][u]www.steampowered.com[/u][/b], [b][u]store.steampowered.com[/u][/b], [b][u]steamcommunity.com[/u][/b], or [b][u]help.steampowered.com[/u][/b] domains. If you suspect a site asking for your login information is not an official Steam site, do not enter any information on the site and disregard it.
 [exclude_realm=china]
 [exclude_realm=global][img]https://steamcommunity.com/public/images/steamguard/SSL.png[/img]
@@ -60,9 +54,7 @@ If you receive a link from another user, especially one claiming free access to 
 [/exclude_realm]
 [/section]
 [section id=beware_div][url id=beware][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/caution.png[/img]  [h1]Things to Watch Out For[/h1]Account hijackers have several common methods of attack, most of which rely upon misinformation or deception. Your account cannot be stolen if you follow these recommendations and refrain from sharing your account.
-
 Watch out for these activities:
 [h2]
 Requests for login and password information
@@ -84,9 +76,7 @@ A list of common scams can be found [url=http://www.reddit.com/r/Steam/wiki/scam
 [/exclude_realm]
 [/section]
 [section id=general_div][url id=general][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/lock.png[/img]  [h1]General Security Recommendations[/h1]It is a good idea to maintain the security of your system in the following ways:
-
 [url=https://help.steampowered.com/en/faqs/view/1F1B-BE53-E7CA-A76F#verify]Verify your contact email address with Steam[/url]
 [h2]
 Select a Strong Password
@@ -123,6 +113,5 @@ Important:
 Report Hijackings and Suspicious Activities
 [/h2]
 If your account has been compromised, please see the [url=https://help.steampowered.com/en/faqs/view/0A94-F308-34A5-1988]Retrieving a Lost or Stolen Steam Account[/url] topic for instructions to retrieve your account.
-
 If another user requests your account information or attempts to steal your account, please see the [url=https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD]Reporting content within the Steam Community[/url] topic for instructions to submit a report.
 [/section]

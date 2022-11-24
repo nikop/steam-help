@@ -37,7 +37,6 @@ For more information on trading, refer to the [url=https://help.steampowered.com
 [/section]
 [/h3]
 You can create and send a trade offer from two places: the Trade Offers page within your Inventory or from a friend’s profile.
-
 To send an offer from your Trade Offers page:
 [olist]
 [*]Open Steam (either the client or via the web) [/*]
@@ -68,7 +67,6 @@ You'll then need to confirm the trade offer. If you're using a Mobile Authentica
 [/section]
 [/h3]
 Steam items, in-game items and extra copies of games (referred to as Steam Gifts) are tradable. To be sure if an item is tradable, please go to your Inventory and select the item and read the item details. The "Tags" section will indicate if it is tradable or not.
-
 [img]https://support.steampowered.com/images/faq/trading/Tradable.PNG[/img]
 [h3]
 [section id=viewinventory]How do I see my inventory on the Steam Community?
@@ -105,31 +103,23 @@ Please view the [url=https://help.steampowered.com/en/faqs/view/558E-7FF0-1C5C-D
 [/section]
 [/h3]
 Steam Support will not return any items or gifts that you feel have been traded unfairly. There are no exceptions to this policy.
-
 To ensure that a scammer is appropriately handled, and to prevent them from benefiting from this scam or others in the future, make sure that you report them through the Steam Community:
-
 [url=https://help.steampowered.com/en/faqs/view/4D07-D139-587C-2080]How to Report a Scammer, Hijacker or Phisher[/url]
-
 Reporting a scammer through the Steam Community will always be better than submitting a Steam Support ticket containing your report. A community report includes the best information about the interaction between the accounts, and is quicker to review and act on.
-
 To learn more about scams and trading, please see the [url=https://help.steampowered.com/en/faqs/view/70E6-991B-233B-A37B]Scam FAQ[/url] and the [url=https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0]Recommended Trading Practices[/url] article.
 [h3]
 [section id=scamshijacks]What's the difference between a scam and a hijack?
 [/section]
 [/h3]
 A scam is when a user deceives another user into willingly (at the time) completing a trade, market transaction, or sending a gift. After the trade is completed, the person who was scammed either doesn’t receive what was promised, or the items involved are not what was agreed upon.
-
 A hijacking is when an account or a computer is taken over by someone else without the account owner’s permission. This is often done with malware or a virus. In some cases the hijacker will convince a user to hand over their login information by providing a fake Steam or a third-party trading site. Hijackers most commonly steal accounts to gain items or games, and sometimes commit fraud. Hijackers often use stolen accounts to commit more hijackings. In these cases, we lock the account until the rightful owner contacts us about the hijacking.
-
 For more information on hijacked accounts, please see the [url=https://help.steampowered.com/en/faqs/view/0A94-F308-34A5-1988]Recovering a Stolen or Hijacked Steam Account[/url] article and the [url=https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24]Steam Item Restoration Policy[/url].
-
 For more information on scams, please read the [url=https://help.steampowered.com/en/faqs/view/70E6-991B-233B-A37B]Scam FAQ[/url], [url=https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0]Recommended Trading Practices[/url] article and the [url=https://help.steampowered.com/en/faqs/view/3B6E-B322-2400-8D24]Steam Item Restoration Policy[/url].
 [h3]
 [section id=whatscammers]What happens to scammers?
 [/section]
 [/h3]
 If evidence exists that the Steam user is a scammer, Steam Support will ban the account from using the Steam Community, including Trading and using the Steam Market. The length of the ban is dependent on the severity and quantity of the scams. In some cases, scammers will be banned permanently. If a scammer has multiple accounts, all of their accounts may be subject to the ban as well.
-
 In some cases, scammers will hijack an account and use it to commit scams, fraud or more hijackings. In these cases, we lock the account until the rightful owner contacts us about the hijacking.
 [h3]
 [section id=avoidscammers]What are the best ways to avoid getting scammed?
@@ -168,7 +158,6 @@ If you are scammed, please use the Report feature built into Steam:
 [/section]
 [/h3]
 Our community assigns an item a value that is at least partially determined by that item's scarcity. If more copies of the item are added to the economy through inventory rollbacks, the value of every other instance of that item would be reduced.
-
 We sympathize with people who fall victim to scams, but we provide enough information on our website and within our trading system to help users make good trading decisions. All trade scams can be avoided.
 [h3]
 [section id=tradeban]What is a trade ban?

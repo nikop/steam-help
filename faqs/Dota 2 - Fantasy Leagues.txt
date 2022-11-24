@@ -73,7 +73,6 @@ How are players scored?
 How many players can I have on my team?
 [/h3]
 You can have 8 players on your team. These 8 slots are divided into types.
-
 Active Roster:
 [list]
 [*]2 Core

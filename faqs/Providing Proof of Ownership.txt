@@ -4,11 +4,8 @@ Updated 2021-12-17 18:35:19
 Version 10
 
 If the issue you're experiencing can't be resolved using [url=https://help.steampowered.com/]help.steampowered.com[/url], we will be happy to assist you after verifying Proof of Ownership for the account.
-
 Proof of Ownership is established by submitting payment information previously used on the account or providing retail product codes that have been activated through Steam.
-
 Please select a purchase method used on the account from the list below for detailed instructions on providing Proof of Ownership.
-
 [h4]Credit Cards[/h4]
 [expand type=title title="Visa, American Express, MasterCard, Carte Bleue, Discover, JCB"]
 If a purchase was made through Steam using a credit card, please provide the following with your Support Ticket:
@@ -64,7 +61,6 @@ If a purchase was made through Steam using a PayPal account, please provide the 
 [*]Attach a screenshot of a Steam purchase as it is shown in your PayPal account, including the invoice ID, made on the Steam Account in question [/*]
 [/olist]
 Please create or update your existing [url=https://help.steampowered.com/]Steam Support ticket[/url] with this information.
-
 [img]https://support.steampowered.com/images/faq/reclaim/paypal.png[/img][/expand][expand type=title title="paysafecard"]
 If a purchase was made through Steam using a paysafecard, do the following actions to provide us the necessary image in your Support ticket:
 [olist]
@@ -75,7 +71,6 @@ If a purchase was made through Steam using a paysafecard, do the following actio
 [*]Attach a screenshot of the payment details, including the Transaction ID to your Steam Support Ticket [/*]
 [/olist]
 Please create or update your existing [url=https://help.steampowered.com/]Steam Support ticket[/url] with this information.
-
 [img]https://support.steampowered.com/images/faq/reclaim/paysafe.PNG[/img][/expand][expand type=title title="Kiosk"]
 [olist]
 [*]Please write your Support Ticket Number on your Kiosk receipt below the text in permanent ink [/*]
@@ -94,21 +89,15 @@ If a purchase was made through Steam using Sofortüberweisung, please provide th
 Please create or update your existing [url=https://help.steampowered.com/]Steam Support ticket[/url] with this information.
 [/expand][expand type=title title="WebMoney"]
 If a purchase was made through Steam using WebMoney, please attach a screenshot of a Steam purchase made on the Steam Account in question as it is shown in your WebMoney account.
-
 Please create or update your existing [url=https://help.steampowered.com/]Steam Support ticket[/url] with this information.
-
 [img]https://support.steampowered.com/images/faq/reclaim/webmoney_example.jpg[/img]
 [/expand][expand type=title title="Yandex"]
 If a purchase was made through Steam using Yandex, please attach a screenshot of a Steam purchase made on the Steam Account in question as it is shown in your Yandex account.
-
 Please create or update your existing [url=https://help.steampowered.com/]Steam Support ticket[/url] with this information.
-
 [img]https://support.steampowered.com/images/faq/reclaim/yandex_example.jpg[/img]
 [/expand][expand type=title title="Qiwi"]
 If a purchase was made through Steam using Qiwi, please attach a screenshot of a Steam purchase made on the Steam Account in question as it is shown in your Qiwi account.
-
 Please create or update your existing [url=https://help.steampowered.com/]Steam Support ticket[/url] with this information.
-
 [img]http://steamcdn-a.akamaihd.net/steam/support/qiwi_example.jpg[/img]
 [/expand]
 [h4]Retail Activation Keys[/h4]
@@ -133,7 +122,6 @@ If Steam Wallet funds were added to your account using a Steam Wallet code, plea
 [*]Attach a digital photo or scan of the Code registered to the account [/*]
 [/olist]
 Please create or update your existing [url=https://help.steampowered.com/]Steam Support ticket[/url] with this information.
-
 [img]{STEAM_CLAN_IMAGE}/39983882/163119442576f443f47c8241b8fb0956d020a28c.png[/img]
 [/expand][expand type=title title="Culture Voucher"]
 If a purchase was made through Steam using Culture Voucher, please provide the following with your Support Ticket:
