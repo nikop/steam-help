@@ -7,6 +7,7 @@ How do I make a Custom Spray for Half-Life 1 and other GoldSource games?
 #### Creating a custom single-color decal
 Making a custom decal is a simple process. All you need is an image, and a paint program capable of simple palette manipulation.  
   
+
 *  [h5]Paint or scan an image[/h5]Make it 64 by 64 pixels in size, either by painting the image to that size, or by scaling your scanned image (or larger painted image).  
   
 Using black and white colors are recommended, because the final decal will be displayed as one color only.  

@@ -13,12 +13,14 @@ There are several folders for the custom content that you will need to copy over
 `C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike`  
   
 Copy over the following folders:  
+
 * maps
 * sound
 * sprites
 * gfx
 * overviews
 * models
+
   
   
 If there are any custom WAD files (*.wad) in the cstrike folder, copy those over to the server cstrike folder as well.  

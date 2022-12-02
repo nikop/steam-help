@@ -7,6 +7,7 @@ Version 5
 # Payment Disputes and Chargebacks
 When a cardholder or financial institution disputes a purchase made through Steam resulting in a payment reversal, this is considered a chargeback.  
   
+
 * [Why do chargebacks result in account restrictions?](#7)
 * [How can I remove the restrictions from my account?](#5)
 * [What if the charges were unauthorized or made without my consent?](#6)
@@ -14,6 +15,7 @@ When a cardholder or financial institution disputes a purchase made through Stea
 * [What if I disputed the purchase because of issues with the product?](#4)
 * [What if I am unable to reverse the chargeback?](#8)
 * [What if hardware is included in the disputed transaction?](#9)
+
  [url id=7][/url]  
   
 #### Why do chargebacks result in account restrictions?

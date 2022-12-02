@@ -7,6 +7,7 @@ Pixel Shading is a method used for rendering advanced graphical features such as
 It is extremely important to check each game's system requirements before deciding on making a purchase. If you are not sure what Pixel Shader level your video card can support, there is a chance that your video card will not be capable of running a game that requires an advanced Pixel Shader model - even if your card meets the minimum DirectX requirements.  
   
 **General Guideline - DirectX Levels and Pixel Shader Versions:**  
+
 * DirectX 8.0 - Pixel Shader 1.1
 * DirectX 8.1 - Pixel Shader 1.3 & 1.4
 * DirectX 9.0 - Pixel Shader 2.0
@@ -15,6 +16,7 @@ It is extremely important to check each game's system requirements before decidi
 * DirectX 10.1 - Pixel Shader 4.1
 * DirectX 11.0 - Pixel Shader 5.0
 * DirectX 12.0 - Pixel Shader 5.1
+
   
 Please follow our [DirectX Guide](https://help.steampowered.com/en/faqs/view/4B27-B0DC-AC7D-3869) to determine what version of DirectX you currently have installed and how to update DirectX.  
   

@@ -7,6 +7,7 @@ This article explains some basic steps you can take to diagnose network-related 
 # Different types of network problems
   
 The first thing to do is categorize the type of problem. Pay close attention to what's happening on your screen, and any FPS or ping readouts, to be clear about the nature of the problem.  
+
 * #### Client-side frame rate problems
     
 These are not network problems, but people often confuse the two, and use words like "lagging" or "hitching" to describe both problems. When you have a client-side frame rate problem, the whole screen will freeze ("frame rate hitching") or the animation of the entire screen will stop being fluid. In contrast, if your frame rate is smooth, but characters walk in place or warp around, or some screen elements continue animating while others are jerky, or if you have an FPS indicator and it doesn't drop, then you probably have a network problem.
@@ -23,6 +24,7 @@ Typically packet loss is symmetric, meaning that packets sent to the gameserver 
 This can prevent your computer from accessing more than a small number of remote hosts in quick succession. For example, if the game needs to ping multiple servers or regions to find out which one has the best connection. Server browsing in games like Counter-Strike and TF2 ping thousands of servers. If your computer only shows a few servers when there should be hundreds or thousands, or if you experience network problems immediately after using the server browser in these games, then it's likely that you have a NAT problem.  
   
 NAT problems are almost always caused by old home routers, and the solution is to buy a newer one.
+
   
   
 These problems are not mutually exclusive. Before reporting a problem, please take the time to try to identify what kind of problem(s) you have. When reporting a problem, provide data whenever possible: the symptoms you're experiencing, what your network configuration looks like, your ISP, what connectivity tests you have tried, etc. Problems reported without data are very difficult for us to help you with.  
@@ -30,20 +32,25 @@ These problems are not mutually exclusive. Before reporting a problem, please ta
   
 # Running a ping test
 Here's a simple but very useful diagnostic tool you can run to test network connectivity. First, you need to pick the host that you want to measure connectivity with. Usually this will be one of three options:  
+
 * #### A gameserver
     
 You'll need to find the IP address of the server you are actually talking to. Don't assume that you can just ping a domain name such as "valvesoftware.com" or "dota2.com"; those are web servers that don't have anything to do with gameplay. The exact method to find the IP address you are playing on differs by game. In most Valve games, you can open a console and the IP address of the server will be in there somewhere.  
   
 **Instructions for Dota 2:**  
+
 * Set the Launch options for the game to *-console*
 * Use *`* key to access the console after launching the game
 * Type and enter the command: *status* to get Ping and other status information
+
   
 **Instructions for Counter-Strike: Global Offensive:**  
+
 * Launch the game and go to the Settings menu
 * Set *Enable Developer Console* to *Yes*
 * Use the *`* key to access the console
 * Type and enter the command: *netgraph 1* to enable the display of Ping and other network performance information
+
   
 In some situations, you can run a test on an IP address that you have good reason to believe has equivalent network characteristics, if you don't know the IP address you are trying to talk to. For example, if you know the address of one of the gameservers in the US East region for a certain game, you might be able to use that IP address for a general test to all gameservers in US East. But only do this if you cannot get the exact IP address, and always share that information in any report, to make sure it doesn't invalidate any information you gather.
 * #### Your home router
@@ -52,14 +59,17 @@ Communications problems to home routers are extremely common, especially over wi
 * #### Some other major website
     
 Confirming connectivity with another site can help rule out general Internet connectivity problems. For these sites, you don't need a numeric IP address, you can use a domain name, such as "amazon.com", "google.com", "facebook.com", "netflix.com", etc.
+
   
   
 ### Once you have decided which computer you want to test connectivity to:
   
+
 * Open up a command prompt.
 * On Windows, run the command: "**ping -t** ***address***", replacing ***address*** with the IP address or domain name you want to test.
 * Your computer will ping the given server repeatedly until you stop it with Ctrl+C.
 * Pay attention to how often the pings fail, and what the ping times are.
+
   
   
 Some hosts will block ping requests and will never reply to them. When this happens, you may see "Request timed out" instead of a ping response. If you experience this, you may need to try another host.  
@@ -67,10 +77,12 @@ Some hosts will block ping requests and will never reply to them. When this happ
 You can keep one or more of these tests running in the background while you play the game. This is especially helpful if the problem is intermittent. When the problem happens in game, switch over and examine what's happening to the ping test(s).  
   
 If ping is reporting lost packets, you may be able to narrow down where the problem is by running another tool:  
+
 * Open up a command prompt.
 * On Windows, run the command: "**pathping** ***address***", replacing ***address*** with the IP address or domain name you want to test.  
 On Linux, you can use the similar "<code>mtr</code>" command (you may need to install the "mtr" package to use it). For example: "<code>mtr -n -c 100 --report --report-wide *address*</code>"
 * Wait until the test finishes. It may take several minutes to complete.
+
   
   
 Pathping/MTR will report the latency for each hop your packets went through, as well as the loss at each hop. If a hop reports 100% packet loss but different hops do not, then the host at that hop may be blocking ping requests and does not represent a network problem. If your first hop is reporting loss, then there is a problem between your computer and your router (wireless connections are often to blame for this).  
@@ -86,6 +98,7 @@ On Windows, you can add "**-l 1300**" to force the ping test to use larger packe
 # What information to share when reporting a network problem
   
 When communicating with Steam support or a [exclude_realm=china]**Valve**[/exclude_realm][exclude_realm=global]**Perfect World**[/exclude_realm] employee, or just posting on a forum asking for help, your odds of getting help increase dramatically if you share the appropriate details. Here are the most important things to share:  
+
 * A detailed description of the problem. If you have a ping or packet loss readouts, share that. Is there any sort of error messages or console output? Share that. Also, always make sure that you share what you are actually seeing on your screen, not just your guess as to what the problem is.
 * Is the problem intermittent or pretty constant? If it happens only in certain circumstances, what are those circumstances?
 * If you know the IP, a "trace route" is *extremely* useful; always take the time to gather and share this information. It's really easy. On Windows, run "**tracert** ***address***" from a command prompt. On Linux, run "<code>traceroute *address*</code>" Share the complete output.

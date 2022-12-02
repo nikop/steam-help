@@ -19,12 +19,15 @@ Version 6
 * [Can purchased Operation stars be traded, marketed, or gifted?](#starsrt)
 * [Can I immediately trade or list Operation rewards on the Community Market?](#itemcooldownrt)
 * [I am a non-Prime CS:GO player. How can I interact with the Operation?](#nonprimert)
+
   
   ### What is included when purchasing an Operation Riptide Pass?
 Players who purchase an Operation Riptide Pass receive the following:  
+
 * An Operation Riptide Coin, which can be leveled from Bronze to Diamond and displayed on your CS:GO profile.
 * Access to Operation rewards which include all-new Agents, weapon collections, stickers, Riptide weapon cases and more.
 * XP boosts when completing missions.
+
       
   ### How do I earn and redeem Operation rewards?
 To earn stars you must complete missions from weekly Mission Cards. Stars can also be purchased in-game and used to redeem rewards.  
@@ -44,9 +47,11 @@ To upgrade your Riptide coin, earn stars by completing missions from weekly miss
 If you purchase the Operation Pass at a later date, you will be given credit for any stars you have earned toward upgrading your Operation Coin.    
   ### I am not receiving stars or reward progress when completing missions. Why is this?
 There are a few reasons you may not receive stars when completing missions:  
+
 * You have already earned the maximum number of stars for the week's card. The top of each Mission Card displays the total number of stars you may earn for reward progress.
 * You are not meeting the requirements to complete a mission. After queuing for a mission, the left side of your screen will display and update your mission progress.
 * You are not completing missions on official Valve servers with other human players. Missions cannot be completed on Community servers and must have one other player present. It is not possible to complete missions against only bots.
+
       
   ### When can I trade or list Operation rewards on the Steam Community Market?
 Rewards redeemed from the Operation shop can be traded and listed on the Steam Community Market one week after redemption from the Operation Shop.  

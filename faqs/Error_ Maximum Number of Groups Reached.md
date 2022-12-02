@@ -5,6 +5,7 @@ Version 3
 * [Why am I getting a max group limit error when trying to join a group?](#why)
 * [How can I join more groups?](#how)
 * [Is this limit dependent on my Steam Level?](#level)
+
   
   
   

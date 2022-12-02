@@ -11,6 +11,7 @@ If you have questions about your ability to redeem Steam Wallet Codes, please co
   
 Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E) article to find Valve-authorized retailers for genuine Steam Wallet Codes.[/exclude_realm]  
   
+
 * [How do I add funds to my Steam Wallet?](#addfunds)
 * [How do I view my Steam Wallet balance?](#viewbalance)
 * [Can Steam Wallet funds be gifted, withdrawn, or transferred to another Steam account?](#transferred)
@@ -34,6 +35,7 @@ Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com
 * [/exclude_realm]  	[exclude_realm=china]
 * [How do in-store promotions regarding Steam Wallet codes work? (Including used game trade-ins)](#instore)
 * [/exclude_realm]
+
   
   
   
@@ -43,6 +45,7 @@ Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com
 * Log in to your Steam account.
 * Click your profile name in the upper right hand corner and select Account Details.
 * Click on "+Add funds to your Steam Wallet" to select an amount and proceed to checkout.
+
  [exclude_realm=china]  [h5]Add funds via Steam Wallet Codes:[/h5]Depending on where you live, you can find physical Steam Wallet cards that contain codes which can be redeemed into your Steam account at many electronics retailers, convenience stores, game stores and grocery stores.  You can also purchase Steam Wallet codes printed directly on a receipt or delivered via SMS/text message or email through various kiosks, cyber cafes and eCommerce websites. Codes are also available directly from PayPal.  
   
 Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E) article to find the best local purchasing option nearest you.  
@@ -51,8 +54,10 @@ Please visit our [Where to buy Steam Wallet Codes](https://help.steampowered.com
   
   
 #### How do I view my Steam Wallet balance?
+
 * Log in to your Steam account.
 * The current available balance will be listed in the upper right hand corner, next to your profile name.
+
   
   
   
@@ -65,10 +70,12 @@ No, Wallet funds cannot be moved or withdrawn to a bank account. [exclude_realm=
 #### I recently added Steam Wallet funds but they have not appeared, what do I do?
 In most cases, the new funds will automatically be displayed in your account. If the issue persists for more than two hours after completing your transaction, please do the following:  
   
+
 * Check your email for a Steam purchase receipt to confirm the purchase was completed
 * Confirm you are logged in to the account that made the purchase (the account will be shown on the emailed receipt)
 * Restart the Steam Client
 * If the updated amount is still incorrect, please contact [Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E) for assistance.
+
   
   
 [exclude_realm=china][url id=codes][/url]  
@@ -82,10 +89,12 @@ Funds added to the Steam wallet will be used towards the next purchase(s) to the
   
   
 #### How do I redeem a Steam Wallet Code?
+
 * Go to [https://store.steampowered.com/account/redeemwalletcode](https://store.steampowered.com/account/redeemwalletcode) and sign in if you aren't already. You will need to [create a Steam account](https://store.steampowered.com/join/) if you do not already have one.
 * Once logged into Steam, please enter your unique Wallet code that you received into the "Steam Wallet Code" field.
 * Click "Continue" to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.
 * The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right hand corner below your profile name.
+
   
   
 When in the "Review + Purchase" step during checkout click "My Steam Wallet" as a payment method. The cost of the item you purchase and the associated tax will be deducted from your wallet funds.  
@@ -122,15 +131,19 @@ If you need help with a Steam prepaid card purchased at convenience stores in Ja
 #### I keep getting an invalid code error, what should I do?
 Sometimes it is easy to get certain letters and numbers confused. Please try the below suggestions to ensure that you are entering the correct code:  
   
+
 * The number **0** (try entering the letter **Q**, **O**, or **D** instead)
 * The number **1** (try entering the letter **I** instead)
 * The letter **O** (try entering the number **0**, or letters **Q** or **D** instead)
+
   
   
 Check instances of the following pairs to ensure these characters are not being confused:  
   
+
 * The letter **B** and the number **8**
 * The letter **G** and the number **6**
+
   
   
   

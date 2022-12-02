@@ -12,6 +12,7 @@ Steam voice chat connects and communicates using WebRTC standard protocols. In o
 You can find detailed logs about your connection state and voice chat attempts by going to *Friends List > Settings (Gear Icon) > Voice > Show Advanced Settings > Copy Voice Logs To Clipboard*. If you are working with Steam Support on a voice chat issue, they may ask you to provide these logs.  
   
 You'll want to investigate the following configurations on your machine and make sure that your voice chat traffic is not being interfered with. Because these issues are dependent on configurations unique to your specific setup, we recommend that you contact a PC support specialist in your area for detailed assistance.  
+
 * ## Investigate router ports
   
 Steam voice chat uses ports 27014 through 27020 for outbound communication and will automatically select an available port to receive UDP responses.  
@@ -25,6 +26,7 @@ You may consider temporarily disabling it for testing purposes. If that fixes it
 Certain Anti-Virus products (like versions of Kaspersky Total Security) are known to block WebRTC traffic via their AV component, even if you've fully disabled the included firewall. You may need to try disabling or fully uninstalling third-party security software to check if it is interfering with Steam voice traffic. If it is, you may need to upgrade the version of your security software or contact the third-party vendor for support.  
   
 You might also try adding exceptions for Steam in your AV configuration (for example, excluding steamwebhelper.exe from live monitoring services).
+
    
   
   
@@ -33,6 +35,7 @@ You might also try adding exceptions for Steam in your AV configuration (for exa
 To achieve optimum sound quality, it is important that you spend some time configuring your audio settings, both for your operating system as well as through Steam Chat.  
   
 Behavior that you may be attributing to a bug or bad performance, could simply be a setting or option that you haven't yet configured. You can access your chat settings via the gear icon in the upper right corner of your Steam Friends list.  
+
 * ## Open your settings
   
 **Steam voice settings:** Select the gear icon in the upper right corner of your Steam Friends list, then select to the *voice* tab.  
@@ -62,6 +65,7 @@ If nothing else in this article has helped, you may try disabling echo or noise 
 Check the inputs for your microphone, headphones, speakers and other audio devices. If you are having an issue, try swapping to another available USB or audio port. If you're using any converters, extensions or other intermediary devices, bypass them temporarily to make sure they aren't contributing to the issue.  
   
 Finally, if you have extra hardware or an alternate PC, try swapping them out or testing on a different machine to eliminate the possibility that your current hardware is having an issue.
+
   
   
   

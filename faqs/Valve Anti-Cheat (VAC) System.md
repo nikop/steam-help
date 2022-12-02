@@ -5,6 +5,7 @@ Version 4
 VAC bans are permanent, non-negotiable, and cannot be removed by Steam Support. If a VAC ban is determined to have been issued incorrectly, it will automatically be removed.   
   
 [exclude_realm=china]If you wish to discuss Valve Anti-Cheat with the community, you may do so [here](http://steamcommunity.com/discussions/forum/9/).[/exclude_realm]  
+
 * [What is VAC?](#whatisvac)
 * [How can I ensure I don't get VAC banned?](#avoidvac)
 * [If I'm VAC banned what does it mean for my account?](#consequences)
@@ -14,6 +15,7 @@ VAC bans are permanent, non-negotiable, and cannot be removed by Steam Support. 
 * [If I'm VAC banned can I play on insecure servers?](#insecure)
 * [Will I be punished if someone sharing my Library cheats?](#share)
 * [What is the difference between a VAC Ban and a Server Ban?](#notvac)
+
   
   ## What is VAC?
 VAC stands for Valve Anti-Cheat, an automated system designed to detect cheats installed on users' computers. If a user connects to a VAC-Secured server from a computer with identifiable cheats installed, the VAC system will ban the user from playing that game on VAC-Secured servers in the future.  
@@ -23,8 +25,10 @@ The VAC system reliably detects cheats using their cheat signatures. Any third-p
 While server admins may choose to ban specific players, server admins cannot VAC ban players.  
   
 The following will *not* trigger a VAC ban:  
+
 * System hardware configurations.
 * Updated system drivers, such as video card drivers.
+
       
   ## How can I ensure I don't get VAC banned?
 To ensure your account does not get VAC banned, use only trusted machines to play on VAC-Secured servers. If you are not sure whether or not the machine you are using to connect to Steam may have cheats installed, do not play on VAC-Secured servers.  

@@ -10,6 +10,7 @@ The Giveaway will be held during the Steam broadcast of The Game Awards 2022 mai
   
 Valve reserves the right to cancel, terminate or modify the Giveaway if it cannot be operated, conducted or completed as planned.  
   
+
 * ### ELIGIBILITY & RESTRICTIONS
   
   
@@ -17,6 +18,7 @@ The Giveaway is open to every Steam account holder that resides in Austria, Belg
   
 The following restrictions apply:  
   
+
 * Employees of Valve, its associates, affiliates, subsidiaries, licensees, agents, successors, assigns and commercial partners authorized by Valve, or of other companies associated with the Giveaway, as well as the immediate family (spouse, parents, siblings, and children, and each of their respective spouses) and household members of each such employee are not eligible.
 *  Limit of one (1) prize per household.
 * ### PARTICIPATION
@@ -30,9 +32,11 @@ The Game Awards will be aired on Steam during the Giveaway Period (the “**Give
   
 You enter the promotion by registering for the Giveaway on the registration page ([https://store.steampowered.com/sale/thegameawardssteamdeckdrop2022](https://store.steampowered.com/sale/thegameawardssteamdeckdrop2022)) and then watching the Giveaway Broadcast during the Giveaway Period while logged into your registered Steam Account.  In order to be eligible to win a prize using this method of entry:  
   
+
 *  your Steam account must be in good standing (e.g., no active bans, locks);
 *  you must have made a purchase on Steam between 12:00am GMT on Nov 14, 2021 and 11:59 pm GMT on Nov 14, 2022, from one of the Giveaway Countries; and
 *  your entry in the Giveaway must have been made in good faith, as determined by Valve in its sole discretion.
+
   
   
 2.2 Alternative Entry via Post  

@@ -5,6 +5,7 @@ Version 4
 * Can I play my games without Steam?
 * Can I remove and reinstall Steam to troubleshoot an issue without losing my games?
 * How can I completely remove Steam from my Mac?
+
   
   
 ### Steam is required
@@ -20,6 +21,7 @@ The following instructions will describe how to remove Steam and, optionally, al
   
 With the Steam application active, click the **Steam** menu and **Quit Steam** to exit Steam.  
   
+
 * Open **Applications** and drag Steam to the **Trash**.
 * Click **Go** in the menu bar, hold down the option key until you see the Library folder, and open that folder from the drop-down.
 * Navigate to Library/Application Support/Steam
@@ -29,6 +31,7 @@ With the Steam application active, click the **Steam** menu and **Quit Steam** t
   
 **If you're removing all Steam data from your computer:** delete the entire Steam folder.
 * Empty the Trash by selecting Finder -> Empty Trash
+
   
   
 With these files deleted, you can [reinstall Steam](https://help.steampowered.com/en/faqs/view/099E-F5D1-8780-4778) if you are troubleshooting a problem.

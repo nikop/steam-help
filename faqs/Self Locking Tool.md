@@ -8,6 +8,7 @@ Version 3
 * [What do I do after I lock my account?](#contact)
 * [How do I unlock my account?](#unlock)
 * [But how does it protect my account? What does it restrict exactly?](#restrictions)
+
   
   
 ## What is the self locking tool?
@@ -16,9 +17,11 @@ The Steam self locking tool allows you to lock your account and protect it from 
   
 ## How do I lock my account if it is stolen?
 Locking your account is simple. When certain Steam account changes are made, a notification will be sent to the email address that is associated with your account. These include the following:  
+
 * Password changes
 * Email changes
 * Steam Guard code requests
+
   
 In these various notification emails you will find a link to lock your account. Once clicked, you will be taken to a page to complete the process. Even if your email address is changed on your Steam account, you will still receive an email with a lock link confirming the action.  
   
@@ -42,6 +45,7 @@ If you believe your account is secure, you can use the "unlock my account link" 
 ## But how does it protect my account? What does it restrict exactly?
 The lock that is applied to your account restricts all major actions that can impact you and other Steam users. These include the following:  
   
+
 * Purchasing
 * Playing on VAC enabled game servers (VAC Ban Protection)
 * Gifting

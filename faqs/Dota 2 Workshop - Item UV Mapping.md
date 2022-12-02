@@ -8,6 +8,7 @@ Version 3
   
 ![http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/uvs/15_art_UVs_brewmaster.jpg](http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/uvs/15_art_UVs_brewmaster.jpg)  
   
+
 * To achieve better texture details you can overlap UVs on symmetrical or repeating parts of the model but do not weld them through. Internally we offset overlapping UVs +1 in U direction.
 * Texture seams are better kept to a minimum as they break up the vertices and add to an item's vertex count.
 * In general, you can push an item's UVs to the texture borders closer than usual because hero's and item's textures are all added together in-engine.
@@ -19,6 +20,7 @@ Version 3
 * Eyes with a lot of detail should be a separate, larger UV island.
 * Waste as little space as possible when laying out UV islands without packing it too tight. Always leave approximately 5-10 pixels (on a 2k source texture) between each shell and the edges of the 0 to 1 space. On some hardware, smaller versions of the textures will be loaded, and this can cause bleeding artifacts if the islands are packed too tightly.
 * Grouping UV islands that will be colored similarly helps retain color separations when smaller versions of the textures are loaded.
+
   
   
 [Dota 2 Item Workshop Guidelines Homepage](http://www.dota2.com/workshop/)

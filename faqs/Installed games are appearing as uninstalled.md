@@ -18,8 +18,10 @@ You can ensure that the game folders are in the proper location by navigating to
 ## Add previously existing alternate installation libraries/folders to Steam
 If you had previously installed the games to an alternate location outside of your main Steam folder please try the following:  
   
+
 * Launch Steam and go to Steam > Settings > Downloads and click the Steam Library Folders button. This will open a window with all your current Steam Library folders.
 * Near the top of the window click the "+" button and select the folder with your installed games.
+
   
 Once you have added the new Library folder your installed games should appear in your Steam Library.  
   

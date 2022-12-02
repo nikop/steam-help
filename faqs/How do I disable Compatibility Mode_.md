@@ -5,6 +5,7 @@ Version 6
 Running Steam in Windows compatibility mode is not recommended. Please follow the instructions below to remove any Windows compatibility settings so that Steam may properly function.  
   
 The following instructions are to be applied to both the Steam.exe as well as the steamwebhelper.exe.  
+
 * Browse to your Steam installation (Usually C:\Program Files (x86)\Steam\)
 * Right click on Steam.exe (or bin\steamwebhelper.exe), choose *Properties*
 * Click on the *Compatibility* tab
@@ -14,6 +15,7 @@ The following instructions are to be applied to both the Steam.exe as well as th
 * Click *Ok* to close any open dialog boxes.
 * Double click on Steam.exe to launch Steam.
 * Re-test the issue.
+
   
   
   

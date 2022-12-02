@@ -6,9 +6,11 @@ Version 3
 You can use [the Help site to try to self-recover your account](https://help.steampowered.com/wizard/HelpWithLogin). If you work through the recovery process and can't recover the account automatically, at the end of the process you'll be presented with an intake form to contact the Steam Support team for help.  
   
 When contacting Steam Support try to provide as much of the following as possible:  
+
 * [Proof of account ownership](https://help.steampowered.com/en/faqs/view/0A94-F308-34A5-1988#proof)
 * Any possible Steam Account login names
 * Any possible email addresses used on the account
+
   
   
   

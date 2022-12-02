@@ -9,6 +9,7 @@ Version 5
 * [Will I still be able to play and enjoy my game without buying items from the store?](#orly)
 * [What happens if I need technical support help but I only have a Free to Play account?](#techsupport)
 * [What games on Steam are Free to Play?](#games)
+
   
   
 ### What is a free to play game?
@@ -33,4 +34,5 @@ Technical support for in-game issues is provided by the respective game's Suppor
   
 ### What games on Steam are free to play?
 You can find a complete list of free to play games on the Steam Store here:  
+
 * [Steam Store: Free to Play Games](http://store.steampowered.com/genre/Free%20to%20Play/)

@@ -3,18 +3,22 @@ Updated 2021-12-02 23:46:19
 Version 6  
 
 The Steam Cloud allows games and the platform to utilize cloud storage hosted by Steam. Games can utilize Steam Cloud for storage of many different types of data, including game settings, save games, profile stats and other user-specific bits. Many Steam client settings are also saved via the cloud, including collections, friend nicknames and anything changed via the Steam client Settings menu. These settings will persist on an account regardless of which machine it is logged into, as the settings are pulled from the cloud upon login.  
+
 * [How do I tell if a game uses Steam Cloud?](#howto)
 * [How can I enable or disable The Steam Cloud?](#enabling)
 * [Where are cloud files stored locally?](#where)
 * [Is there a log of Steam Cloud activity?](#log)
+
     
 ### Issues & Troubleshooting
 Because of the automated nature of cloud synchronization, Steam Support has a limited ability to address issues with the cloud. If any saves or other data have been lost, it is not likely that we will be able to recover them. It is for this reason that we encourage users to make sure they understand behaviors that can affect the cloud, so that when they are encountered, the loss of data can potentially be avoided.  
+
 * [How do I resolve a Steam Cloud conflict?](#conflicts)
 * [What if Steam is unable to sync files to the cloud?](#sync)
 * [What if I lost a file or progress after moving to a different machine?](#lostdata)
 * [What if I have an issue with cross-platform cloud data?](#crossplat)
 * [Steam Cloud Troubleshooting](#basic)
+
   
   # How do I tell if my game uses Steam Cloud?
 Developers are able to completely customize how The Steam Cloud is used for their games, including which user files are uploaded.  
@@ -28,22 +32,28 @@ The Steam Cloud can be toggled for individual games, or as a global Steam settin
   
 ### Individual games:
   
+
 * From the Steam Library, right click on any game and select *Properties...*.
 * Under the *General* tab, the Cloud Synchronization setting can be toggled.
+
   
 ### All games:
   
+
 * From the Steam client Settings window, navigate to the *Cloud* tab.
 * Cloud can be enabled or disabled using the toggle next to *Enable Steam Cloud Sync for applications that support it*.
+
     
     
 # Where are cloud files stored locally?
   
 Cloud files are stored locally in the following locations by default:  
   
+
 * **Windows:** C:\Program Files (x86)\Steam\userdata
 * **MacOS:** ~/Library/Application Support/Steam/userdata
 * **Linux:** ~/.local/share/Steam/userdata
+
     
   
 ### Game specific cloud files:
@@ -52,13 +62,17 @@ The *userdata* folder will contain unique Steam IDs, which correspond to the Ste
   
 Within the Steam ID folders are the respective games associated with those Steam accounts, listed by appID. The following example is for Dota 2 (appID 570):  
   
+
 * Steam\userdata\[steamID]\570\
+
     
 ### Steam client cloud files:
   
 Changes made to your Steam client settings are stored in the cloud, as well as locally in the following folder:  
   
+
 * Steam\userdata\[steamID]\7\
+
     
     
 # Is there a log of Steam Cloud activity?
@@ -67,9 +81,11 @@ Steam creates an log entry any time that files are written to the cloud or retri
   
 These are logged in the *cloud_log.txt* file, which is stored in the following location by default:  
   
+
 * **Windows:** C:\Program Files (x86)\Steam\logs
 * **MacOS:** ~/Library/Application Support/Steam/logs
 * **Linux:** ~/.local/share/Steam/logs
+
     
     
   

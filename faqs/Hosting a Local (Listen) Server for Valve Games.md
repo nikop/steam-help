@@ -12,6 +12,7 @@ Some of the following steps may not apply to you, for example if you do not have
   
 You will need your public Internet IP address. This can be viewed quickly by visiting a site like [whatismyip.com](http://www.whatismyip.com/). This address identifies your connection to the Internet, similar to how a street address identifies your house.  
   
+
 * **Configure your firewall**  
 You will need to set your firewall to allow unsolicited incoming connections for the game you intend to host. If you are unsure how to do this, please refer to the manual or contact the support provider for your firewall software, or temporarily disable your firewall for the duration that you host the server.
 * **Configure your router**  
@@ -21,14 +22,17 @@ For guided instructions on forwarding a port for a large selection of home route
 * **Start the game and create a local server**  
 *NOTE: some of the following steps require that you enter commands into the console. If you require assistance with enabling and/or using the console, please see the* [*Console*](https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD) *article.*  
   
+
 * Open the game and click the menu option to create a local server (typically "**Create Server**") 
 * **Note:**  **Left 4 Dead** and **Left 4 Dead 2** do not feature a menu option to create a local server. Instead, you need to use the [Console ](https://help.steampowered.com/en/faqs/view/4700-D10E-26BE-DDDD)for the game and enter the *map mapname* command, where **mapname** is the name of the map file you want to start on. To get a list of map files, type the *maps ** command.
 * Configure the server as you prefer, then start the game.
 * Type the following commands into your console:  
   
+
 * *sv_lan 0*
 * *ip [your IP address]* (replace **[your IP address]** with the public IP address you recorded initially, so you have a command that looks like *ip 255.255.255.255*)
 * You may need to enter the *heartbeat* command after entering these commands in order to update your IP address with the Steam master servers. If people viewing your server still see **Server is not responding**, then please enter the *map mapname* command, where **mapname** is the name of the map file you want to start on. To get a list of map files, type the *maps ** command.
+
   
   
 Once you have completed these steps, users should be able to join your currently running game. You will need to repeat the in-game steps if you exit the game.
