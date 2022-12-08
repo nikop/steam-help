@@ -1,6 +1,6 @@
 # Where to buy Steam Wallet Codes
-Updated 2022-11-24 01:15:18  
-Version 33  
+Updated 2022-12-07 22:41:04  
+Version 34  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
   
@@ -143,7 +143,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
     
 ### Denmark
 
-* [7Eleven](www.7-eleven.dk)/)
+* ***
 
     
 ### Finland
