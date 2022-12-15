@@ -1,7 +1,7 @@
 Where to buy Steam Wallet Codes
 -------------------------------
-Updated 2022-12-07 22:41:04
-Version 34
+Updated 2022-12-14 20:39:59
+Version 35
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 
@@ -191,7 +191,7 @@ Austria
 
 [*][url=https://www.mueller.at/meine-filiale/]Müller[/url] [/*]
 
-[*][url=https://www.spar.at/standortel]Spar[/url] [/*]
+[*][url=https://www.spar.at/standorte]Spar[/url] [/*]
 
 [/list]
 
