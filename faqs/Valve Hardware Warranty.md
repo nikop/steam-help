@@ -31,7 +31,6 @@ Hardware must be transported or shipped to a Valve-designated service center in 
   
 ### 3.0 Exclusions
 The Limited Warranty does not apply if the Hardware:  
-
 * has been modified or repaired by anyone except a Valve-designated service center and the cause of the issue for which you seek service is the modification or repair, or damage caused by either;
 * has had its serial number removed, altered, replaced, defaced, or rendered illegible;
 * is abused, misused, improperly maintained, mishandled, or neglected;
@@ -41,7 +40,6 @@ The Limited Warranty does not apply if the Hardware:
 * is returned for repair or replacement in packaging that does not meet the specifications identified, above, in the return instructions, or is otherwise mishandled by Purchaser or the common carrier prior to its return;
 * is used for commercial purposes; or
 * is sold "AS IS" or in "REFURBISHED" condition.
-
   
 The Limited Warranty exclusions do not apply to normal usage or ordinary wear and tear, including, without limitation, scratches or marks on the Hardware's exterior derived from ordinary use.  
   

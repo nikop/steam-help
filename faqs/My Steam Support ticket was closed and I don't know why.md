@@ -3,7 +3,6 @@ Updated 2021-07-10 19:49:55
 Version 3  
 
 * [[*]How does a Steam Support ticket become closed?[/*]](#whyclosed)[[*]What should I do if I think my tickets are being closed maliciously?[/*]](#malclosed)
-
   
   
 # How does a Steam Support ticket become closed?

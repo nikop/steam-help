@@ -9,7 +9,6 @@ Version 14
 * [Recording HLTV demos](#record)
 * [Larger Broadcasts](#large)
 * [HLTV Configuration](#config)
-
   
 [h5]Steam Broadcasting for all Steam games[/h5]For information on Steam's built in game broadcasting/spectating feature for all games on Steam, see the [Steam Broadcasting](https://help.steampowered.com/en/faqs/view/548F-BC55-89EB-1BC8) page.#### Overview
 Half-Life TV offers the ability to have an unlimited number of spectators watching online games. They can follow the game just like they would as a spectator on the game server. Spectators are invisible to players and can't interact with the running game in any way. Each spectator can choose any view position or choose any player to track individually.  
@@ -35,7 +34,6 @@ The default HLTV port number is 27020, but may be changed. It should always be i
 You can spectate the game in different modes: Chase Cam, First Person, Free Look, Map Overview and Map Chase. The easiest way to change modes is to press the JUMP key (default SPACE). Alternatively you can use the spectator menu, which can be enabled by pressing the DUCK key (default CTRL). Here you can customize your personal view style and enable the Auto-Director Mode. Press USE (default E) to cycle through the different Picture-In-Picture modes.  
   
 The following HL console commands can be used to customize spectator settings:  
-
 * *spec_autodirector (0|1)* - turns Auto Director mode on or off
 * *spec_drawcone (0|1)* - shows your view cone in map overview mode
 * *spec_drawnames (0|1)* - shows player names under their icons
@@ -44,28 +42,23 @@ The following HL console commands can be used to customize spectator settings:
 * *spec_menu* - opens the spectator menu
 * *spec_help* - shows a help screen
 * *spec_mode (1-6) [(0-4)]* - set the main view mode, seconds parameter is the PIP mode. Not all combinations are valid.
-
   
   
 Main modes are:  
-
 * **1** : Locked Chase
 * **2** : Free Chase
 * **3** : Free Roaming
 * **4** : First Person
 * **5** : Map Overview
 * **6** : Chase Map Overview
-
   
   
 PIP modes are:  
-
 * **0** : PIP off
 * **1** : Free Chase
 * **2** : First Person
 * **3** : Map Overview
 * **4** : Chase Map Overview
-
   
 #### Basics
 The core of the HLTV broadcasting system is the HLTV server, also called HLTV proxy. The HLTV executable is a console application that works much like a HL dedicated server. To broadcast a game running on a certain game server, the HLTV proxy connects to this server just like a normal player.  
@@ -143,13 +136,11 @@ Setting up a HLTV network that can handle a larger number of spectators (>1000) 
   
 This list for common Internet connection types gives a feeling, how bandwidth-demanding HLTV can be:  
   
-
 * **ISDN 64 Kbps** : 2 spectators
 * **DSL 128 Kbps** (upstream) : 5 spectators
 * **T1 1.5 Mbps** : 75 spectators
 * **LAN 10 Mbps** : 500 spectators
 * **T3 75 Mbps** : 4000 spectators
-
   
   
 Use the *maxclients* command to set how many clients should be accepted by a HLTV proxy. Make sure that the *maxrate* variable is set too a reasonable value, e.g. 3500 kilobits/sec. Lower values are possible, but make sure spectators don't get too much choke during a running game. Choke occurs when the server, factoring in your rate setting, determines that it can't send you an update yet because doing so would start to flood your connection.  
@@ -186,11 +177,9 @@ If you're running 3 or more HLTV servers in total, it's a good idea to use RCON 
   
 #### HLTV Configuration
 A short note about console command syntax:  
-
 * A command description follows the following notation:  
 `command (parameter) [(parameter)] - description`
 * A command may have one or more parameters. Parameters in brackets [] are optional.
-
   
 **Commonly used parameters are:**  
   

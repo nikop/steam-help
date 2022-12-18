@@ -4,42 +4,24 @@ Updated 2022-05-20 00:50:29
 Version 5
 
 [img]https://support.steampowered.com/images/faq/steam_universe/header_steamcompliance.png[/img]
-
 [h1]Compliance Documentation[/h1]
-
-
 [table noborder=1]
 [tr]
 [td][img]{STEAM_CLAN_IMAGE}/39983882/eeb12e0f36d5d24f433e64520b6c8c7302ac8fb8.png[/img][/td]
 [td]   [/td]
 [td][h4]Model 1010 - Steam Deck[/h4]
-
 CE Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_ENG.pdf]English[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_FRE.pdf]French[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_GER.pdf]German[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_ITA.pdf]Italian[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_CE_SPA.pdf]Spanish[/url]
-
 [/list]
-
 UK Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/Steam%20Deck%201010_DoC_UK.pdf]English[/url]
-
 [/list]
-
 [/td]
 [/tr]
 [tr]
@@ -47,31 +29,17 @@ UK Declaration of Conformity
 [td]   [/td]
 [td][h4]Model 1007 - VALVE Index Headset[/h4]
 CE Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_ENG.pdf?v=20162709]English[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_FRE.pdf?v=20162709]French[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_GER.pdf?v=20162709]German[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_ITA.pdf?v=20162709]Italian[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_SPA.pdf?v=20162709]Spanish[/url]
-
 [/list]
-
 UK Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201007.pdf]English[/url]
-
 [/list]
-
 [h4]RoHS[/h4]
 [url=https://support.steampowered.com/images/manuals/index_headset/Compliance_Headset_SCH.pdf?v=20162709]Traditional Chinese[/url]
 [/td]
@@ -81,31 +49,17 @@ UK Declaration of Conformity
 [td]   [/td]
 [td][h4]Model 1005 - VALVE Index Controller (Left)[/h4]
 CE Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_ENG.pdf?v=20162709]English[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_FRE.pdf?v=20162709]French[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_GER.pdf?v=20162709]German[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_ITA.pdf?v=20162709]Italian[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleLeft_SPA.pdf?v=20162709]Spanish[/url]
-
 [/list]
-
 UK Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201005.pdf]English[/url]
-
 [/list]
-
 [/td]
 [/tr]
 [tr]
@@ -113,31 +67,17 @@ UK Declaration of Conformity
 [td]   [/td]
 [td][h4]Model 1006 - VALVE Index Controller (Right)[/h4]
 CE Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_ENG.pdf?v=20162709]English[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_FRE.pdf?v=20162709]French[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_GER.pdf?v=20162709]German[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_ITA.pdf?v=20162709]Italian[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_controllers/Compliance_KnuckleRight_SPA.pdf?v=20162709]Spanish[/url]
-
 [/list]
-
 UK Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201006.pdf]English[/url]
-
 [/list]
-
 [/td]
 [/tr]
 [tr]
@@ -145,38 +85,23 @@ UK Declaration of Conformity
 [td]   [/td]
 [td][h4]Model 1004 - VALVE Index Base Stations[/h4]
 CE Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_ENG.pdf?v=20162709]English[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_FRE.pdf?v=20162709]French[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_GER.pdf?v=20162709]German[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_ITA.pdf?v=20162709]Italian[/url]
-
 [*][url=https://support.steampowered.com/images/manuals/index_base/Compliance_BaseStation_SPA.pdf?v=20162709]Spanish[/url]
-
 [/list]
-
 UK Declaration of Conformity
-
 [list]
-
-
 [*][url=https://support.steampowered.com/images/manuals/steam_deck/UK%20DoC%20Valve%201004.pdf]English[/url]
-
 [/list]
-
 [/td]
 [/tr]
 [tr]
 [td][img]https://support.steampowered.com/images/faq/steam_universe/graphic_controller.png[/img][/td]
 [td]   [/td]
 [td][h4]Model 1001 - Steam Controller[/h4]
-
 [url=https://support.steampowered.com/images/manuals/steam_controller/Compliance_Controller_ENG.pdf?v=20162709]English[/url]
 [url=https://support.steampowered.com/images/manuals/steam_controller/Compliance_Controller_FRE.pdf?v=20162709]French[/url]
 [url=https://support.steampowered.com/images/manuals/steam_controller/Compliance_Controller_GER.pdf?v=20162709]German[/url]
@@ -211,7 +136,5 @@ UK Declaration of Conformity
 [/td]
 [/tr]
 [/table]
-
-
 [h5]European contact for regulatory topics only:[/h5]
 Valve GmbH, Roedingsmarkt 9, 20459 Hamburg

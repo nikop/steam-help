@@ -70,7 +70,6 @@ Ensure that you include any other specified components with your return. You may
 Do not send any unspecified items with your return. Additional items will not be returned to you.  
 #### Finalize shipment
   
-
 * Check to make sure you've included everything, including the RMA form.
 * Seal the box well with packing tape and attach your shipping label to the box. In some regions, you will also need to attach other documentation. Steam Support will provide you with instructions.
 * Record the tracking number from the shipping label and keep it in a safe place.

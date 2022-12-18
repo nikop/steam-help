@@ -11,20 +11,16 @@ Steam does not currently support case sensitive filesystems or partitions.
   
 If you wish to use Steam please make sure of the following:  
   
-
 * Steam is installed on a case-insensitive partition or hard drive
 * Your User folder is installed on a case-insensitive partition or hard drive
-
   
   
 To check whether you have a case-sensitive partition:  
   
-
 * Open the program Terminal
 * Type in: diskutil info /
 * Hit enter
 * Scroll down until you see the line "File System Personality."
-
   
 If it shows "Case-sensitive Journaled HFS", "APFS (Case-sensitive)" or "APFS (Case-sensitive, Encrypted)" the hard drive IS case-sensitive.  
   

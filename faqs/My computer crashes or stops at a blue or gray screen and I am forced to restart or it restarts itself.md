@@ -3,10 +3,8 @@ Updated 2021-12-02 21:12:48
 Version 6  
 
 Your computer restarts without warning or you see any of the following errors:  
-
 * Windows: "A problem has been detected and Windows has been shut down to prevent damage to your computer." or ":( Your PC ran into a problem and needs to restart."
 * macOS: "You need to restart your computer. Hold down the Power button for several seconds or press the Restart button."
-
   
   
 These errors indicate a problem with your computer, **not** Steam, the game, or the application.  
@@ -28,11 +26,9 @@ Please note that some laptops or compact desktops may not have sufficient coolin
   
 Please ensure that the computer has adequate ventilation:  
   
-
 * Laptops should be placed on a hard surface. The air used to cool them is often pulled from under the laptop, so soft surfaces (like couches, beds, blankets, or pillows) can easily cause overheating.
 * Desktops should be placed with adequate (4+ inches/10+ cm) space around all sides, front, back, and the top to allow air flow.
 * Some users have opened their case and used a regular desk fan to improve ventilation, however you will need to be careful to prevent foreign objects from entering the computer.
-
   
   
 If your computer is more than a few months old, or if you have pets or an otherwise dusty environment, please check your computer for dust and hair. If you are not comfortable opening your computer to check and/or clean the heat sinks and fans, please bring it to your local computer professional for cleaning. When cleaning, use only compressed air without touching interior surfaces (do not vacuum or brush as this can destroy your computer).  
@@ -51,7 +47,6 @@ The first step is to verify that your hard drive is in good health and that all 
 * Click Start.
 * If you are scanning the *C:* drive, you will be asked to schedule the disk check the next time you start Windows. Accept, restart your computer, and allow the disk check to start—do not press any keys to skip the disk check.
 * Allow the disk check to complete. This process may take up to several hours, depending on the size of your hard drive and the number of errors.
-
   
 If errors are detected, you should also verify that your Windows system files are not corrupted. Please see the Microsoft Support article [Use the System File Checker tool to repair missing or corrupted system files](https://support.microsoft.com/en-us/kb/929833) and follow the instructions to verify your system files.  
   

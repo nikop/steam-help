@@ -12,7 +12,6 @@ Version 4
 * [How will I know when and what I will be charged for an auto-renewed Subscription Plan?](#date)
 * [Can I give a Subscription Plan as a gift to a friend?](#gift)
 * [Can I register multiple game accounts to my Steam account?](#multiple)
-
   
   
 #### How do I purchase a Subscription Plan?
@@ -38,7 +37,6 @@ Or by clicking the "..." button which may show instead depending on the size/res
 * Then select "I am having another problem".
 * Finally, select "Contact Game Support".
 * You will now be on the support page for the game that includes support contact information (website links, email contact, etc.) for the developer/publisher of the game.![{STEAM_CLAN_IMAGE}/39983882/a39bcd7cd7009702c5fb29a5be9f54552b2732c4.png]({STEAM_CLAN_IMAGE}/39983882/a39bcd7cd7009702c5fb29a5be9f54552b2732c4.png)
-
 [/expand]  
   
 #### How do I update my payment method on record?

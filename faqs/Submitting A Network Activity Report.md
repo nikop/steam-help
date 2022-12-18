@@ -3,11 +3,9 @@ Updated 2021-12-02 23:31:29
 Version 7  
 
 When encountering issues using Steam web services, it may be helpful to record the behavior and submit a diagnostic report to Steam Support. Some common issues that can be better understood with a report:  
-
 * Purchase failures
 * Community errors
 * Page load issues
-
   
   
 # What type of report is needed?
@@ -26,25 +24,20 @@ Depending on which browser you are using, you can follow the steps below to repr
   
 #### Google Chrome, Microsoft Edge, and Mozilla Firefox:
   
-
 * Open your web browser's developer tool using the default shortcut (F12 on Windows, Ctrl + Shift + i on Linux, and Cmd + Opt + i on macOS). Alternatively, the developer tool can be opened by navigating to the menu at the top-right of your browser window, then select:  
-
 * Chrome: More tools > Developer Tools.
 * Edge: More tools > Developer Tools.
 * Firefox: More Tools > Web Developer Tools.
 * Select the Network tab at the top-left of the developer tool. From here, ensure that the red light is on, indicating that network traffic is being recorded.
 * Now, you will need to refresh the webpage and reproduce the steps that led to your issue. You should see a number of entries being created in the Network table.
 * Finally, right-click anywhere within the table and select 'Copy' then 'Copy all as HAR'. This will copy the contents of the log to your system clipboard, allowing you to paste the contents into a notepad .txt file, which can be submitted to Steam Support.
-
     
 #### Internet Explorer 11:
   
-
 * Open the IE developer tool using the default shortcut (F12 on Windows, Ctrl + Shift + i on Linux, and Cmd + Opt + i on macOS). Alternatively, the developer tool can be opened by selecting 'F12 Developer Tools' from the Tools dropdown in the IE browser toolbar.
 * Select the Network tab at the top-left of the developer tool. There should be a green play icon in the developer toolbar, indicating that network traffic is not yet being recorded.
 * Now, you will need to refresh the webpage, press the green play icon, and reproduce the steps that led to your issue. You should see a number of entries being created in the Network table.
 * After stopping the recording by pressing the red stop icon, export the data as a .har file by selecting the 'save' (Export as HAR) icon in the toolbar. You will then need to open the .har file in notepad and then save as a .txt file. The .txt file can then be attached to your Steam Support ticket.
-
     
   
   
@@ -52,7 +45,6 @@ Depending on which browser you are using, you can follow the steps below to repr
 # Removing sensitive information from your report
   
 If there is any sensitive data in your log, you can edit the .txt, .xml, or .har file and remove that data.  
-
 * Open the .txt, .xml, or .har file that you generated using the developer tool.
 * Use your operating system's 'find' function to search the document for any instances of sensitive data.
 * Delete this information and save the document as a .txt file so it can be attached to your Steam Support ticket.

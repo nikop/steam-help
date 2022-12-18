@@ -27,12 +27,10 @@ If your controller is not ready, first check the LED above the Track Button and 
   
 #### LED is blue
 Controller is powered, but not paired to your headset. Pair your controller again:   
-
 * Navigate to the SteamVR status window.
 * Open the menu and select *Devices* > *Pair Controller*.
 * Hold down both the System and B buttons for a few seconds.
 * If this does not pair the controller, try turning the device on and off to power-cycle it.
-
   
   
 #### LED is red (flashing)
