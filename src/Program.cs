@@ -41,7 +41,7 @@ var queue = new ConcurrentQueue<string>();
 var searched = new HashSet<string>();
 
 Regex slugFormat = new("(?:[A-Z0-9]{4})-(?:[A-Z0-9]{4})-(?:[A-Z0-9]{4})-(?:[A-Z0-9]{4})", RegexOptions.Compiled | RegexOptions.IgnoreCase);
-Regex removeMultipleLines = new("(\r\n){2,}", RegexOptions.IgnoreCase);
+Regex removeMultipleLines = new("(\r?\n){2,}", RegexOptions.IgnoreCase);
 
 var countTotal = 0;
 var countLoaded = 0;
