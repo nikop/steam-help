@@ -25,6 +25,7 @@
     "0916-91EF-814D-5C67",
     "099E-F5D1-8780-4778",
     "09A0-4879-4353-EF95",
+    "09A1-E754-1D86-DDC9",
     "0A94-F308-34A5-1988",
     "0C48-FCBD-DA71-93EB",
     "0CAD-3B4D-B874-A065",
@@ -81,6 +82,7 @@
     "24D0-95B3-82BC-89D9",
     "2542-790F-14F8-D66A",
     "266F-8F7F-55FA-63FA",
+    "26C4-D0C0-B6EA-FBAA",
     "26CE-6A3B-C548-5AB4",
     "270E-A6B6-F83C-B9AB",
     "271D-4C46-2915-B315",
@@ -477,6 +479,12 @@
       "LastUpdated": "2021-07-10T19:49:55+00:00",
       "Version": 3
     },
+    "694090166050414025": {
+      "Slug": "09A1-E754-1D86-DDC9",
+      "FileName": "Steam Wallet Gift Card Scam",
+      "LastUpdated": "2021-07-10T19:49:55+00:00",
+      "Version": 3
+    },
     "762501453500979592": {
       "Slug": "0A94-F308-34A5-1988",
       "FileName": "Recovering a Stolen or Hijacked Steam Account",
@@ -690,8 +698,8 @@
     "1977623338980027315": {
       "Slug": "1B71-EDF2-EB6D-2BB3",
       "FileName": "Steam Deck Recovery Instructions",
-      "LastUpdated": "2022-06-27T21:11:58+00:00",
-      "Version": 7
+      "LastUpdated": "2023-01-03T18:56:13+00:00",
+      "Version": 8
     },
     "2020460277170598642": {
       "Slug": "1C0A-1DEA-CF8A-72F2",
