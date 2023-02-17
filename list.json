@@ -163,6 +163,7 @@
     "4578-18A7-C819-8620",
     "4593-5CB7-DC3C-64F0",
     "46A2-2B3C-95CC-8878",
+    "46BD-6BA8-B012-CE43",
     "46C3-050A-2E52-12D6",
     "46D2-B5B1-F0B9-B867",
     "46DB-4CEC-F7E9-49E5",
@@ -1288,6 +1289,12 @@
       "FileName": "Steam Trading",
       "LastUpdated": "2021-08-24T22:41:51+00:00",
       "Version": 6
+    },
+    "5097348725505969731": {
+      "Slug": "46BD-6BA8-B012-CE43",
+      "FileName": "Steam Local Network Game Transfers",
+      "LastUpdated": "2023-02-17T21:32:05+00:00",
+      "Version": 2
     },
     "5098924744398475990": {
       "Slug": "46C3-050A-2E52-12D6",
