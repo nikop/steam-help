@@ -1,7 +1,7 @@
 Games do not run after 'Preparing to Launch'
 --------------------------------------------
-Updated 2021-08-05 20:06:53
-Version 6
+Updated 2023-02-27 18:00:09
+Version 7
 
 My game isn't launching. How can I resolve this?
 [h3]
@@ -13,6 +13,15 @@ For Windows users:
 [*][url=#verifycache]Verify integrity of game files[/url] [/*]
 [*][url=#interfere]Disable non-essential software[/url] [/*]
 [*][url=#sysreq]Check the game's system requirements[/url] [/*]
+[/list]
+[h3]
+For Linux users:
+[/h3]
+[list]
+[*][url=#updatelinux]Update Linux[/url] [/*]
+[*][url=#vcachelinux]Verify integrity of game files[/url] [/*]
+[*][url=#linuxinterfere]Disable non-essential Linux applications[/url] [/*]
+[*][url=#sysreqlinux]Check the game's system requirements[/url] [/*]
 [/list]
 [h3]
 For Mac users:
@@ -58,6 +67,32 @@ Check the game's system requirements
 [/h3]
 Games may not launch if your machine is [i]just[/i] at or below the game's system requirements. Please compare your machine's specs against the game's system requirements on the store page, and note that a machine at or near system requirements may experience performance and/or launch issues when playing.
 [/section]
+[h1]Linux users[/h1]
+[section id=updatelinux]
+[h3]
+Update Linux
+[/h3]
+If you're running an older version of Linux there may be conflicts with the game you're trying to run. It is also a good idea to make sure your graphics drivers are up to date as well.
+[/section]
+[section id=vcachelinux]
+[h3]
+Verify integrity of game files
+[/h3]
+If a game won't launch this can be caused by corruption in your extracted game files. Please see our [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]Verify Integrity of Game Files[/url] article for instructions on verifying the integrity of your game files.
+[/section]
+[section id=linuxinterfere]
+[h3]
+Disable non-essential Linux applications
+[/h3]
+Games may not launch if you're running software which interferes with Steam. Please see our [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere with Steam[/url] article for detailed information on software conflicts you may be experiencing.
+[/section]
+[section id=sysreqlinux]
+[h3]
+Check the game's system requirements
+[/h3]
+First, double-check that the game or DLC is specifically available for Linux. Even if the game is available for Linux, games may not launch if your machine is [i]just[/i] at or below the game's system requirements. Please compare your machine's specs against the game's system requirements on the store page, and note that a machine at or near system requirements may experience performance and/or launch issues when playing.
+If game itself does not support Linux but you are trying to run it using the [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Steam Play Proton[/url] feature for Linux, we recommend checking the [url=https://steamcommunity.com/app/221410/discussions/8/]Steam Play community discussion[/url] forum as other users may have encountered the same problem and have suggestions. You can also report any bugs you find when using Steam Play to the [url=https://github.com/ValveSoftware/Proton]Valve - Proton Github[/url] bug database using a [url=https://github.com/]GitHub account[/url]. This database is regularly reviewed by the Valve development team.
+[/section]
 [h1]Mac users[/h1]
 [section id=updatemacos]
 [h3]
@@ -74,7 +109,7 @@ If you're running an older version of macOS there may be conflicts with the game
 [h3]
 Verify integrity of game files
 [/h3]
-As with Windows, if a game won't launch this is often caused by corruption in your extracted game files. Please see our [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]Verify Integrity of Game Files[/url] article for instructions on verifying the integrity of your game files.
+If a game won't launch this is often caused by corruption in your extracted game files. Please see our [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]Verify Integrity of Game Files[/url] article for instructions on verifying the integrity of your game files.
 [/section]
 [section id=macinterfere]
 [h3]
