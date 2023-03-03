@@ -1,6 +1,6 @@
 # Steam Client Beta
-Updated 2021-07-10 19:49:55  
-Version 3  
+Updated 2023-03-03 03:12:51  
+Version 4  
 
 How do I participate in the Steam Client beta?  
   
@@ -10,9 +10,17 @@ Opting in to the Steam Client Beta lets you use the latest features before they'
   
 Please follow the instructions below to participate in the Steam client beta:  
 * With Steam running, click on "Steam" in the upper left, then choose the "Settings" menu. (Preferences on Mac)
-* On the "Account" tab under "Beta Participation" click the "Change..." button.
-* Select the "Steam Beta Update" from the drop down list and click "OK".
-* You will be prompted to restart Steam, please select the "Restart Steam" button.
+* On the "Account" tab under "Beta Participation" click the "Change..." button
+* Select the "Steam Beta Update" from the drop down list and click "OK"
+* You will be prompted to restart Steam, please select the "Restart Steam" button
+  
+  
+If you are using a Steam Deck:  
+* Press the "Steam" button
+* Browse to the "System" menu
+* Navigate to the "Beta Participation" section
+* Expand the System Update Channel pull-down and select "Beta"
+* Follow the prompt to restart your device
   
   
 If you are using Big Picture Mode:  
