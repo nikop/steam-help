@@ -1,19 +1,16 @@
 # Steam Local Network Game Transfers
-Updated 2023-02-17 21:32:05  
-Version 2  
+Updated 2023-03-16 00:45:44  
+Version 5  
 
-**(This feature is currently available in Steam Client Beta. Both sending / receiving PCs / Steam Decks must be on the Beta to access this feature)**  
+Local network game transfers allow for Steam users to copy existing Steam game installation and update files from one PC to another over a local area network, without having to download and install from a Steam content server on the internet. This helps you stay below your ISP monthly transfer limits and can speed up installs or updates.  
   
-Local network game transfers allow for Steam users to copy existing Steam game installation and update files from one PC to another over a local area network, without having to download and install from a Steam content server on the internet. This reduces internet traffic and can speed up installs or updates.  
-  
-A common use case would be a home setup with multiple PCs or Steam Decks on the same local network. Once a game is installed on one PC, all other PCs or the Steam Deck can install or update that game by transferring files directly from that one PC. A modern PC can easily transfer game content with 100MB/sec, and during the transfer the Steam client sending content will generate disk and CPU load (ie, you probably wouldn't want to be doing any intensive tasks on this PC during the transfer).  
+A common use case would be a home setup with multiple PCs or Steam Decks on the same local network. Once a game is installed on one PC, all other PCs or the Steam Deck can install or update that game by transferring files directly from that one PC. A modern PC can easily transfer game content with 100MB/sec over a wired network connection. During the transfer the hosting Steam client sending content will generate disk and CPU load (ie, you probably wouldn't want to be doing any intensive tasks on this PC during the transfer).  
   
 Active local network game transfers will be called out on the Download page:  
-![{STEAM_CLAN_IMAGE}/39983882/3ab376a7a06572e99a917fc0f83a80144a94b82b.png]({STEAM_CLAN_IMAGE}/39983882/3ab376a7a06572e99a917fc0f83a80144a94b82b.png)  
+![{STEAM_CLAN_IMAGE}/39983882/0e303acc898999ce024c3954abe6af7ec9dd9671.png]({STEAM_CLAN_IMAGE}/39983882/0e303acc898999ce024c3954abe6af7ec9dd9671.png)  
   
 This is how it looks from the recipient side:  
-![{STEAM_CLAN_IMAGE}/39983882/3e3974c00140d50759217687221601ff546d9a93.png]({STEAM_CLAN_IMAGE}/39983882/3e3974c00140d50759217687221601ff546d9a93.png)  
-  
+![{STEAM_CLAN_IMAGE}/39983882/650e5e745b11ea888335529b3c55851b20c10487.png]({STEAM_CLAN_IMAGE}/39983882/650e5e745b11ea888335529b3c55851b20c10487.png)  
     
 # How it works
   
@@ -44,7 +41,7 @@ Any Steam client or Steam Deck can receive game content from another client on t
 *  Game content can only be transferred out if the transferring Steam client is idle, e.g. no downloads or games running.
 *  The game needs to released to the public and playable by both Steam users (no preloads)
 *  The game needs to be up-to-date on the PC sending the game files
-*  Only a PC running in Steam desktop mode can send files. So Steam Decks, PCs in Big Picture mode, and custom launchers can currently not transfer files out over the local network.
+*  Only a PC running in Steam desktop mode can host a network transfer. Steam Decks, PCs in Big Picture mode, and custom launchers can't transfer their files out over the local network.
   
   
   
