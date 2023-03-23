@@ -1,6 +1,6 @@
 # Counter-Strike 2 Limited Test
-Updated 2023-03-22 16:42:02  
-Version 1  
+Updated 2023-03-22 18:15:34  
+Version 2  
 
 * [How do I gain access to the Counter-Strike 2 Limited Test?](#access)
 * [How do I know if I've been selected for the Counter-Strike 2 Limited Test?](#selected)
@@ -40,7 +40,7 @@ If you encounter bugs during the Counter-Strike 2 Limited Test please send an em
   
 In the body of your email please include a detailed description of the bug, reproduction steps, and any screenshots or other helpful information so the Counter-Strike 2 team may investigate.  
   ### Can I use my CS:GO inventory items in Counter-Strike 2?
-Yes. All of your weapon finishes, stickers, and other CS:GO inventory items will be available to use in Counter-Strike 2. Please report any inventory item and weapon finish bugs you encounter using the previoulsy mentioned bug report process.  
+Yes. All of your weapon finishes, stickers, and other CS:GO inventory items will be available to use in Counter-Strike 2. Please report any inventory item and weapon finish bugs you encounter using the previously mentioned bug report process.  
   ### Can I modify my inventory items during the Counter-Strike 2 Limited Test?
 No. During the Counter-Strike 2 Limited Test players cannot modify inventory items within Counter-Strike 2. This includes applying stickers, scraping stickers, using Trade Up Contracts, and other ways players can modify their in-game items.  
   

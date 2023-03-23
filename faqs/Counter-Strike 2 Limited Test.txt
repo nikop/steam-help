@@ -1,7 +1,7 @@
 Counter-Strike 2 Limited Test
 -----------------------------
-Updated 2023-03-22 16:42:02
-Version 1
+Updated 2023-03-22 18:15:34
+Version 2
 
 
 [list]
@@ -66,7 +66,7 @@ In the body of your email please include a detailed description of the bug, repr
 [h3]
 Can I use my CS:GO inventory items in Counter-Strike 2?
 [/h3]
-Yes. All of your weapon finishes, stickers, and other CS:GO inventory items will be available to use in Counter-Strike 2. Please report any inventory item and weapon finish bugs you encounter using the previoulsy mentioned bug report process.
+Yes. All of your weapon finishes, stickers, and other CS:GO inventory items will be available to use in Counter-Strike 2. Please report any inventory item and weapon finish bugs you encounter using the previously mentioned bug report process.
 [/section]
 [section id=modifyinv]
 [h3]
