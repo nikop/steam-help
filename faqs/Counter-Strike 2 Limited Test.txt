@@ -1,7 +1,7 @@
 Counter-Strike 2 Limited Test
 -----------------------------
-Updated 2023-03-22 18:15:34
-Version 2
+Updated 2023-03-24 22:54:14
+Version 3
 
 
 [list]
@@ -59,7 +59,8 @@ Future limited test releases will offer other game modes, maps, and features.
 [h3]
 I'm in the Counter-Strike 2 Limited Test! How do I report bugs?
 [/h3]
-If you encounter bugs during the Counter-Strike 2 Limited Test please send an email to cs2team [at] valvesoftware [dot] com and title your email "CS2LT Report".
+If you encounter bugs during the Counter-Strike 2 Limited Test please send an email to cs2team [at] valvesoftware [dot] com and title your email "CS2LT Bug - " then include a brief description of the bug.
+For example, [i]"CS2LT Bug - Stuck in ground on Dust2"[/i].
 In the body of your email please include a detailed description of the bug, reproduction steps, and any screenshots or other helpful information so the Counter-Strike 2 team may investigate.
 [/section]
 [section id=inventory]

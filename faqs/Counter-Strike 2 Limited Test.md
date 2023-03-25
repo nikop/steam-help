@@ -1,6 +1,6 @@
 # Counter-Strike 2 Limited Test
-Updated 2023-03-22 18:15:34  
-Version 2  
+Updated 2023-03-24 22:54:14  
+Version 3  
 
 * [How do I gain access to the Counter-Strike 2 Limited Test?](#access)
 * [How do I know if I've been selected for the Counter-Strike 2 Limited Test?](#selected)
@@ -36,7 +36,9 @@ Initially the Counter-Strike 2 Limited Test will offer Deathmatch and Unranked C
   
 Future limited test releases will offer other game modes, maps, and features.  
   ### I'm in the Counter-Strike 2 Limited Test! How do I report bugs?
-If you encounter bugs during the Counter-Strike 2 Limited Test please send an email to cs2team [at] valvesoftware [dot] com and title your email "CS2LT Report".  
+If you encounter bugs during the Counter-Strike 2 Limited Test please send an email to cs2team [at] valvesoftware [dot] com and title your email "CS2LT Bug - " then include a brief description of the bug.  
+  
+For example, *"CS2LT Bug - Stuck in ground on Dust2"*.  
   
 In the body of your email please include a detailed description of the bug, reproduction steps, and any screenshots or other helpful information so the Counter-Strike 2 team may investigate.  
   ### Can I use my CS:GO inventory items in Counter-Strike 2?
