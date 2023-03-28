@@ -168,6 +168,7 @@
     "46D2-B5B1-F0B9-B867",
     "46DB-4CEC-F7E9-49E5",
     "4700-D10E-26BE-DDDD",
+    "4784-4F2B-1321-800A",
     "4886-1865-570C-4548",
     "48C1-A297-4839-8BB8",
     "4984-C127-121D-B3F2",
@@ -1321,6 +1322,12 @@
       "LastUpdated": "2021-08-12T21:14:25+00:00",
       "Version": 10
     },
+    "5153330920041840650": {
+      "Slug": "4784-4F2B-1321-800A",
+      "FileName": "Windows 7 and Windows 8 Support",
+      "LastUpdated": "2023-03-28T02:36:42+00:00",
+      "Version": 1
+    },
     "5225891241141224776": {
       "Slug": "4886-1865-570C-4548",
       "FileName": "How do I download and install custom or user-made maps for my Source and Gold Source games_",
@@ -1726,8 +1733,8 @@
     "6832784780995857432": {
       "Slug": "5ED2-ED8E-81F4-0C18",
       "FileName": "Counter-Strike 2 Limited Test",
-      "LastUpdated": "2023-03-24T22:54:14+00:00",
-      "Version": 3
+      "LastUpdated": "2023-03-27T20:24:19+00:00",
+      "Version": 7
     },
     "6862663911468549363": {
       "Slug": "5F3D-1477-AFF9-C4F3",

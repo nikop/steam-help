@@ -1,6 +1,6 @@
 # Counter-Strike 2 Limited Test
-Updated 2023-03-24 22:54:14  
-Version 3  
+Updated 2023-03-27 20:24:19  
+Version 7  
 
 * [How do I gain access to the Counter-Strike 2 Limited Test?](#access)
 * [How do I know if I've been selected for the Counter-Strike 2 Limited Test?](#selected)
@@ -21,6 +21,8 @@ Version 3
   
   ### How do I gain access to the Counter-Strike 2 Limited Test?
 Players are selected based on a number of factors deemed important by the Counter-Strike 2 development team, including (but not limited to) recent playtime on Valve official servers, trust factor, and Steam account standing.  
+  
+Accounts which are locked on Steam (for any reason) cannot accept Limited Test invitations or participate in the Limited Test until the lock is removed from the account.  
   ### How do I know if I've been selected for the Counter-Strike 2 Limited Test?
 If you are chosen to participate in the Counter-Strike 2 Limited Test you will receive a notification on the main menu of CS:GO.   
   
