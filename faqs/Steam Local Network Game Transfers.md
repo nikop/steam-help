@@ -1,6 +1,6 @@
 # Steam Local Network Game Transfers
-Updated 2023-03-16 00:45:44  
-Version 5  
+Updated 2023-03-28 23:53:14  
+Version 6  
 
 Local network game transfers allow for Steam users to copy existing Steam game installation and update files from one PC to another over a local area network, without having to download and install from a Steam content server on the internet. This helps you stay below your ISP monthly transfer limits and can speed up installs or updates.  
   
@@ -39,9 +39,10 @@ Any Steam client or Steam Deck can receive game content from another client on t
 *  Both Steam clients must be online and see each other directly on the same LAN (no downloads while either Steam client is in offline-mode)
 *  Game File Transfer settings on both devices must allow a transfer (e.g. if both have "Friends only" set, they must be Steam friends)
 *  Game content can only be transferred out if the transferring Steam client is idle, e.g. no downloads or games running.
-*  The game needs to released to the public and playable by both Steam users (no preloads)
+*  The game needs to be released to the public and playable by both Steam users (no preloads)
 *  The game needs to be up-to-date on the PC sending the game files
 *  Only a PC running in Steam desktop mode can host a network transfer. Steam Decks, PCs in Big Picture mode, and custom launchers can't transfer their files out over the local network.
+*  The network transfer happens on TCP port 24070 and it needs to be allowed by local firewall software.
   
   
   
