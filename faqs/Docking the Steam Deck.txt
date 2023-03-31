@@ -1,7 +1,7 @@
 Docking the Steam Deck
 ----------------------
-Updated 2022-10-28 21:36:45
-Version 2
+Updated 2023-03-30 21:20:25
+Version 4
 
 While Steam Deck is great in handheld mode, there may be times where you want to use different input devices, share your screen in a multiplayer game, or even get some work done - that's where docking comes in. Steam Deck works great with a variety of USB-C docks or hubs. Most users will be plugging in a USB-C charger for PD passthrough, as well as peripherals, controllers, and external displays. This article will cover basic operation and troubleshooting steps.
 [h2]
@@ -31,6 +31,18 @@ Troubleshooting
 [h5]Resetting your dock[/h5]
 [list]
 [*]If you believe you need to reset the dock itself, then just fully unplug the deck and dock, including the power supply and display cables, and then plug the cables back in. Note that even when the dock is unplugged from its own power supply, it will still receive power from the Steam Deck, so it's necessary to unplug both for a full reset.
+[/list]
+[h3]
+No display or peripherals
+[/h3]
+If you're not able to get any external display or USB(2.0) peripherals to work, you can narrow down the issue by connecting another USB-C device (laptop or phone) to the dock. Note: You may need to refer to your device's user manual to confirm if the port supports functions like Display (DP Alt-mode) and/or what USB capabilities are supported. Some USB-C ports are only designed to be used for charging. If you do not encounter any issues with a different device, the issue may be with the Deck and you can try putting your Deck in battery storage mode to reset it back to a default state.
+[list]
+[*]Power the Steam Deck down normally (choose Shut Down from the Power menu). If you can't access the menu, you can force a shutdown by holding down the Power button for 10 seconds.
+[*]Hold the "Volume +" button down while pressing the Power button once. Continue holding the "Volume +" button until you hear the system chime, then release and wait. The Steam Deck should boot into the BIOS menu within a couple minutes.
+[*]Using the D-Pad and A to select, navigate to "Setup Utility"
+[*]Navigate to the Power Menu
+[*]Choose Battery storage mode, and confirm.
+[*]You should see the Steam Deck power off, and the power LED will blink three times to confirm battery storage mode has been activated.  Wait a few minutes, then plug the Steam Deck in using the provided power supply and turn on the Steam Deck.
 [/list]
 [h5]Display output does not fit screen[/h5]
 [list]
