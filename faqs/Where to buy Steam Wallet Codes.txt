@@ -1,7 +1,7 @@
 Where to buy Steam Wallet Codes
 -------------------------------
-Updated 2022-12-14 20:39:59
-Version 35
+Updated 2023-04-12 21:40:41
+Version 36
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 [h1]Steam Wallet Codes[/h1]Steam Gift Cards and Wallet Codes are an easy way to put money into your own Steam Wallet or give the perfect gift of games to your friend or family member.
@@ -199,7 +199,8 @@ Germany
 Greece
 [/h3]
 [list]
-[*][url=http://www.public.gr/storelocator/]Public Stores[/url] [/*]
+[*][url=http://www.public.gr/storelocator/]Public Stores[/url]
+[*][url=https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E/]Germanos/Cosmote[/url]
 [/list]
 [h3]
 Hungary

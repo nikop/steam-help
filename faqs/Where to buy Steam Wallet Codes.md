@@ -1,6 +1,6 @@
 # Where to buy Steam Wallet Codes
-Updated 2022-12-14 20:39:59  
-Version 35  
+Updated 2023-04-12 21:40:41  
+Version 36  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
   
@@ -124,6 +124,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 * [V-Markt](https://www.v-markt.de/standorte_vmarkt)
  ### Greece
 * [Public Stores](http://www.public.gr/storelocator/)
+* [Germanos/Cosmote](https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E/)
     
 ### Hungary
 * [BestByte](http://www.bestbyte.hu/)
