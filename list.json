@@ -115,6 +115,7 @@
     "30EB-87BF-531F-512D",
     "30FC-2296-D4CD-58DA",
     "3145-C9BC-3E38-94F0",
+    "3195-9FFB-BA06-F25B",
     "32ED-36ED-8BC1-1B98",
     "3344-6439-1D50-5A9B",
     "339C-BC5C-3D89-53D9",
@@ -1015,6 +1016,12 @@
       "FileName": "Steam Coupons",
       "LastUpdated": "2021-08-05T19:49:16+00:00",
       "Version": 5
+    },
+    "3572937782894981723": {
+      "Slug": "3195-9FFB-BA06-F25B",
+      "FileName": "Scam: I Have Been Reported and Will Be Banned",
+      "LastUpdated": "2023-04-28T17:40:58+00:00",
+      "Version": 7
     },
     "3669649665256659864": {
       "Slug": "32ED-36ED-8BC1-1B98",
@@ -2081,8 +2088,8 @@
     "8135358118725657467": {
       "Slug": "70E6-991B-233B-A37B",
       "FileName": "Scam FAQ (Confidence Scams and Trade Scams)",
-      "LastUpdated": "2022-11-21T18:34:59+00:00",
-      "Version": 17
+      "LastUpdated": "2023-04-28T20:41:28+00:00",
+      "Version": 18
     },
     "8147800086409599480": {
       "Slug": "7112-CD02-7B57-59F8",
