@@ -1,7 +1,7 @@
 Limited User Accounts
 ---------------------
-Updated 2022-07-06 23:48:33
-Version 5
+Updated 2023-05-09 00:10:06
+Version 6
 
 Steam prevents some accounts from accessing certain community and social features that are commonly used for spamming, phishing, and other abuse.
 [h4]Why are these features not available?[/h4]
@@ -46,6 +46,7 @@ Each Steam purchase total will be tracked in USD. If your Steam store's currency
 [*]Counting towards Steam group membership
 [*]Following/adding curators
 [*]Posting hyperlinks in the Steam Community
+[*]Adding a phone in some countries
 [/list]
 [h4]Frequently asked questions[/h4]
 [h5]I received my game(s) as a gift, will I gain access to all features?[/h5]
