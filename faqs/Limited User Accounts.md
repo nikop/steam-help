@@ -1,6 +1,6 @@
 # Limited User Accounts
-Updated 2023-05-09 00:10:06  
-Version 6  
+Updated 2023-05-09 14:00:34  
+Version 7  
 
 Steam prevents some accounts from accessing certain community and social features that are commonly used for spamming, phishing, and other abuse.  
   
@@ -50,7 +50,7 @@ Limited user accounts are prevented from accessing several features on Steam, in
 * Counting towards Steam group membership
 * Following/adding curators
 * Posting hyperlinks in the Steam Community
-* Adding a phone in some countries
+* Adding a phone number from some countries
     
 #### Frequently asked questions
   

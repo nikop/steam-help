@@ -1,50 +1,161 @@
 # Rules and Guidelines For Steam: Discussions, Reviews, and User Generated Content
-Updated 2021-12-17 18:22:32  
-Version 6  
+Updated 2023-05-09 23:26:39  
+Version 7  
 
-These guidelines apply to all places in the Steam Store and Community where users can post content. This includes, but is not limited to, discussions, comments, guides, product reviews, screenshots, artwork, videos, tags, and Steam Workshop.  
+Steam includes a variety of community features that support custom user-generated content. Whether uploading workshop items, personalizing profiles, reviewing products, or posting in the discussions, custom content greatly improves the experience for players in the Steam Community.  
   
-When providing feedback, posting information, or discussing a product in Steam, whether it’s negative or positive, please make sure you are being relevant, constructive and polite. Developers take feedback from all kinds of sources into account, even though they may not have the time to respond to every post or question.  
+Because so many players have access to this content, it is important that it be appropriate for everyone using Steam’s all-ages and international community. We expect that anyone participating in the community make a reasonable judgment about whether their contributions are appropriate.  
   
-Please note that Administrators/Moderators reserve the right to change/edit/delete/move/merge any content at any time if they feel it is inappropriate, abusive, or incorrectly categorized.  
+We also understand that it is challenging to evaluate appropriateness within such a large and diverse community. These rules aim to make that evaluation easier for anyone participating in the community.   
   
-All users are subject to the [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/) and [Steam Online Conduct](https://store.steampowered.com/online_conduct/).  
   
-### General Rules
-Do not do any of the following:  
+# Online Conduct
   
-* Flame or insult other members
-* Bypass any filters
-* Abuse or encourage abuse of the Post Reporting System
-* Post personally identifiable information (i.e. name, address, email, phone number, etc.)
-* Bump threads
-* Derail a thread's topic
-* Post links to phishing sites
-* Post spam (i.e. +1, 10char, rickrolls) or Re-post Closed, Modified, Deleted Content
-* Repetitively post in the incorrect forum (example: trade requests belong in trading forum)
-* Openly argue with a moderator
-* Manipulation of the User Review system or voting/rating systems
-  ### Content Rules
-Do not post any content on Steam containing the following:  
+---
   
-* Porn, inappropriate or offensive content, warez or leaked content or anything else not safe for work
-* Discussion of piracy including, but not limited to:
-* Cracks
-* Key generators
-* Console emulators
-* Cheating, hacking, game exploits
-* Threats of violence or harassment, even as a joke
-* Posted copyright material such as magazine scans
-* Soliciting, begging, auctioning, raffling, selling, advertising, referrals
-* Racism, discrimination
-* Abusive language, including swearing
-* Drugs and alcohol
-* Religious, political, and other "prone to huge arguments" threads
-  ### No Backseat Moderating
-Let the moderators do the moderating. Backseat moderating is when people who are not moderators try to enforce the forum rules. If you see a person breaking the rules, take advantage of the Report (![{STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png]({STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png)) button or simply **ignore** the offensive post(s), thread, or review.  
+Our [Online Conduct rules](https://store.steampowered.com/online_conduct) broadly apply to all behaviors and content on Steam. Content or behaviors that violate these rules are not allowed. Accounts that post such content or engage in such behavior may be subject to restrictions.  
   
-### Report Posts to Moderators
-Should you observe a fellow Community member breaking these rules please report the post or item by clicking the Report (![{STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png]({STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png)) button located on every item, post, and review.  
+The guidelines below are intended to provide more context for how the online conduct rules apply to various areas of Steam, while also including additional specifics for those areas.  
   
-### Repeated Offenders
-Repeated offenders of the above rules and guidelines will be banned from the Steam Community. Any moderator has the ability to ban a user for violating the rules at their discretion.
+  
+# Steam Discussions & Comment Threads
+  
+---
+  
+There are many shared spaces on Steam where players can engage in public discussion. In addition to the online conduct rules, players and developers should adhere to the following guidelines to ensure that these shared places remain constructive and respectful:   
+  
+### Be respectful of yourself and other players
+  
+Interactions with other players should not be abusive, disparaging, or inflammatory, nor create an environment that is unwelcoming.  
+  
+Examples of disrespectful content include:   
+* Insults or harassment
+* Threats or encouragement of harm
+* Trolling or baiting arguments
+* Discrimination
+* Bypassing word or content filters
+* Public accusations towards others
+  
+### Be constructive and avoid off-topic content
+  
+Hubs and discussion threads all have their own purpose & topic. Make sure that contributions are relevant and constructive.  
+  
+Examples of off-topic content include:   
+* Spamming
+* Posting topics in incorrect hubs
+* Re-posting closed, modified or deleted content
+* Derailing a discussion or topic
+* Bumping threads
+  
+### Commercial content is not permitted
+  
+Unless otherwise specified, discussions are not a place for commercial activity.  
+  
+Examples of commercial content include:   
+* Advertisements
+* Referral promotions
+* Recruitment
+* Gambling & raffles
+* Giveaways with entry requirements
+  
+### Don't discuss or engage in unlawful or prohibited activity
+  
+Any posts or activities that violate Steam's legal agreements are not allowed.   
+  
+Examples of prohibited conduct include:   
+* Encouraging or facilitating real-world violence
+* Exploitation of minors
+* Bypassing Steam's Mature Content Preferences
+* Doxing or posting personal information of other users
+* Scamming or deception
+* Encouraging or engaging in piracy or theft
+  
+  
+# User Reviews
+  
+---
+  
+User reviews give players an opportunity to share their experience with the games they've played, while also enabling other players to make confident and informed purchasing decisions.  
+  
+Reviewers should adhere to the following guidelines:  
+* Do not direct abuse or insults at other players, developers, or groups.
+* Do not include threats or encouragement of harm.
+* Do not use reviews for commercial purposes. Examples include: advertisements, referrals, or promotions.
+* Do not artificially influence review scores. Examples include: using multiple accounts to leave reviews; coercing other players to leave reviews; or accepting payments or other compensation to leave reviews.
+* If a copy of the game was received for free, this should be disclosed in the review itself.
+    
+  
+# User-Uploaded Images
+  
+---
+  
+There are many Steam features that support custom image and content uploads for players. Examples include screenshots, player artwork, custom profiles, and workshop items.   
+  
+When uploading images or workshop content, you should adhere to the following guidelines:  
+* Don’t upload inappropriate content. Examples include:   
+* Real or disturbing depictions of violence;
+* Content that exploits children in any way; and
+* Sexually explicit content. This does not forbid game content posted in its own game hub.
+* Don't bypass Steam's Mature Content Preferences
+* Don't upload content that you don't have the rights to
+* Don't upload images of other people without their permission
+* Don't use content to harass, abuse, or otherwise disparage others
+* Don’t advertise commercial content
+* Make sure the content you post matches the space where it is posted. Example: Don’t upload Dota artwork to the Counter-Strike hub.
+  
+  
+# Steam Community Groups
+  
+---
+  
+The Steam Community allows players to create private or public community groups, each with their own discussion hub, announcement system, and group chatroom. The creators and members of these groups are responsible for ensuring that they adhere to all of the guidelines outlined above.   
+  
+Groups that allow violations of these guidelines may be removed and the accounts involved with uploading the content may be restricted.  
+  
+  
+# Frequently Asked Questions
+  
+---
+  
+* [How are these guidelines enforced?](#enforce)
+* [How can content be reported?](#report)
+* [What are Mature Content Preferences?](#mature)
+* [What if content was removed by mistake?](#mistake)
+* [Why do moderators lock and delete discussions?](#why)
+* [What happens when these guidelines are violated?](#violate)
+  
+### How are these guidelines enforced?
+  
+Steam moderators review reported content in conjunction with these guidelines to determine when content should be removed from the community. The examples above give an idea of what type of content is not acceptable, but they are not comprehensive.  
+  
+### How can content be reported?
+  
+We encourage players to report any content that they believe to be in violation of these guidelines.  
+  
+Detailed instructions for how to report each type of content are available in our [Reported Content](https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD) article.  
+  
+### What are Mature Content Preferences?
+  
+Every player on Steam has [account preferences](https://store.steampowered.com/account/preferences/) related to mature content. These preferences determine the types of games and community content that are shown to that player on Steam.   
+  
+### What if my content was removed by mistake?
+  
+We understand the challenge of judging the appropriateness of the content that players upload and we’re not always going to get it right. On top of that, subjectivity and context always come into play when applying guidelines to unique content. Feedback from the community helps ensure that we are applying these rules correctly.  
+  
+If you ever feel that content was mistakenly moderated, you should contact Steam Support. Support can review the content and help you better understand the reasoning or even correct a mistake.  
+  
+Additionally, moderation messages that accompany the content removal will include a direct link to appeal the decision with Steam Support.  
+  
+### Why do moderators lock and delete discussions?
+  
+Respectful arguments are a constructive and beneficial aspect of the Steam Community. When a discussion thread veers off a constructive path or is causing frequent disrespect between players, Steam moderators will lock the thread.  
+  
+If a discussion thread contains prohibited topics, spam, or is otherwise not constructive, moderators may also delete specific content in an effort to preserve the conversation. However, there are cases where removing the thread itself is necessary.  
+  
+### What happens when these guidelines are violated?
+  
+Content removal: Content in violation of these guidelines will be removed from Steam. Generally, you will receive a notification if this occurs, with further information and an option to contact support.  
+  
+Cooldown for specific features: The ability to use community features relevant to the banned content may be temporarily removed from the account. For example, if an avatar is removed, the account will lose the ability to upload a new avatar until the cooldown has expired.   
+  
+Loss of all community features: Accounts that repeatedly violate these guidelines risk temporarily or permanently losing the ability to use all features within the Steam Community.
