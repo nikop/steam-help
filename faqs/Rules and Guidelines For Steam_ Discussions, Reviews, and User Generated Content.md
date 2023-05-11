@@ -1,6 +1,6 @@
 # Rules and Guidelines For Steam: Discussions, Reviews, and User Generated Content
-Updated 2023-05-09 23:26:39  
-Version 7  
+Updated 2023-05-10 23:17:50  
+Version 8  
 
 Steam includes a variety of community features that support custom user-generated content. Whether uploading workshop items, personalizing profiles, reviewing products, or posting in the discussions, custom content greatly improves the experience for players in the Steam Community.  
   
@@ -85,7 +85,7 @@ Reviewers should adhere to the following guidelines:
 * If a copy of the game was received for free, this should be disclosed in the review itself.
     
   
-# User-Uploaded Images
+# User-Uploaded Content
   
 ---
   
