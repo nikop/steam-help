@@ -1,6 +1,6 @@
 # Docking the Steam Deck
-Updated 2023-03-30 21:20:25  
-Version 4  
+Updated 2023-05-18 18:34:57  
+Version 6  
 
 While Steam Deck is great in handheld mode, there may be times where you want to use different input devices, share your screen in a multiplayer game, or even get some work done - that's where docking comes in. Steam Deck works great with a variety of USB-C docks or hubs. Most users will be plugging in a USB-C charger for PD passthrough, as well as peripherals, controllers, and external displays. This article will cover basic operation and troubleshooting steps.   
   
@@ -13,6 +13,18 @@ In general, connections to USB peripherals, displays, and your network should be
 If you're connecting to an external display and it has **a 'Gaming Mode' option** available, we recommend turning that on when connected to your Steam Deck. Also, try turning off any "motion smoothing" or other image processing features because they may add latency or cause other issues.  
   
 ## Troubleshooting
+  
+  
+[h5]Update firmware on the dock[/h5]  
+To ensure your dock has the latest firmware update, please try a full reset:
+* Plug the PSU(power supply) and Deck into the dock
+* Restart the Deck
+* Fully unplug the Deck and PSU from the dock
+* Wait 10 seconds, then plug the PSU and Deck back into the dock
+  
+This should start the firmware update to start.  If this doesn't, then:
+* Connect the Deck and PSU to the dock.
+* Unplug the PSU from the dock and this may help start the update
   
   
 [h5]Compatibility notes for 3rd-party docks and hubs[/h5]  

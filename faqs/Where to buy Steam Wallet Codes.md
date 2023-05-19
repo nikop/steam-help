@@ -1,6 +1,6 @@
 # Where to buy Steam Wallet Codes
-Updated 2023-04-12 21:40:41  
-Version 36  
+Updated 2023-05-18 21:09:59  
+Version 37  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)  
   
@@ -84,7 +84,6 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
  ### Bosnia and Herzegovina 
 * [iNovine terminals](https://inovine.ba/bs/kiosk-lokator)
   ### Bulgaria
-* [EasyPay terminals](https://www.easypay.bg/site/?p=offices_list)
 * [Billa](https://www.billa.bg/magazini)
 * [Pulsar](https://www.pulsar.bg/shops-pulsar-games)
    
