@@ -1,7 +1,7 @@
 Steam Deck - Basic Use & Troubleshooting Guide
 ----------------------------------------------
-Updated 2023-01-11 00:00:06
-Version 6
+Updated 2023-05-22 19:01:30
+Version 7
 
 
 [h3]
@@ -65,7 +65,7 @@ If you've already set up your Steam Deck and would like to connect to a differen
 Your Steam Deck uses built-in storage by default. You can manage your system storage, as well as any other connected storage, from Steam > Settings > Storage.
 [h4]MicroSD cards[/h4]
 MicroSD cards will need to be formatted before they can be used with your Steam Deck. To format a microSD card, insert it into the slot on the bottom surface and go to Steam > Settings > System > Format SD card. It may take a few minutes to complete the process.
-Any UHS-I (class 3 or better) microSD card is supported. Steam Deck does not support UHS-II.
+Any UHS-I (class 3 or better) microSD card is supported. UHS-II and UHS-III cards are expected to work as well, but their higher data transfer speeds are not supported.
 [hr][/hr]
 [h1]Desktop Mode[/h1]
 To access Desktop Mode, go to Steam > Power > Switch to Desktop. You can navigate the desktop by using the right Trackpad to move the mouse, R2 to left-click, and L2 to right-click.
