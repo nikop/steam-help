@@ -1,13 +1,12 @@
 # CS:GO - In-game Items
-Updated 2021-08-12 22:49:00  
-Version 4  
+Updated 2023-06-05 21:06:24  
+Version 5  
 
 Any CS:GO item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [Steam Community Market](https://steamcommunity.com/market/search?appid=730).  
   
 Detailed information on this restriction can be found on the [CS:GO blog](https://blog.counter-strike.net/index.php/2018/03/20308/).  ## Trade Up Contracts
 * [What are Trade Up Contracts?](#whataretuc)
 * [Which weapon skins can be used in Trade Up Contracts?](#whatitemstuc)
-* [The skin I received isn't the weapon wear I'd like. Why is this?](#weaponwear)
   ## Name Tags
 * [What are Name Tags?](#whatarent)
 * [What characters can I use on a Name Tag?](#characters)
@@ -45,8 +44,6 @@ A Trade Up Contract requires all ten weapons to be the same weapon grade (Mil-Sp
 To verify if a weapon can be used in a Trade Up Contract, hover over the weapon in your CS:GO Inventory and look for the Collection it's included in. If the weapon's grade is the highest in its Collection it can *not* be used in a Trade Up Contract.  
   
 **Note:** Covert (red) weapon skins can not be used in Trade Up Contracts.    
-  ## The skin I received isn't the weapon wear I'd like. Why is this?
-Regardless of the weapon wear on the skins you're trading up, the weapon wear on the skin you receive will be randomized, meaning you may receive a Battle-Scarred skin even if you trade up all Factory New skins. This result is always randomized and cannot be controlled by trading up skins with a specific weapon wear.    
   ## What are Name Tags?
 Name Tags in CS:GO are single use in-game items which allow players to nickname their weapons. Name Tags cannot be modified once they've been applied to a weapon.  
   
@@ -75,7 +72,7 @@ No. Once a Sticker has been placed on a weapon it cannot be moved. If you'd like
   
 **Note:** Removing a Sticker from a weapon is permanent and the Sticker will not be returned to your Inventory.    
   ## Stickers on my weapon are not visible when I inspect in-game. Why is this?
-Stickers on your weapon may not be visible because they've been heavily scraped. When Stickers are scraped they lose their vibrance and eventually won't be visible on the weapon when inspecting it. Stickers that have been heavily scraped will only leave an outline of the original sticker.  
+Stickers on your weapon may not be visible because they've been heavily scraped. When Stickers are scraped they lose their vibrance and eventually won't be visible on the weapon when inspecting it. Stickers that have been heavily scraped may leave a faint outline of the original sticker.  
   
 You're free to completely remove the sticker by scraping it further using the in-game UI.    
   ## What is a StatTrak Swap Tool?
@@ -83,7 +80,7 @@ StatTrak Swap Tools are single use items which allow players to transfer kill co
   
 StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [Community Market](https://steamcommunity.com/market/).    
 ## Graffiti information
-Detailed information about CS:GO Graffiti can be found in our [Graffiti Help Article](https://help.steampowered.com/en/faqs/view/24B9-AB5C-4C72-9309).[/section]   
+Detailed information about CS:GO Graffiti can be found in our [Graffiti Help Article](https://help.steampowered.com/en/faqs/view/24B9-AB5C-4C72-9309).  
     
   ## What are Storage Units?
 Storage Units are in-game items used to expand and better organize your CS:GO Inventory. A Storage Unit adds an additional 1,000 item capacity to your CS:GO Inventory.    

@@ -1,7 +1,7 @@
 CS:GO - In-game Items
 ---------------------
-Updated 2021-08-12 22:49:00
-Version 4
+Updated 2023-06-05 21:06:24
+Version 5
 
 
 [section style=warning]Any CS:GO item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [url=https://steamcommunity.com/market/search?appid=730]Steam Community Market[/url].
@@ -13,7 +13,6 @@ Trade Up Contracts
 [list]
 [*][url=#whataretuc]What are Trade Up Contracts?[/url] [/*]
 [*][url=#whatitemstuc]Which weapon skins can be used in Trade Up Contracts?[/url] [/*]
-[*][url=#weaponwear]The skin I received isn't the weapon wear I'd like. Why is this?[/url] [/*]
 [/list]
 [h2]
 Name Tags
@@ -80,12 +79,6 @@ A Trade Up Contract requires all ten weapons to be the same weapon grade (Mil-Sp
 To verify if a weapon can be used in a Trade Up Contract, hover over the weapon in your CS:GO Inventory and look for the Collection it's included in. If the weapon's grade is the highest in its Collection it can [i]not[/i] be used in a Trade Up Contract.
 [b]Note:[/b] Covert (red) weapon skins can not be used in Trade Up Contracts.
 [/section]
-[section id=weaponwear]
-[h2]
-The skin I received isn't the weapon wear I'd like. Why is this?
-[/h2]
-Regardless of the weapon wear on the skins you're trading up, the weapon wear on the skin you receive will be randomized, meaning you may receive a Battle-Scarred skin even if you trade up all Factory New skins. This result is always randomized and cannot be controlled by trading up skins with a specific weapon wear.
-[/section]
 [section id=whatarent]
 [h2]
 What are Name Tags?
@@ -133,7 +126,7 @@ No. Once a Sticker has been placed on a weapon it cannot be moved. If you'd like
 [h2]
 Stickers on my weapon are not visible when I inspect in-game. Why is this?
 [/h2]
-Stickers on your weapon may not be visible because they've been heavily scraped. When Stickers are scraped they lose their vibrance and eventually won't be visible on the weapon when inspecting it. Stickers that have been heavily scraped will only leave an outline of the original sticker.
+Stickers on your weapon may not be visible because they've been heavily scraped. When Stickers are scraped they lose their vibrance and eventually won't be visible on the weapon when inspecting it. Stickers that have been heavily scraped may leave a faint outline of the original sticker.
 You're free to completely remove the sticker by scraping it further using the in-game UI.
 [/section]
 [section id=swaptool]
@@ -143,6 +136,7 @@ What is a StatTrak Swap Tool?
 StatTrak Swap Tools are single use items which allow players to transfer kill counts from one StatTrak weapon skin to another so long as the weapon is the same. Kills from a StatTrak M4A1-S can only be transferred to another StatTrak M4A1-S using a Swap Tool, [i]not[/i] to another weapon.
 StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [url=https://steamcommunity.com/market/]Community Market[/url].
 [/section]
+[section id=graffiti]
 [h2]
 Graffiti information
 [/h2]
