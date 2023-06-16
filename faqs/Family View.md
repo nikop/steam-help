@@ -1,6 +1,6 @@
 # Family View
-Updated 2022-02-20 09:00:38  
-Version 9  
+Updated 2023-06-15 20:21:31  
+Version 10  
 
 Family View is a feature for parents and families to establish their own rules for what components of Steam are accessible.  
   
@@ -21,7 +21,7 @@ If you are currently logged in to the Steam account for which you want to set up
 * Click the **Steam** menu in the top menu bar.
 * Open the Settings option.
 * Go to the "Family" tab on the left side of the window that opens.
-* Click "Manage Family View" to start the Family View wizard.
+* In the "Family View" section click "Manage" to start the Family View wizard.
 * Step through the wizard to select the content and features you’d like to be accessible while in PIN-protected Family View.
 * Set a recovery email address. **Note:** This can be different than the email address associated with the account.
 * Select and confirm your new PIN.
@@ -32,8 +32,8 @@ If you are currently logged in to the Steam account for which you want to set up
 ## To enable Family View on the Steam Website:
   
 * Log into the Steam account your child will use.
-* Click on the **user account name**in the top right corner of the website.
-* click on the menu entry **Account Details**.
+* Click on the **user account name** in the top right corner of the website.
+* Click on the menu entry **Account Details**.
 * Scroll down to the section under the headline "Family Settings".
 * Click "Manage Family View" to start the Family View wizard.
 * Step through the wizard to select the content and features you’d like to be accessible while in PIN-protected Family View.
@@ -52,7 +52,7 @@ In order to add and remove games from this list you first need to disable Family
   
 Then, you can authorize the game with one of two methods:  
 * Find the game in your Library and right-click on the game and click, then Manage > "Add to / Remove from Family Games".
-* Visit the Family tab within Settings and click "Manage Family View" to run through the Family View wizard again. This will provide the option to add or remove games from your Family Games group. Once finished, to return to Family View select the Family View icon and confirm your choice.
+* Visit the Family tab within Settings and In the "Family View" section click "Manage" to run through the Family View wizard again. This will provide the option to add or remove games from your Family Games group. Once finished, to return to Family View select the Family View icon and confirm your choice.
  [url id=changeitup][/url]   
 # Changing Family View options
 To modify your Family View options:  
@@ -61,7 +61,7 @@ To modify your Family View options:
 * Enter your Family View PIN to exit Family View.
 * Open the Steam Settings menu.
 * Go to the "Family" tab on the left side of the window that opens.
-* Click "Manage Family View" to start the Family View wizard again.
+* In the "Family View" section click "Manage" to start the Family View wizard again.
 * Step through the Family View options wizard to select new content and features for Family Mode. You’ll also be asked to select a PIN, which you’re welcome to change or leave the same.
     
     
@@ -70,7 +70,7 @@ To remove Family View from your or your child’s account:
 * Exit Family View.
 * Open the Steam Settings menu.
 * Go to the "Family" tab on the left side of the window that opens.
-* Click "Manage Family View" and select "Disable Family View" in the Family View window. Confirm your selection on the next window. Note: If using Big Picture, uncheck the "Use Family View with this account" box in the first page of the Family View wizard.
+* In the "Family View" section click "Manage" and select "Disable Family View" in the Family View window. Confirm your selection on the next window.
  This will remove all restrictions from the account. If you wish to enable Family View in the future, simply revisit the "Family" tab in Settings and step through the Family View wizard once more. Your selected options will remain the same if you disable and re-enable the feature again in the future.  
   
     

@@ -1,11 +1,11 @@
 # Android Steam Link App
-Updated 2021-08-09 16:05:40  
-Version 10  
+Updated 2023-06-15 20:21:35  
+Version 11  
 
 ![https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png](https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png)    
   
 # Steam Link App for Android
-The Steam Link app on Android extends Steam Link functionality to many Android phones, tablets, and TVs, running Android 5.0 and newer. Just head to the [Play Store](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) to download the free app; android users without access to Google Play can [download the lastest version here](https://media.steampowered.com/steamlink/android/latest/steamlink-android.apk). The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.  
+The Steam Link app on Android extends Steam Link functionality to many Android phones, tablets, and TVs, running Android 5.0 and newer. Just head to the [Google Play](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) to download the free app; android users without access to Google Play can [download the latest version here](https://media.steampowered.com/steamlink/android/latest/steamlink-android.apk). The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.  
   
 ## Required/Recommended Equipment
   
@@ -26,7 +26,7 @@ The Steam Link app on Android extends Steam Link functionality to many Android p
   
 * Turn on your home PC, launch Steam, and log in.
 * Ensure your phone is connected to the same network as your host PC.
-* Download the app from the Play Store and follow the on screen instructions.
+* Download the app from the Google Play and follow the on screen instructions.
   
   
 If you have questions about the app or need help using it, just click the appropriate tab.  

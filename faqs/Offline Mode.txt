@@ -1,18 +1,17 @@
 Offline Mode
 ------------
-Updated 2021-08-09 21:47:16
-Version 4
+Updated 2023-06-15 20:21:51
+Version 5
 
 Offline Mode allows you to play games through Steam without having an active connection to the Steam Network.  This feature is useful when you have limited or no internet access.
 Any Steam client feature that requires a connection will be unavailable while offline.
 [h4]How to setup Offline Mode[/h4]Please follow the instructions below to successfully configure Offline Mode on your PC:
 [olist]
-[*]Start Steam online - make sure the [b]"Remember my password"[/b] box on the login window is checked. [/*]
+[*]Start Steam online - make sure the [b]"Remember me"[/b] box on the login window is checked. [/*]
 [*]Verify that all game files are completely updated. [/*]
 [*]Launch the game(s) you would like to play offline to verify that there are no further update or installation requirements. Shut down the game and return to Steam once you have confirmed that the game can be played. [/*]
-[*]Go to [b]Steam > Settings > Account[/b] to ensure the [b]"Don't save account credentials on this computer"[/b] option is [b]not[/b] selected [/*]
+[*]Go to [b]Steam > Settings > Security[/b] to ensure the [b]"Don't save account credentials on this computer"[/b] option is [b]not[/b] selected [/*]
 [*]From the main Steam window, go to the [b]Steam [/b]menu and select [b]Go Offline...[/b] [/*]
-[*]Click [b]Restart in Offline Mode[/b] to restart Steam in Offline Mode. [/*]
 [/olist]
 [h4]Troubleshooting Offline Mode[/h4]If the Steam client is requiring a login, there is no option to bypass that without going online. It is for this reason that we encourage users to make sure they understand the behaviors that affect offline mode, so that issues can be avoided.
 Also keep in mind that while in Offline Mode, Steam and your games will not receive important updates. It's always a good idea to go online to update the Steam client as well as your games.

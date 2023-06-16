@@ -1,6 +1,6 @@
 # Failed to start game (app already running)
-Updated 2021-07-10 19:49:55  
-Version 2  
+Updated 2023-06-15 20:21:20  
+Version 3  
 
 When attempting to launch a game, Steam displays an error message:  
 *  Failed to start game (app already running)
@@ -34,9 +34,9 @@ Try restarting your computer. Once your computer restarts, perform any troublesh
 ## Opting out of the current Steam beta
 If you are currently participating in the Steam beta, try opting out and testing the issue again.  
 * In Steam, click on "Steam" in the upper left, then choose the "Settings" menu. (Preferences on Mac)
-* On the "Account" tab under "Beta Participation" click the "Change..." button.
-* Select the "NONE - Opt out of all beta programs" from the drop down list and click "OK".
-* You will be prompted to restart Steam, please select the "Restart Steam" button.
+* On the "Interface" tab under "Client Beta Participation" click the dropdown.
+* Select the "No beta chosen" from the drop down list .
+* You will be prompted to restart Steam, please select the "Restart Now" button.
   
 Participants in the Steam beta programs should always test both the beta and normal versions of Steam when troubleshooting an issue.  
   

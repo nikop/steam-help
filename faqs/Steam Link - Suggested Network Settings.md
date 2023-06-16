@@ -1,6 +1,6 @@
 # Steam Link - Suggested Network Settings
-Updated 2021-08-28 00:52:17  
-Version 6  
+Updated 2023-06-15 20:21:37  
+Version 7  
 
 ![https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png](https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png)  
   
@@ -56,7 +56,7 @@ For best performance we recommend using a router that supports the 802.11ac prot
   
 To optimize your network:  
 * Choose the 5 GHz WiFi band over the highly congested 2.4 GHz band. The 5 GHz band has a shorter range, but there is less interference from your neighbors and other wireless devices.
-* Choose a WiFi channel on the Access Point (AP) that isn't congested. One example of a program you can use see this is [NetSurveyor](http://nutsaboutnets.com/netsurveyor-wifi-scanner/). You lose over 50% of your data rate when there is channel interference with your neighbors.
+* Choose a WiFi channel on the Access Point (AP) that isn't congested. One example of a program you can use is [NetSurveyor](http://nutsaboutnets.com/netsurveyor-wifi-scanner/). You lose over 50% of your data rate when there is channel interference with your neighbors.
 * Set the AP to use a 5GHz channel near the top of the band; the top end starts at channel 149.
 * Try to see if you can connect when the AP channel width is set to at 40 MHz, instead of a 20 MHz width for 11n and 11ac. If 40 MHz works, then try 80 MHz that is enabled with an 11ac capable router. Higher channel bandwidths can provide faster speeds but are more sensitive to distance and other sources of RF noise.
  #### Move your equipment for a better signal

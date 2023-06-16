@@ -1,6 +1,6 @@
 # Family Library Sharing
-Updated 2021-08-12 22:07:44  
-Version 8  
+Updated 2023-06-15 20:21:27  
+Version 9  
 
 Family Sharing allows family members to share games while keeping their accounts separate.  
   
@@ -19,21 +19,19 @@ There are two recommended methods for authorizing shared libraries. Both require
   
 [h5]Authorizing another user:[/h5]
 * Log into your Steam account on the computer where you'd like to share your games.
-* Make sure that you have [Steam Guard](https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C) security enabled via Steam > Settings > Account in the Steam Client.
-* From the Steam Settings panel select the Family tab (or in Big Picture mode, Settings > Family Library Sharing). Here you can select users who have also logged into this computer to share your library with.
-* Click the "Authorize Library Sharing on this Computer" box.  
+* Make sure that you have [Steam Guard](https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C) security enabled via Steam > Settings > Security in the Steam Client.
+* From the Steam Settings panel select the Family tab . Here you can select users who have also logged into this computer to share your library with.
+* Click the "Authorize Library Sharing on this device" switch.  
   
-![http://steamcdn-a.akamaihd.net/steam/support/faq/Familysharingupdatepic.jpg](http://steamcdn-a.akamaihd.net/steam/support/faq/Familysharingupdatepic.jpg)
+![{STEAM_CLAN_LOC_IMAGE}/39983882/e590570f5986e5fb34a483e63f165e0600bd0fa7.png]({STEAM_CLAN_LOC_IMAGE}/39983882/e590570f5986e5fb34a483e63f165e0600bd0fa7.png)
 * Check the box next the account you'd like to share your Library with.
  [h5]Requesting access from owner:[/h5]
 * Be sure to enable [Steam Guard](https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C) on your Steam Account.
-* From your Library you'll be able to see games owned by other Steam accounts that use the same computer. Select a game and click "Play" to request access to that respective Library.
+* From your Library you'll be able to see games owned by other Steam accounts that use the same computer. Select a game and click "Borrow" to request access to that respective Library.
 * Requesting access will send the game owner an email with a link to allow you to play games in their Library.
-* The game owner will then need to click the link in the email to authorize your computer and grant your Steam account access to their games.  
-  
-![http://steamcdn-a.akamaihd.net/steam/support/faq/family_sharing_request.jpg](http://steamcdn-a.akamaihd.net/steam/support/faq/family_sharing_request.jpg)
+* The game owner will then need to click the link in the email to authorize your computer and grant your Steam account access to their games.
  [url id=howtomanage][/url] #### Managing which devices and accounts have access to Family Library Sharing
-You can log into the Steam client and visit the "Family" tab in Settings, where you'll find a link "Manage other computers". Here you can deauthorize any computer or account that's been authorized to share your library.  
+You can log into the Steam client and open Settings > "Family" tab and in the  Family Library Sharing section click "Manage". Here you can deauthorize any computer or account that's been authorized to share your library.  
   
 Or, you can [remotely deauthorize computers from the web](https://store.steampowered.com/account/managedevices). Visit your Account Details page, and then select "Manage Family Library Sharing". Using either the client or the web site, you can [view all currently authorized devices](https://store.steampowered.com/account/managedevices) and accounts and use the revoke link to deauthorize any or all of them.  
   

@@ -1,6 +1,6 @@
 # Steam Broadcasting
-Updated 2021-08-10 18:29:02  
-Version 5  
+Updated 2023-06-15 20:21:39  
+Version 6  
 
 Steam Broadcasting allows you to watch your friends play their favorite games. You can also set up Broadcasting to allow others to watch you play.  
   
@@ -81,7 +81,7 @@ The above do not apply for mobile devices. Steam broadcasts are not currently su
 [h5]How do I change the bit rate, video dimensions, microphone, and desktop settings?[/h5]For advanced Broadcast settings:  
 * Go to the upper left in the Steam client and select *Steam* and then *Settings*
 * Select the *Broadcasting* tab on the left  
-![{STEAM_CLAN_IMAGE}/1976/1670e5f1d3da769927d4b03ed757d612e27e934d.png]({STEAM_CLAN_IMAGE}/1976/1670e5f1d3da769927d4b03ed757d612e27e934d.png)
+![{STEAM_CLAN_LOC_IMAGE}/39983882/2dad3c969cf03b01e6ef84a76c18e1fc35225d96.png]({STEAM_CLAN_LOC_IMAGE}/39983882/2dad3c969cf03b01e6ef84a76c18e1fc35225d96.png)
   
   
 [h5]What operating systems can I broadcast from?[/h5]Steam Broadcasting is currently supported through the Steam Client on Windows 7, 8, and 10. Linux and macOS will be supported in the future.  

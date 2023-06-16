@@ -1,6 +1,6 @@
 # Steam Trading
-Updated 2021-08-24 22:41:51  
-Version 6  
+Updated 2023-06-15 20:21:41  
+Version 7  
 
 * #### Trading Basics
 * [How do I trade?](#howtotrade)
@@ -75,7 +75,7 @@ You can control who sees your items with Inventory privacy settings. The options
 Games received as an Extra Copy can be traded to other users. They can be used to trade for other Gifts, or for items in games supporting Steam Trading.  Some older gift purchases on Steam can also be traded.  
   
 ### Does Steam Trading mean I can sell my used games?
-No. Only games that have granted as an extra copy, and thus have never been played, can be traded. Once a Steam Gift is opened and added to your game library, you won’t be able to trade it again.  
+No. Only games that have been granted as an extra copy, and thus have never been played, can be traded. Once a Steam Gift is opened and added to your game library, you won’t be able to trade it again.  
   
 ### How do I add a game to my library after receiving it in a trade?
 Go to the game in your Steam Inventory and click "Add to my Library…" to add it to your library.  

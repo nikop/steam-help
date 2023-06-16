@@ -1,6 +1,6 @@
 # Using the Steam Backup Feature
-Updated 2021-08-10 17:11:35  
-Version 6  
+Updated 2023-06-15 20:21:46  
+Version 7  
 
 How do I use the Steam backup feature to save copies of my game files and restore my game files from backup copies?  
   
@@ -23,22 +23,18 @@ It is recommended that you use the method outlined in [**Moving a Steam Installa
 #### Creating Backup Files
 * Open your Steam Library
 * Right click the game's title and select **Properties...**.
-* From the **Local Files tab** select **Backup game files...**
-* Check the boxes for games to backup at this time
-* Click **Next >**
-* Browse to the folder where you wish to create the backup files (the files will be stored in [exclude_realm=china]**c:\Program Files (x86)\Steam\Backups**[/exclude_realm][exclude_realm=global]**c:\Program Files (x86)\SteamChina\Backups**[/exclude_realm] by default) and click **Next >**
-* Select the **Backup file name** and set the **File size** for the media you plan to use.
-* Click **Next >** to begin the backup process.
-* Once complete, choose **Open backup folder** to move or burn copies of the backup files
+* From the **Installed Files tab** select **Backup game files**
+*  Click **Browse...** to browse to the folder where you wish to create the backup files
+* Click **Create Backup** to begin the backup process.
+* Once complete, choose **Open folder** to move or burn copies of the backup files
     ### Important:
 We recommend testing the backup discs after their creation to ensure the integrity of the files for future reinstallation.  
   
 #### Restoring from Backup Files
 * Install Steam and **log in** to the correct Steam account (see [Installing Steam](https://help.steampowered.com/en/faqs/view/099E-F5D1-8780-4778) for further instructions)
 * Launch Steam
-* Click on "Steam" in the upper left corner of the Steam application
-* Select "Backup and restore games..."
-* Select "Restore a previous backup"
+* Click on **Steam** in the upper left corner of the Steam application
+* Select **Restore Game Backup...**
 * Browse to the location of the game's backup files
 * Continue through the Steam windows to install the necessary games.
     ### Important:

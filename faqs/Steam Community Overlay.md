@@ -1,6 +1,6 @@
 # Steam Community Overlay
-Updated 2021-08-10 19:05:05  
-Version 4  
+Updated 2023-06-15 20:21:17  
+Version 5  
 
 The Steam community overlay is an in-game interface that allows access to many Steam Community features while playing games. The default keybind of Shift+Tab will open the overlay in any game where it is supported and enabled.  
   
@@ -43,9 +43,9 @@ Detailed steps can be found in the troubleshooting sections below.
   
 Steam has a global setting that will enable or disable the Steam overlay:  
   
-Open the Steam client and navigate to the **Steam > Settings/Preferences > In-game** tab. Check the box next to **Enable the Steam Overlay while in-game**.  
+Open the Steam client and navigate to the **Steam > Settings > In-game** tab. Toggle on **Enable the Steam Overlay while in-game**.  
   
-![https://steamcdn-a.akamaihd.net/steam/support/faq/overlay_options.JPG](https://steamcdn-a.akamaihd.net/steam/support/faq/overlay_options.JPG)  
+![{STEAM_CLAN_LOC_IMAGE}/39983882/fd7ee1723d498dc41a94b36b7e75bfbb3b13a2b6.png]({STEAM_CLAN_LOC_IMAGE}/39983882/fd7ee1723d498dc41a94b36b7e75bfbb3b13a2b6.png)  
   
 Additionally, you can turn on/off the Steam Overlay per game.  
 * Find the game in your Library -> **Properties...**
@@ -68,7 +68,7 @@ Restarting the computer flushes all kinds of system states and caches, while res
 ### Verify Local Game Files
 Sometimes files on hard-disks and other storage devices become corrupted. Some of these files may be associated with the way the game utilizes the overlay. Verifying local files can fix this.  
   
-Find Game in Library -> Right click the game or select the gear icon -> Properties... -> Local Files -> Verify Integrity of Game Files...  
+Find Game in Library -> Right click the game or select the gear icon -> Properties... -> Local Files -> Installed Files -> Verify Integrity of Game Files...  
   
 ### Reinstall Steam
 The Steam installer can be downloaded [here](http://store.steampowered.com/about/) and reinstalled to the same location where it is already installed.  
