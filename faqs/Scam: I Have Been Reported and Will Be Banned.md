@@ -1,6 +1,6 @@
 # Scam: I Have Been Reported and Will Be Banned
-Updated 2023-04-28 17:40:58  
-Version 7  
+Updated 2023-07-12 01:38:24  
+Version 8  
 
 **Any claim that you've been accidentally or falsely reported for fraud or any other infraction is a scam. Do not follow any instructions provided by anyone claiming to have accidentally reported your account.**   
   
@@ -29,7 +29,7 @@ If you notice any of the indicators listed above, do not follow any instructions
   
   
 [h5]Reporting any Steam accounts involved in the scam[/h5]  
-[Report](https://help.steampowered.com/faqs/view/4D07-D139-587C-2080) any Steam accounts involved in the scam. If a friend's account is involved they're account is likely stolen. Your report will help Steam identify and lock down the stolen account until its owner recovers it.  
+[Report](https://help.steampowered.com/faqs/view/4D07-D139-587C-2080) any Steam accounts involved in the scam. If a friend's account is involved their account is likely stolen. Your report will help Steam identify and lock down the stolen account until its owner recovers it.  
   
   
 [h5]Reporting any external chat, voice, or email accounts involved in the scam[/h5]  
