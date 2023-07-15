@@ -1,10 +1,11 @@
 # CS:GO - Graffiti
-Updated 2021-08-06 20:55:25  
-Version 4  
+Updated 2023-07-14 21:28:50  
+Version 8  
 
 * [How do I get in-game graffiti?](#howgraffiti)
 * [How many different types of graffiti are there?](#graffititypes)
 * [How many times can I use a graffiti pattern?](#graffitiuses)
+* [My graffiti disappeared from my Inventory. Where did it go?](#graffitigone)
 * [How often can I apply graffiti?](#graffittitime)
 * [How long does my graffiti last?](#graffitilength)
 * [Where can I apply graffiti?](#graffitizone)
@@ -15,14 +16,19 @@ Version 4
   
   ## How do I get in-game graffiti?
 There are three ways players can get in-game graffiti:  
-*  Players have a chance to receive graffiti as a free weekly drop for ranking up.
+*  Players with Prime Status receive one graffiti per week as a free weekly drop for ranking up.
 *  Graffiti Boxes featuring art created by Steam Community Artists can be purchased. A portion of the proceeds from sales of Community Graffiti Boxes is shared among the community artists.
-*  Individual graffiti patterns can be purchased from the Steam Community Market.
+*  Individual graffiti patterns can be purchased from the [Steam Community Market](https://steamcommunity.com/market/search?category_730_ItemSet%5B%5D=any&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730&q=graffiti).
     
   ## How many different types of graffiti are there?
 There are two different types of graffiti patterns; monochrome and multi-colored. Monochrome (one color) patterns are received as rank up drops and multi-colored patterns are received when purchasing a graffiti box. Both types of graffiti can be traded and sold on the Steam Community Market.    
   ## How many times can I use a graffiti pattern?
 When a player unseals graffiti they can apply that pattern 50 times. Players who unseal a graffiti pattern they already have in their Inventory will receive 50 additional charges to their existing supply.    
+  ## My graffiti disappeared from my Inventory. Where did it go?
+There are two reasons graffiti may disappear from your Inventory:   
+* All of the graffiti's charges were used.
+* The graffiti was deleted from your Inventory.
+Consumed and/or deleted graffiti cannot be restored. If you would like more charges you may purchase them through the [Steam Community Market](https://steamcommunity.com/market/search?category_730_ItemSet%5B%5D=any&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730&q=graffiti).  
   ## How often can I apply graffiti?
 Players can apply graffiti once per round, or every 45 seconds, whichever is shorter. Getting a kill in a round-based game mode will allow the player to apply more graffiti.    
   ## How long does my graffiti last?
