@@ -1,11 +1,13 @@
 Steam Client Beta
 -----------------
-Updated 2023-06-27 20:02:28
-Version 5
+Updated 2023-07-17 17:07:26
+Version 6
 
 Opting in to the Steam Client Beta lets you use the latest features before they're released.
 [img]{STEAM_CLAN_LOC_IMAGE}/39983882/de10d93b66626726f4639480b5051e65ecdd1790.png[/img]
+[h3]
 How do I participate in the Steam Client beta?
+[/h3]
 Please follow the instructions below to participate in the Steam client beta:
 [olist]
 [*]With Steam running, click on "Steam" in the upper left, then choose the "Settings" menu. (Preferences on Mac) [/*]
