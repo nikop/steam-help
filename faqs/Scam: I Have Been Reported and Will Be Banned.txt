@@ -1,7 +1,7 @@
 Scam: I Have Been Reported and Will Be Banned
 ---------------------------------------------
-Updated 2023-07-12 01:38:24
-Version 8
+Updated 2023-07-19 18:24:39
+Version 9
 
 
 [section style=warning][b]Any claim that you've been accidentally or falsely reported for fraud or any other infraction is a scam. Do not follow any instructions provided by anyone claiming to have accidentally reported your account. [/b]
@@ -15,7 +15,7 @@ This scam can be quickly identified if [b]any[/b] of the following are present:
 [*]A friend or unknown person contacts you through Steam, Discord or any other chat client and tells you that your account has been falsely or accidentally reported
 [*]You are directed to speak with someone through online chat to resolve an investigation or pending ban
 [*]Someone you're speaking to requests your account credentials, or directs you to perform specific security related operations
-[*]Someone you're speaking with requests an authentication code sent by Steam over SMS or through the mobile app
+[*]Someone you're speaking with requests an authentication code sent by Steam over email, SMS or through the mobile app
 [*]Someone you're chatting with indicates they represent Steam Support or Valve
 [*]Anyone is demanding that you complete a purchase or send them a Steam Gift card code to verify your ownership of the account
 [/list]
