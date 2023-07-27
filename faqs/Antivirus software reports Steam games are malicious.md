@@ -1,22 +1,25 @@
 # Antivirus software reports Steam games are malicious
-Updated 2021-08-04 22:54:27  
-Version 7  
+Updated 2023-07-26 22:34:34  
+Version 8  
 
-My antivirus or firewall software reports my new Steam purchases contain a trojan or potentially dangerous program - what is happening?  
+Steam or a game is being flagged by my anti-virus software as malware.  
   
   ### Important:
-We encourage protecting your PC from viruses, spyware and other forms of malicious software. However, it is not necessary to run antivirus and other security applications while you are engaged in playing a game on Steam.  
+Virus and malware protection should be taken very seriously. False positive detections are extremely common, but players should still take precaution any time your trusted anti-virus provider detects a problem.  
   
-Antivirus applications can interfere with Steam and can cause a range of problems from connection issues to games not launching correctly or crashing. Please set your antivirus to Game Mode or create exclusions for game files or processes before launching Steam if you are experiencing issues with your Steam games.  
+Many anti-virus software providers have a 'Game Mode' or allow players to create exclusions for game files or processes when experiencing confirmed false positives or interference.  
   
-The Steam application or Steam game has been mistakenly identified as a virus or "trojan" by certain software as a result of the development of potentially-malicious programs which use the same filenames as valid Steam files (this is a very common practice amongst malicious software writers - many viruses already masquerade as valid operating system files).  
+If you are not confident it is a false positive, the first thing you'll want to do is report the app in question by navigating to the storepage and selecting the blue flag on the right-side of the storepage.   
   
-We are continually working with the antivirus and firewall software vendors to ensure fewer false positives involving Steam appear in the future.  
+[![{STEAM_CLAN_IMAGE}/39983882/bd8503dfeae63204dc3ddd5b26442c5b3a6e2075.png]({STEAM_CLAN_IMAGE}/39983882/bd8503dfeae63204dc3ddd5b26442c5b3a6e2075.png)]({STEAM_CLAN_IMAGE}/39983882/04847e07081641b2585bafbbaf79deb14b6b63fd.png)  
   
-Some general issues that antivirus software can cause:  
-* Deleting or quarantining game installation files. This can prevent the game from launching, cause game crashes, or other major in-game issues.
-* Preventing a game or Steam's process from launching, or stopping it shortly after it has launched.
-* Preventing network communication from a game's or Steam's process. This can result in game or Steam crashes, or game or Steam features that rely on network communication to not work.
+Please provide details about what happened, including the anti-virus software that flagged the malware and what type of malware was flagged. Steam uses these reports to identify when content should be reviewed.  
+  
+Next, we encourage you to contact your anti-virus provider for more information and instructions on how to protect your computer while avoiding false positive detections.  
+  
+If you are sure that the file is not malware, you can create an exception in your anti-virus software to successfully install and launch the product.  
+  
+You can also reach out to Steam Support for more information and to follow up on your report.  
   
 If you had to create exclusions for files that your antivirus software was deleting or corrupting, you can restore deleted or corrupted game installation files by following the instructions to [Verify Integrity of Game Files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) for the game.  
   
