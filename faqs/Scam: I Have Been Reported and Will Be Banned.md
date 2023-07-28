@@ -1,12 +1,12 @@
 # Scam: I Have Been Reported and Will Be Banned
-Updated 2023-07-19 18:24:39  
-Version 9  
+Updated 2023-07-27 20:17:18  
+Version 10  
 
 **Any claim that you've been accidentally or falsely reported for fraud or any other infraction is a scam. Do not follow any instructions provided by anyone claiming to have accidentally reported your account.**   
   
 If someone did report your account falsely and you're concerned about being banned, you can rest assured that Steam disregards false reports.   
   
-Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](help.steampowered.com). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
+Valve employees will *never* communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [Steam Support Help Site](https://help.steampowered.com/en/). There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.  
   
 Information about other scams that may target Steam accounts can be found in the [Scam FAQ](https://help.steampowered.com/faqs/view/70E6-991B-233B-A37B).    
   
