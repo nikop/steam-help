@@ -1,6 +1,6 @@
 # Steam-Issued Activation Keys
-Updated 2021-08-05 19:37:53  
-Version 5  
+Updated 2023-07-31 21:52:48  
+Version 6  
 
 Some Steam games may provide you with an additional activation key once they have been downloaded on a Steam account. These keys appear in the Steam library when you right-click the game and select 'Manage' -> 'CD keys'. These keys are used to register your product outside of Steam, with a third party client or service.  
   
@@ -12,7 +12,7 @@ Make sure that the game has been successfully downloaded and installed through t
   
 If the key is still not generating, please [verify integrity of game files](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) and restart the Steam client.  
   
-#### Why am I receiving a Failed to Contact Key Server error
+#### Why am I receiving a Failed to Contact Key Server error?
   
 For information on this error please see the [Failed to Contact Key Server](https://help.steampowered.com/en/faqs/view/19CE-F573-6077-CAF8) page.  
   
