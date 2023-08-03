@@ -1,10 +1,10 @@
 Assistance with a Valve Store Order
 -----------------------------------
-Updated 2022-10-13 21:29:15
-Version 5
+Updated 2023-08-02 15:42:19
+Version 6
 
-How can I get information on or assistance with something I ordered from the Valve store?
-All Valve Store orders are currently processed by [i]For Fans By Fans[/i]. For more information or support with a Valve Store order, please contact ForFansByFans directly via one of the methods listed on this page: [url=https://valvestore.forfansbyfans.com/contact-us]https://valvestore.forfansbyfans.com/contact-us[/url].
+How can I get information on or assistance with something I ordered from the Valve physical merchandise store?
+The Valve merchandise store, operated by [i]For Fans By Fans[/i] is now closed. If you need help with an existing order, they can be reached at [noparse]valvestoresupport@forfansbyfans.com[/noparse].
 Please also include the following information with your message:
 [list]
 [*]Your Valve Store Sales Order number [/*]
