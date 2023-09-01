@@ -1,7 +1,7 @@
 SteamID, Steam Account Names, Merging Accounts and Deleting Accounts
 --------------------------------------------------------------------
-Updated 2021-08-10 20:53:34
-Version 4
+Updated 2023-08-31 19:00:14
+Version 6
 
 
 [h2]
@@ -32,3 +32,4 @@ Can I delete my Steam account?
 [/h2]
 If you are sure that you don't want to use Steam anymore, you can submit a [url=https://help.steampowered.com/en/wizard/HelpDeleteAccount]request to delete your account[/url]. You will be asked to provide comprehensive [url=https://help.steampowered.com/en/faqs/view/40A0-8B4B-B54B-C51A]Proof of Ownership[/url] prior to fulfilling the request.
 More details can be found in the [url=https://help.steampowered.com/en/faqs/view/21A6-7C93-6CFE-100B]Account Deletion - Common Questions[/url] article.
+If have further questions about these topics, please contact [url=https://help.steampowered.com/en/wizard/HelpAccountDataQuestion]Steam Support[/url].
