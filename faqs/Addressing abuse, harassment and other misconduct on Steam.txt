@@ -1,7 +1,7 @@
 Addressing abuse, harassment and other misconduct on Steam
 ----------------------------------------------------------
-Updated 2022-02-11 21:10:21
-Version 8
+Updated 2023-09-27 23:05:44
+Version 9
 
 Several options are available to address abusive or inappropriate behaviors encountered while using Steam. There are also practices to keep in mind that can help you avoid these types of behaviors altogether.
 If you are ever experiencing abuse outside of Steam, or if you ever feel that your safety is being threatened, we strongly encourage contacting local emergency or law enforcement services in your area.
@@ -78,6 +78,12 @@ Keep Your Personal Info Safe
 [/h3]
 Malicious activity often relies on access to your personal information. Never post personally identifiable information on Steam, even in private chats or other areas that you might think are safe. Someone else can always decide to make this content public.
 You should also review your Steam [url=https://steamcommunity.com/my/edit/settings]privacy options[/url] and be aware of what components of your profile are public.
+[*]
+[h3]
+Be Cautious With Strangers
+[/h3]
+Steam prevents accounts from communicating directly with other accounts they are not friends with. We strongly encourage players to not accept unsolicited chat messages or friend requests. If you do accept these requests, be cautious of malicious behaviors such as account theft, scams, commercial offers, or harassment.
+If these types of behaviors are encountered, be sure to use the block and report options outlined above.
 [*]
 [h3]
 Protect Your Account
