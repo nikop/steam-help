@@ -1,7 +1,7 @@
 Counter-Strike 2 Release
 ------------------------
-Updated 2023-09-27 22:09:06
-Version 11
+Updated 2023-09-28 16:30:44
+Version 12
 
 
 [list]
@@ -13,8 +13,9 @@ Version 11
 [*][url=#premier]What are the requirements to play Premier Mode?[/url] [/*]
 [*][url=#banned]Do bans in CS:GO carry over over to Counter-Strike 2?[/url] [/*]
 [*][url=#sysreq]What are the system requirements to play Counter-Strike 2?[/url] [/*]
-[*][url=#sysreq]Where did my CS:GO achievements go?[/url] [/*]
-[*][url=#sysreq]Is Counter-Strike 2 available on Mac?[/url] [/*]
+[*][url=#achievements]Where did my CS:GO achievements go?[/url] [/*]
+[*][url=#macos]Is Counter-Strike 2 available on Mac?[/url] [/*]
+[*][url=#stats]Is 360 Stats available in Counter-Strike 2?[/url] [/*]
 [/list]
 [section id=modes]
 [h3]
@@ -64,15 +65,21 @@ What are the system requirements to play Counter-Strike 2?
 [/h3]
 System requirements can be found on the [url=https://store.steampowered.com/app/730/CounterStrike_2/]Counter-Strike 2 store page[/url].
 [/section]
-[section id=sysreq]
+[section id=achievements]
 [h3]
 Where did my CS:GO achievements go?
 [/h3]
 CS:GO achievements have been wiped and are no longer available.
 [/section]
-[section id=sysreq]
+[section id=macos]
 [h3]
 Is Counter-Strike 2 available on Mac?
 [/h3]
 No. At this time CS2 is not available on Mac.
+[/section]
+[section id=stats]
+[h3]
+Is 360 Stats available in Counter-Strike 2?
+[/h3]
+No. At release, all existing 360 Stats subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed.
 [/section]

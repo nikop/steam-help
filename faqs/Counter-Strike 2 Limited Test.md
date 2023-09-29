@@ -1,6 +1,6 @@
 # Counter-Strike 2 Release
-Updated 2023-09-27 22:09:06  
-Version 11  
+Updated 2023-09-28 16:30:44  
+Version 12  
 
 * [What game modes are available in Counter-Strike 2 at launch?](#modes)
 * [Can I use my CS:GO inventory items in Counter-Strike 2](#inventory)
@@ -10,8 +10,9 @@ Version 11
 * [What are the requirements to play Premier Mode?](#premier)
 * [Do bans in CS:GO carry over over to Counter-Strike 2?](#banned)
 * [What are the system requirements to play Counter-Strike 2?](#sysreq)
-* [Where did my CS:GO achievements go?](#sysreq)
-* [Is Counter-Strike 2 available on Mac?](#sysreq)
+* [Where did my CS:GO achievements go?](#achievements)
+* [Is Counter-Strike 2 available on Mac?](#macos)
+* [Is 360 Stats available in Counter-Strike 2?](#stats)
   
   ### What game modes are available in Counter-Strike 2 at launch?
 Deathmatch, Casual, Wingman, Competitive, and Premier Mode are available in Counter-Strike 2 at launch.  
@@ -32,4 +33,6 @@ System requirements can be found on the [Counter-Strike 2 store page](https://st
   ### Where did my CS:GO achievements go?
 CS:GO achievements have been wiped and are no longer available.  
   ### Is Counter-Strike 2 available on Mac?
-No. At this time CS2 is not available on Mac.
+No. At this time CS2 is not available on Mac.  
+  ### Is 360 Stats available in Counter-Strike 2?
+No. At release, all existing 360 Stats subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed.
