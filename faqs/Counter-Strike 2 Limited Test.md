@@ -1,6 +1,6 @@
 # Counter-Strike 2 Release
-Updated 2023-09-28 16:30:44  
-Version 12  
+Updated 2023-09-29 17:28:09  
+Version 14  
 
 * [What game modes are available in Counter-Strike 2 at launch?](#modes)
 * [Can I use my CS:GO inventory items in Counter-Strike 2](#inventory)
@@ -13,6 +13,7 @@ Version 12
 * [Where did my CS:GO achievements go?](#achievements)
 * [Is Counter-Strike 2 available on Mac?](#macos)
 * [Is 360 Stats available in Counter-Strike 2?](#stats)
+* [I did not recive the CS:GO music kit and Badge. Can these be added?](#kitmedal)
   
   ### What game modes are available in Counter-Strike 2 at launch?
 Deathmatch, Casual, Wingman, Competitive, and Premier Mode are available in Counter-Strike 2 at launch.  
@@ -35,4 +36,6 @@ CS:GO achievements have been wiped and are no longer available.
   ### Is Counter-Strike 2 available on Mac?
 No. At this time CS2 is not available on Mac.  
   ### Is 360 Stats available in Counter-Strike 2?
-No. At release, all existing 360 Stats subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed.
+No. Because CS:GO 360 Stats is no longer available all existing subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed going forward.  
+  ### I did not recive the CS:GO music kit and Badge. Can these be added?
+No. The CS:GO music kit and Badge were granted automatically to accounts which qualified. If your account did not receive the items this means it did not qualify. These items cannot be added by Steam Support.
