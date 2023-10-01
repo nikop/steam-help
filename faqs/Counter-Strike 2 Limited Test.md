@@ -1,6 +1,6 @@
 # Counter-Strike 2 Release
-Updated 2023-09-29 17:28:09  
-Version 14  
+Updated 2023-09-30 20:23:49  
+Version 16  
 
 * [What game modes are available in Counter-Strike 2 at launch?](#modes)
 * [Can I use my CS:GO inventory items in Counter-Strike 2](#inventory)
@@ -14,6 +14,7 @@ Version 14
 * [Is Counter-Strike 2 available on Mac?](#macos)
 * [Is 360 Stats available in Counter-Strike 2?](#stats)
 * [I did not recive the CS:GO music kit and Badge. Can these be added?](#kitmedal)
+* [I have feedback or requests regarding Counter-Strike 2. Where should I send these?](#feedback)
   
   ### What game modes are available in Counter-Strike 2 at launch?
 Deathmatch, Casual, Wingman, Competitive, and Premier Mode are available in Counter-Strike 2 at launch.  
@@ -38,4 +39,6 @@ No. At this time CS2 is not available on Mac.
   ### Is 360 Stats available in Counter-Strike 2?
 No. Because CS:GO 360 Stats is no longer available all existing subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed going forward.  
   ### I did not recive the CS:GO music kit and Badge. Can these be added?
-No. The CS:GO music kit and Badge were granted automatically to accounts which qualified. If your account did not receive the items this means it did not qualify. These items cannot be added by Steam Support.
+No. The CS:GO music kit and Badge were granted automatically to accounts which qualified. If your account did not receive the items this means it did not qualify. These items cannot be added by Steam Support.  
+  ### I have feedback or requests regarding Counter-Strike 2. Where should I send these?
+If you have feedback of any kind regarding Counter-Strike 2, whether it's an idea, a feature request, or something that was in CS:GO that is not in CS2, please send an email to the Counter-Strike team using the email address: cs2team at valvesoftware dot com.
