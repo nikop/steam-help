@@ -305,6 +305,7 @@
     "726E-E811-168F-0D9E",
     "7289-6080-C6E3-AE81",
     "7336-6EBC-1923-EE1B",
+    "73EF-08A3-0935-6369",
     "73F2-8EEA-1113-69B2",
     "74A2-3CA8-FBB5-A464",
     "7580-7BDB-1C9A-AC67",
@@ -1740,8 +1741,8 @@
     "6832784780995857432": {
       "Slug": "5ED2-ED8E-81F4-0C18",
       "FileName": "Counter-Strike 2 Limited Test",
-      "LastUpdated": "2023-09-30T20:23:49+00:00",
-      "Version": 16
+      "LastUpdated": "2023-10-10T00:51:35+00:00",
+      "Version": 17
     },
     "6862663911468549363": {
       "Slug": "5F3D-1477-AFF9-C4F3",
@@ -2144,6 +2145,12 @@
       "FileName": "CS_GO - X-Ray Scanner",
       "LastUpdated": "2021-07-10T19:49:55+00:00",
       "Version": 2
+    },
+    "8353905330122744681": {
+      "Slug": "73EF-08A3-0935-6369",
+      "FileName": "Legacy CS:GO Version",
+      "LastUpdated": "2023-10-10T00:49:37+00:00",
+      "Version": 1
     },
     "8354897394685667762": {
       "Slug": "73F2-8EEA-1113-69B2",

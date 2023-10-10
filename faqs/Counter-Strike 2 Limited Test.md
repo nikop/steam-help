@@ -1,6 +1,6 @@
 # Counter-Strike 2 Release
-Updated 2023-09-30 20:23:49  
-Version 16  
+Updated 2023-10-10 00:51:35  
+Version 17  
 
 * [What game modes are available in Counter-Strike 2 at launch?](#modes)
 * [Can I use my CS:GO inventory items in Counter-Strike 2](#inventory)
@@ -35,7 +35,7 @@ System requirements can be found on the [Counter-Strike 2 store page](https://st
   ### Where did my CS:GO achievements go?
 CS:GO achievements have been wiped and are no longer available.  
   ### Is Counter-Strike 2 available on Mac?
-No. At this time CS2 is not available on Mac.  
+Information on Counter-Strike 2 on Mac can be found [here](https://steamcommunity.com/faqs/steam-help/view/73EF-08A3-0935-6369).  
   ### Is 360 Stats available in Counter-Strike 2?
 No. Because CS:GO 360 Stats is no longer available all existing subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed going forward.  
   ### I did not recive the CS:GO music kit and Badge. Can these be added?
