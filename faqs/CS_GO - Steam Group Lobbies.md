@@ -1,6 +1,6 @@
 # CS:GO - Steam Group Lobbies
-Updated 2021-07-10 19:49:55  
-Version 3  
+Updated 2023-10-20 20:53:47  
+Version 4  
 
 * [What is a Steam Group Lobby?](#whatlobby)
 * [How do I create a Steam Group Lobby?](#createlobby)
@@ -28,6 +28,6 @@ Yes. To prevent members of a Steam Group from joining your lobby, click 'Change 
 If members of certain Steam Groups have not created a group lobby there may not be any lobbies available to join. You can try again later, or create a lobby for other group members to join.    
   ### Where can I find groups to join?
 You can find Steam Groups to join through both the Steam client and a web browser.  
-While logged in, click on your persona (next to 'COMMUNITY') and select 'GROUPS'. From here you can browse existing Steam Groups, create a new group, and change your primary group.   
+While logged in, hover over your persona (next to 'COMMUNITY') and select 'GROUPS' from the drop down menu that appears. From here you can browse existing Steam Groups, create a new group, and change your primary group.   
   
 There are thousands of Steam Groups representing a wide variety of communities, countries, languages, and common interests.
